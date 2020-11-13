@@ -1,0 +1,20 @@
+28
+3
+3
+6
+5
+7
+10
+5
+28
+5
+7
+6
+8
+9
+11
+----
+141
+
+ 1.Kc3! Ka3 2.Kc4 Ka4 3.g4 b5+ 4.Kd3! {Here's the zigzag! The king returns to c2, while avoiding the pawn check. Compare it with Reti's idea}
+Ka3 5.g5 b4 6.g6 b3 7.g7 b2 8.Kc2! {drawing the king into check} Ka2 9.g8=Q+ 1-0
