@@ -1,0 +1,443 @@
+[Event "Team Front_foot-2"]
+[Site "?"]
+[Date "3.??.??"]
+[Round "?"]
+[White "Manish, Samsung"]
+[Black "Manish, Keane"]
+[Result "*"]
+[PlyCount "60"]
+[EventDate "3.??.??"]
+
+1. f4 d6 2. e4 g6 3. Nf3 Bg7 4. Nc3 Nf6 5. d4 O-O 6. Be2 c5 7. dxc5 Qa5 8. cxd6
+Nxe4 9. dxe7 Re8 10. Bd2 Nxc3 11. bxc3 Rxe7 12. c4 Qc5 13. Rb1 Nc6 14. Rb5 Qxc4
+15. Rb3 Bf5 16. Ne5 Qxc2 17. O-O Nxe5 18. fxe5 Qc5+ 19. Kh1 Qxe5 20. Re3 Qd6
+21. Rxe7 Qxe7 22. Bf3 Rd8 23. Rf2 Bh6 24. Qe1 Qxe1+ 25. Bxe1 Re8 26. Rf1 Bd3
+27. Kg1 Be3+ 28. Bf2 Bxf1 29. Kxf1 Bxf2 30. Kxf2 b6 *
+
+  Qc5xe5  
+20. Rb3-e3  Qe5-d6  
+21. Re3xe7  Qd6xe7  
+22. Be2-f3  Ra8-d8  
+23. Rf1-f2  Bg7-h6  
+24. Qd1-e1  Qe7xe1+ 
+25. Bd2xe1  Rd8-e8  
+26. Rf2-f1  Bf5-d3  
+27. Kh1-g1  Bh6-e3+ 
+28. Be1-f2  Bd3xf1  
+29. Kg1xf1  Be3xf2  
+30. Kf1xf2  b7-b6   
+
+
+[Event "Slow Chess Game"]
+[Date "3/4/2012"]
+[Time "07:32:08"]
+[TimeControl "300+5"]
+[Current Ply "40"]
+[White "SlowChess Blitz WV"]
+[Black "Human"]
+[Result "*"]
+
+1. e2-e4   d7-d6   
+2. d2-d4   g7-g6   
+3. Nb1-c3  Ng8-f6  
+4. Bf1-c4  Bf8-g7  
+5. Qd1-e2  Nb8-c6  
+6. e4-e5   Nf6-d7  
+7. Ng1-f3  Nd7-b6  
+8. Bc4-b3  O-O     
+9. h2-h3   Nc6-a5  
+10. O-O     Na5xb3  
+11. a2xb3   h7-h6   
+12. Nc3-e4  f7-f6   
+13. c2-c4   f6xe5   
+14. d4xe5   Nb6-d7  
+15. Bc1-d2  Kg8-h7  
+16. e5-e6   Nd7-f6  
+17. Ne4xf6+ Rf8xf6  
+18. Nf3-d4  c7-c5   
+19. Nd4-f3  Rf6xe6  
+20. Bd2-e3  
+
+[Event "Slow Chess Game"]
+[Date "3/4/2012"]
+[Time "07:50:28"]
+[TimeControl "300+5"]
+[Current Ply "38"]
+[White "SlowChess Blitz WV"]
+[Black "Human"]
+[Result "*"]
+
+1. e2-e4   d7-d6   
+2. d2-d4   g7-g6   
+3. Nb1-c3  Ng8-f6  
+4. Bf1-c4  Bf8-g7  
+5. Ng1-f3  Nb8-c6  
+6. Qd1-e2  Bc8-g4  
+7. Bc1-e3  e7-e5   
+8. d4xe5   Nc6xe5  
+9. Bc4-b3  O-O     
+10. O-O-O   Bg4-h5  
+11. h2-h3   Ne5xf3  
+12. g2xf3   Nf6-d7  
+13. Rh1-g1  Nd7-e5  
+14. Rg1-g3  Bg7-f6  
+15. Be3-h6  Bf6-h4  
+16. Bh6xf8  Bh4xg3  
+17. Qe2-e3  Qd8xf8  
+18. f2xg3   Bh5xf3  
+19. Rd1-e1  c7-c6   
+20. Kc1-b1  Qf8-e7  
+21. a2-a3   b7-b6   
+22. g3-g4   Ra8-e8  
+23. Re1-f1  Bf3-g2  
+24. Rf1-f2  Bg2-f3  
+25. Rf2xf3  Ne5xf3  
+26. Qe3xf3  b6-b5   
+27. h3-h4   Kg8-g7  
+28. h4-h5   a7-a5   
+29. h5-h6+  Kg7-g8  
+30. Nc3-e2  b5-b4   
+31. Ne2-d4  c6-c5   
+32. Nd4-c6  Qe7-f8  
+33. Nc6xa5  b4xa3   
+34. b2xa3   Re8-e7  
+35. Na5-c4  Qf8xh6  
+36. Nc4xd6  Qh6-g7  
+37. Qf3-f2  Re7-d7  
+38. Qf2xc5  Qg7-f6  
+39. e4-e5   Qf6-e7  
+40. Bb3xf7+ 
+
+[Event "Slow Chess Game"]
+[Date "3/4/2012"]
+[Time "07:56:49"]
+[TimeControl "300+5"]
+[Current Ply "38"]
+[White "SlowChess Blitz WV"]
+[Black "Human"]
+[Result "*"]
+
+1. e2-e4   d7-d6   
+2. d2-d4   g7-g6   
+3. Nb1-c3  Ng8-f6  
+4. Bf1-c4  Bf8-g7  
+5. Ng1-f3  Nb8-c6  
+6. Qd1-e2  Bc8-g4  
+7. Bc1-e3  e7-e5   
+8. d4xe5   Nc6xe5  
+9. Bc4-b3  O-O     
+10. O-O-O   Bg4-h5  
+11. h2-h3   Ne5xf3  
+12. g2xf3   Nf6-d7  
+13. Rh1-g1  Nd7-e5  
+14. Rg1-g3  Bg7-f6  
+15. Be3-h6  Bf6-h4  
+16. Bh6xf8  Bh4xg3  
+17. Qe2-e3  Qd8xf8  
+18. f2xg3   Bh5xf3  
+19. Rd1-e1  c7-c6   
+20. Kc1-b1  Qf8-e7  
+21. a2-a3   b7-b6   
+22. g3-g4   Ra8-e8  
+23. Re1-f1  Bf3-g2  
+24. Rf1-f2  Bg2-f3  
+25. Rf2xf3  Ne5xf3  
+26. Qe3xf3  b6-b5   
+27. h3-h4   Kg8-g7  
+28. h4-h5   a7-a5   
+29. h5-h6+  Kg7-g8  
+30. Nc3-e2  b5-b4   
+31. Ne2-d4  c6-c5   
+32. Nd4-c6  Qe7-f8  
+33. Nc6xa5  b4xa3   
+34. b2xa3   Re8-e7  
+35. Na5-c4  Qf8xh6  
+36. Nc4xd6  Qh6-g7  
+37. Qf3-f2  Re7-d7  
+38. Qf2xc5  Qg7-f6  
+39. e4-e5   Qf6-e7  
+40. Bb3xf7+ 
+
+[Event "Indv Front_Foot-2 R7 B6"]
+[Site "?"]
+[Date "3.??.??"]
+[Round "?"]
+[White "Manish, Keane"]
+[Black "joy, Siemense"]
+[Result "*"]
+[PlyCount "46"]
+[EventDate "3.??.??"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nf6 4. O-O h6 5. c4 g5 6. cxd5 Nxd5 7. Ne5 Be6 8.
+Qb3 Nb6 9. Qc3 Nd5 10. Bxd5 Bxd5 11. Nxf7 Bxf7 12. Qxh8 Nc6 13. Qc3 Qd6 14. d3
+Ne5 15. Nd2 O-O-O 16. Ne4 Qd5 17. Be3 Bg7 18. Qc5 b6 19. Qxd5 Bxd5 20. Rac1
+Bxa2 21. Ra1 Bd5 22. Rxa7 c5 23. Nc3 Be6 *
+
+d2  O-O-O   
+16. Nd2-e4  Qd6-d5  
+17. Bc1-e3  Bf8-g7  
+18. Qc3-c5  b7-b6   
+19. Qc5xd5  Bf7xd5  
+20. Ra1-c1  Bd5xa2  
+21. Rc1-a1  Ba2-d5  
+22. Ra1xa7  c7-c5   
+23. Ne4-c3  Bd5-e6  
+
+
+[Event "Indv Front_Foot-2 R2 B8"]
+[Site "?"]
+[Date "3.??.??"]
+[Round "?"]
+[White "Yashwant, Keane"]
+[Black "Manish, Keane"]
+[Result "*"]
+[PlyCount "22"]
+[EventDate "3.??.??"]
+
+1. e4 d6 2. d4 g6 3. Bd3 Bg7 4. Be3 Nf6 5. c3 O-O 6. Qd2 c5 7. Bh6 cxd4 8. cxd4
+Bxh6 9. Qxh6 Qb6 10. Nf3 Qxb2 11. O-O Qxa1 *
+
+ Bg7xh6  
+9. Qd2xh6  Qd8-b6  
+10. Ng1-f3  Qb6xb2  
+11. O-O     Qb2xa1  
+
+
+[Event "Indv Front_Foot-2 R5 B6"]
+[Site "?"]
+[Date "3.??.??"]
+[Round "?"]
+[White "Harish, Thompson"]
+[Black "Manish, Keane"]
+[Result "*"]
+[PlyCount "55"]
+[EventDate "3.??.??"]
+
+1. e4 d6 2. d4 g6 3. c3 Bg7 4. Bd3 Nf6 5. Bg5 O-O 6. Nf3 Bg4 7. h3 Bxf3 8. Qxf3
+h6 9. Bh4 Nc6 10. O-O g5 11. Bg3 e5 12. d5 Ne7 13. Nd2 Ng6 14. Rfe1 Qd7 15. Nf1
+Kh7 16. Ne3 Ng8 17. Rad1 N8e7 18. b4 a6 19. c4 Qa4 20. Qe2 Nf4 21. Bxf4 gxf4
+22. Nf5 Nxf5 23. exf5 Bf6 24. Rb1 b5 25. g3 fxg3 26. fxg3 bxc4 27. Bxc4 a5 28.
+b5 *
+
+8-e7  
+18. b2-b4   a7-a6   
+19. c3-c4   Qd7-a4  
+20. Qf3-e2  Ng6-f4  
+21. Bg3xf4  g5xf4   
+22. Ne3-f5  Ne7xf5  
+23. e4xf5   Bg7-f6  
+24. Rd1-b1  b7-b5   
+25. g2-g3   f4xg3   
+26. f2xg3   b5xc4   
+27. Bd3xc4  a6-a5   
+28. b4-b5   
+
+[Event "Indv Front_Foot-2 R6 B8"]
+[Site "?"]
+[Date "3.??.??"]
+[Round "?"]
+[White "Praveen, Thompson"]
+[Black "Manish, Keane"]
+[Result "*"]
+[PlyCount "63"]
+[EventDate "3.??.??"]
+
+1. f4 d6 2. Nf3 g6 3. Nc3 Bg7 4. b3 Nf6 5. Bb2 O-O 6. e3 c5 7. h3 Nc6 8. Bd3 e5
+9. fxe5 Nxe5 10. Nxe5 dxe5 11. Rf1 e4 12. Bc4 a6 13. Rf4 b5 14. Bf1 Nh5 15. Rf2
+Qh4 16. d3 Be5 17. Nxe4 Bxb2 18. Rb1 Be5 19. Qf3 Bb7 20. Kd1 Bxe4 21. dxe4
+Rad8+ 22. Kc1 Rd7 23. Be2 Rfd8 24. Rf1 Qe7 25. g4 Ng7 26. Rd1 c4 27. b4 Bc3 28.
+Rd5 Bxb4 29. Ra1 Ba3+ 30. Kd1 Qe6 31. Rxd7 Rxd7+ 32. Ke1 *
+
+. Ke1-d1  Bb7xe4  
+21. d3xe4   Ra8-d8+ 
+22. Kd1-c1  Rd8-d7  
+23. Bf1-e2  Rf8-d8  
+24. Rf2-f1  Qh4-e7  
+25. g2-g4   Nh5-g7  
+26. Rf1-d1  c5-c4   
+27. b3-b4   Be5-c3  
+28. Rd1-d5  Bc3xb4  
+29. Rb1-a1  Bb4-a3+ 
+30. Kc1-d1  Qe7-e6  
+31. Rd5xd7  Rd8xd7+ 
+32. Kd1-e1  
+
+[Event "Indv Front_Foot-2 R1 B17"]
+[Site "?"]
+[Date "3.??.??"]
+[Round "?"]
+[White "Manish, Keane"]
+[Black "Vicky, Siemense"]
+[Result "*"]
+[PlyCount "40"]
+[EventDate "3.??.??"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Bg4 4. O-O Nc6 5. Nc3 e5 6. d3 Be7 7. Bg5 Bxf3 8.
+Bxf3 h6 9. Bxf6 Bxf6 10. Nxd5 Qd6 11. c4 O-O-O 12. Qa4 h5 13. Nxf6 Qxf6 14.
+Bxc6 Qxc6 15. Qxc6 bxc6 16. Rac1 f5 17. f3 Rd6 18. Rc3 Re8 19. Ra3 Kb8 20. Kf2
+g5 *
+
+6  
+14. Bf3xc6  Qf6xc6  
+15. Qa4xc6  b7xc6   
+16. Ra1-c1  f7-f5   
+17. f2-f3   Rd8-d6  
+18. Rc1-c3  Rh8-e8  
+19. Rc3-a3  Kc8-b8  
+20. Kg1-f2  g7-g5   
+
+
+[Event "Slow Chess Game"]
+[Date "3/5/2012"]
+[Time "18:21:07"]
+[TimeControl "300+5"]
+[Current Ply "60"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+
+1. Ng1-f3  d7-d5   
+2. g2-g3   Ng8-f6  
+3. Bf1-g2  Bc8-g4  
+4. O-O     Nb8-c6  
+5. Nb1-c3  e7-e5   
+6. d2-d3   Bf8-e7  
+7. Bc1-g5  Bg4xf3  
+8. Bg2xf3  h7-h6   
+9. Bg5xf6  Be7xf6  
+10. Nc3xd5  Qd8-d6  
+11. c2-c4   O-O-O   
+12. Qd1-a4  a7-a6   
+13. Nd5xf6  Qd6xf6  
+14. Bf3xc6  Qf6xc6  
+15. Qa4xc6  b7xc6   
+16. Ra1-c1  g7-g5   
+17. Rc1-c3  c6-c5   
+18. Rc3-a3  Rd8-d6  
+19. Ra3-a5  Rd6-c6  
+20. f2-f3   f7-f5   
+21. Kg1-f2  h6-h5   
+22. Rf1-c1  h5-h4   
+23. g3xh4   g5xh4   
+24. Rc1-g1  Rh8-f8  
+25. b2-b4   e5-e4   
+26. b4-b5   a6xb5   
+27. Ra5-a8+ Kc8-b7  
+28. Ra8xf8  e4xd3   
+29. e2xd3   b5xc4   
+30. d3xc4   
+
+[Event "Indv Front_Foot-2 R4 B1"]
+[Site "?"]
+[Date "3.??.??"]
+[Round "?"]
+[White "Manish, Keane"]
+[Black "Aman, Wipro"]
+[Result "*"]
+[PlyCount "53"]
+[EventDate "3.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. c4 e5 7. Nc3 Re8 8. Bg5
+h6 9. Bd2 e4 10. dxe4 Nxe4 11. Nxe4 Rxe4 12. Qc1 Rxe2 13. Bxh6 Bxb2 14. Qd1
+Bxa1 15. Qxe2 Bg7 16. Bxg7 Kxg7 17. h4 Qf6 18. h5 Nc6 19. hxg6 fxg6 20. Nh4 Bd7
+21. Be4 Re8 22. Qd3 Ne5 23. Qc2 Bc6 24. Bxc6 bxc6 25. Ng2 Nf3+ 26. Kh1 Rh8+ 27.
+Nh4 *
+
+4   Qd8-f6  
+18. h4-h5   Nb8-c6  
+19. h5xg6   f7xg6   
+20. Nf3-h4  Bc8-d7  
+21. Bg2-e4  Ra8-e8  
+22. Qe2-d3  Nc6-e5  
+23. Qd3-c2  Bd7-c6  
+24. Be4xc6  b7xc6   
+25. Nh4-g2  Ne5-f3+ 
+26. Kg1-h1  Re8-h8+ 
+27. Ng2-h4  
+
+[Event "Slow Chess Game"]
+[Date "3/5/2012"]
+[Time "21:46:40"]
+[TimeControl "300+5"]
+[Current Ply "15"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+
+1. e2-e4   d7-d6   
+2. d2-d4   g7-g6   
+3. Bf1-c4  Bf8-g7  
+4. Ng1-f3  Ng8-f6  
+5. Nf3-g5  e7-e6   
+6. Qd1-f3  O-O     
+7. O-O     c7-c5   
+
+
+[Event "Slow Chess Game"]
+[Date "3/7/2012"]
+[Time "10:46:59"]
+[TimeControl "300+5"]
+[Current Ply "18"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[FEN "3q1rk1/p3ppbp/1p4p1/3P2N1/8/6P1/PPR3BP/R1B3K1 b - -"]
+[SetUp "1"]
+
+1.  e7-e6   
+2. d5xe6   Qd8-d1+ 
+3. Bg2-f1  f7xe6   
+4. Rc2-f2  Bg7-d4  
+5. Bc1-e3  Bd4xe3  
+6. Ra1xd1  Rf8xf2  
+7. Rd1-d8+ Kg8-g7  
+8. Ng5xe6+ Kg7-h6  
+9. Rd8-d3  
+
+[Event "Slow Chess Game"]
+[Date "3/7/2012"]
+[Time "10:54:24"]
+[TimeControl "300+5"]
+[Current Ply "2"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[FEN "2rq1rk1/p3ppbp/1p4p1/3P2N1/1n6/3Q2P1/PP3RBP/R1B3K1 w - -"]
+[SetUp "1"]
+
+1. Qd3-d2  
+
+[Event "Slow Chess Game"]
+[Date "3/7/2012"]
+[Time "10:58:20"]
+[TimeControl "300+5"]
+[Current Ply "1"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[FEN "2rq1rk1/p3ppbp/1p4p1/3P2N1/1n2P3/3Q2P1/PP3RBP/R1B3K1 w - -"]
+[SetUp "1"]
+
+
+
+[Event "Slow Chess Game"]
+[Date "3/7/2012"]
+[Time "19:19:10"]
+[TimeControl "300+5"]
+[Current Ply "6"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+[FEN "r1bqk2r/p3ppbp/1p3np1/3pn1N1/4P3/2NP2P1/PP3PBP/R1BQ1RK1 b k -"]
+[SetUp "1"]
+
+1.  Bc8-a6  
+2. Qd1-a4+ Qd8-d7  
+3. Qa4xa6  O-O     
+4. f2-f4   Ne5-c6  
+5. Nc3xd5  Nf6xd5  
+6. e4xd5   Nc6-b4  
+7. Qa6-c4  Qd7-d6  
+8. d3-d4   Ra8-c8  
+
+

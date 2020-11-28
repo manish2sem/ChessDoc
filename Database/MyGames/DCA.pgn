@@ -1,0 +1,156 @@
+[Event "DCA-2013"]
+[Site "Home"]
+[Date "2013.06.24"]
+[Round "7"]
+[White "Sarthak Kapur"]
+[Black "Manish"]
+[Result "1/2-1/2"]
+[PlyCount "109"]
+[EventDate "2013.06.15"]
+
+{64MB. HOME-22C0CF9A3B  64MB. HOME-22C0CF9A3B} 1. e4 d6 2. Nf3 Nf6 3. Nc3 g6 4.
+d3 Bg7 5. Bg5 h6 6. Bf4 c5 7. Qd2 Qa5 8. Be2 b5 9. O-O b4 10. Nd1 Bg4 11. h3
+Bxf3 12. Bxf3 e5 13. Bh2 Nc6 14. Ne3 Nd4 15. Be2 O-O 16. Nc4 Qc7 17. Bd1 Nd7
+18. c3 Nc6 19. f4 a5 20. Ne3 Ne7 21. f5 Nf6 22. cxb4 axb4 23. Bb3 Kh7 24. Rf3
+Nc6 25. Nc2 Na5 26. Rc1 Nxb3 27. axb3 Qb6 28. Ne3 h5 29. Nc4 Qc7 30. fxg6+ fxg6
+31. Rcf1 Ng8 32. Rxf8 Rxf8 33. Rxf8 Bxf8 34. Qf2 Qe7 35. Bg3 Qf6 36. Qxf6 Nxf6
+37. Bh4 Ne8 38. Kf2 Kh6 39. Bd8 g5 40. Kf3 Kg6 41. g4 Ng7 42. Ne3 Ne6 43. Bb6
+hxg4+ 44. hxg4 Nf4 45. Nc4 Nxd3 46. Bc7 Kf6 47. Ke3 Nc1 48. Na5 Ke6 49. Kd2 Kd7
+50. Kxc1 Kxc7 51. Nc4 Kd7 52. Kd2 (52. Nb6+) 52... Ke6 53. Ne3 (53. Nb6) 53...
+Be7 54. Nd5 Bd8 (54... Bf6) 55. Ke2 1/2-1/2
+
+[Event "Slow Chess Game"]
+[Date "6/15/2013"]
+[Time "09:14:04"]
+[TimeControl "1200+5"]
+[Current Ply "55"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+
+1. d2-d4   Ng8-f6  
+2. Bc1-g5  g7-g6   
+3. Nb1-c3  Bf8-g7  
+4. e2-e4   d7-d6   
+5. Qd1-d2  O-O     
+6. f2-f3   c7-c5   
+7. d4-d5   a7-a6   
+8. Bg5-h6  b7-b5   
+9. Bh6xg7  Kg8xg7  
+10. h2-h4   b5-b4   
+11. Nc3-d1  h7-h5   
+12. Nd1-e3  a6-a5   
+13. O-O-O   a5-a4   
+14. c2-c3   b4xc3   
+15. Qd2xc3  Nb8-a6  
+16. Bf1xa6  Ra8xa6  
+17. Ng1-e2  e7-e5   
+18. d5-e6   Bc8xe6  
+19. e4-e5   Nf6-e8  
+20. e5xd6+  Qd8-f6  
+21. d6-d7   Ne8-d6  
+22. Qc3xf6+ Kg7xf6  
+23. Ne3-d5+ Be6xd5  
+24. Rd1xd5  Kf6-e6  
+25. Rd5-d1  Ke6xd7  
+26. Ne2-c3  Kd7-e7  
+27. Rh1-e1+ Ke7-d7  
+
+
+[Event "Slow Chess Game"]
+[Date "6/15/2013"]
+[Time "09:17:07"]
+[TimeControl "1200+5"]
+[Current Ply "60"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+
+1. d2-d4   Ng8-f6  
+2. Bc1-g5  g7-g6   
+3. Nb1-c3  Bf8-g7  
+4. e2-e4   d7-d6   
+5. Qd1-d2  O-O     
+6. f2-f3   c7-c5   
+7. d4-d5   a7-a6   
+8. Bg5-h6  b7-b5   
+9. Bh6xg7  Kg8xg7  
+10. h2-h4   b5-b4   
+11. Nc3-d1  h7-h5   
+12. Nd1-e3  a6-a5   
+13. O-O-O   a5-a4   
+14. c2-c3   b4xc3   
+15. Qd2xc3  Nb8-a6  
+16. Bf1xa6  Ra8xa6  
+17. Ng1-e2  e7-e5   
+18. d5-e6   Bc8xe6  
+19. e4-e5   Nf6-e8  
+20. e5xd6+  Qd8-f6  
+21. d6-d7   Ne8-d6  
+22. Qc3xf6+ Kg7xf6  
+23. Ne3-d5+ Be6xd5  
+24. Rd1xd5  Kf6-e6  
+25. Rh1-d1  Ke6xd7  
+26. Ne2-c3  Kd7-e7  
+27. Rd1-e1+ Ke7-d7  
+28. Rd5xc5  Rf8-c8  
+29. Rc5xc8  Nd6xc8  
+30. Nc3-e4  
+
+[Event "Slow Chess Game"]
+[Date "6/15/2013"]
+[Time "09:27:12"]
+[TimeControl "1200+5"]
+[Current Ply "93"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+
+1. d2-d4   Ng8-f6  
+2. Bc1-g5  g7-g6   
+3. Nb1-c3  Bf8-g7  
+4. e2-e4   d7-d6   
+5. Qd1-d2  O-O     
+6. f2-f3   c7-c5   
+7. d4-d5   a7-a6   
+8. Bg5-h6  b7-b5   
+9. Bh6xg7  Kg8xg7  
+10. h2-h4   b5-b4   
+11. Nc3-d1  h7-h5   
+12. Nd1-e3  a6-a5   
+13. O-O-O   a5-a4   
+14. c2-c3   b4xc3   
+15. Qd2xc3  Nb8-a6  
+16. Bf1xa6  Ra8xa6  
+17. Ng1-e2  e7-e5   
+18. d5-e6   Bc8xe6  
+19. e4-e5   Nf6-e8  
+20. e5xd6+  Qd8-f6  
+21. d6-d7   Ne8-d6  
+22. Qc3xf6+ Kg7xf6  
+23. Ne3-d5+ Be6xd5  
+24. Rd1xd5  Kf6-e6  
+25. Rh1-d1  Ke6xd7  
+26. Ne2-c3  Kd7-e7  
+27. Rd1-e1+ Ke7-d7  
+28. Rd5xc5  Rf8-c8  
+29. Rc5xc8  Nd6xc8  
+30. Nc3-e4  Ra6-c6+ 
+31. Kc1-d2  Nc8-b6  
+32. b2-b3   a4-a3   
+33. Re1-c1  Rc6xc1  
+34. Kd2xc1  Nb6-d5  
+35. Kc1-d2  Nd5-b4  
+36. Ne4-c3  Kd7-e6  
+37. Kd2-e3  f7-f6   
+38. Ke3-d4  g6-g5   
+39. h4xg5   f6xg5   
+40. Kd4-e4  Nb4-c2  
+41. Nc3-d5  h5-h4   
+42. f3-f4   g5-g4   
+43. f4-f5+  Ke6-d6  
+44. Nd5-c3  h4-h3   
+45. g2xh3   g4xh3   
+46. Ke4-f3  Kd6-e5  
+
+

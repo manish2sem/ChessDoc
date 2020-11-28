@@ -1,0 +1,339 @@
+[Event "Prz400"]
+[Site "?"]
+[Date "2.??.??"]
+[Round "?"]
+[White "Manish"]
+[Black "Suman"]
+[Result "*"]
+[PlyCount "55"]
+[EventDate "2.??.??"]
+
+1. Nf3 c6 2. g3 d5 3. Bg2 Nf6 4. d3 g6 5. c4 Bg7 6. Nc3 O-O 7. O-O dxc4 8. dxc4
+Qxd1 9. Rxd1 Na6 10. Rb1 Bg4 11. Bg5 Rfd8 12. h3 Bxf3 13. Bxf3 Kf8 14. b4 Rxd1+
+15. Rxd1 Nxb4 16. Rb1 Nc2 17. Rxb7 Nd4 18. Bg2 h6 19. Be3 Ne8 20. Rd7 Nd6 21.
+Kf1 N4f5 22. Nd1 Nxc4 23. Bxa7 Rc8 24. Bc5 Ke8 25. Ra7 Bd4 26. Bxd4 Nxd4 27.
+Ra4 Nxe2 28. Rxc4 *
+
+4 Nxe2 28. Rxc4 *
+
+Nc2-d4  
+18. Bf3-g2  h7-h6   
+19. Bg5-e3  Nf6-e8  
+20. Rb7-d7  Ne8-d6  
+21. Kg1-f1  Nd4-f5  
+22. Nc3-d1  Nd6xc4  
+23. Be3xa7  Ra8-c8  
+24. Ba7-c5  Kf8-e8  
+25. Rd7-a7  Bg7-d4  
+26. Bc5xd4  Nf5xd4  
+27. Ra7-a4  Nd4xe2  
+28. Ra4xc4  
+
+[Event "Prz400"]
+[Site "?"]
+[Date "2.??.??"]
+[Round "2"]
+[White "Suman"]
+[Black "Manish"]
+[Result "*"]
+[Annotator "Game2"]
+[PlyCount "126"]
+[EventDate "2.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. a4 Nbd7 7. Nf3 c5 8. O-O
+cxd4 9. Nxd4 Nc5 10. b4 Ne6 11. Rb1 Qc7 12. Nd5 Nxd5 13. Nxe6 Bxe6 14. Bxd5
+Bxd5 15. Qxd5 Rac8 16. Be3 e6 17. Qf3 Qxc4 18. Bxa7 Qa6 19. Be3 Rc3 20. b5 Qa8
+21. Rfd1 d5 22. Qg4 Rc4 23. Qh3 Qxa4 24. b6 Rfc8 25. Bf4 e5 26. Bh6 Qa2 27. Kf1
+Rc2 28. Bxg7 Kxg7 29. Qg4 e4 30. h4 h5 31. Qd7 Qc4 32. Re1 Qc6 33. Qxc6 R8xc6
+34. Red1 R6c5 35. Rd4 R2c4 36. Rb4 Rxd4 37. Rxd4 Rb5 38. f3 exf3 39. exf3 Kf6
+40. Kf2 Ke5 41. Rd1 Rxb6 42. Re1+ Kd6 43. Re8 Kc5 44. Re7 f6 45. g4 hxg4 46.
+fxg4 Rb2+ 47. Kf3 b5 48. h5 gxh5 49. gxh5 Ra2 50. Kf4 Ra8 51. h6 Rh8 52. h7 b4
+53. Rb7 Kc4 54. Kf5 b3 55. Kxf6 b2 56. Rxb2 Rxh7 57. Rc2+ Kb5 58. Rb2+ Kc5 59.
+Rc2+ Kd6 60. Rb2 Rh8 61. Ra2 Rf8+ 62. Kg5 d4 63. Ra5 d3 *
+
+Rb4xd4  Rc5-b5  
+38. f2-f3   e4xf3   
+39. e2xf3   Kg7-f6  
+40. Kf1-f2  Kf6-e5  
+41. Rd4-d1  Rb5xb6  
+42. Rd1-e1+ Ke5-d6  
+43. Re1-e8  Kd6-c5  
+44. Re8-e7  f7-f6   
+45. g3-g4   h5xg4   
+46. f3xg4   Rb6-b2+ 
+47. Kf2-f3  b7-b5   
+48. h4-h5   g6xh5   
+49. g4xh5   Rb2-a2  
+50. Kf3-f4  Ra2-a8  
+51. h5-h6   Ra8-h8  
+52. h6-h7   b5-b4   
+53. Re7-b7  Kc5-c4  
+54. Kf4-f5  b4-b3   
+55. Kf5xf6  b3-b2   
+56. Rb7xb2  Rh8xh7  
+57. Rb2-c2+ Kc4-b5  
+58. Rc2-b2+ Kb5-c5  
+59. Rb2-c2+ Kc5-d6  
+60. Rc2-b2  Rh7-h8  
+61. Rb2-a2  Rh8-f8+ 
+62. Kf6-g5  d5-d4   
+63. Ra2-a5  d4-d3   
+
+
+[Event "Prz400"]
+[Site "?"]
+[Date "2.??.??"]
+[Round "3"]
+[White "Manish"]
+[Black "Suman"]
+[Result "*"]
+[PlyCount "88"]
+[EventDate "2.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c6 6. Nc3 e6 7. e4 d5 8. cxd5
+exd5 9. e5 Ne4 10. d3 Nxc3 11. bxc3 Bg4 12. d4 Bxf3 13. Bxf3 f6 14. Qb3 fxe5
+15. Qxb7 Na6 16. Bg2 Qb6 17. Rb1 Qxb7 18. Rxb7 exd4 19. cxd4 Bxd4 20. Ba3 Rab8
+21. Rxb8 Rxb8 22. Rc1 Rb6 23. Bd6 Kf7 24. a4 Ke6 25. Ba3 c5 26. Re1+ Kd6 27.
+Bh3 Nc7 28. Bc1 Be5 29. Bh6 Bf6 30. Bf4+ Kc6 31. Bg2 Rb4 32. Bxc7 Kxc7 33. Bxd5
+Rxa4 34. Re6 Kd7 35. Bc6+ Kxe6 36. Bxa4 Bd4 37. h4 h6 38. Kf1 g5 39. hxg5 hxg5
+40. Ke2 Kd6 41. f4 gxf4 42. gxf4 Kd5 43. Bb5 c4 44. Ba6 Kc5 *
+
+-c5   
+26. Rc1-e1+ Ke6-d6  
+27. Bg2-h3  Na6-c7  
+28. Ba3-c1  Bd4-e5  
+29. Bc1-h6  Be5-f6  
+30. Bh6-f4+ Kd6-c6  
+31. Bh3-g2  Rb6-b4  
+32. Bf4xc7  Kc6xc7  
+33. Bg2xd5  Rb4xa4  
+34. Re1-e6  Kc7-d7  
+35. Bd5-c6+ Kd7xe6  
+36. Bc6xa4  Bf6-d4  
+37. h2-h4   h7-h6   
+38. Kg1-f1  g6-g5   
+39. h4xg5   h6xg5   
+40. Kf1-e2  Ke6-d6  
+41. f2-f4   g5xf4   
+42. g3xf4   Kd6-d5  
+43. Ba4-b5  c5-c4   
+44. Bb5-a6  Kd5-c5  
+
+
+[Event "Prz400"]
+[Site "?"]
+[Date "2.??.??"]
+[Round "4"]
+[White "Suman"]
+[Black "Manish"]
+[Result "*"]
+[PlyCount "53"]
+[EventDate "2.??.??"]
+
+1. e4 e6 2. c3 c5 3. d4 d5 4. exd5 exd5 5. Be3 Qb6 6. Qb3 Nf6 7. Bb5+ Bd7 8.
+Bxd7+ Nbxd7 9. h3 c4 10. Qc2 Bd6 11. Nd2 O-O 12. Ne2 Rfe8 13. O-O Ne4 14. Nf4
+Ndf6 15. Nxe4 Rxe4 16. Nxd5 Nxd5 17. Qxe4 Nxe3 18. fxe3 Rf8 19. Rab1 Bb8 20.
+Rf3 Qc7 21. g3 Qd7 22. Kg2 Re8 23. Qg4 Re6 24. Rbf1 Qc6 25. Qg5 Bxg3 26. d5 Qb5
+27. Rxg3 *
+
+6. Nf4xd5  Nf6xd5  
+17. Qc2xe4  Nd5xe3  
+18. f2xe3   Ra8-f8  
+19. Ra1-b1  Bd6-b8  
+20. Rf1-f3  Qb6-c7  
+21. g2-g3   Qc7-d7  
+22. Kg1-g2  Rf8-e8  
+23. Qe4-g4  Re8-e6  
+24. Rb1-f1  Qd7-c6  
+25. Qg4-g5  Bb8xg3  
+26. d4-d5   Qc6-b5  
+27. Rf3xg3  
+
+[Event "Prz400"]
+[Site "?"]
+[Date "2.??.??"]
+[Round "5"]
+[White "Manish"]
+[Black "Suman"]
+[Result "0-1"]
+[PlyCount "76"]
+[EventDate "2.??.??"]
+
+1. Nf3 g6 2. c4 c6 3. Nc3 Bg7 4. d4 a6 5. g3 b5 6. cxb5 axb5 7. Qb3 Na6 8. Bg2
+Nc7 9. Bf4 Ra7 10. Rc1 Nf6 11. e4 O-O 12. O-O Ne6 13. Be3 Ng4 14. d5 Nxe3 15.
+fxe3 Nc5 16. Qc2 Bxc3 17. bxc3 Qa5 18. dxc6 Qxa2 19. Ne5 d6 20. Nf3 Qxc2 21.
+Rxc2 Ba6 22. Rb1 Rc8 23. Nd4 e5 24. Nxb5 Bxb5 25. Rxb5 Rxc6 26. Rd2 Ra3 27.
+Rb8+ Kg7 28. Rd8 Raa6 29. Kf2 h5 30. h4 Ne6 31. Rd7 Rxc3 32. R7xd6 Raa3 33. Re2
+g5 34. Bh3 g4 35. Bg2 Kf6 36. Rb6 Rc4 37. Rb8 Ra5 38. Rh8 Kg6 0-1
+
+f1-b1  Rf8-c8  
+23. Nf3-d4  e7-e5   
+24. Nd4xb5  Ba6xb5  
+25. Rb1xb5  Rc8xc6  
+26. Rc2-d2  Ra7-a3  
+27. Rb5-b8+ Kg8-g7  
+28. Rb8-d8  Ra3-a6  
+29. Kg1-f2  h7-h5   
+30. h2-h4   Nc5-e6  
+31. Rd8-d7  Rc6xc3  
+32. Rd7xd6  Ra6-a3  
+33. Rd2-e2  g6-g5   
+34. Bg2-h3  g5-g4   
+35. Bh3-g2  Kg7-f6  
+36. Rd6-b6  Rc3-c4  
+37. Rb6-b8  Ra3-a5  
+38. Rb8-h8  Kf6-g6  
+
+
+[Event "Level=Blitz:10'. "]
+[Site "Home"]
+[Date "2013.02.26"]
+[Round "6"]
+[White "Suman"]
+[Black "Manish"]
+[Result "0-1"]
+[PlyCount "56"]
+[EventDate "2013.02.26"]
+
+{64MB. HOME-22C0CF9A3B} 1. e4 d6 2. b4 Nf6 3. Nc3 g6 4. Bb2 Bg7 5. f3 O-O 6.
+Nd5 Nbd7 7. Bc4 c6 8. Ne3 Qb6 9. Rb1 e6 10. Ne2 d5 11. Bd4 Qd8 12. exd5 exd5
+13. Bb3 b6 14. Ba1 a5 15. bxa5 Rxa5 16. c4 Nc5 17. Qc2 Re8 18. Kf2 Nfe4+ 19.
+fxe4 Bxa1 20. Rxa1 Qf6+ 21. Nf4 Nxe4+ 22. Kf3 g5 23. g3 d4 (23... d4 24. Nd1
+gxf4 25. Qd3 (25. gxf4 Qxf4+ 26. Kxf4 Rf5+ 27. Kg4 Rf6+ 28. Kh5 Re5+ 29. Kh4
+Rf4#) 25... Ng5+ 26. Kg2 Bh3+ 27. Kg1 fxg3 28. hxg3 Re1+ 29. Kh2 Nf3+ 30. Kxh3
+Qh6+ 31. Kg2 (31. Kg4 Ne5+ 32. Kf5 Qg6+ 33. Kf4 Qg4#) 31... Qxh1+ 32. Kf2) 24.
+Neg2 g4+ (24... d3 25. Qxd3 Bg4+ 26. Kxg4 Nf2+ 27. Kf3 Nxd3) 25. Ke2 (25. Ke2
+d3+ (25... d3+ 26. Qxd3 Nxg3+ 27. Kf2 Ne4+ 28. Qxe4 Rxe4 29. d4 Qxf4+) 26. Qxd3
+(26. Qxd3 Nxg3+ 27. Kf2 Ne4+ 28. Qxe4 Rxe4 29. Kg3 Rh5 30. Raf1 Qd6 31. Nh4
+Rxh4 32. c5 Rh3+ 33. Kg2 (33. Kg2 bxc5 34. Bxf7+ Kh8 35. Ng6+ hxg6 36. Rf2 g3
+37. Be6 Rxe6 38. Kf1 Qd3+ 39. Kg2 Qd5+ 40. Kg1 Re1+ 41. Rf1 Qf3 42. Rxe1 Qf2#)
+33... bxc5 34. Bxf7+ Kh8)) 25... Nxg3+ 26. Kf2 Ne4+ 27. Ke2 d3+ 28. Nxd3 Nc3#
+0-1
+
+
+[Event "Prz400"]
+[Site "?"]
+[Date "2.??.??"]
+[Round "7"]
+[White "Manish"]
+[Black "Suman"]
+[Result "1-0"]
+[PlyCount "79"]
+[EventDate "2.??.??"]
+
+1. Nf3 g6 2. c4 Bg7 3. Nc3 b6 4. g3 Bb7 5. Bg2 Na6 6. d4 Nf6 7. O-O O-O 8. Bg5
+h6 9. Bf4 d6 10. Rc1 c5 11. d5 Nc7 12. Qd2 Kh7 13. Qc2 b5 14. b3 Ba6 15. Nd1
+Rb8 16. e4 bxc4 17. bxc4 Nh5 18. Bd2 Na8 19. Re1 Nb6 20. Ba5 Qd7 21. Ne3 Qa4
+22. Qxa4 Nxa4 23. e5 dxe5 24. Bc7 Rb2 25. Nxe5 Nb6 26. Nc6 Rxa2 27. Nxa7 Bd4
+28. Bxb6 Rb8 29. Rb1 Bxe3 30. fxe3 Bxc4 31. Bxc5 Re8 32. Nc6 Rc2 33. Rbc1 Rxc1
+34. Rxc1 Bd3 35. Bxe7 Bf5 36. d6 Kg7 37. Ne5 Nf6 38. Rc7 Ng8 39. Bd5 Nxe7 40.
+Rxe7 1-0
+
+*
+
+   d6xe5   
+24. Ba5-c7  Rb8-b2  
+25. Nf3xe5  Na4-b6  
+26. Ne5-c6  Rb2xa2  
+27. Nc6xa7  Bg7-d4  
+28. Bc7xb6  Rf8-b8  
+29. Rc1-b1  Bd4xe3  
+30. f2xe3   Ba6xc4  
+31. Bb6xc5  Rb8-e8  
+32. Na7-c6  Ra2-c2  
+33. Rb1-c1  Rc2xc1  
+34. Re1xc1  Bc4-d3  
+35. Bc5xe7  Bd3-f5  
+36. d5-d6   Kh7-g7  
+37. Nc6-e5  Nh5-f6  
+38. Rc1-c7  Nf6-g8  
+39. Bg2-d5  Ng8xe7  
+40. Rc7xe7  
+
+[Event "Prz400"]
+[Site "?"]
+[Date "3.??.??"]
+[Round "8"]
+[White "Suman"]
+[Black "Manish"]
+[Result "0-1"]
+[PlyCount "97"]
+[EventDate "3.??.??"]
+
+1. e4 d6 2. c3 Nf6 3. d3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nf3 Bg4 7. h3 Bxf3 8. Bxf3
+c5 9. O-O Nc6 10. Re1 Ne5 11. Bg2 Rb8 12. Qc2 a6 13. a4 Qa5 14. Na3 Nfd7 15.
+Nc4 Nxc4 16. dxc4 Ne5 17. b3 Nxc4 18. Re2 Qxc3 19. Qxc3 Bxc3 20. Rb1 Na5 21.
+Rc2 Bf6 22. b4 cxb4 23. Rxb4 Rbc8 24. Rxc8 Rxc8 25. Be3 Rc4 26. Rxc4 Nxc4 27.
+e5 Bxe5 28. Bxb7 Nxe3 29. fxe3 Bxg3 30. Bxa6 f5 31. Kg2 Be1 32. Kf3 Kf7 33. e4
+e5 34. exf5 gxf5 35. Ke2 Bb4 36. Kd3 Ke6 37. Bc8+ Kf6 38. Kc4 Bc5 39. Kd5 e4
+40. h4 Bf2 41. h5 Bc5 42. Bd7 Kg5 43. Kc4 f4 44. Kc3 f3 45. Kd2 Kf4 46. Ke1 e3
+47. Kf1 e2+ 48. Ke1 Bb4+ 49. Kf2 0-1
+
+. Bg2xb7  Nc4xe3  
+29. f2xe3   Be5xg3  
+30. Bb7xa6  f7-f5   
+31. Kg1-g2  Bg3-e1  
+32. Kg2-f3  Kg8-f7  
+33. e3-e4   e7-e5   
+34. e4xf5   g6xf5   
+35. Kf3-e2  Be1-b4  
+36. Ke2-d3  Kf7-e6  
+37. Ba6-c8+ Ke6-f6  
+38. Kd3-c4  Bb4-c5  
+39. Kc4-d5  e5-e4   
+40. h3-h4   Bc5-f2  
+41. h4-h5   Bf2-c5  
+42. Bc8-d7  Kf6-g5  
+43. Kd5-c4  f5-f4   
+44. Kc4-c3  f4-f3   
+45. Kc3-d2  Kg5-f4  
+46. Kd2-e1  e4-e3   
+47. Ke1-f1  e3-e2+  
+48. Kf1-e1  Bc5-b4+ 
+49. Ke1-f2  
+
+[Event "Slow Chess Game"]
+[Date "4/3/2013"]
+[Time "23:49:03"]
+[TimeControl "1200+5"]
+[Current Ply "28"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+
+1. a2-a3   c7-c5   
+2. Ng1-f3  Nb8-c6  
+3. g2-g3   g7-g6   
+4. Bf1-g2  Bf8-g7  
+5. c2-c3   e7-e5   
+6. O-O     Ng8-f6  
+7. b2-b4   c5-c4   
+8. b4-b5   Nc6-a5  
+9. Nf3xe5  Qd8-c7  
+10. Ne5-f3  Na5-b3  
+11. Ra1-a2  Qc7-b6  
+12. a3-a4   a7-a6   
+13. Nb1-a3  Nf6-e4  
+14. Na3xc4  
+
+[Event "Prz400"]
+[Site "?"]
+[Date "4.??.??"]
+[Round "9"]
+[White "Manish"]
+[Black "Suman"]
+[Result "1-0"]
+[PlyCount "27"]
+[EventDate "4.??.??"]
+
+1. a3 c5 2. Nf3 Nc6 3. g3 g6 4. Bg2 Bg7 5. O-O Nf6 6. c3 e5 7. b4 c4 8. b5 Na5
+9. Nxe5 d6 10. Nf3 Nb3 11. Ra2 Qb6 12. a4 a6 13. Na3 Ne4 14. Nxc4 1-0
+
+. b4-b5   Nc6-a5  
+9. Nf3xe5  d7-d6   
+10. Ne5-f3  Na5-b3  
+11. Ra1-a2  Qd8-b6  
+12. a3-a4   a7-a6   
+13. Nb1-a3  Nf6-e4  
+14. Na3xc4  
+

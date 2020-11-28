@@ -1,0 +1,204 @@
+[Event "Ventures(Ind)"]
+[Site "?"]
+[Date "12.??.??"]
+[Round "?"]
+[White "Manish, GS."]
+[Black "un, CTS."]
+[Result "*"]
+[PlyCount "57"]
+[EventDate "12.??.??"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nf6 4. O-O Nc6 5. d4 e6 6. Bg5 cxd4 7. Nxd4 Nxd4 8.
+Qxd4 Be7 9. Nc3 O-O 10. e4 dxe4 11. Qxd8 Rxd8 12. Nxe4 Nd5 13. Bxe7 Nxe7 14.
+Rad1 Rxd1 15. Rxd1 Nc6 16. Nc5 g6 17. Rd6 Rb8 18. b3 b6 19. Bxc6 bxc5 20. Rd8+
+Kg7 21. Bd7 Bxd7 22. Rxb8 Bc6 23. Rc8 Bb5 24. c4 Bd7 25. Rc7 Be8 26. Rxa7 Bc6
+27. Ra6 Be4 28. a4 Bc2 29. Rb6 *
+
+8  
+18. b2-b3   b7-b6   
+19. Bg2xc6  b6xc5   
+20. Rd6-d8+ Kg8-g7  
+21. Bc6-d7  Bc8xd7  
+22. Rd8xb8  Bd7-c6  
+23. Rb8-c8  Bc6-b5  
+24. c2-c4   Bb5-d7  
+25. Rc8-c7  Bd7-e8  
+26. Rc7xa7  Be8-c6  
+27. Ra7-a6  Bc6-e4  
+28. a2-a4   Be4-c2  
+29. Ra6-b6  
+
+[Event "Ventures(Ind)"]
+[Site "Home"]
+[Date "2011.12.20"]
+[Round "?"]
+[White "Manish, GS."]
+[Black "Guru, Wipro"]
+[Result "*"]
+[PlyCount "58"]
+[EventDate "2011.12.20"]
+
+{64MB. HOME-22C0CF9A3B
+} 1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c6 6.
+Nc3 d5 7. cxd5 Nxd5 8. e4 Nxc3 9. bxc3 c5 10. e5 Nc6 11. d4 Bg4 12. Be3 Qc7 13.
+Qa4 Bxf3 14. Bxf3 Rfd8 15. Bxc6 Qxc6 16. Qxc6 bxc6 17. Rab1 Rd7 18. Rb2 Rad8
+19. Rfb1 cxd4 20. cxd4 c5 21. dxc5 Bxe5 22. Rb7 a5 23. c6 Rc7 24. Rxc7 (24.
+R7b5 Bc3 25. Bb6) (24. Bb6 Rxb7 25. cxb7 Rd5 26. Ba7 Rd8 27. b8=Q Bxb8 28. Rxb8
+Rxb8 29. Bxb8) 24... Bxc7 25. Rb7 Rc8 26. Bb6 Bxb6 27. Rxb6 e6 28. Ra6 Kf8 29.
+Rxa5 Rxc6 *
+
+5xc7  
+25. Rb1-b7  Rd8-c8  
+26. Be3-b6  Bc7xb6  
+27. Rb7xb6  e7-e6   
+28. Rb6-a6  Kg8-f8  
+29. Ra6xa5  Rc8xc6  
+
+
+[Event "Slow Chess Game"]
+[Date "12/18/2011"]
+[Time "20:42:38"]
+[TimeControl "1200+5"]
+[Current Ply "30"]
+[White "Human"]
+[Black "Human"]
+[Result "*"]
+
+1. e2-e4   g7-g6   
+2. d2-d4   Bf8-g7  
+3. Nb1-c3  d7-d6   
+4. f2-f4   Ng8-f6  
+5. Ng1-f3  O-O     
+6. Bf1-d3  c7-c5   
+7. d4xc5   d6xc5   
+8. e4-e5   Nf6-d5  
+9. Nc3xd5  Qd8xd5  
+10. Qd1-e2  Bc8-g4  
+11. O-O     Nb8-c6  
+12. Bd3-e4  Nc6-d4  
+13. Qe2-f2  Qd5-d7  
+14. Rf1-d1  Bg4xf3  
+15. Be4xf3  
+
+[Event "Ventures(Ind)"]
+[Site "?"]
+[Date "12.??.??"]
+[Round "?"]
+[White "Aman, Wipro"]
+[Black "Manish, GS."]
+[Result "*"]
+[PlyCount "73"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Bd3 c5 7. dxc5 dxc5 8. e5
+Nd5 9. Nxd5 Qxd5 10. Qe2 Nc6 11. Be4 Qd7 12. Be3 b6 13. Rd1 Qc7 14. O-O Bb7 15.
+c3 Rad8 16. Ng5 Rxd1 17. Rxd1 Rd8 18. Bf2 e6 19. Bf3 Rxd1+ 20. Qxd1 Ne7 21. Ne4
+Bxe4 22. Bxe4 Kf8 23. Bh4 Ke8 24. g4 c4 25. Kf2 b5 26. Kf3 Bf8 27. Bg3 Qd7 28.
+Qd6 Nc8 29. Qxd7+ Kxd7 30. Bf2 Be7 31. Bb7 Nb6 32. Bxb6 axb6 33. Ke4 Bc5 34. f5
+Bf2 35. fxe6+ fxe6 36. Ba8 Bg1 37. h3 *
+
+Bf3xe4  Kg8-f8  
+23. Bf2-h4  Kf8-e8  
+24. g2-g4   c5-c4   
+25. Kg1-f2  b6-b5   
+26. Kf2-f3  Bg7-f8  
+27. Bh4-g3  Qc7-d7  
+28. Qd1-d6  Ne7-c8  
+29. Qd6xd7+ Ke8xd7  
+30. Bg3-f2  Bf8-e7  
+31. Be4-b7  Nc8-b6  
+32. Bf2xb6  a7xb6   
+33. Kf3-e4  Be7-c5  
+34. f4-f5   Bc5-f2  
+35. f5xe6+  f7xe6   
+36. Bb7-a8  Bf2-g1  
+37. h2-h3   
+
+[Event "Venturs3(Ind)"]
+[Site "?"]
+[Date "12.??.??"]
+[Round "?"]
+[White "Amit Mohanty, Wipro"]
+[Black "Manish, GS."]
+[Result "*"]
+[PlyCount "63"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be3 O-O 6. h3 Nbd7 7. Qd2 c5 8.
+O-O-O cxd4 9. Nxd4 Nc5 10. f3 a6 11. Bh6 b5 12. h4 b4 13. Nd5 Nxd5 14. exd5 b3
+15. Nxb3 Nxb3+ 16. axb3 Bf5 17. g4 Bd7 18. h5 Bh8 19. Bxf8 Qxf8 20. hxg6 fxg6
+21. Qh6 Qf7 22. Be2 Be5 23. Kb1 a5 24. Qe3 a4 25. bxa4 Bxa4 26. Rd3 Rb8 27. c3
+Qg7 28. f4 Bb5 29. fxe5 Bxd3+ 30. Bxd3 Qxe5 31. Qxe5 dxe5 32. Re1 *
+
+  
+20. h5xg6   f7xg6   
+21. Qd2-h6  Qf8-f7  
+22. Bf1-e2  Bh8-e5  
+23. Kc1-b1  a6-a5   
+24. Qh6-e3  a5-a4   
+25. b3xa4   Bd7xa4  
+26. Rd1-d3  Ra8-b8  
+27. c2-c3   Qf7-g7  
+28. f3-f4   Ba4-b5  
+29. f4xe5   Bb5xd3+ 
+30. Be2xd3  Qg7xe5  
+31. Qe3xe5  d6xe5   
+32. Rh1-e1  
+
+[Event "Ventures"]
+[Site "?"]
+[Date "12.??.??"]
+[Round "?"]
+[White "Praveen, Wipro"]
+[Black "Manish, GS."]
+[Result "*"]
+[PlyCount "43"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bc4 Nf6 5. Nbd2 O-O 6. O-O c5 7. c3 cxd4 8.
+cxd4 Nc6 9. e5 dxe5 10. dxe5 Ng4 11. Qe2 Ngxe5 12. Bb3 Bg4 13. Rd1 Nd4 14. Qe3
+Nxb3 15. Qxb3 Qc7 16. h3 Nxf3+ 17. Nxf3 Bf5 18. Be3 e5 19. a3 b6 20. Rac1 Qb7
+21. Rc2 Rac8 22. Rdc1 *
+
+4  
+14. Qe2-e3  Nd4xb3  
+15. Qe3xb3  Qd8-c7  
+16. h2-h3   Ne5xf3+ 
+17. Nd2xf3  Bg4-f5  
+18. Bc1-e3  e7-e5   
+19. a2-a3   b7-b6   
+20. Ra1-c1  Qc7-b7  
+21. Rc1-c2  Ra8-c8  
+22. Rd1-c1  
+
+[Event "Ventures3"]
+[Site "?"]
+[Date "12.??.??"]
+[Round "?"]
+[White "Manish, GS."]
+[Black "Ravi, CTS."]
+[Result "*"]
+[PlyCount "63"]
+[EventDate "12.??.??"]
+
+1. Nf3 a6 2. g3 d5 3. Bg2 f5 4. O-O Nf6 5. d3 e6 6. Bg5 Be7 7. c4 c6 8. Nc3 O-O
+9. cxd5 cxd5 10. Qb3 Nbd7 11. Rac1 Nc5 12. Qc2 Qe8 13. Nd4 Qh5 14. h4 Kh8 15.
+b4 e5 16. Bxf6 exd4 17. Bxe7 Re8 18. Bxc5 dxc3 19. Bf3 Qf7 20. Qxc3 Bd7 21. Qd4
+Bc6 22. Bb6 Re7 23. Rc5 Rd7 24. Rfc1 Rd6 25. a4 Bxa4 26. Rc8+ Rxc8 27. Rxc8+
+Be8 28. Qe5 Re6 29. Bxd5 Rxe5 30. Bxf7 Rxe2 31. Rxe8+ Rxe8 32. Bxe8 *
+
+ Qh5-f7  
+20. Qc2xc3  Bc8-d7  
+21. Qc3-d4  Bd7-c6  
+22. Bc5-b6  Re8-e7  
+23. Rc1-c5  Re7-d7  
+24. Rf1-c1  Rd7-d6  
+25. a2-a4   Bc6xa4  
+26. Rc5-c8+ Ra8xc8  
+27. Rc1xc8+ Ba4-e8  
+28. Qd4-e5  Rd6-e6  
+29. Bf3xd5  Re6xe5  
+30. Bd5xf7  Re5xe2  
+31. Rc8xe8+ Re2xe8  
+32. Bf7xe8  
+

@@ -1,0 +1,441 @@
+[Event "DNA corporate"]
+[Site "?"]
+[Date "2002.12.06"]
+[Round "2"]
+[White "Manish, Aricent"]
+[Black "Chauhan, SAP."]
+[Result "1/2-1/2"]
+[PlyCount "95"]
+[EventDate "12.??.??"]
+
+1. Nf3 d5 2. g3 Bf5 3. d4 e6 4. Bg2 Nf6 5. c4 Bb4+ 6. Bd2 Nc6 7. Bxb4 Nxb4 8.
+Qa4+ Nc6 9. Ne5 O-O 10. Nxc6 bxc6 11. Qxc6 Qb8 12. b4 Qxb4+ 13. Nd2 Qb2 14. Rd1
+Bc2 15. O-O Bxd1 16. Rxd1 Qxa2 17. cxd5 exd5 18. h3 Rab8 19. g4 h6 20. f4 Ne4
+21. Nxe4 dxe4 22. Bxe4 Qe6 23. Qc5 Qd6 24. Qf5 Qf6 25. Qe5 Qxe5 26. fxe5 Rb2
+27. Kf2 Rb3 28. e3 Ra3 29. Rc1 Rc8 30. Kf3 a5 31. Rc4 g6 32. Bc6 Kg7 33. Kf4 f6
+34. exf6+ Kxf6 35. d5 Ra1 36. e4 Ra3 37. e5+ Kg7 38. h4 Rh3 39. d6 cxd6 40.
+exd6 Rxh4 41. d7 Rf8+ 42. Kg3 g5 43. Re4 h5 44. Re7+ Kh8 45. Re8 Rxg4+ 46. Kh2
+Rh4+ 47. Kg1 Rg4+ 48. Bg2 1/2-1/2
+
+[Event "DNA Corporate"]
+[Site "?"]
+[Date "2002.12.06"]
+[Round "1"]
+[White "Sripad, Mindtree"]
+[Black "Manish, Aricent"]
+[Result "1-0"]
+[WhiteElo "1950"]
+[PlyCount "278"]
+[EventDate "12.??.??"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Qc7 5. c3 cxd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+ 8.
+Nbxd2 Bd7 9. a3 Nc6 10. b4 a5 11. b5 Na7 12. a4 Ne7 13. Bd3 O-O 14. Nb3 Ng6 15.
+Rc1 Qb6 16. O-O Qd8 17. Nc5 Rb8 18. h4 h6 19. Rc3 Nf4 20. Qb1 Nxd3 21. Qxd3 Nc8
+22. Rfc1 Nb6 23. g3 Nc4 24. Nd2 Nxd2 25. Qxd2 b6 26. Na6 Rc8 27. Rxc8 Bxc8 28.
+f4 Qd7 29. Rc7 Qd8 30. Ra7 Re8 31. Nb8 Bd7 32. Rb7 Qxb8 33. Rxb8 Rxb8 34. Kf2
+h5 35. Qe2 g6 36. Ke3 Rc8 37. Kd3 Rc4 38. Qd1 Kg7 39. Qa1 Be8 40. Qa3 Rb4 41.
+Qa2 Rc4 42. Qa1 Rb4 43. Kc3 Rc4+ 44. Kb3 Rb4+ 45. Ka3 Rc4 46. Qe1 Bd7 47. Qd2
+Be8 48. Qf2 Bd7 49. Qb2 Rb4 50. Qa1 Rc4 51. Kb3 Rb4+ 52. Kc2 Rc4+ 53. Kd2 Rb4
+54. Ke2 Rc4 55. Ke3 Rb4 56. Qa3 Be8 57. Kd3 Bd7 58. Qa2 Be8 59. Qc2 Rc4 60. Qd1
+Bd7 61. Ke3 Be8 62. Kf3 Bd7 63. Ke2 Be8 64. Ke3 Bd7 65. Kd3 Be8 66. Ke2 Bd7 67.
+Ke1 Be8 68. Kf1 Bd7 69. Kg2 Be8 70. Kg1 Bd7 71. Kf2 Be8 72. Kg2 Bd7 73. Kf3 Be8
+74. Kf2 Bd7 75. Kg1 Be8 76. Kh2 Bd7 77. g4 hxg4 78. Kg3 Be8 79. Kxg4 Bd7 80. h5
+gxh5+ 81. Kxh5 Kf8 82. Kg4 Ke7 83. Kf3 Be8 84. Ke3 Kd8 85. Qb3 Ke7 86. Qa3+ Rb4
+87. Qc3 Rc4 88. Qb3 Rb4 89. Qa3 f5 90. Qa2 Bf7 91. Kd3 Ke8 92. Qc2 Rc4 93. Qd1
+Ke7 94. Qa1 Ke8 95. Qa3 Rb4 96. Qc3 Rc4 97. Qa1 Ke7 98. Qa3+ Rb4 99. Qc3 Rc4
+100. Qb3 Rb4 101. Qc2 Rc4 102. Qa2 Be8 103. Qa3+ Rb4 104. Ke3 Bf7 105. Qa2 Be8
+106. Qc2 Rc4 107. Qb3 Bf7 108. Qa3+ Rb4 109. Qc3 Rc4 110. Qb3 Rb4 111. Qa3 Be8
+112. Qc1 Rc4 113. Qa1 Rb4 114. Qd1 Rc4 115. Kd3 Bf7 116. Ke3 Rc3+ 117. Kf2 Rc4
+118. Kg2 Rc3 119. Kg1 Rc4 120. Kf2 Rc3 121. Kg2 Rc4 122. Kf1 Rc3 123. Kg2 Rc4
+124. Kg3 Rc3+ 125. Kh4 Rc4 126. Kh3 Rc3+ 127. Kh2 Rc4 128. Kg1 Rc3 129. Kf1 Rc4
+130. Qa1 Be8 131. Kf2 Bf7 132. Ke3 Be8 133. Kd2 Bf7 134. Qa3+ Rb4 135. Kc2 Be8
+136. Kd3 Bf7 137. Kd2 Be8 138. Kc2 Bf7 139. Kd3 Be8 1-0
+
+[Event "NIIT Corporate, Table-74"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "?"]
+[White "Manish, Aricent"]
+[Black "Vishwanath, SAP."]
+[Result "1/2-1/2"]
+[Annotator "Game1"]
+[PlyCount "50"]
+[EventDate "12.??.??"]
+
+1. Nf3 f5 2. g3 Nf6 3. Bg2 d5 4. c4 e6 5. Nc3 Be7 6. Qb3 O-O 7. O-O c6 8. d3
+Nbd7 9. cxd5 exd5 10. e4 Nc5 11. Qc2 dxe4 12. dxe4 Nfxe4 13. Be3 Be6 14. Nd4
+Qc8 15. Nxe6 Qxe6 16. Rfe1 Qf6 17. Nxe4 Nxe4 18. Bxe4 fxe4 19. Qxe4 Bd8 20. Bd4
+Qf5 21. Qe6+ Qxe6 22. Rxe6 Bf6 23. Bxf6 Rxf6 24. Re7 Rf7 25. Rae1 Kf8 1/2-1/2
+
+[Event "NIIT Corporate, Table-41"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "2"]
+[White "Abhisek, Accenture"]
+[Black "Manish, Aricent"]
+[Result "0-1"]
+[PlyCount "52"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. c4 e6 4. Nc3 Ne7 5. Be3 b6 6. Nf3 Bb7 7. Bd3 d5 8. cxd5
+exd5 9. e5 O-O 10. Qd2 Nd7 11. O-O c5 12. Rfe1 cxd4 13. Bxd4 Nc6 14. Bc2 Nxd4
+15. Qxd4 Nc5 16. Rad1 Ne6 17. Qd2 d4 18. Nxd4 Nxd4 19. Qxd4 Qg5 20. Be4 Bxe5
+21. Qd7 Bxc3 22. bxc3 Bxe4 23. Rxe4 Rad8 24. Qa4 Rxd1+ 25. Qxd1 Qa5 26. Qc2 Rd8
+0-1
+
+[Event "NIIT Corporate, Table-21"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "3"]
+[White "Manish, Aricent"]
+[Black "Salil, Texas"]
+[Result "1-0"]
+[PlyCount "66"]
+[EventDate "12.??.??"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e6 5. d4 Nf6 6. c4 h6 7. cxd5 exd5 8. a3
+Be6 9. Nc3 c4 10. Bf4 a6 11. Re1 Ne4 12. Nxe4 dxe4 13. Nd2 f5 14. e3 g5 15. Be5
+Nxe5 16. dxe5 Qc7 17. Rc1 Bg7 18. f4 exf3 19. Nxf3 O-O 20. Nd4 Bf7 21. e6 Bg6
+22. Bd5 Qe7 23. Rxc4 Bxd4 24. Qxd4 Rad8 25. Qe5 Rxd5 26. Qxd5 Rd8 27. Qe5 Qd6
+28. Qxd6 Rxd6 29. e7 Be8 30. Rc7 Kf7 31. Rxb7 Re6 32. b4 Rxe7 33. Rxe7+ Kxe7
+1-0
+
+[Event "NIIT Corporate, Table-10"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "4"]
+[White "Anil Kathar, Infosys"]
+[Black "Manish, Aricent"]
+[Result "*"]
+[PlyCount "40"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bd3 Nf6 5. h3 O-O 6. O-O b6 7. Re1 c5 8. c3 Bb7
+9. Bg5 Nbd7 10. Nbd2 Rc8 11. Rc1 cxd4 12. cxd4 Rxc1 13. Qxc1 Qc8 14. e5 dxe5
+15. dxe5 Nd5 16. Qxc8 Rxc8 17. Nc4 Nc5 18. Bf1 Ne6 19. Bd2 b5 20. Na3 a6 *
+
+[Event "NIIT Corporate, Table-11"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "5"]
+[White "Manish, Aricent"]
+[Black "Muralidhar, BEL."]
+[Result "1-0"]
+[BlackElo "1782"]
+[PlyCount "37"]
+[EventDate "12.??.??"]
+
+1. Nf3 Nf6 2. c4 c6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. Nc3 d6 7. d4 d5 8. cxd5
+cxd5 9. Bf4 a6 10. Qc1 Nc6 11. Bh6 Bg4 12. Bxg7 Kxg7 13. Qf4 Qd7 14. Ne5 Nxe5
+15. Qxe5 Bh3 16. Bxh3 Qxh3 17. Nxd5 Rfd8 18. Nxf6 exf6 19. Qe4 1-0
+
+[Event "NIIT Corporate, Tab-6"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "6"]
+[White "Arun, TCS."]
+[Black "Manish, Aricent"]
+[Result "1-0"]
+[WhiteElo "2070"]
+[PlyCount "54"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nf6 5. f4 O-O 6. Nf3 c5 7. d5 a6 8. Bd3 e6
+9. O-O exd5 10. exd5 Bg4 11. h3 Bd7 12. f5 Qc8 13. Bf4 Ne8 14. Ne4 Bxf5 15.
+Nxd6 Nxd6 16. Bxd6 Bxd3 17. Qxd3 Rd8 18. Be5 f6 19. Bc3 Nd7 20. Rae1 Re8 21.
+Rxe8+ Qxe8 22. Re1 Qf7 23. Re6 Nf8 24. Re4 Re8 25. Qe3 Rxe4 26. Qxe4 Nd7 27.
+Kf2 Kf8 1-0
+
+[Event "NIIT Corporate, Table-14"]
+[Site "?"]
+[Date "2009.12.19"]
+[Round "7"]
+[White "Rekha bhatt"]
+[Black "Manish, Aricent"]
+[Result "0-1"]
+[WhiteElo "1820"]
+[PlyCount "16"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. h3 Nf6 5. Nc3 Nbd7 6. Be2 b6 7. b3 Bb7 8. Bb2
+c5 0-1
+
+[Event "NIIT Corporate, Table-10"]
+[Site "?"]
+[Date "2009.12.20"]
+[Round "8"]
+[White "Manish, Aricent"]
+[Black "Aman, Wipro"]
+[Result "0-1"]
+[PlyCount "65"]
+[EventDate "12.??.??"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. c4 c6 6. Nc3 O-O 7. cxd5 cxd5 8. d3
+Nc6 9. Bf4 Nh5 10. Qd2 Nxf4 11. Qxf4 e5 12. Qh4 Bf6 13. Qh6 Re8 14. h4 Bg4 15.
+Ng5 Bxg5 16. hxg5 Ne7 17. e4 d4 18. Nd5 Nxd5 19. exd5 Be2 20. Rfe1 Bxd3 21. Be4
+Bxe4 22. Rxe4 f5 23. gxf6 Qxf6 24. Rae1 Rad8 25. Qh4 Qxh4 26. gxh4 Rxd5 27. f4
+d3 28. Rxe5 Rexe5 29. fxe5 Kf7 30. Kf2 Ke6 31. Kf3 h6 32. Ke4 d2 33. Rd1 0-1
+
+[Event "NIIT Corporate, Table-15"]
+[Site "?"]
+[Date "2009.12.20"]
+[Round "9"]
+[White "R Sridharan, HAL."]
+[Black "Manish, Aricent"]
+[Result "0-1"]
+[WhiteElo "2051"]
+[PlyCount "54"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 Nf6 5. f3 O-O 6. Qd2 Nbd7 7. h4 c5 8. d5 a6
+9. a4 Qa5 10. Rd1 Qb4 11. Bh6 Bxh6 12. Qxh6 Qxb2 13. Qd2 Qb4 14. Nge2 Ne5 15.
+Rb1 Qa5 16. Ng3 h5 17. Be2 Bd7 18. Rxb7 Rab8 19. Rxb8 Rxb8 20. O-O Rb4 21. Qh6
+Rd4 22. Nb1 Qxa4 23. c3 Rd3 24. Bxd3 Nxd3 25. Qd2 Ne5 26. Qc1 Kg7 27. Rf2 Nc4
+0-1
+
+[Event "NIIT Corporate, Table-11"]
+[Site "?"]
+[Date "2009.12.20"]
+[Round "10"]
+[White "Manish, Aricent"]
+[Black "Srinivas v, 2070."]
+[Result "0-1"]
+[BlackElo "2070"]
+[PlyCount "128"]
+[EventDate "12.??.??"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. c4 e6 6. Nc3 Nge7 7. e3 O-O 8. d4
+cxd4 9. Nxd4 Nxd4 10. exd4 d5 11. c5 Nf5 12. Be3 b6 13. b4 a5 14. Na4 bxc5 15.
+bxc5 Nxe3 16. fxe3 Ba6 17. Rf2 Bb5 18. Nb6 Ra7 19. a4 Bc6 20. Rb1 Re8 21. Bf1
+e5 22. Bb5 Qc7 23. Nxd5 Bxd5 24. Bxe8 exd4 25. e4 Be6 26. Qc1 Bf8 27. Bb5 Qxc5
+28. Qxc5 Bxc5 29. Rc1 Bb6 30. Bd3 Rc7 31. Rb1 Rc6 32. Kg2 Kg7 33. Rb5 Bc7 34.
+Rc2 Rxc2+ 35. Bxc2 Kf6 36. Bb3 h5 37. Bxe6 fxe6 38. Kf3 g5 39. Rb7 Bd8 40. Rh7
+Kg6 41. Rd7 Bf6 42. Ke2 h4 43. Kd3 Be5 44. gxh4 gxh4 45. h3 Bf6 46. Ra7 Bd8 47.
+e5 Kf5 48. Rd7 Bg5 49. Kxd4 Kf4 50. Kc5 Kxe5 51. Kb5 Kf4 52. Kxa5 e5 53. Rf7+
+Ke3 54. Kb5 e4 55. a5 Kd3 56. a6 Be3 57. Rd7+ Kc3 58. Kc6 Kc4 59. Re7 Kd3 60.
+Kd5 Bb6 61. Rxe4 Kd2 62. Rxh4 Ke2 63. Rb4 Ba7 64. Rb7 Bg1 0-1
+
+[Event "NIIT Corporate Team"]
+[Site "?"]
+[Date "2009.12.17"]
+[Round "2"]
+[White "Gururaj, Wipro"]
+[Black "Manish, Aricent"]
+[Result "1-0"]
+[PlyCount "65"]
+[EventDate "12.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 Nf6 5. Bb5+ Bd7 6. dxe6 fxe6 7. Nf3 Bxb5 8.
+Nxb5 Qa5+ 9. Nc3 Nd5 10. Bd2 cxd4 11. Nxd4 Bb4 12. Nxd5 Bxd2+ 13. Qxd2 Qxd5 14.
+O-O O-O 15. Qe3 e5 16. Qb3 Qxb3 17. Nxb3 Nc6 18. Rad1 Rf7 19. c3 Raf8 20. Rd2
+h6 21. Re1 Re7 22. Rde2 g5 23. f3 Kg7 24. Nd4 exd4 25. Rxe7+ Nxe7 26. Rxe7+ Kf6
+27. Rd7 dxc3 28. bxc3 Rb8 29. Rd6+ Kg7 30. Kf2 a5 31. Rb6 Kh7 32. c4 Kg7 33. c5
+1-0
+
+[Event "NIIT Corporate, Team"]
+[Site "?"]
+[Date "2009.12.17"]
+[Round "3"]
+[White "Manish, Aricent"]
+[Black "devjoy, Simense"]
+[Result "1-0"]
+[PlyCount "63"]
+[EventDate "12.??.??"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 d5 4. O-O e6 5. d4 c4 6. b3 b5 7. a4 b4 8. bxc4 dxc4
+9. Ne5 Nxe5 10. Bxa8 Ng6 11. d5 Ba6 12. Bc6+ Ke7 13. Qd4 Qc7 14. Qc5+ Kf6 15.
+d6 h6 16. h4 e5 17. Bg5+ hxg5 18. hxg5+ Kxg5 19. Qe3+ Kf6 20. dxc7 Bd6 21. Qxa7
+Bc8 22. Nd2 N6e7 23. Bf3 Ke6 24. Nxc4 Nf5 25. Nxd6 Nxd6 26. Qb6 Ke7 27. Qc5 Ke6
+28. Bd5+ Ke7 29. Rad1 Rh6 30. Bb3 e4 31. Rxd6 Rxd6 32. Rd1 1-0
+
+[Event "NIIT Corporate, Team"]
+[Site "?"]
+[Date "2009.12.17"]
+[Round "?"]
+[White "Arthi"]
+[Black "Manish, Aricent"]
+[Result "0-1"]
+[PlyCount "48"]
+[EventDate "12.??.??"]
+
+1. d4 Nf6 2. c3 g6 3. e3 Bg7 4. Nd2 O-O 5. g3 d6 6. Bc4 Nbd7 7. Qb3 a6 8. h4 b5
+9. Bd3 c5 10. a4 c4 11. Bxc4 bxc4 12. Qxc4 Bb7 13. Ngf3 e5 14. Rh2 Ng4 15. Rh3
+Qf6 16. b3 Bxf3 17. Ba3 Bg2 18. Bxd6 Qxf2+ 19. Kd1 Nxe3+ 20. Kc1 Qe1+ 21. Kb2
+Qxd2+ 22. Ka3 Nxc4+ 23. Kb4 exd4 24. Be7 Qxc3# 0-1
+
+[Event "NIIT Corporate, Team"]
+[Site "?"]
+[Date "2009.12.18"]
+[Round "?"]
+[White "Dhiren, CGI."]
+[Black "Manish, Aricent"]
+[Result "1-0"]
+[PlyCount "98"]
+[EventDate "12.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be3 O-O 6. h3 Nbd7 7. Nf3 e5 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Bg5 c6 11. Be2 Qb6 12. Qb3 Be6 13. Qxb6 axb6 14. Bxf6
+Bxf6 15. O-O Rfd8 16. Rfd1 Rd4 17. b3 Rad8 18. Bf3 Be7 19. Na4 Rd2 20. Kf1 b5
+21. cxb5 cxb5 22. Nc3 Bc5 23. Be2 Rxd1+ 24. Rxd1 Rxd1+ 25. Bxd1 b4 26. Na4 Bd4
+27. Be2 Bd7 28. Bd1 b5 29. Ke1 bxa4 30. bxa4 Be6 31. Bb3 Bxb3 32. axb3 Kf8 33.
+f3 Ke7 34. Ke2 Kd6 35. Kd3 f5 36. Kc4 Kc6 37. Kxb4 Kb6 38. Kc4 Bb2 39. b4 Bc1
+40. a5+ Kc6 41. b5+ Kb7 42. Kc5 Bd2 43. a6+ Ka7 44. Kd5 Bc3 45. Ke6 f4 46. Kf6
+Bd4 47. Kg7 Kb6 48. Kxh7 Kxb5 49. Kxg6 Kxa6 1-0
+
+[Event "NIIT Corporate, Team"]
+[Site "?"]
+[Date "2009.12.18"]
+[Round "6"]
+[White "Manish, Aricent"]
+[Black "Vijay, Aurigene Champs"]
+[Result "1-0"]
+[PlyCount "45"]
+[EventDate "12.??.??"]
+
+1. Nf3 Nf6 2. c4 e5 3. Nxe5 Bd6 4. Nf3 Bc5 5. d4 Bb4+ 6. Nc3 d6 7. Bd2 Bg4 8.
+Qa4+ Nc6 9. d5 Nxd5 10. cxd5 a5 11. dxc6 bxc6 12. a3 Bc5 13. Qxg4 Rb8 14. Qxg7
+Rf8 15. Bh6 d5 16. Qe5+ Kd7 17. Qf5+ Ke8 18. Bxf8 Kxf8 19. Ne5 Qe7 20. Nxc6 Qh4
+21. Nxb8 Qd8 22. Nd7+ Kg8 23. Nxc5 1-0
+
+[Event "Venture-B3-R1"]
+[Site "?"]
+[Date "2010.12.04"]
+[Round "?"]
+[White "Manish, GS."]
+[Black "Karthik, Samsung"]
+[Result "1-0"]
+[Annotator "Team"]
+[PlyCount "89"]
+[EventDate "12.??.??"]
+
+1. Nf3 d5 2. g3 Nc6 3. d3 e6 4. Bg2 Nf6 5. O-O Be7 6. c4 dxc4 7. Qa4 cxd3 8.
+exd3 O-O 9. Nc3 Bd7 10. Bf4 Nb4 11. Qb3 Nxd3 12. Bg5 Nc5 13. Qc4 h6 14. Bxf6
+gxf6 15. Qf4 Kh7 16. h4 e5 17. Qe3 Rg8 18. Nd2 Qc8 19. Nde4 Nxe4 20. Bxe4+ Bf5
+21. Nd5 Re8 22. Bxf5+ Qxf5 23. Nxc7 Bd6 24. Nxa8 Rxa8 25. Rad1 Bc7 26. Qb3 Rg8
+27. Qxb7 Bb6 28. Qg2 Qg4 29. Kh2 Bd4 30. b3 f5 31. f4 Rg7 32. Rde1 e4 33. Qh3
+Qg6 34. h5 Qf6 35. Re2 Rg4 36. Rxe4 Qd6 37. Rd1 fxe4 38. Qxg4 Qc5 39. Qe2 e3
+40. Qd3+ f5 41. Qxd4 Qc2+ 42. Kh3 e2 43. Qd7+ Kg8 44. Qe8+ Kg7 45. Qe7+ 1-0
+
+[Event "Venture-B3-R2"]
+[Site "?"]
+[Date "2010.12.04"]
+[Round "?"]
+[White "Manish, GS."]
+[Black "Nagesh, Mindtree"]
+[Result "1/2-1/2"]
+[Annotator "Team"]
+[PlyCount "72"]
+[EventDate "12.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d5 6. c4 c6 7. cxd5 cxd5 8. Nc3
+Nc6 9. Bf4 a6 10. Ne5 e6 11. Nxc6 bxc6 12. Be5 a5 13. Na4 Ba6 14. Rc1 Bb5 15.
+Nc5 a4 16. Bh3 Re8 17. Nb7 Qb6 18. Nd6 Re7 19. Nxb5 cxb5 20. Qd3 Ne4 21. Bxg7
+Kxg7 22. Bg2 Nd6 23. Rc5 Rc8 24. Rfc1 Rec7 25. Rxc7 Rxc7 26. Rxc7 Qxc7 27. Qe3
+Nc4 28. Qc1 Qb6 29. e3 b4 30. Bf1 Qc6 31. Be2 f6 32. b3 axb3 33. axb3 Na5 34.
+Qxc6 Nxc6 35. Bb5 Na5 36. Ba4 Kh6 1/2-1/2
+
+[Event "Venture-B3-R3"]
+[Site "Home"]
+[Date "2010.12.06"]
+[Round "?"]
+[White "Arun, Infosys"]
+[Black "Manish, GS."]
+[Result "*"]
+[Annotator "Team"]
+[PlyCount "57"]
+[EventDate "2010.12.06"]
+
+{64MB. HOME-22C0CF9A3B} 1. d4 Nf6 2. Bf4 d6 3. Nf3 g6 4. c4 Bg7 5. Nc3 O-O 6.
+g3 Nh5 7. Bd2 Bg4 8. e3 e5 9. dxe5 dxe5 10. h3 Be6 11. g4 Nf6 12. Nxe5 Nbd7 13.
+Nxd7 Nxd7 14. Qc2 Qh4 15. Qe4 Nc5 16. Qg2 Rad8 17. Rc1 Rd7 18. b4 Rfd8 19. Nb1
+Nd3+ 20. Bxd3 Rxd3 21. Bc3 Rxe3+ 22. Kf1 Bxc4+ 23. Kg1 Rxc3 24. Nxc3 Bxc3 25.
+Rxc3 Rd1+ 26. Kh2 Rxh1+ 27. Kxh1 b5 28. Qg3 Qf6 29. Re3 *
+
+[Event "Ventur-B3-R4"]
+[Site "?"]
+[Date "2010.12.05"]
+[Round "?"]
+[White "Ajay, GS."]
+[Black "Manish, CTS."]
+[Result "0-1"]
+[Annotator "RTam"]
+[PlyCount "72"]
+[EventDate "12.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d6 6. c4 c5 7. d5 e6 8. Nc3 a6
+9. e4 exd5 10. cxd5 Bg4 11. Qc2 Nbd7 12. Bf4 Bxf3 13. Bxf3 Ne5 14. Bxe5 dxe5
+15. Na4 Nd7 16. Rac1 Rc8 17. Qb3 b5 18. Nc3 c4 19. Qc2 Nc5 20. Be2 f5 21. exf5
+gxf5 22. f3 Qg5 23. Rf2 e4 24. f4 Qg6 25. Nd1 Bd4 26. Bf1 e3 27. Re2 Nd3 28.
+Rb1 Nxf4 29. Kh1 Nxe2 30. Bxe2 f4 31. Qxg6+ hxg6 32. g4 Rfe8 33. Rc1 Rcd8 34.
+Nc3 Bxc3 35. bxc3 Rxd5 36. Kg2 Rd2 0-1
+
+[Event "Venture-B3-R5"]
+[Site "?"]
+[Date "2012.12.05"]
+[Round "?"]
+[White "Manish, GS."]
+[Black "Obin, Thompson"]
+[Result "1-0"]
+[Annotator "Team"]
+[PlyCount "67"]
+[EventDate "12.??.??"]
+
+1. Nf3 e6 2. c4 Nf6 3. Nc3 c6 4. d4 h6 5. e4 Bb4 6. e5 Ne4 7. Qc2 Nxc3 8. bxc3
+Ba5 9. Bd3 d6 10. O-O Bc7 11. Bf4 dxe5 12. Nxe5 Nd7 13. Rfe1 Nf6 14. Bg3 Bd7
+15. Rab1 b6 16. Bh4 Bc8 17. Nxc6 Qd6 18. Ne5 Nd7 19. Bg3 Bb7 20. Nxf7 Qe7 21.
+Nxh8 Bxg3 22. Bg6+ Kd8 23. hxg3 Kc7 24. Nf7 Rf8 25. Ne5 Nf6 26. a4 Ne8 27. Bxe8
+Qxe8 28. a5 Qe7 29. axb6+ axb6 30. Qb3 Rb8 31. Qxb6+ Kc8 32. Nc6 Bxc6 33. Qxb8+
+Kd7 34. d5 1-0
+
+[Event "Venture-B4-R3"]
+[Site "?"]
+[Date "2002.12.05"]
+[Round "?"]
+[White "Aman, Wipro"]
+[Black "Manish, GS."]
+[Result "1/2-1/2"]
+[Annotator "Individual"]
+[PlyCount "56"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. Be2 c5 7. d5 a6 8. a4 e6
+9. O-O exd5 10. exd5 Bf5 11. Bd3 Bxd3 12. Qxd3 Nbd7 13. a5 b5 14. axb6 Nxb6 15.
+Rxa6 Rxa6 16. Qxa6 Nbxd5 17. Nxd5 Nxd5 18. Rd1 Nb4 19. Qxd6 Qxd6 20. Rxd6 Nxc2
+21. Rc6 Nd4 22. Rxc5 Ne2+ 23. Kf2 Nxc1 24. Rxc1 Bxb2 25. Rc7 h5 26. Re7 Bf6 27.
+Rb7 Re8 28. h3 Re7 1/2-1/2
+
+[Event "Venture-B6-R7"]
+[Site "?"]
+[Date "2010.12.05"]
+[Round "?"]
+[White "dontknow, HP."]
+[Black "Manish, GS."]
+[Result "1/2-1/2"]
+[Annotator "Individual"]
+[PlyCount "71"]
+[EventDate "12.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 Nf6 5. Be2 O-O 6. O-O c5 7. dxc5 dxc5 8.
+Qxd8 Rxd8 9. Be3 b6 10. Rfd1 Nc6 11. Rxd8+ Nxd8 12. Rd1 Bb7 13. Nd2 Ne6 14. e5
+Nd5 15. Nxd5 Bxd5 16. f4 Rd8 17. Nc4 Be4 18. Rxd8+ Nxd8 19. Bd3 Bxd3 20. cxd3
+Nc6 21. a3 f6 22. exf6 Bxf6 23. b3 Na5 24. Nxa5 bxa5 25. Bxc5 a6 26. Bb6 a4 27.
+bxa4 Kf7 28. Kf2 Ke6 29. Ke2 Kd5 30. Kd2 Bb2 31. Kc2 Bxa3 32. Kc3 Bd6 33. g3 h6
+34. Be3 h5 35. Bb6 e6 36. Bf2 1/2-1/2
+
+[Event "Venture-B7-R5"]
+[Site "Home"]
+[Date "2010.12.06"]
+[Round "?"]
+[White "Dinaker, Siemense"]
+[Black "Manish, GS."]
+[Result "1/2-1/2"]
+[Annotator "Individual"]
+[PlyCount "57"]
+[EventDate "2010.12.06"]
+
+{64MB. HOME-22C0CF9A3B} 1. d4 g6 2. e4 Bg7 3. f4 d6 4. Nf3 Nf6 5. Bd3 O-O 6.
+O-O c5 7. d5 c4 8. Bxc4 Nxe4 9. Nd4 Qb6 10. c3 e5 11. dxe6 fxe6 12. Kh1 d5 13.
+Bb3 Nc6 14. Be3 Nxd4 15. Bxd4 Bxd4 16. cxd4 Bd7 17. Nc3 Nxc3 18. bxc3 Rac8 19.
+Rc1 Rc7 20. g3 Rfc8 21. Rf3 Qa5 22. Qd3 Bb5 23. Qd2 Qb6 24. h4 a6 25. h5 Rg7
+26. h6 Rgc7 27. Re3 a5 28. Qe1 Kf8 29. Rxe6 1/2-1/2
+

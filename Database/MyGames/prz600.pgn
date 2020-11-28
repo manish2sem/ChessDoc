@@ -1,0 +1,216 @@
+[Event "Prz1.0"]
+[Site "?"]
+[Date "1.??.??"]
+[Round "?"]
+[White "Jeeva"]
+[Black "Manish"]
+[Result "*"]
+[PlyCount "22"]
+[EventDate "1.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. e3 d6 4. Bd3 Bg7 5. Nf3 O-O 6. Nbd2 c5 7. d5 Nbd7 8. b4
+cxb4 9. Rb1 Nc5 10. Nb3 Nxd3+ 11. Qxd3 Bf5 *
+
+5   
+7. d4-d5   Nb8-d7  
+8. b2-b4   c5xb4   
+9. Ra1-b1  Nd7-c5  
+10. Nd2-b3  Nc5xd3+ 
+11. Qd1xd3  Bc8-f5  
+
+
+[Event "Prz1.0"]
+[Site "?"]
+[Date "1.??.??"]
+[Round "?"]
+[White "Manish"]
+[Black "Suman"]
+[Result "0-1"]
+[PlyCount "86"]
+[EventDate "1.??.??"]
+
+1. Nf3 d5 2. g3 c6 3. d3 Nf6 4. Bg2 Qc7 5. Bf4 Qb6 6. Qc1 a5 7. O-O Bg4 8. Nc3
+e6 9. Na4 Qa6 10. h3 Bxf3 11. Bxf3 Nbd7 12. c4 e5 13. Bg5 d4 14. a3 Rc8 15. b4
+axb4 16. axb4 Bxb4 17. Qb2 Be7 18. Nc5 Qb6 19. Qxb6 Nxb6 20. Nxb7 O-O 21. Ra6
+Nbd7 22. Rxc6 h6 23. Rxc8 Rxc8 24. Bd2 Ra8 25. Na5 e4 26. dxe4 Ne5 27. Bg2 Bd8
+28. Nb3 Ra2 29. Bf4 Nxc4 30. Rc1 Nb6 31. Nxd4 Nfd7 32. Nc6 Bf6 33. e5 Bg5 34.
+Bxg5 hxg5 35. e3 Rd2 36. e6 fxe6 37. Nd4 Kf7 38. Bc6 Ne5 39. Kg2 Nd3 40. Rf1
+Nc4 41. Nf3 Nxe3+ 42. Kg1 Nxf1 43. Nxd2 Nxd2 0-1
+
+Nb7-a5  e5-e4   
+26. d3xe4   Nd7-e5  
+27. Bf3-g2  Be7-d8  
+28. Na5-b3  Ra8-a2  
+29. Bd2-f4  Ne5xc4  
+30. Rf1-c1  Nc4-b6  
+31. Nb3xd4  Nf6-d7  
+32. Nd4-c6  Bd8-f6  
+33. e4-e5   Bf6-g5  
+34. Bf4xg5  h6xg5   
+35. e2-e3   Ra2-d2  
+36. e5-e6   f7xe6   
+37. Nc6-d4  Kg8-f7  
+38. Bg2-c6  Nd7-e5  
+39. Kg1-g2  Ne5-d3  
+40. Rc1-f1  Nb6-c4  
+41. Nd4-f3  Nc4xe3+ 
+42. Kg2-g1  Ne3xf1  
+43. Nf3xd2  Nf1xd2  
+
+[Event "Prz3.0"]
+[Site "?"]
+[Date "4.??.??"]
+[Round "?"]
+[White "Manish"]
+[Black "Jeeva"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/p2qbnp1/2p2p1p/3pp3/1P1P3N/P2Q2P1/1BR1PP1P/5RK1 w - - 0 1"]
+[PlyCount "41"]
+[EventDate "4.??.??"]
+
+1. Qg6 Nh8 2. Qf5 Qc7 3. Qe6+ Nf7 4. Rxc6 Qd7 5. Ng6 Rfe8 6. dxe5 Qxe6 7. Rxe6
+fxe5 8. Nxe5 Rd6 9. Rxd6 Bxd6 10. Nxf7 Rxe2 11. Nxh6+ gxh6 12. Bd4 Rd2 13. Bxa7
+d4 14. Bc5 Bc7 15. Re1 d3 16. Re8+ Kf7 17. Re7+ Kf6 18. Rxc7 Rd1+ 19. Kg2 d2
+20. Rd7 Ke6 21. Rd8 *
+
+4xa7  d5-d4   
+14. Ba7-c5  Bd6-c7  
+15. Rf1-e1  d4-d3   
+16. Re1-e8+ Kg8-f7  
+17. Re8-e7+ Kf7-f6  
+18. Re7xc7  Rd2-d1+ 
+19. Kg1-g2  d3-d2   
+20. Rc7-d7  Kf6-e6  
+21. Rd7-d8  
+
+[Event "Prz3.0"]
+[Site "?"]
+[Date "4.??.??"]
+[Round "?"]
+[White "Manish"]
+[Black "Suman"]
+[Result "*"]
+[PlyCount "45"]
+[EventDate "4.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 c6 6. c4 d5 7. cxd5 Nxd5 8. Qb3
+Na6 9. d4 Qb6 10. Qxb6 Nxb6 11. Bg5 f6 12. Bf4 g5 13. Bc1 Rb8 14. e3 Kf7 15. b3
+Re8 16. Nc3 Nc7 17. Ne4 Nd7 18. Ba3 b6 19. Rac1 Bb7 20. Rc2 Rbc8 21. Rfc1 Nb5
+22. Bb2 Nd6 23. Ned2 *
+
+Bf4-c1  Ra8-b8  
+14. e2-e3   Kg8-f7  
+15. b2-b3   Rf8-e8  
+16. Nb1-c3  Na6-c7  
+17. Nc3-e4  Nb6-d7  
+18. Bc1-a3  b7-b6   
+19. Ra1-c1  Bc8-b7  
+20. Rc1-c2  Rb8-c8  
+21. Rf1-c1  Nc7-b5  
+22. Ba3-b2  Nb5-d6  
+23. Ne4-d2  
+
+[Event "Prz3.0"]
+[Site "?"]
+[Date "4.??.??"]
+[Round "?"]
+[White "Suman"]
+[Black "Manish"]
+[Result "*"]
+[PlyCount "22"]
+[EventDate "4.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bc5 4. Nxe5 O-O 5. d3 d5 6. Bg5 Re8 7. Nf3 dxe4 8.
+dxe4 Qxd1+ 9. Rxd1 Nxe4 10. Nxe4 Rxe4+ 11. Be2 Nc6 *
+
+. Ne5-f3  d5xe4   
+8. d3xe4   Qd8xd1+ 
+9. Ra1xd1  Nf6xe4  
+10. Nc3xe4  Re8xe4+ 
+11. Bf1-e2  Nb8-c6  
+
+
+
+[Event "Prz3.0"]
+[Site "Home"]
+[Date "2013.04.25"]
+[Round "?"]
+[White "Suman"]
+[Black "Manish"]
+[Result "1-0"]
+[PlyCount "42"]
+[EventDate "2013.04.25"]
+
+{64MB. HOME-22C0CF9A3B
+} 1. e4 d6 2. d4 Nf6 3. Ne2 Nxe4 4. g3 g6 5. c3 Bg7 6.
+Qb3 O-O 7. Bg2 d5 8. h4 c6 9. h5 e5 10. hxg6 fxg6 11. Bxe4 Qf6 12. O-O Bh3 13.
+dxe5 Qf7 14. e6 Qxe6 15. Bg2 Bxg2 16. Kxg2 Qxe2 17. Qxb7 Be5 18. Bh6 Qf3+ 19.
+Kg1 Bxg3 20. Bxf8 Bh2+ 21. Kxh2 Qf4+ 1-0
+
+   Qf7xe6  
+15. Be4-g2  Bh3xg2  
+16. Kg1xg2  Qe6xe2  
+17. Qb3xb7  Bg7-e5  
+18. Bc1-h6  Be5xg3  
+19. Bh6xf8  Qe2-f3+ 
+20. Kg2-g1  Bg3-h2+ 
+21. Kg1xh2  Qf3-f4+ 
+22. Kh2-g1  
+
+[Event "Prz3.0"]
+[Site "?"]
+[Date "2013.??.??"]
+[Round "?"]
+[White "Manish"]
+[Black "Suman"]
+[Result "1-0"]
+[PlyCount "49"]
+[EventDate "4.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 c5 5. O-O O-O 6. Nc3 Nc6 7. e3 e5 8. d4
+exd4 9. exd4 cxd4 10. Nxd4 a6 11. Bg5 h6 12. Bf4 Qb6 13. Nb3 g5 14. Bd6 Re8 15.
+Re1 Nd8 16. c5 Qa7 17. Rxe8+ Nxe8 18. Be7 Nc6 19. Qe2 Nxe7 20. Qxe7 Nf6 21. Ne4
+Nxe4 22. Bxe4 Bxb2 23. Bd5 Bxa1 24. Qxf7+ Kh8 25. Qg8# 1-0
+
+
+15. Rf1-e1  Nc6-d8  
+16. c4-c5   Qb6-a7  
+17. Re1xe8+ Nf6xe8  
+18. Bd6-e7  Nd8-c6  
+19. Qd1-e2  Nc6xe7  
+20. Qe2xe7  Ne8-f6  
+21. Nc3-e4  Nf6xe4  
+22. Bg2xe4  Bg7xb2  
+23. Be4-d5  Bb2xa1  
+24. Qe7xf7+ Kg8-h8  
+25. Qf7-g8+ 
+
+
+[Event "Prz3.0"]
+[Site "?"]
+[Date "2013.??.??"]
+[Round "?"]
+[White "Manish"]
+[Black "Suman"]
+[Result "*"]
+[PlyCount "45"]
+[EventDate "4.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 c5 5. O-O O-O 6. Nc3 Nc6 7. e3 d5 8. cxd5
+Nxd5 9. Nxd5 Qxd5 10. Nd4 Qd6 11. Nxc6 bxc6 12. Qa4 Bb7 13. Rb1 Rfb8 14. b3 a5
+15. Ba3 Ba6 16. Qxc6 Qxd2 17. Rfd1 Qxa2 18. Bxc5 Bb7 19. Qc7 Bxg2 20. Kxg2 Re8
+21. Bxe7 Rac8 22. Qd6 Rc2 23. Rf1 *
+
+ 
+14. b2-b3   a7-a5   
+15. Bc1-a3  Bb7-a6  
+16. Qa4xc6  Qd6xd2  
+17. Rf1-d1  Qd2xa2  
+18. Ba3xc5  Ba6-b7  
+19. Qc6-c7  Bb7xg2  
+20. Kg1xg2  Rb8-e8  
+21. Bc5xe7  Ra8-c8  
+22. Qc7-d6  Rc8-c2  
+23. Rd1-f1  
+
