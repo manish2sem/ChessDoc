@@ -1,0 +1,101 @@
+[Event "Notes on How to Reassess your Chess (Jeremy Silman 4th Ed): Knights and Holes (Silman vs 1539)"]
+[Site "https://lichess.org/study/1fGF6hzT/8znUUwH3"]
+[Result "*"]
+[UTCDate "2016.09.21"]
+[UTCTime "03:51:22"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/prateekSanyal"]
+[FEN "rn3rk1/2qbnpb1/pp1p3p/2pPp1pP/BPP1P1P1/P1NQBP2/4N1K1/RR6 w - - 0 1"]
+[SetUp "1"]
+
+{ [White: Jeremy Silman] [Black: F.R (1539)][Los Angeles, 2004]
+This is a pretty clearly advantageous position for white. Silman notes an important detail that white can eventually get his knight to f5 by playing Ng3 but black can never exploit the hole on f4 because his knight can't use g6 or e6. Also, white's bishop on a4 threatens to trade off the key bishop on d7. While this looks quite hopeless, if I were playing black I'd try something super aggressive like a timely f5 pawn sac. It might make a losing position worse but it would atleast leave black with some counterplay. }
+1. Rb3 { Very creative move. I wouldn't have seen this (blocking up the a4 bishop looks like an anti pattern but there's no good way to attack it. White threatens to double up on the b file and open it up. } { Creative idea. Definitely feels strange to block the bishops retreat. } 1... Bxa4 (1... cxb4 2. axb4 Rc8 3. c5 bxc5 4. bxc5 $18 dxc5? 5. d6 c4 6. dxc7 cxd3 7. cxb8=Q { Whites a piece ahead. }) 2. Nxa4 Nd7 { Black happy to at least trade a piece and complete development. } 3. Rab1 Rab8 4. R1b2 Rfe8 (4... Rfc8 5. Qb1 cxb4 6. Rxb4 a5 7. Bxb6 Nxb6 8. Rxb6 Rxb6 9. Nxb6 $18)  (4... b5? 5. bxc5! bxa4 6. Rxb8 Nxb8 7. cxd6 Qxd6 8. c5 Qd7 9. Qb1 Qd8 10. Rb7 $18) 5. Qb1 { This setup is called 'Alekhine's Gun'. All heavy artillery is pointing down the b file with the bxc5 break coming soon. } 5... Bf8 6. bxc5 bxc5 7. Rb7 Rxb7 8. Rxb7 Qa5 9. Qc2 Nb8? (9... Qd8 10. Bd2 $18) 10. Rb6 Nd7 11. Bd2 { 1-0. } *
+
+
+[Event "Notes on How to Reassess your Chess (Jeremy Silman 4th Ed): Knight vs Bishop (open position)"]
+[Site "https://lichess.org/study/1fGF6hzT/cczkdhyG"]
+[Result "*"]
+[UTCDate "2016.09.21"]
+[UTCTime "04:31:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/prateekSanyal"]
+[FEN "3n4/6k1/8/8/P7/8/B7/7K w - - 0 1"]
+[SetUp "1"]
+
+{ The simple a5 push will not suffice. }
+1. Bd5! { Nf7 Bxf7 and white promotes. } (1. a5 Nc6 2. a6 Kf6 3. Bd5 Na7 $10) 1... Kf6 2. a5 Ke5 3. a6 Kxd5 4. a7 *
+
+
+[Event "Notes on How to Reassess your Chess (Jeremy Silman 4th Ed): Entombed Piece Domination"]
+[Site "https://lichess.org/study/1fGF6hzT/V35kGLuj"]
+[Result "*"]
+[UTCDate "2016.09.21"]
+[UTCTime "04:39:06"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/prateekSanyal"]
+[FEN "3qrr2/pp4k1/2pp1bn1/6pp/3P1p2/2P2NP1/PPQN1P1P/R3R2K b - - 0 1"]
+[SetUp "1"]
+
+1... g4! 2. Ng1 (2. Nh4 Bxh4 3. gxh4 Qxh4 $19) 2... f3 { The black knight is 'entombed'. It is permanently exiled to the g1 square. Co-incidentally, the white king is also imprisoned by his own knight and pawns. } { This is a relatively rare situation. Much more common is the "entombment" of a bishop on h1 with white king on g1 and a rook on f1. The bishop is on g2 but cannot retreat to f1 so must go to h1. } *
+
+
+[Event "Russian Championship Higher League"]
+[Site "Krasnoyarsk RUS"]
+[Date "2007.09.03"]
+[Round "1"]
+[White "Alexander Galkin"]
+[Black "Evgeny Romanov"]
+[Result "1/2-1/2"]
+[WhiteElo "2608"]
+[BlackElo "2521"]
+[UTCDate "2016.09.21"]
+[UTCTime "04:46:46"]
+[Variant "Standard"]
+[ECO "C99"]
+[Opening "Ruy Lopez: Morphy Defense, Chigorin Defense, Panov System"]
+[Annotator "https://lichess.org/@/prateekSanyal"]
+
+{ This game is particularly interesting because of its pawn positioning. White manages to give black a weaker position by using his pawns really well. }
+1. e4 e5 2. Nf3 Nc6 3. Bb5 (3. Bc4) 3... a6 (3... Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8) 4. Ba4 Nf6 5. O-O Be7 { [%csl Ge1] } (5... Nxe4 6. d4 { [%csl Ge1][%cal Ge5d4] } 6... exd4 7. Re1)  (5... Bc5 { [%cal Gf8c5,Gc1g5] }) 6. Re1 { [%csl Ge5][%cal Gf1e1] } 6... b5 7. Bb3 { Since I don't play classical openings/defences very often, I miss out on these beautiful positions. It would be interesting to study the thematic ways of dealing with bishops on such powerful diagonals. I recently experienced an issue with the same theme in a tournament game. } { [%cal Gb3f7] } 7... d6 8. c3 O-O 9. h3 { [%cal Gc6a5,Gc8b7,Gf8e8,Gc6b8] } 9... Na5 (9... Nb8 { [%cal Gc8b7,Gb8d7] }) 10. Bc2 { [%cal Gf3e5,Ge1e5] } 10... c5 { The e5 pawn makes a d5 break very difficult, but doesn't this leave a weak d6 pawn with a hole on d5? } { [%cal Gd6d5] } 11. d4 { Starting position of one of the oldest and heavily analyzed variations of the Ruy Lopez or Spanish game. Both variation with 9...Na5 and 9...Nd7 attributed to Russian master Mikhail Chigorin who was revolutionary in the development of chess theory. He was a free thinker, not dogmatic. } 11... Qc7 12. Nbd2 cxd4 (12... Bd7 13. Nf1 Rfe8 14. Ne3 Rac8 15. dxe5 dxe5 16. Nd5 Nxd5 17. exd5 { [%csl Ge5,Gd5,Gh7][%cal Gd1d5,Gb2b3,Gc3c4,Gc2h7] } 17... Bf8 18. Bxh7+ Kxh7 19. Ng5+ Kg8 (19... Kg6) 20. Qh5 Bf5 { [%csl Gf7,Gh7] }) 13. cxd4 Nc6 14. a3 Bd7 15. d5 Na5 16. Nf1 Nh5 17. b3 Rfc8 18. Ne3 g6 19. Bd2 Bd8 20. Kh2 Qb8 21. g3 { The kingside pawn structure for white is a bit weak but black has no room to attack it. Especially since f4 has been cutoff for the black knight. } 21... Bb6 22. Bd3 Rc7 23. Rb1 Qf8 24. Rf1 Rac8 25. Qe2 Nb7 { The plan is to get the knight to c5 but b4 can prevent that. } 26. b4 { Seems very possible that Ng7 was a serious mistake in a concrete situation. Yes, white has a space advantage, but black was able to remain sufficiently coordinated. The maneuver Bd8-b6 is quite advanced and strong. Black perhaps gets in trouble here concretely because of allowing Ng4. The space advantage plays a part. The point is that black has to tread a fine line here. } 26... Ng7 { White has a positional advantage here. Not only does he have a lot more space in the centre and on the right flank, his pawns have successfully prevented black knights from penetrating throughout the game. Question is, how can white convert this advantage before giving his opponent time to recover? In this game, white is never really able to. } (26... Nf6! { [%cal Gb7d8,Gf6e8] }) 27. Ng4 f6 28. Nh4 Bd4 29. Rbc1 { Honestly not sure opposing c-file is best or not. } 29... Nd8 30. Rxc7 Rxc7 31. Rc1 { Rc1 almost seems counter intuitive to me. White has more space and there no entry points on the c-file. Not clear is benefits white unless he can trade all rooks and penetrate the c-line with the queen. } 31... Rxc1 32. Bxc1 Qe7 33. Qc2 Ne8 34. Nh6+ Kg7 35. a4 { My impression of this game is that Galkin is a favorite and the young Romanov is afraid to take even a tiny risk. Maybe ba was necessary to avoid getting rolled off the board. } 35... Nf7 (35... bxa4 36. Bxa6 { Im not convinced white is even better here. }) 36. Nxf7 Kxf7 37. Nf3 Bb6 (37... bxa4 38. Bxa6 Ba7) 38. a5 { Now a6 is a weakness. } 38... Ba7 39. Ne1 Qd8 40. Ng2 Qc8 41. Qxc8 Bxc8 42. Be3 Bxe3 43. Nxe3 Ng7 44. Nd1 f5 45. Nc3 Bd7 46. Kg2 fxe4 47. Nxe4 Ke7 48. g4 Ne8 49. Kg3 1/2-1/2
+
+
+[Event "Notes on How to Reassess your Chess (Jeremy Silman 4th Ed): J. Silman - M. Montchalin, Richland 1985"]
+[Site "https://lichess.org/study/1fGF6hzT/tcn3ZDRO"]
+[Result "*"]
+[UTCDate "2016.09.27"]
+[UTCTime "05:36:59"]
+[Variant "Standard"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni-Indian Defense, Kingside Move Order"]
+[Annotator "https://lichess.org/@/prateekSanyal"]
+
+1. d4 Nf6 (1... c5 2. d5 e6 3. c4 { [%cal Gb7b5] } (3. e4 { [%cal Gd1h5,Gf1a6] })  (3. Nc3 Nf6 4. e4)) 2. Nf3 c5 { [%cal Gc7c5] } 3. d5 { [%cal Ge7e6] } 3... d6 { [%cal Gc2c4] } (3... b5) 4. Nc3 { Q. What is the advantage of playing Nc3 instead of c4 here? } { This is a good question. Most people are familiar with c4 type of pawn structures. Without playing c4 white switches to an 1.e4 type of game. Black has no counterplay with b5 type ideas and generally less activity than against c4. White's score in the database is excellent with Nc3 and it is regarded as superior by chess master's in general. c4 is a pawn move and less active and developmental than Nc3 } { [%cal Gc3d5,Gc3e4,Gb1c3,Ge7e6] } (4. c4 { [%cal Gb7b5] } 4... Bf5 (4... b5) 5. Nc3 { I am more familiar with structures like this. }) 4... g6 5. e4 Bg7 { This is a key moment theoretically. Bb5+ seems illogical in a way as it might allow black to trade pieces in a cramped position. The truth is more complicated as white might only exchange on his terms. Be2 is considered by top players ( I can testify for GM Mark Hebden) as the professional move. } { [%csl Gf1,Gc4][%cal Gf1c4,Gf3d2,Gd2c4] } 6. Bb5+ (6. Be2)  (6. h3 { [%cal Gc8g4] } 6... O-O 7. Be2 (7. Bd3 { [%csl Gc8] } 7... e6 { [%csl Gc8][%cal Gb8a6,Ga6b4,Ga6c7] })  (7. Bc4 b5)  (7. a4 e6)  (7. Bb5 Nxe4) 7... b5 8. Bxb5 Nxe4 9. Nxe4 Qa5+ 10. Nc3 Bxc3+ 11. bxc3 Qxb5) 6... Nbd7?! { Nbd7 almost certainly wrong. This setup buries the bishop on c8. This is always bad for black in this "benoni" pawn structure. Black cannot free the position with exchanges in the near future. } (6... Bd7 7. a4 { After Bd7 white plays a4 to allow exchanges only with Bxb5 ab , favoring white. The h3 idea can be used to avoid trades with Bg4xf3 } { [%cal Ga4b5] } 7... O-O 8. h3 Na6 9. O-O Nc7 10. Bc4 { This follows one game Wang vs Malakhov 2010 White thematically avoiding trades to maintain some small advantage } 10... a6 11. e5 dxe5 12. Nxe5)  (6... Nfd7 { This move must be considered, opening bishop on the long diagonal. } 7. a4 O-O 8. O-O Na6 9. Re1 Nc7 10. Bf1) 7. a4 { [%csl Gd7] } 7... O-O 8. O-O { [%csl Gd7] } 8... a6 { Yes Be2 itself is passive but you have to look at the whole picture.
+The black position is extremely cramped. Bc4 would allow Nb6 and maybe black to trade pieces with Bg4xf3.
+I guess Bd3 is an alternative, but the bishop may prove useful on e2. The plan for white typically is something like Nf3-de-c4
+The bishop may be well placed later on f3. There is can guard e4 and control g4 and prevent things like Nh5 for black. } { [%csl Gf3][%cal Gf3d2,Gd2c4,Gb5e2,Ge2f3] } 9. Be2 { I feel like this is very passive for white. Stockfish gives white a +0.7 but I am not sure for what. The pawn on d5 and better bishop mobility seem to be the only good things in white's position. } 9... b6 10. Re1 Ne8 { [%cal Gf6e8,Ge8c7,Gb6b5,Ge7e6] } 11. Bf4 { Qc7 looks a bit strange. You are correct, it's not usually a good idea. The knight usually would go to c7. Maybe black could play a long winded maneuver like Qc7-b7, followed by Ne8-c7 to support b5 ? } { [%cal Gd8c7,Gc7b7,Ge8c7,Gb6b5,Gb7b5] } 11... Qc7 { Q. I don't understand this move at all. What is the idea behind Qc7? } { [%csl Gb7,Ge4,Ga8][%cal Ge8c7,Gb7g2,Gb7e4,Gb7b5] } 12. Qd2 (12. Nd2 { [%cal Gd2c4] } 12... Qb7 { [%cal Gb7b5] } 13. Nc4 { [%cal Gc4a5,Ga5c6] })  (12. Ra3 { [%csl Gb3,Ga1][%cal Ga3c3,Ga3h3,Ga3b3,Gb3b6,Gg7a1] }) 12... Ne5 13. Nxe5 dxe5 { Bh6 is not an obvious move to me. Be3 looks more "positionally correct" , but might perhaps allow f5 f4 type problems The outside the box move Bg3 worth a look as well. This a random game between Silman and some weaker player. Bh6 trading for black's bad bishop raising some questions for me strategically. } { [%csl Gb6,Ga6,Gc5][%cal Ga4a5] } 14. Bh6 { [%csl Ge5,Gc5,Gb6,Ga6,Gd6][%cal Gc7d6,Ge8d6] } (14. Be3 { [%csl Gc5][%cal Ge3c5] } 14... f5?! (14... Nd6! { [%cal Gd5d6,Gf7f5] } 15. Rab1 (15. f3 { [%cal Gc8c2] } 15... a5 { [%csl Gd6][%cal Gf7f5,Gc1c2] }) 15... Bd7 16. b4 cxb4 17. Rxb4 Rfc8 18. Rb3 b5 19. axb5 axb5 20. Nxb5 Nxb5 21. Bxb5 Bxb5 22. Rxb5 Qxc2 23. Qxc2 Rxc2 { White has a tiny edge but not enough to win objectively } 24. g4) 15. d6 Qxd6 16. Qd5+ Qxd5 17. Nxd5 f4 18. Bd2 Ra7 19. f3 Nd6 20. Nxb6)  (14. Bg3 { [%cal Gg3c7,Gf2f4] } 14... Nd6 15. f4 exf4 16. Qxf4 (16. Bxf4) 16... Bd4+ 17. Kh1 f6 { Black solves problem of "bad" bishop } { [%csl Ge5,Gc8,Gd7][%cal Gc8d7] }) 14... Qd6? { The knight is clearly the correct blockader on d6. } 15. Bxg7 Kxg7 { [%cal Gc3b1,Gc2c3] } 16. Nb1 { Awesome move! The idea is to get the knight to c4. A b5 pawn push is not possible yet but even if it were made possible, it would make the c5 and d5 pawns even weaker. } { This is a Petrosian idea. I remember at least one instance of him using it in a Pirc type position. } { [%csl Gf6,Gc5,Gd4][%cal Gc3d1,Gb1d2,Gd6f6,Gc3b1] } (16. Nd1) 16... Qf6 { Arguably black's first good queen move. } 17. Qc3 { [%csl Gf4][%cal Gf2f4,Gb1d2] } (17. Na3 Nd6 18. Qe3 { [%cal Ga4a5] }) 17... Nd6!! 18. Nd2 { [%cal Gb1d2] } 18... e6 (18... a5 { [%csl Ge7][%cal Ga6a5,Ge1e4] } 19. Bb5 Ra7 { [%csl Ge5] }) 19. a5 { Crippling black's pawn chain. This is a sort of an indirect consequence of the Nd7-e5 -de5 sequence . No pawn on d6 now to support c5. Clear edge to white, he might win a clear pawn here. } { [%cal Gf8e8,Ge8e4] } 19... bxa5 20. Qxc5 exd5 21. exd5 *
+
+
+[Event "38th Biel Chess Festival"]
+[Site "Biel SUI"]
+[Date "2005.07.25"]
+[Round "8"]
+[White "Andrei Volokitin"]
+[Black "Yannick Pelletier"]
+[Result "1-0"]
+[WhiteElo "2671"]
+[BlackElo "2603"]
+[UTCDate "2019.04.02"]
+[UTCTime "00:03:59"]
+[Variant "Standard"]
+[ECO "B48"]
+[Opening "Sicilian Defense: Paulsen Variation, Bastrikov Variation"]
+[Annotator "https://lichess.org/@/prateekSanyal"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. Qd2 Bb4 8. f3 Nxd4 9. Qxd4 Bxc3+ 10. bxc3 b6 { Silman's analysis starts here. White spent 26 mins on this move and decided to move Bc1 with the idea of swinging it around to a3 and then d6. The bishop is not doing much on the g1-a7 diagonal and can create more problems for black on the a3-f8 diagonal. } 11. Bc1 e5 (11... Qc5? 12. Qxc5 bxc5 13. Ba3 d6 14. O-O-O Ke7 15. e5 dxe5 16. Bxc5+ Ke8 17. Bb5+ Bd7 18. Rxd7 Nxd7 19. Rd1 Rd8 20. c4 { Volotkin can push the pawn on c4 here with the bishops supporting from the 'a' file. })  (11... Bb7? 12. Ba3 Rc8 13. c4 Ba6 14. e5 Ng8 15. Bd3! Bxc4 16. O-O Bxd3 17. cxd3 { Black's king can't castle at the moment and its center is underdeveloped. This is better for white. }) 12. Qd2 O-O 13. Ba3 Re8 14. Bb5 a6 15. Bd6 Qa7 16. Bc4 b5 { Stockfish thinks this was the mistake, Silman thinks a6 was the mistake. } 17. Bb3 Bb7 18. O-O-O a5 19. a3 Rac8 20. g4 Rc6 21. g5 Nh5 22. Bxe5 Qc5 23. Qxd7 Qxe5 24. Bxf7+ Kf8 25. Bxe8 Rc7 26. Qd8 Qf4+ 27. Kb1 Rc8 28. Qb6 { 1-0 Black resigns. } 1-0

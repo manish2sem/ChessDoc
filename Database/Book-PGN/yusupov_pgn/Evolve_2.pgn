@@ -1,0 +1,3514 @@
+[Event "Evolve_2"]
+[Site "1993"]
+[Round "Diagram 1-1"]
+[FEN "rn3k2/4Rppp/p2p4/1b1Pp3/4P1n1/2q2N2/P1B1RPPP/1Q4K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1994"]
+[Round "Diagram 1-2"]
+[FEN "r4k2/1R3ppp/pbnp4/3Pp3/4P1n1/2q2N2/P1B1bPPP/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1994"]
+[Round "Diagram 1-3"]
+[FEN "6k1/R4rp1/2p3qp/4Q3/2bPp3/2b1B2P/P4PP1/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1994"]
+[Round "Diagram 1-4"]
+[FEN "6Rb/5rp1/2p1q1kp/8/2bPp3/2P1B2P/P4PP1/6K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1995"]
+[Round "Diagram 1-5"]
+[FEN "5rk1/p2q1pp1/1p4rp/n3Q3/8/4P1BP/P1R2PP1/2R3K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1995"]
+[Round "Diagram 1-6"]
+[FEN "3r2k1/p2rbppp/2p3q1/2p5/Q1P5/P3BN1P/1n1R1PP1/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1996"]
+[Round "Diagram 1-7"]
+[FEN "3R1R2/r4ppk/2p3qp/2B5/2P5/b4N1P/1n3bP1/6K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1996"]
+[Round "Diagram 1-9"]
+[FEN "2R5/qr1n1pk1/3Qp1pp/p2pb3/8/b6P/1b3bP1/1BR4K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1997"]
+[Round "Diagram 1-10"]
+[FEN "2R5/qr1nQpk1/4p1pp/p2pb3/8/P6P/1P3PP1/1BR4K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1997"]
+[Round "Diagram 1-11"]
+[FEN "3rr1k1/2b2p2/2p3p1/7p/2pB4/4P2P/P1Q2PPq/1R1R1K2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1998"]
+[Round "Diagram 1-12"]
+[FEN "4r1k1/2b2p2/2p3p1/7p/2Q5/4P2P/P3KPq1/B2R4 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1998"]
+[Round "Diagram 1-13"]
+[FEN "2rr1k2/5ppQ/bp1qpb1p/p3N3/3P4/P6P/1PB2PP1/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1999"]
+[Round "Ex. 1-1"]
+[FEN "4r2k/p1p2rRp/1p3n2/8/2P2b2/PP1Q1P1q/1B5P/6RK b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1999"]
+[Round "Ex. 1-4"]
+[FEN "r1b2k2/pp3pp1/4pb1p/1Nq5/1nN5/3Q2b1/P1P2PBP/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1999"]
+[Round "Ex. 1-5"]
+[FEN "n6k/pq1r2p1/1p1PQp1p/3n4/3P4/P7/1P1B1PPP/2R3K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "1999"]
+[Round "Ex. 1-6"]
+[FEN "5rk1/1p3rpp/2bpp3/p1q5/1bP1P3/P1QR2P1/6BP/4R2K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2000"]
+[Round "Ex. 1-7"]
+[FEN "5r1k/p1p3p1/6p1/3Q4/4n3/2P1b1P1/PP3r1P/RN2R1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2000"]
+[Round "Ex. 1-8"]
+[FEN "6k1/1b3p2/pp2p1pp/4P3/8/2R2N1P/2QN1PPK/3r1q2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2000"]
+[Round "Ex. 1-9"]
+[FEN "2r5/5ppk/1p5p/b4q2/P3p3/PQ2P1P1/3N1P1P/3R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2000"]
+[Round "Ex. 1-10"]
+[FEN "5rk1/p1QbRppp/1p1P4/4B3/3N4/7P/5PPK/rq6 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2000"]
+[Round "Ex. 1-11"]
+[FEN "8/2QR3p/3p1rpk/2bPp3/4P3/6P1/6BP/q5NK w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2000"]
+[Round "Ex. 1-12"]
+[FEN "r3rk2/pbn2ppQ/1pq2b1p/2pp4/3P4/2N2NPB/PP2PP1P/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2005"]
+[Round "Diagram 2-1"]
+[FEN "2r2k2/p1r2ppb/1pp1p2p/4R2P/1P1P1PP1/2P1R3/PKB5/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2006"]
+[Round "Diagram 2-2"]
+[FEN "rn1qk2r/pp3ppb/2pbpn1p/8/2BP1N1P/6N1/PPP2PP1/R1BQ1RK1 w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2006"]
+[Round "Diagram 2-3"]
+[FEN "r3k1Br/ppqn2pb/2pb1n1p/8/3P3P/6N1/PPP2PP1/R1BQR1K1 b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2007"]
+[Round "Diagram 2-4"]
+[FEN "r5k1/pp1n3r/2pq1np1/6b1/3P3P/8/PPP2PP1/R2QR1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2007"]
+[Round "Diagram 2-5"]
+[FEN "r7/pp1nr1k1/2pq1np1/6B1/3P3P/3Q4/PPP2PP1/R3R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2008"]
+[Round "Diagram 2-6"]
+[FEN "8/ppRr1k2/3P1np1/6B1/6nP/6P1/PP4P1/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2010"]
+[Round "Ex. 2-1"]
+[FEN "r1bqr1k1/1p3p1p/P3nbp1/2pp4/P2P4/2NBPN1P/2Q2PP1/R4RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2010"]
+[Round "Ex. 2-2"]
+[FEN "1q1rrnk1/pb2bppp/1p1p1n2/1N1PpB2/2P5/1P2RNPP/PB2QP2/4R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2010"]
+[Round "Ex. 2-3"]
+[FEN "1rb2rk1/1p3pb1/p2q3p/2pPp1p1/P3P3/2N5/1P2BPPP/R2Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2010"]
+[Round "Ex. 2-4"]
+[FEN "2rq1rk1/p3bppp/2n5/2pp4/N3n3/1P2PN2/PB3PPP/2RQR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2010"]
+[Round "Ex. 2-6"]
+[FEN "2rq1rk1/pp1bnpp1/7p/3B4/8/Q4NP1/PP3PP1/3R1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2011"]
+[Round "Ex. 2-10"]
+[FEN "6r1/1p1nkp2/2pR1nb1/4r1pN/8/1B5N/P1P2PP1/3R1K2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2011"]
+[Round "Ex. 2-11"]
+[FEN "2rr2k1/ppq1ppbp/n1p1b1p1/b7/2NP4/1P4P1/PB2PPBP/2RR2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2011"]
+[Round "Ex. 2-12"]
+[FEN "r3k2r/p2p1p2/1p2pbpp/n7/2P1b3/1P3NP1/P3PPBP/1RB2RK1 w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2015"]
+[Round "Diagram 3-1"]
+[FEN "rnq1br2/ppp2pbk/6pp/8/2B1N3/5N2/PPPQ1PPP/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2016"]
+[Round "Diagram 3-2"]
+[FEN "r1q1brk1/pppn1pb1/6p1/6N1/2B2Q2/8/PPP2PPP/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2016"]
+[Round "Diagram 3-3"]
+[FEN "r4rk1/1bq1bppp/p3pn2/1pnp4/3NPP2/P1NB3Q/1PP2BPP/4RRK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2017"]
+[Round "Diagram 3-4"]
+[FEN "r4rk1/b1q2ppp/p7/1p1p1N2/3PnP1B/P6Q/1P4PP/4RRK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2017"]
+[Round "Diagram 3-5"]
+[FEN "r1br2k1/1pq2ppp/p3pP2/8/1n3PP1/1NpB4/PPP2Q1P/2KR2R1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2018"]
+[Round "Diagram 3-6"]
+[FEN "r1bR4/1p3ppk/p3pP1q/8/1n3PPQ/KN6/P6P/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2018"]
+[Round "Diagram 3-7"]
+[FEN "4r2k/pb4pp/1p3p2/8/3PPR1N/6Q1/q1r3PP/5RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2019"]
+[Round "Diagram 3-8"]
+[FEN "7k/pb5p/1p3p2/3q4/3Pr1RN/6Q1/2r3PP/5RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2020"]
+[Round "Ex. 3-1"]
+[FEN "r5rk/p4p1p/1pp1bp2/5N1Q/5R2/3P4/P1q3PP/5R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2020"]
+[Round "Ex. 3-3"]
+[FEN "2r1q1k1/r4p1p/b3pBp1/n3P1QP/p2p3R/b5b1/2p2PB1/R5K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2020"]
+[Round "Ex. 3-4"]
+[FEN "r1b2rk1/p4ppp/1q2p3/1p2n3/3RN1Q1/1B6/PPP3PP/2K4R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2020"]
+[Round "Ex. 3-5"]
+[FEN "r2n2kr/1b5p/p2p1PpB/4nN2/4q3/2b3QB/P1P4P/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2021"]
+[Round "Ex. 3-8"]
+[FEN "2q3k1/4Q3/r4p2/3bp3/3p2pN/3P2P1/8/1R4K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2021"]
+[Round "Ex. 3-9"]
+[FEN "4qrk1/RR2b1pp/4pp2/2pnB3/5P2/8/1Q4PP/7K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2021"]
+[Round "Ex. 3-10"]
+[FEN "5r2/1p1bq1k1/p1pb2p1/3Pp2p/P1B1P3/5N2/1P3rPP/R1Q3RK b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2021"]
+[Round "Ex. 3-11"]
+[FEN "6R1/kp2qp2/p4p2/P7/1P1Nr1P1/2PQb3/1K6/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2021"]
+[Round "Ex. 3-12"]
+[FEN "1r4r1/Q2P3p/1p3kp1/1qn5/8/5P1P/P5P1/2R1R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2025"]
+[Round "Diagram 41"]
+[FEN "rn1qkb1r/pb3ppp/2p1pn2/1p6/3P4/5NP1/PPQ1PPBP/RNB1K2R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2025"]
+[Round "Diagram 4-2"]
+[FEN "rn1q1rk1/1bp1bppp/p3pn2/1p6/3P4/5Nb1/PPQ1PPBP/RNB2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2026"]
+[Round "Diagram 4-3"]
+[FEN "rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2026"]
+[Round "Diagram 4-4"]
+[FEN "rnbqkb1r/p4ppp/2p1pn2/1p6/8/1Q3NP1/PP1PPPBP/RNB1K2R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2027"]
+[Round "Diagram 45"]
+[FEN "r2qkb1r/1b1n1ppp/p1p1pn2/1p6/P2P4/1Q3NP1/1P2PPBP/RNB2RK1 b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2027"]
+[Round "Diagram 4-6"]
+[FEN "q3kb1r/3n1ppp/2b1pn2/1pp5/3PP3/2N2NP1/1PQ2PBP/2B2RK1 b k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2028"]
+[Round "Diagram 4-7"]
+[FEN "rnbqkb1r/p4ppp/2p1pn2/1p6/8/5NP1/PPQPPPBP/RNB1K2R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2028"]
+[Round "Diagram 48"]
+[FEN "r2qkb1r/pb1n1ppp/2p1pn2/1p6/P2P4/5NP1/1bQ1PPBP/RNB1K2R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2029"]
+[Round "Diagram 4-9"]
+[FEN "2rqkb1r/pb1n1ppp/4pn2/2p3B1/Pp1P4/5NP1/1PQNPPBP/R4RK1 b k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2029"]
+[Round "Diagram 4-10"]
+[FEN "2rq1rk1/pb1n1pp1/4pb1p/2p5/Pp1P4/3QPNP1/1b1N1PBP/R1R3K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2030"]
+[Round "Diagram 411"]
+[FEN "6k1/3n1p2/2q3pp/p1PpQ3/Pp6/1P2N1P1/5P2/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2031"]
+[Round "Ex. 41"]
+[FEN "2rqk2r/3n1ppp/p3pn2/1pbb4/8/2N2NP1/PP1QPPBP/R1BR2K1 b k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2031"]
+[Round "Ex. 42"]
+[FEN "5rk1/p1rnqpp1/2B1p2p/1Pb5/3p1P2/3Q2P1/1P1NP2P/R4RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2031"]
+[Round "Ex. 43"]
+[FEN "q3k2r/4bppp/4pn2/1pn3B1/4b3/2N2NP1/1P2PPBP/3Q1RK1 b k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2031"]
+[Round "Ex. 4-4"]
+[FEN "2r1k2r/4b1pp/p4n2/1p1Npp2/8/P3B1P1/1P2PP1P/R2R2K1 b k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2031"]
+[Round "Ex. 4-5"]
+[FEN "2rq1rk1/pb1n1pp1/4pb1p/P1p5/1p1P4/3Q1NP1/1P1NPPBP/R2R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2031"]
+[Round "Ex. 46"]
+[FEN "r2qkb1r/pb1n1ppp/4pn2/2p5/Pp1P4/5NP1/1PQNPPBP/R1B2RK1 b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2032"]
+[Round "Ex. 4-7"]
+[FEN "2r2bk1/3n1ppp/q3pn2/8/1pN5/4P1P1/1P1B1PNP/2R2QK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2032"]
+[Round "Ex. 4-8"]
+[FEN "rqr3k1/p3bppp/4p3/1p2P3/4Q3/6P1/PP3P1P/R1BR2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2032"]
+[Round "Ex. 4-9"]
+[FEN "r3kb1r/pb1q1ppp/2p1pn2/8/Pp1P4/6P1/1PQ1PPBP/RNB2RK1 b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2032"]
+[Round "Ex. 4-10"]
+[FEN "q4rk1/5pp1/2b1pn1p/1pb1B3/4P3/6P1/1P1N1PBP/3Q1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2032"]
+[Round "Ex. 4-11"]
+[FEN "r3kb1r/pb1n1ppp/1qp1pn2/1p6/3P4/1N3NP1/PPQ1PPBP/R1B1K2R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2032"]
+[Round "Ex. 4-12"]
+[FEN "2r1k2r/1b1n1ppp/1q1bpn2/1pp5/4P3/1PNP1NPP/2Q2PB1/R1B2RK1 b k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2037"]
+[Round "Diagram 5-1"]
+[FEN "r5k1/4rppp/p3bn2/3p4/N7/3B4/PP3PPP/R3R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2038"]
+[Round "Diagram 5-2"]
+[FEN "r1b2k2/4rppp/p4n2/2Np4/1P6/3B4/P4PPP/R3R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2038"]
+[Round "Diagram 5-3"]
+[FEN "r4k2/r2b1ppp/p4n2/2NpR3/1P6/3B1P2/P5PP/R5K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2039"]
+[Round "Diagram 5-4"]
+[FEN "r4k2/2Rn4/p2r2p1/3p1p2/1P3P1p/3B1K2/P3R1PP/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2039"]
+[Round "Diagram 5-5"]
+[FEN "4nk2/5p1p/p1r3p1/P1pRP3/2N5/P6P/6P1/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2040"]
+[Round "Diagram 5-6"]
+[FEN "4n3/r3kp1p/p2R2p1/P1p1P3/2N5/P6P/6P1/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2040"]
+[Round "Diagram 5-7"]
+[FEN "r7/2R4p/p2nk1p1/P3p3/2N5/P6P/4K1P1/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2041"]
+[Round "Ex. 5-1"]
+[FEN "1R6/8/3P4/p3K3/k7/8/8/3r4 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2041"]
+[Round "Ex. 5-4"]
+[FEN "1r6/1P2k3/1R2pp2/5pKp/7P/4P3/6P1/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2042"]
+[Round "Ex. 5-7"]
+[FEN "8/6p1/3r1p2/2RPp2p/6k1/4K1P1/6bP/3R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2042"]
+[Round "Ex. 5-10"]
+[FEN "8/8/p6p/7P/1K4k1/1P6/P7/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2048"]
+[Round "Diagram 6-1"]
+[FEN "rn1qkb1r/ppp2ppp/8/3pP3/4n1b1/2N2N2/PPPPQ1PP/R1B1KB1R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2048"]
+[Round "Diagram 6-2"]
+[FEN "rn2kb1r/ppp2ppp/8/2npP3/3P3q/2N2Q2/PPP3PP/R1B1KB1R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2048"]
+[Round "Diagram 6-3"]
+[FEN "rn2kb1r/pp3ppp/2p5/2npq3/8/2N1BQP1/PPP4P/2KR1B1R w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2049"]
+[Round "Diagram 6-4"]
+[FEN "rn2kb1r/pp3ppp/8/2BR4/2B1q3/5Qb1/PPP4P/2K4R b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2049"]
+[Round "Diagram 6-5"]
+[FEN "r2qkbnr/1pp3pp/p1n5/3p1bN1/B2Pp3/2P2P2/PP4PP/RNBQK2R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2050"]
+[Round "Diagram 6-6"]
+[FEN "r2qk1nr/1pp3pp/p1nb4/3p1bN1/B2P1P2/2P1p3/PP4PP/RNBQK2R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2050"]
+[Round "Diagram 6-7"]
+[FEN "r4rk1/2p1n1pp/p1pb1q2/3p1bN1/3P1P2/2P1Q3/PP4PP/RNB2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2051"]
+[Round "Diagram 6-8"]
+[FEN "r4rk1/2p3pp/p1pb1qn1/3p1bN1/3P1P2/2P1Q3/PP1N2PP/R1B2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2051"]
+[Round "Diagram 6-9"]
+[FEN "5rk1/2p3pp/p1pb1qn1/3p2N1/3P1P2/2Pb2P1/PP1N3P/R1B1Q1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2052"]
+[Round "Diagram 6-10"]
+[FEN "5rk1/2p3pp/p1p2q2/3p2N1/3P4/2Pb1N2/PP2n1KP/R1B1b3 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2053"]
+[Round "Ex. 6-1"]
+[FEN "r1bq1rk1/pp1n1pp1/5n1p/2b1pN2/2B4B/2N1P3/PPQ2PPP/2KR3R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2053"]
+[Round "Ex. 6-3"]
+[FEN "2r1kb1r/5ppp/R3p3/B1pn4/3Pn3/2p2NP1/1P2PPBP/5RK1 w k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2053"]
+[Round "Ex. 6-4"]
+[FEN "2bqk1nr/3p1p1p/2n1p1p1/rp2P3/2B1PB2/2N5/PP4PP/R2Q1RK1 w k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2053"]
+[Round "Ex. 6-5"]
+[FEN "r1b3q1/pp1p1k2/2p3pQ/3Np3/6p1/1P1P4/1P1K1P1P/R7 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2053"]
+[Round "Ex. 6-6"]
+[FEN "r2q1rk1/ppp2ppp/2n1b3/3n4/7b/2N1BQ2/PPP2PPP/2KR1BNR b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2054"]
+[Round "Ex. 6-7"]
+[FEN "Q4b1r/p1pk1qpp/2np4/4p3/4P1b1/2P5/PP1P1PPP/RNB1K2R b KQ - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2054"]
+[Round "Ex. 6-8"]
+[FEN "r1bk1n1r/pp1n1q1p/2p2p1R/3p4/3PpN2/2NB2Q1/PPP2PP1/2K1R3 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2054"]
+[Round "Ex. 6-9"]
+[FEN "r1b1k2r/pp3p1p/2n1p3/q7/1bBPn1p1/1QN1BN2/PP3PPP/2R1K2R w Kkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2054"]
+[Round "Ex. 6-10"]
+[FEN "rn3rk1/1p1b1ppp/p1q1p3/8/4PQ2/3B4/P2B1PPP/1R2K2R b K - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2054"]
+[Round "Ex. 6-11"]
+[FEN "2r1k2r/1q1nbp1p/p5p1/3Pp3/Pp2N1Q1/8/1P3PPP/R1BR2K1 w k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2054"]
+[Round "Ex. 6-12"]
+[FEN "r1bk1nr1/pp1n2qp/2p2p1R/8/3PNN2/Q7/PPP2PP1/2K1R3 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2059"]
+[Round "Diagram 7-1"]
+[FEN "r1b1k1nr/3pppbp/p1p3p1/q1p5/4P3/2N2N2/PPPP1PPP/R1BQR1K1 w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2060"]
+[Round "Diagram 7-2"]
+[FEN "r1b2rk1/3pppbp/1qp1n1p1/p1p1P3/2P1N3/3PBN1P/PP3PP1/1R1QR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2060"]
+[Round "Diagram 7-3"]
+[FEN "r1br1k1b/3ppp1p/1qp1n1p1/p1p1P1B1/2P1N3/3P1N1P/PP1Q1PP1/1R2R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2061"]
+[Round "Diagram 7-4"]
+[FEN "r1b4r/4ppkp/1qpP2p1/p1p3n1/2P5/3P3P/PP1b1PPN/1R2R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2061"]
+[Round "Diagram 7-5"]
+[FEN "r1b4r/4bpkp/1qp1n1p1/p1p5/2P5/3P3P/Pb1Q1PPN/1R2R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2061"]
+[Round "Diagram 7-6"]
+[FEN "r1b2rk1/2qnppbp/pp1p1np1/8/P2NPP2/2N1B3/1bP1B1PP/R2Q1R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2062"]
+[Round "Diagram 7-7"]
+[FEN "r1q1r1k1/4ppbp/bp1p2p1/p1nP4/P1PN1P2/R3B3/1P1QB1PP/5R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2062"]
+[Round "Diagram 7-8"]
+[FEN "r1q1r1k1/3nppb1/bp1p2p1/p2P4/P1PN4/2R1B3/1bQ1B1PP/5R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2063"]
+[Round "Diagram 7-9"]
+[FEN "r1q1r1k1/3npp2/bp1p1bp1/p2P4/P1PN2B1/2R1B3/1bQ3PP/5R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2064"]
+[Round "Ex. 7-1"]
+[FEN "4r1k1/pp3p1p/1nq3p1/8/3Qn3/2N1N3/PP3PPP/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2064"]
+[Round "Ex. 7-2"]
+[FEN "r3r3/1pp3qk/1nbp1Rp1/7p/1P1QPN2/2P1R1PP/6BK/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2064"]
+[Round "Ex. 7-3"]
+[FEN "2r3k1/pppqrpb1/3n1npp/3Pp3/P3P3/BP3NP1/2R1QPBP/2R3K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2064"]
+[Round "Ex. 7-4"]
+[FEN "2rq2k1/p4rpp/1p2p3/n3Bp1P/3P4/2bb2R1/P2Q1PP1/4R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2064"]
+[Round "Ex. 7-5"]
+[FEN "rnb1qk1r/pp3ppp/2p5/3pP1B1/8/2N3Q1/PPP2PPP/R4RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2064"]
+[Round "Ex. 7-6"]
+[FEN "r4r1k/1p5p/1n2n3/3pPpPq/pP1P3b/P2BKN1P/1B5Q/2R3R1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2065"]
+[Round "Ex. 7-7"]
+[FEN "6k1/2q2p1p/p4p2/1p6/2bN4/5P2/P5PP/4Q1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2065"]
+[Round "Ex. 7-8"]
+[FEN "5rk1/p5pp/1p1pq3/1P1n1p2/4n3/1Pr2NP1/4PPBP/R2Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2065"]
+[Round "Ex. 7-9"]
+[FEN "r2qnrk1/p4ppp/bpnp4/2p1pP2/2PPP3/P1PB4/4N1PP/R1BQ1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2065"]
+[Round "Ex. 7-10"]
+[FEN "r4rk1/1p2pb1p/n4p1Q/1q6/p1NpNpP1/P2P4/1P2P1BP/2R3K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2065"]
+[Round "Ex. 7-11"]
+[FEN "1n1q1rk1/4pp1p/b2p2pQ/p3nP2/3NP1P1/2r3NP/P5B1/R5RK w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2065"]
+[Round "Ex. 7-12"]
+[FEN "2r1r1k1/1p3pp1/5q1p/pP1p4/N2P4/Q3PnP1/5PKP/2RR4 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2069"]
+[Round "Diagram 8-1"]
+[FEN "r7/1q2p1k1/pprp1pp1/2nN4/P1P1P3/5Q2/6PP/3R1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2069"]
+[Round "Diagram 8-2"]
+[FEN "r7/3q1k2/pprpnPp1/8/P1P5/5Q2/6PP/4RRK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2070"]
+[Round "Diagram 8-3"]
+[FEN "1r4k1/pbp2ppp/1p1pr1q1/8/2P1n3/3QBB2/PPP1RPPP/4R1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2070"]
+[Round "Diagram 8-4"]
+[FEN "2b1r2r/ppq1nk2/3Rn1pp/1Pp1bp2/2B5/2B2N2/P2Q1PPP/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2071"]
+[Round "Diagram 8-5"]
+[FEN "3r1k2/1q1r1pp1/3p2bp/p2N4/8/2P1RQ1P/P4bP1/4R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2071"]
+[Round "Diagram 8-6"]
+[FEN "1qr3k1/1B1R1pp1/4p2p/p6Q/4P3/3nBP2/1n4PP/6K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2071"]
+[Round "Diagram 8-7"]
+[FEN "2r2rk1/ppq2pp1/1n2p3/8/2PPN3/6P1/P3QP2/R1R3K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2072"]
+[Round "Ex. 8-1"]
+[FEN "4qk2/pp3pp1/1nbr3p/2p5/5N2/2P1Q3/PPB2PPP/2K1R3 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2072"]
+[Round "Ex. 8-2"]
+[FEN "3rkr2/pR2b1pp/2p1qn2/8/8/4B3/P1P1QPPP/4R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2072"]
+[Round "Ex. 8-3"]
+[FEN "4rn2/pp4k1/5qp1/4pp1P/P1Pb3N/6Q1/1B3PP1/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2072"]
+[Round "Ex. 8-4"]
+[FEN "1q4r1/p3r1pk/1p2b1Rp/3pNp1P/P2P4/1P4Q1/2P5/K5R1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2072"]
+[Round "Ex. 8-5"]
+[FEN "6k1/pp4pp/4p3/2p1r2P/2Q2B2/1PP2p2/P5qP/3K1R2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2072"]
+[Round "Ex. 8-6"]
+[FEN "1r5r/3Rbkpn/Bp2p1p1/2P2p2/4pP2/1Q2P3/PP3qPP/1K1R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2073"]
+[Round "Ex. 8-7"]
+[FEN "5r2/2p3pk/1r1p3b/p1q1p3/6R1/b2P1p2/BbPQ1b1P/2K3R1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2073"]
+[Round "Ex. 8-8"]
+[FEN "2qr2k1/3r3p/p2pbPp1/1p2n3/3Q4/bPB3b1/2P3BK/4RR2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2073"]
+[Round "Ex. 8-9"]
+[FEN "1r1n1rk1/3q1ppp/p1pp4/1p1Np1b1/4P2P/3P1Q2/PbP5/2K3RR w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2073"]
+[Round "Ex. 8-10"]
+[FEN "5r1k/pppq2pp/2n2r2/4p3/4Q3/1Bb1B2P/Pb4K1/R6R b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2073"]
+[Round "Ex. 8-11"]
+[FEN "8/b1p4p/3b1kp1/3Rpp2/4P1qP/4B1b1/5b1K/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2073"]
+[Round "Ex. 8-12"]
+[FEN "3r1rk1/1p3ppp/3b4/pP1n3q/3Np3/P3bbPP/1BR1BP1K/2R2Q2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2077"]
+[Round "Diagram 9-1"]
+[FEN "r1bqk2r/2p1bppp/p1pp1n2/8/3QP3/5N2/PPP2PPP/RNB2RK1 w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2078"]
+[Round "Diagram 9-2"]
+[FEN "r4rk1/2p1bppp/p3bn2/2p1N1B1/8/2N5/PPP2bPP/R3R1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2078"]
+[Round "Diagram 9-3"]
+[FEN "r3r3/2p1bkp1/p3Rnpp/2p3B1/8/2N5/PPP2bPP/4R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2079"]
+[Round "Diagram 9-4"]
+[FEN "8/2p3p1/p5p1/2p3bp/2N1k3/2P3PP/PP2KP2/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2079"]
+[Round "Diagram 9-5"]
+[FEN "8/2p5/p2k1bp1/N1p3p1/P3K1P1/2P4P/1P6/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2079"]
+[Round "Diagram 9-6"]
+[FEN "3b4/8/pNpk2p1/P1p3p1/6P1/2PK3P/1P6/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2080"]
+[Round "Diagram 9-7"]
+[FEN "r1bq1rk1/p4pbp/1p1p1np1/n1pPp3/2P5/b1N3b1/1b1NPbBb/R1BQ1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2080"]
+[Round "Diagram 9-8"]
+[FEN "r1q2rk1/pn1b1pbp/3p1np1/2pPp3/2P5/PNN3P1/4PPBP/1RBQ1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2081"]
+[Round "Diagram 9-9"]
+[FEN "r1q1nrk1/pn1b2bp/3p4/2pPpp2/2P5/bNN3P1/2Q2bBP/1RB2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2081"]
+[Round "Diagram 9-10"]
+[FEN "r1q2rk1/pn1b2bp/3p1n2/2pP1p2/2P1pb2/PNN1B1b1/2Q3BP/1R3RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2081"]
+[Round "Diagram 9-11"]
+[FEN "r3qrk1/pn1b2bp/3p4/2pP1p1n/2P1pP2/bNN1B1PP/2Q3BK/1R4R1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2082"]
+[Round "Diagram 9-12"]
+[FEN "1r1nb1k1/1b4bp/p2p1n1r/2pP1p2/2P1pP2/b1N1B1PP/2QNB1R1/6KR w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2082"]
+[Round "Diagram 9-13"]
+[FEN "3nb1k1/6bp/p2p1n2/2pP4/2P1pPP1/P1N1B3/1r1NB1R1/7K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2082"]
+[Round "Diagram 9-14"]
+[FEN "r1bqk1nr/pp2bppp/2n5/2p1p3/2Pp4/3P1NP1/PP2PPBP/RNBQ1RK1 w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2083"]
+[Round "Diagram 9-15"]
+[FEN "r2qk2r/pp1bbppp/2n2n2/4p3/Q1Pp4/B2P1NP1/4PPBP/RN3RK1 w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2083"]
+[Round "Diagram 9-16"]
+[FEN "r2q1rk1/p4ppp/2p2n2/4Q3/2Pp4/R2P2P1/4PP1P/1N3RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2083"]
+[Round "Diagram 9-17"]
+[FEN "r4rk1/p4ppp/2pq1n2/Q7/2Pp4/R2P2P1/3NPP1P/4R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2085"]
+[Round "Ex. 9-1"]
+[FEN "r5k1/1p1b2pp/3q2n1/p1bp4/3N4/PP5P/1B1Q1PP1/4RBK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2085"]
+[Round "Ex. 9-4"]
+[FEN "4r1k1/1pqnrpp1/2pp1n1p/p4P2/2PQPP2/1PN2B1P/P3R3/4R2K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2085"]
+[Round "Ex. 9-5"]
+[FEN "r1b1qrk1/pppn2b1/6np/4pp2/P7/2P2NB1/1P1N1PPP/R2QRBK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2085"]
+[Round "Ex. 9-6"]
+[FEN "r3r1k1/1p1bqpbp/2pp1np1/p1n5/2PNP3/2N1B1PP/PbQ2PB1/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2086"]
+[Round "Ex. 9-7"]
+[FEN "r1qr2k1/p4pb1/2pp2pp/Q1p1n3/4P3/1P2N1B1/P1P2bPP/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2086"]
+[Round "Ex. 9-8"]
+[FEN "r2qk2r/p1pbbppp/2pp1n2/8/3NP3/2N2Q2/PbP2bPP/R1B1K2R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2086"]
+[Round "Ex. 9-9"]
+[FEN "r2qr1k1/p1p2pbp/2pp1np1/8/4P3/1PN2Q1P/PBP2bP1/R3R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2086"]
+[Round "Ex. 9-10"]
+[FEN "r3r1k1/p1Q2p2/1p5p/3p1qp1/3B4/2b4P/bb3PP1/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2086"]
+[Round "Ex. 9-11"]
+[FEN "1r2qr1k/2nbnpb1/p2p2pp/bppPp3/2P1P1PB/1P2N2P/2QNBb2/R3K2R w KQ - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2086"]
+[Round "Ex. 9-12"]
+[FEN "2rnnrk1/pp5p/3p4/2pP1p2/P1P1pb2/6b1/2PBB2P/R3R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2091"]
+[Round "Diagram 10-1"]
+[FEN "2b1r3/5pkp/6p1/1p2P3/1qp1PP2/2R3PP/2Q3B1/6K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2091"]
+[Round "Diagram 10-2"]
+[FEN "2b1r3/5pkp/6p1/4P3/QppqPP2/5RPP/6BK/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2092"]
+[Round "Diagram 10-3"]
+[FEN "2b1r3/5pkp/6p1/4b3/Qp1qPP2/2R3bP/6BK/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2092"]
+[Round "Diagram 10-4"]
+[FEN "r1bq1rk1/5ppp/5b2/p3p3/2Pp4/1B6/PP2QPPP/RN1R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2093"]
+[Round "Diagram 10-5"]
+[FEN "4rrk1/1b2bppp/2q5/p1b1p3/3pN3/5P2/PPB1Q1PP/2RR2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2093"]
+[Round "Diagram 10-6"]
+[FEN "4Br1k/1b2b1pp/2P4q/p3p3/2Qp4/5p2/PP4PP/2RR2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2093"]
+[Round "Diagram 10-7"]
+[FEN "5r1k/3Pb1pp/8/p7/2Q1p3/2Rpq3/PP3pPP/5R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2094"]
+[Round "Diagram 10-8"]
+[FEN "3b2rk/3P2pp/8/p7/8/2Q5/PP1pppPP/3R3K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2094"]
+[Round "Diagram 10-10"]
+[FEN "5B2/ppp4p/1bp1k3/6r1/1P2pp2/2P5/P2K1p1P/R4R2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2095"]
+[Round "Ex. 10-1"]
+[FEN "3r4/6pk/5b1p/5p2/Q7/2p2P2/1p3BPP/1R4K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2095"]
+[Round "Ex. 10-2"]
+[FEN "rn3qk1/1p5p/p1p1P1p1/3pp3/1P6/1Q4P1/P3PPBP/5RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2095"]
+[Round "Ex. 10-3"]
+[FEN "3bnN1k/1rn1q3/3p1pPP/2pP1R2/2N1P3/P7/1PR5/2K5 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2095"]
+[Round "Ex. 10-4"]
+[FEN "2r5/1r5k/PP3p2/1R3P1p/3pP2p/2p2P2/1p6/4R2K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2095"]
+[Round "Ex. 10-6"]
+[FEN "r6k/p5bp/2Q3p1/2pP1r2/q1Pp4/Pp3N1P/1P4P1/1K1R3R b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2096"]
+[Round "Ex. 10-7"]
+[FEN "5r1k/N5bp/6p1/3P4/2p5/Pp1p3P/1P4P1/KR5R b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2096"]
+[Round "Ex. 10-8"]
+[FEN "8/8/3K2k1/1N3b2/7n/P7/1P6/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2096"]
+[Round "Ex. 10-10"]
+[FEN "4r3/p3N2k/3p1P1p/8/2p5/4R3/1r2n1PP/5R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2101"]
+[Round "Diagram 1-1"]
+[FEN "rn1qkb1r/ppp1pppp/5n2/3p1b2/8/5NP1/PPPPPPBP/RNBQK2R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2102"]
+[Round "Diagram 11-2"]
+[FEN "r2q1rk1/ppp1bppb/2n1pn1p/3p4/2P5/1P1P1NP1/PB1NPPBP/R2Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2102"]
+[Round "Diagram 11-3"]
+[FEN "r2q1rk1/pp2bppb/2n1pn1p/2pp4/4P3/1P1P1NP1/PBPNQPBP/R4RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2103"]
+[Round "Diagram 11-4"]
+[FEN "2r2rk1/ppq1bppb/1n2p2p/4P3/PnP5/1N3NP1/1BP1QPBP/R2R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2103"]
+[Round "Diagram 11-5"]
+[FEN "2r2rk1/ppq2ppb/4p2p/P1b1P3/2n5/1NB2NP1/2n1QPBP/2RR2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2104"]
+[Round "Diagram 11-6"]
+[FEN "2R2rk1/QB3ppb/4p2p/P3P3/3n4/1N4P1/5PKP/1q6 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2104"]
+[Round "Diagram 11-7"]
+[FEN "r1b1qrk1/pppn1pbp/3p1np1/4p3/2Pb4/4bN1P/PP2BPPB/RN1Q1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2105"]
+[Round "Diagram 11-8"]
+[FEN "r4rk1/ppp1qpb1/3p1np1/5b1p/2PPp3/N3b2P/Pb1QBbPB/2R2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2105"]
+[Round "Diagram 11-9"]
+[FEN "r4rk1/ppp1qpb1/5np1/1NPp1b1p/3bp3/4P2P/Pb1QBPPB/2R2RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2106"]
+[Round "Diagram 11-10"]
+[FEN "r1r1n1k1/p1p1qpb1/1pP3p1/1N1p1b1p/Q2bp3/4b2P/Pb2BPPB/2R2RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2106"]
+[Round "Diagram 11-11"]
+[FEN "r2rn1k1/2p2pb1/ppP1q1p1/3p1b1p/3bp3/1QN1b2P/Pb2BPPB/2R2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2106"]
+[Round "Diagram 11-12"]
+[FEN "r2rn1k1/2p2p2/ppP1qb2/3p1b1p/3b2p1/1QN1PB1P/PP4PB/2R2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2107"]
+[Round "Diagram 11-13"]
+[FEN "r2rn1k1/2p2p2/ppP2b2/3B1b1p/3b4/1QN1q2p/PP4PB/4RR1K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2107"]
+[Round "Diagram 11-14"]
+[FEN "r4k2/2p2p2/ppP5/7p/3rB3/8/PP5B/6RK w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2109"]
+[Round "Ex. 11-1"]
+[FEN "r2qr1k1/pp2bpp1/4pn1p/4Qb2/2Pp4/1P1P2P1/PB3PBP/RN1R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2109"]
+[Round "Ex. 11-2"]
+[FEN "1q1rr1k1/pp1nbpp1/2R4p/3p1b2/N2p4/1P2PNP1/PB2QPBP/3R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2109"]
+[Round "Ex. 11-3"]
+[FEN "rn1q1rk1/pp2bppb/4pn1p/2ppN3/8/1P1PP1P1/PBPN1PBP/R2Q1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2109"]
+[Round "Ex. 11-4"]
+[FEN "3r1rk1/ppq1bppb/4p3/2p1P2Q/2R5/1P2P1P1/PB3PBP/5RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2109"]
+[Round "Ex. 11-5"]
+[FEN "r2q1rk1/1p1n1ppb/2pbp2p/p2p4/2PB4/PP1P1NP1/1Q2PPBP/R4RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2109"]
+[Round "Ex. 11-6"]
+[FEN "r1b2rk1/pppnq1bp/3p4/5pp1/1PPPp3/4P2P/P1NQBPPB/R4RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2110"]
+[Round "Ex. 11-7"]
+[FEN "r3nrk1/1bpnq1bp/1p1pp1p1/p4p2/1PPP4/1QN1PN1P/P3BPPB/2R2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2110"]
+[Round "Ex. 11-8"]
+[FEN "r3nrk1/1b1nq1bp/1p1pp3/5pp1/1Q1P4/2N1bN1P/P3BPPB/2R2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2110"]
+[Round "Ex. 11-9"]
+[FEN "r2q1rk1/pp1nbppb/4pn1p/3p4/4P3/1PNP1NP1/PB3PBP/R2QR1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2110"]
+[Round "Ex. 11-10"]
+[FEN "rn3rk1/pp2bppp/1qp2n2/3p1b2/8/2NP1NP1/PPQ1PPBP/R1B2RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2110"]
+[Round "Ex. 11-11"]
+[FEN "r2q1rk1/1pp1bppb/2n2n1p/p2p4/8/PP1P1Nb1/1BQNPPBP/R4RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2110"]
+[Round "Ex. 11-12"]
+[FEN "r2q1rk1/pp1nbppb/2n1p2p/2ppP3/7P/1P1P1NP1/PBPN1PB1/R2QR1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2115"]
+[Round "Diagram 12-1"]
+[FEN "1r1r2k1/p2n1ppp/2n1p3/2p5/2P5/P1B1P3/3NKPPP/RR6 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2116"]
+[Round "Diagram 12-2"]
+[FEN "1r4k1/3n1ppp/p1n1p3/2p5/2P5/P1B1P3/3NKPPP/R7 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2116"]
+[Round "Diagram 12-3"]
+[FEN "1r6/5kpp/p3pp2/n1p4P/n1P3P1/b3b3/3NKb2/B2R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2117"]
+[Round "Diagram 12-4"]
+[FEN "1r6/5kpp/pn2p3/2N2pPP/2n5/P3b3/4KP2/B2R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2117"]
+[Round "Diagram 12-5"]
+[FEN "2r5/5kpp/pn1Rp3/5pbP/8/P3P3/4KP2/B7 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2118"]
+[Round "Diagram 12-6"]
+[FEN "8/4kppp/4b3/pr1p4/3P4/PNK5/5PPP/7R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2118"]
+[Round "Diagram 12-7"]
+[FEN "8/5ppp/P1bk4/3p4/1r1P4/1N6/3K1PPP/R7 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2118"]
+[Round "Diagram 12-8"]
+[FEN "b3r3/k4ppp/P7/2Np4/3P4/8/3K1PPP/1R6 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2119"]
+[Round "Diagram 12-9"]
+[FEN "8/2r2p2/Pk4p1/1bNp3p/1K1P3P/5R2/5PP1/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2119"]
+[Round "Diagram 12-10"]
+[FEN "bk6/4rp2/PN3Rp1/1K1p3p/3P3P/8/5PP1/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2119"]
+[Round "Diagram 12-11"]
+[FEN "1r6/2R2pk1/6p1/2pr4/3p4/1P6/5PP1/2R2K2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2120"]
+[Round "Diagram 12-12"]
+[FEN "7r/2R2pk1/6p1/2Rr4/8/1P1p4/5PP1/5K2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2121"]
+[Round "Ex. 12-1"]
+[FEN "8/p2n4/2p1k1p1/2P1p2p/3rP2P/1P1NK1P1/P1R5/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2121"]
+[Round "Ex. 12-2"]
+[FEN "2r3k1/p1rp1pbp/1p4p1/8/4B3/PP2P1P1/5P1P/1R1R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2121"]
+[Round "Ex. 12-3"]
+[FEN "rn2k2r/pp3pp1/3pp2p/3p1b2/3P4/4PN2/PPPKBPPP/R6R w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2121"]
+[Round "Ex. 12-4"]
+[FEN "1R6/8/1p1r1k1p/p5p1/PbB3P1/1P2P2P/4K3/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2121"]
+[Round "Ex. 12-5"]
+[FEN "r1r5/pp1nkpp1/3pp2p/P2p1b2/3P4/4PN2/1PPKBPPP/R1R5 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2122"]
+[Round "Ex. 12-7"]
+[FEN "4r3/ppp2r1k/4p1p1/6Rp/2n1PP1P/4B3/Pb3b2/2KR4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2122"]
+[Round "Ex. 12-10"]
+[FEN "6r1/p1pr1n1k/1p4p1/7p/P3PB1P/1P3P2/2K3R1/6R1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2122"]
+[Round "Ex. 12-12"]
+[FEN "2R5/1r6/1p3kp1/2p1n2p/4PB1P/1P3P2/4K3/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2127"]
+[Round "Diagram 13-1"]
+[FEN "r4rk1/1b2bppp/ppq1pn2/2ppB3/5P2/1P1BP1N1/P1PPQ1PP/R4RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2127"]
+[Round "Diagram 13-2"]
+[FEN "r4rk1/1b2bpB1/ppq1p3/2pp3Q/5P2/1P2P3/P1PP2PP/R4RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2128"]
+[Round "Diagram 13-3"]
+[FEN "r4r2/1b2bp1k/ppq1p3/2pp4/5PQ1/1P2P3/P1PP2PP/R4RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2128"]
+[Round "Diagram 13-4"]
+[FEN "3r1rk1/p3qp1p/2bb2p1/2p5/3P4/1P6/PBQN1PPP/2R2RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2129"]
+[Round "Diagram 13-5"]
+[FEN "3r1rk1/p4p1p/6p1/2p5/3P3q/1P3P2/PBQN2b1/2R2RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2129"]
+[Round "Diagram 13-6"]
+[FEN "3rr1k1/p4p1p/6p1/2p5/3PN3/1P3P2/PBQ2K2/2R2b1q w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2130"]
+[Round "Diagram 13-7"]
+[FEN "r2q1rk1/pp1b1ppp/3b4/3p3Q/3Pn3/3B4/PP3PPP/RNB2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2131"]
+[Round "Ex. 13-1"]
+[FEN "r1b2rk1/2qpbppp/p1p1p3/2Pn4/N2B1P2/3B4/PP4PP/b2Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2131"]
+[Round "Ex. 13-2"]
+[FEN "3r1rk1/bpq2ppp/p1b1p3/2P5/1P2B3/b4Q2/1B3PPP/2R2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2131"]
+[Round "Ex. 13-3"]
+[FEN "3qr1k1/1br2ppp/p2b4/8/PpNp4/3P4/1PP2PPP/R1BQ1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2131"]
+[Round "Ex. 13-4"]
+[FEN "r2q1rk1/1b2bppp/1p2p3/pPnp4/3B1P2/b2BP3/2P3PP/RN1Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2131"]
+[Round "Ex. 13-5"]
+[FEN "1q1r1rk1/pb1nbppp/1p2p3/1NppN3/2PPnP2/1P1BP3/PB2Q1PP/3R1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2131"]
+[Round "Ex. 13-6"]
+[FEN "r4rk1/1b1nbppp/pq2p3/1pppB1P1/3P4/2PBPQ1P/PP1N1P2/3RK2R w K - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2132"]
+[Round "Ex. 13-7"]
+[FEN "r4rk1/ppqb1ppp/4p1n1/2Ppn3/3B4/P1PB1N2/2P2PPP/1R1QK2R w K - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2132"]
+[Round "Ex. 13-8"]
+[FEN "1q1r1rk1/pb1n1ppp/1p1bp3/3p4/2Pb1b2/1P1B4/PB1NQ1PP/2R2R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2132"]
+[Round "Ex. 13-9"]
+[FEN "2r2rk1/pb2bppp/1p1qp3/n2P4/2P5/3B4/PB1NQPPP/2R2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2132"]
+[Round "Ex. 13-10"]
+[FEN "1rbq1rk1/5ppp/p2bp3/1p2B3/3PB3/8/Pb3bPP/2RQ1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2132"]
+[Round "Ex. 13-12"]
+[FEN "rq3rk1/1b1nbppp/p3pn2/1pp1N3/5b2/NP1B4/PBPbQ1PP/4RRK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2137"]
+[Round "Diagram 14-1"]
+[FEN "5k2/p1r5/R1p5/3n4/3Pp1pp/4P3/P4PKP/4B3 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2138"]
+[Round "Diagram 14-2"]
+[FEN "2r5/8/3R4/B1pn1k2/3bp1pp/P3b3/5PKP/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2139"]
+[Round "Diagram 14-4"]
+[FEN "4r3/2p3kp/1p1p2p1/p2Q1q2/2P1rP2/6P1/PP3RKP/3R4 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2140"]
+[Round "Diagram 14-5"]
+[FEN "4r3/2p5/1p1p1kp1/p2Q1q1p/2PR1P2/1P2r1bP/P4RK1/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2140"]
+[Round "Diagram 14-7"]
+[FEN "r2qk2r/1pp2ppp/p2p1n2/2b1p3/3nP3/2NP2bP/PPP2PB1/R1BQ1RK1 b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2141"]
+[Round "Diagram 148"]
+[FEN "r3k2r/1pp2pp1/p2pnq2/2b1p2p/4P3/2NP1QPP/PPP2PB1/R4RK1 b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2141"]
+[Round "Diagram 14-9"]
+[FEN "r4rk1/ppp1bppp/2n3b1/3q4/3P4/P1P2N2/5PPP/R1BQRBK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2142"]
+[Round "Diagram 14-10"]
+[FEN "r1r3k1/ppp2ppp/5bb1/n2PNq2/2P5/P7/3BRPPP/3QRBK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2142"]
+[Round "Diagram 14-11"]
+[FEN "rr4k1/2p1Bppp/3b4/np3q2/3P4/2P5/B4PPP/R2QR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2143"]
+[Round "Diagram 14-12"]
+[FEN "8/6pk/6qp/1p1p1R2/3b2P1/2bQ3P/5bK1/2r5 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2144"]
+[Round "Ex. 14-1"]
+[FEN "5r2/1pr2p1k/3R1Qp1/p1qB3p/2P4P/1P4b1/P3Pb2/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2144"]
+[Round "Ex. 14-2"]
+[FEN "r2rb1k1/p1q1bppp/1pp1p3/3n4/1PNbN3/P3bB2/2Q2bPP/2R2RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2144"]
+[Round "Ex. 14-3"]
+[FEN "2r1r1k1/5pbp/p2p1np1/qppPn3/4P3/1PN1BP2/P1RQB1PP/1R4K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2144"]
+[Round "Ex. 14-4"]
+[FEN "r3rbk1/pp3p1p/5np1/2np4/8/1NP1N3/Pb3bPP/R1BR2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2144"]
+[Round "Ex. 14-6"]
+[FEN "3r4/pp3pk1/1b4p1/3p2b1/1P3BN1/RnP2PK1/1r6/3R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2145"]
+[Round "Ex. 14-7"]
+[FEN "5bk1/5p2/p3p1pp/1p1pP3/1q3PP1/3BP1K1/PP5P/2Q5 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2145"]
+[Round "Ex. 14-8"]
+[FEN "2n1k3/p4pp1/1pNbp2p/1P1n4/P2P4/6P1/5PBP/4BK2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2145"]
+[Round "Ex. 14-9"]
+[FEN "2rr2k1/p2q1pbp/1p4p1/2ppPn2/8/PP2PPb1/1B1QN1KP/2R2R2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2145"]
+[Round "Ex. 14-10"]
+[FEN "r4r2/pbpnqpk1/1p1pp2p/6p1/2PP4/2PBP1P1/P2NQRPP/R5K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2145"]
+[Round "Ex. 14-12"]
+[FEN "r2qk2r/p3b3/1nn1b3/1p1pPpp1/2pP4/P1P2N2/1P2NR1P/R1BQ1BK1 w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2149"]
+[Round "Diagram 15-1"]
+[FEN "6k1/1pqr1pbp/p1np2p1/3Q4/3P1B1P/2P5/P4PP1/1R3BK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2149"]
+[Round "Diagram 15-2"]
+[FEN "5rk1/2q1bppp/1nn1b3/1pp1p3/4P3/2P1NN1P/1PB2PP1/2BQR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2150"]
+[Round "Diagram 15-3"]
+[FEN "3r1k2/4bppQ/2n5/1ppqp3/8/2P2N1P/1P3bP1/2B1R1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2150"]
+[Round "Diagram 15-4"]
+[FEN "5kn1/4bppQ/3r4/1ppqp3/8/2P1B1NP/1P3bP1/4R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2150"]
+[Round "Diagram 15-5"]
+[FEN "r1b2rk1/1pqn1ppp/p3pn2/4b1B1/4N3/1N1B4/PPP1QbPP/1K1R3R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2151"]
+[Round "Diagram 15-6"]
+[FEN "r1b2r1k/1pq2p1p/p3pp2/4b3/6Q1/1N1B4/PPP3PP/1K1R1R2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2151"]
+[Round "Diagram 15-7"]
+[FEN "r1b2r2/1pq2pkB/p3p3/4bp2/7Q/1N6/PPP3PP/1K1R1R2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2151"]
+[Round "Diagram 15-8"]
+[FEN "r1b1rk2/1pq2p1B/p3p3/4b1P1/5p1Q/1N3R2/PPP4P/1K1R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2152"]
+[Round "Diagram 15-9"]
+[FEN "r5k1/1p3pbp/2q1p1p1/p1p1b3/n1P5/b4N1P/1b2QbP1/3RB1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2152"]
+[Round "Diagram 15-10"]
+[FEN "4Rb2/1pq2pkp/4p1p1/r1p1b1Q1/n1P5/b4N1P/1b3bP1/6K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2153"]
+[Round "Ex. 15-1"]
+[FEN "3rr1k1/ppq1p1bp/2p1bppB/3nn3/7Q/1B3NNP/PPP2PP1/R3R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2153"]
+[Round "Ex. 15-2"]
+[FEN "rnb2rk1/ppnq2pp/3p4/b3p1Q1/2P1N3/1P1N4/PBK2PPP/R4B1R b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2153"]
+[Round "Ex. 15-3"]
+[FEN "6k1/1br3p1/4p2p/2b3q1/8/1Q4P1/P1R2P1P/2R3K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2153"]
+[Round "Ex. 15-4"]
+[FEN "r1bq1rk1/1p3pp1/1n1bpn1p/p1p1B3/P2P4/1B3N2/1PP1QPPP/2KR2NR b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2153"]
+[Round "Ex. 15-6"]
+[FEN "r1b2k1r/1p3pb1/p1nppp2/7p/q1P1PP2/PN4Q1/4B1PP/RN3RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2159"]
+[Round "Diagram 16-1"]
+[FEN "r2qk2r/1pp2pp1/p1n1pnp1/8/PbBP2P1/2N1PQ1P/1P3P2/R1B1K2R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2160"]
+[Round "Diagram 16-2"]
+[FEN "r2qk2r/1pp2pP1/p1n3p1/8/PbB5/4PQ1P/1p2KP2/R1B4R b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2160"]
+[Round "Diagram 16-3"]
+[FEN "r3kb1r/1bq2pp1/p3p2p/1pn1b3/7B/2N4Q/PPP1B1PP/2KRR3 b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2161"]
+[Round "Diagram 16-4"]
+[FEN "r3kb1r/2q2pp1/2b1p2p/1Bn1b3/1p5B/5Q2/PPP3PP/2KRR3 b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2161"]
+[Round "Diagram 16-5"]
+[FEN "4k2r/3q1p2/2Q1p3/1Bb1P1p1/1p6/1P4K1/1PP3PP/3rR3 b k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2162"]
+[Round "Diagram 16-7"]
+[FEN "8/8/1N1r4/1k1p4/8/8/6Kb/6B1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2163"]
+[Round "Ex. 16-1"]
+[FEN "2k3r1/pp3p1p/2p1pq2/3n2r1/4B2Q/2P4P/PP3PP1/R3RK2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2163"]
+[Round "Ex. 16-2"]
+[FEN "2rrk3/p4ppp/bp1Pp3/8/1RPb4/4K1P1/P4PBP/1R6 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2163"]
+[Round "Ex. 16-3"]
+[FEN "3rkb1r/p2bpp1p/2B3p1/2p5/Q3P3/2q5/P3KPPP/R1B3NR w k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2163"]
+[Round "Ex. 16-4"]
+[FEN "6k1/1pp2pp1/3p3p/P2q2n1/1B1br2P/P5P1/5Q1K/3R1R2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2163"]
+[Round "Ex. 16-5"]
+[FEN "r5k1/p4pp1/7p/1p6/4Bb2/2q4P/Pn3PP1/4R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2164"]
+[Round "Ex. 16-7"]
+[FEN "2rr2k1/ppqb1ppp/2n1p3/1Nb4n/2B1P3/P4N2/1PQ2PPP/2BR1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2164"]
+[Round "Ex. 16-8"]
+[FEN "3q1r1k/1p3Q1p/p2np1p1/4N3/3PR3/P7/1P3PPP/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2164"]
+[Round "Ex. 16-9"]
+[FEN "r2qk1r1/p1R1bp1p/5Bp1/3nP3/8/2Q5/PP3PPP/4R1K1 w q - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2164"]
+[Round "Ex. 16-10"]
+[FEN "5rk1/1p4q1/p1b1p3/4P3/3p3R/3B1rP1/PP2Q3/2R3K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2164"]
+[Round "Ex. 16-1"]
+[FEN "2B1rrk1/pp2b2p/3p1q2/4n1n1/2Pp1N2/BP2P1P1/P1QR1PK1/7R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2164"]
+[Round "Ex. 16-12"]
+[FEN "r5k1/p2pn3/1p4N1/3q2p1/8/2PQ2P1/PP4KP/5R2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2169"]
+[Round "Diagram 17-1"]
+[FEN "r2q2k1/pb1rnpb1/1p2p1p1/4P3/3bB3/P3BN2/4QPP1/3R1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2169"]
+[Round "Diagram 17-2"]
+[FEN "r2q2k1/p2r1pb1/1p2p1p1/3bPnN1/3PB1Q1/P3B3/5PP1/3R1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2170"]
+[Round "Diagram 17-3"]
+[FEN "r2q1k2/p2r2bQ/1p2pp2/3bPpN1/3P4/P3B3/5PP1/3R1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2170"]
+[Round "Diagram 17-4"]
+[FEN "r4k2/p2r1qbQ/1p2p3/3b1pB1/3P1N2/b7/5PP1/3R1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2170"]
+[Round "Diagram 17-5"]
+[FEN "3r4/p2rkq2/1p2pb1Q/3b1pB1/3P1N2/P7/5PP1/2R2RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2171"]
+[Round "Diagram 17-6"]
+[FEN "8/pr6/4pk2/1p1b1p2/3P4/P4P2/5KP1/2R1R3 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2171"]
+[Round "Diagram 17-8"]
+[FEN "r2q1rk1/pb1n1pp1/1pp2b1p/3p4/3P4/1QNBPN2/PP3PPP/R4RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2172"]
+[Round "Diagram 17-9"]
+[FEN "r2qr1k1/pb1n1pp1/1pp2b1p/3p4/3b4/1QNBPN2/PP3PPP/3R1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2172"]
+[Round "Diagram 17-10"]
+[FEN "rq2r1k1/pb1nbpp1/1pp4p/3p4/3P4/1QN1bN2/PP3PPP/1B1RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2173"]
+[Round "Diagram 17-11"]
+[FEN "r5k1/pbqnrpp1/1ppb3p/8/3PN3/PQ3N2/BP3PPP/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2173"]
+[Round "Diagram 17-12"]
+[FEN "1qr1r1k1/3nbpp1/ppbppn1p/8/1bP1P3/bNN1BP1P/5bP1/2RR1BK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2174"]
+[Round "Diagram 17-13"]
+[FEN "2r1r1k1/q2nbpp1/ppb2n1p/3p4/PPP5/1NN1BP1P/5QP1/1RR2BK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2174"]
+[Round "Diagram 17-14"]
+[FEN "1qr3k1/1b1n1pp1/pb2rn1p/2Pp4/1b1B4/1NN2P1P/5QP1/1RR2BK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2175"]
+[Round "Ex. 17-1"]
+[FEN "r3k2r/ppqb1pp1/2pbp2p/8/2B1Q2B/2P5/PPP2PPP/2KR3R w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2175"]
+[Round "Ex. 17-3"]
+[FEN "r1bqr1k1/1pp2pp1/p2b1n1p/8/2BBP3/P1N4P/1P3PP1/R2QR1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2175"]
+[Round "Ex. 17-4"]
+[FEN "r1bqr1k1/ppp1npbp/6p1/1P2p3/P2n4/B1N2NP1/3PPPBP/R2Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2175"]
+[Round "Ex. 17-6"]
+[FEN "r2qk2r/2pbbp2/1p1p1np1/p1nPp2p/2P1P2P/2N1BPP1/PPQNB3/2KR3R w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2176"]
+[Round "Ex. 17-7"]
+[FEN "3k4/8/2B1p3/2p1Pb2/2P2P2/1K4R1/7r/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2176"]
+[Round "Ex. 17-9"]
+[FEN "8/1R4pk/1p1Bn2p/8/r7/5P2/5KPP/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2176"]
+[Round "Ex. 17-10"]
+[FEN "r1b3k1/pp1nb1pp/2p1p3/3pPr1q/2PP2n1/1P3NPB/PBQN1PK1/R4R2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2176"]
+[Round "Ex. 17-12"]
+[FEN "2r1k2r/p2nqppp/bppb1n2/3pN3/3P4/1P4P1/PB1NPPBP/R2Q1RK1 w k - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2182"]
+[Round "Diagram 18-1"]
+[FEN "r1bqkbnr/pp1p1ppp/2n1p3/2p1b3/2P5/2N2N2/PP1P1PPP/R1BQKB1R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2182"]
+[Round "Diagram 18-2"]
+[FEN "r1bqkbnr/1p1p1ppp/p3p1n1/8/2PN4/2N3B1/PP3PPP/R2QKB1R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2183"]
+[Round "Diagram 18-3"]
+[FEN "r1bq1rk1/1p1pbppp/p3pnn1/8/2P5/2NB2B1/PPNQ1PPP/2KR3R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2183"]
+[Round "Diagram 18-4"]
+[FEN "r1bq1rk1/1p1p1pp1/p4nn1/4p2p/2P4P/2Q1N1B1/PP2BPP1/2KR3R b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2184"]
+[Round "Diagram 18-5"]
+[FEN "r2q1rk1/1p3pp1/p2p1nn1/4p2p/1bP4P/4NPB1/PP3P2/1K1R3R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2184"]
+[Round "Diagram 18-6"]
+[FEN "r2r2k1/5pp1/p2p1nn1/q3p2p/2P4P/1Q1RNPB1/Pb3P2/1K5R b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2184"]
+[Round "Diagram 18-7"]
+[FEN "r2rn1k1/5pp1/p1np4/4p2p/2P4P/R3NPB1/PP3P2/1K1R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2185"]
+[Round "Diagram 18-8"]
+[FEN "r3n3/1R1n2p1/4kp2/p2Np2p/2P4b/1P3PB1/P7/1K6 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2185"]
+[Round "Diagram 18-9"]
+[FEN "4n3/1R1n2p1/r2k1p2/p2NpP1p/2P4P/1P4B1/P7/1K6 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2185"]
+[Round "Diagram 18-10"]
+[FEN "rnbqkbnr/pp3ppp/2p1p3/3p4/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2186"]
+[Round "Diagram 18-11"]
+[FEN "r1b1k1nr/pp3ppp/n1p1p3/8/2P1q3/2B5/PP2BPPP/R2QK1NR w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2186"]
+[Round "Diagram 18-12"]
+[FEN "r1b1k1r1/pp2np1p/n1p1pB2/8/2P2q2/8/Pb2BPPP/R2QK1NR w KQq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2187"]
+[Round "Diagram 18-13"]
+[FEN "r1b1k3/pp2n2p/n1p1pp2/8/2P2q2/2B2N2/PP2BPrP/R2QK2R w KQq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2187"]
+[Round "Diagram 18-14"]
+[FEN "r1b5/pp2nk1p/n1p2p2/4p3/2P1N3/2B5/PP2BPrP/R3K2R w KQ - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2188"]
+[Round "Diagram 18-15"]
+[FEN "r1b3r1/pp2nk1p/n1p2p2/4p3/2P1NP2/2B5/PP2B2P/3RK2R b K - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2188"]
+[Round "Diagram 18-16"]
+[FEN "r1b3r1/pp2k2p/n1p2b2/4B3/2P1N3/8/PP2n2P/4K2R w K - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2188"]
+[Round "Diagram 18-17"]
+[FEN "r3k1r1/pp5p/n1pB3R/8/2P1N3/7b/PP2K2P/7R b q - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2189"]
+[Round "Diagram 18-18"]
+[FEN "6r1/pp3k1p/n1pB2bR/8/2P2K2/8/PP5P/4R3 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2190"]
+[Round "Ex. 18-1"]
+[FEN "r1br2k1/pp2n1pp/2n1p3/2p2p2/2P1Nq2/2BB2b1/PP3P1P/R2QR1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2190"]
+[Round "Ex. 18-2"]
+[FEN "r1b1k2r/p2n1ppp/1p1bpn2/2p5/2P1q3/2B2N2/PP2BPPP/R3K2R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2190"]
+[Round "Ex. 18-4"]
+[FEN "r3k2r/pp1b1ppp/n1pQpn2/B3Nq2/2P5/8/PP2BPPP/R3K2R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2190"]
+[Round "Ex. 18-6"]
+[FEN "rnb4r/pp3kpp/2p2pn1/2B1p3/2P4q/5P1N/PP1QB1PP/2KR3R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2191"]
+[Round "Ex. 18-7"]
+[FEN "rnb4r/pp3kpp/2p2qn1/2B1pp2/2P5/5PP1/PP1QBN1P/2KR3R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2191"]
+[Round "Ex. 18-8"]
+[FEN "r6r/pp3kpp/n1p1bqn1/4pp2/2P5/B4PP1/PP1QBN1P/2KR1R2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2191"]
+[Round "Ex. 18-9"]
+[FEN "r1b2rk1/1p2q1pp/pB1ppp2/Q3nn2/2P5/2N5/PP3PPP/2KR1B1R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2191"]
+[Round "Ex. 18-10"]
+[FEN "r1b1k2r/1p1pn1pp/pBn1pp2/8/2P2P2/2N5/PP4PP/2KR1B1R b kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2191"]
+[Round "Ex. 18-11"]
+[FEN "r1b1k2r/1p1q2pp/pB1ppp2/Q3nn2/2P5/2N5/PP3PPP/R3KB1R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2191"]
+[Round "Ex. 18-12"]
+[FEN "r1b1k2r/1p4pp/p1nppp2/2B2n2/2P5/2N5/PP3PPP/2KR1B1R w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2197"]
+[Round "Diagram 19-1"]
+[FEN "2b3k1/5qp1/p2r1n1p/3p4/3B4/1RP3QP/P2Nr1P1/3R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2198"]
+[Round "Diagram 19-2"]
+[FEN "r2q1rk1/p5bp/1n2p1p1/2p2p1P/P2PP1n1/2PQ4/3BN3/R1N1K2R w KQ - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2198"]
+[Round "Diagram 19-3"]
+[FEN "3rn1k1/pp3ppp/6b1/2p1Q3/2P1P3/P4P2/1B1qBP1P/1R5K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2199"]
+[Round "Diagram 19-4"]
+[FEN "3rn1k1/pp1R1ppp/6b1/q1p1Q3/2P1P3/P4P2/1B2BP1P/7K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2199"]
+[Round "Diagram 19-5"]
+[FEN "3qbnk1/3r2b1/1p1r1p2/p2p1PpQ/8/PBBRN2R/1P4P1/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2200"]
+[Round "Diagram 19-6"]
+[FEN "r5k1/1p2Rpb1/3p1np1/2nP2B1/1qP5/1pN1Q2P/P5P1/1B4K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2200"]
+[Round "Diagram 19-7"]
+[FEN "4r1k1/pp3p1p/3P2p1/5b2/3Q4/b2qB2P/5PP1/R5K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2201"]
+[Round "Diagram 19-8"]
+[FEN "r3r1k1/2n1ppb1/p2q2p1/2NP1bN1/Pp5Q/8/2P1BPPP/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2202"]
+[Round "Ex. 19-1"]
+[FEN "5bk1/p5pp/1r2qp2/Q2R4/1PB3b1/B1n1PNP1/P4P1P/6K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2202"]
+[Round "Ex. 19-2"]
+[FEN "r1bqnrk1/p3b1pp/1p2Pp2/4pN2/8/1nN1B3/PPP3PP/R2Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2202"]
+[Round "Ex. 19-3"]
+[FEN "r1R2nk1/5ppp/1p2pn2/p2N4/3P1P2/3qPN2/PP4PP/2R3K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2202"]
+[Round "Ex. 19-4"]
+[FEN "1n3rk1/ppr1qp2/1n2p1pb/2NpP2p/3P1P2/1P2B2P/P1R2P2/2R1QBK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2202"]
+[Round "Ex. 19-5"]
+[FEN "4r2k/1ppq3p/p1np1bp1/3B4/1P2QP2/P3B2P/2P3P1/4R2K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2202"]
+[Round "Ex. 19-6"]
+[FEN "r2q1rk1/2p3bp/bp1p4/2nPp2p/1PP1Pp2/2N2P2/2Q2BPP/R3NRK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2203"]
+[Round "Ex. 19-7"]
+[FEN "2r2rk1/pb3p1p/1pn1p1p1/2pqN3/8/2QP2P1/Pb2PPBP/1R3RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2203"]
+[Round "Ex. 19-10"]
+[FEN "2r1r3/pp2ppkp/3p2p1/3nqP2/4P2Q/b2P1R2/1P4PP/5R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2203"]
+[Round "Ex. 19-1"]
+[FEN "3r3k/5pp1/p3n2p/1p1Bq3/7P/1P3QP1/P4PK1/3R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2203"]
+[Round "Ex. 19-12"]
+[FEN "2kr3r/pppqbp2/5n1p/3pn3/Q2P2p1/2PB2B1/PP3PPP/R3R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2207"]
+[Round "Diagram 20-1"]
+[FEN "3nbk2/1r3p1p/p2r1np1/P2p4/3N1P2/2N1P3/5P1P/2RR1BK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2208"]
+[Round "Diagram 20-2"]
+[FEN "3nbk2/1r3p1p/p2r1np1/b2p4/3N1P2/4b3/N4b1P/R2R1BK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2208"]
+[Round "Diagram 20-3"]
+[FEN "4bk2/4rp1p/p2rnnp1/b2p4/1N1N1P2/4bP2/7P/RR3BK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2208"]
+[Round "Diagram 20-4"]
+[FEN "4bk2/2rn1p1p/p2r2p1/b1npN3/3N1b2/4PP2/7P/1RR2BK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2209"]
+[Round "Diagram 20-5"]
+[FEN "1R2b3/2n1k2p/p2r1p2/b2p1Pp1/3N4/4bP2/7P/4KB2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2209"]
+[Round "Diagram 20-6"]
+[FEN "8/4k2p/3r1p2/PR1p1Pp1/8/4bP2/7P/4K3 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2210"]
+[Round "Diagram 20-7"]
+[FEN "1r6/p3kpp1/Pr1ppn1p/R2p4/1p1P3P/3BPP2/1PPK2P1/R7 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2210"]
+[Round "Diagram 20-8"]
+[FEN "8/p3kpp1/Pr1ppn1p/3p4/1p1P2PP/3BbP2/1PPK4/R7 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2210"]
+[Round "Diagram 20-9"]
+[FEN "6r1/p2nkppR/P2pp3/3p2P1/1p1P4/3BPP2/1PPK4/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2211"]
+[Round "Diagram 20-10"]
+[FEN "6r1/p1k2ppR/Pn1pp3/K2p2P1/3P4/3BPP2/1P6/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2211"]
+[Round "Diagram 20-11"]
+[FEN "6r1/p2k1ppR/Pn1pp3/K2p2P1/3P4/1P1BPP2/8/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2212"]
+[Round "Diagram 20-12"]
+[FEN "6r1/p2nk1pR/P2pp3/K2p2P1/3b4/1P2b3/4B3/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2212"]
+[Round "Diagram 20-13"]
+[FEN "5n1R/K3k1p1/P2pp3/3p2P1/3P4/1r2P3/8/3B4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2213"]
+[Round "Ex. 20-1"]
+[FEN "8/1p1k1p1p/p2n1bp1/P1pP4/8/1K1B4/5bPP/1R6 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2213"]
+[Round "Ex. 20-3"]
+[FEN "5n2/1q2rkp1/pp1Rpp1p/2p5/P1P4P/1P1QPPB1/6P1/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2213"]
+[Round "Ex. 20-4"]
+[FEN "8/2Bn4/1p2ppk1/p1p5/P1P1PKP1/1P6/8/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2213"]
+[Round "Ex. 20-6"]
+[FEN "8/5p2/1p1k2p1/p1p3P1/P2p1P2/1P1Pn3/2P2K2/4N3 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2214"]
+[Round "Ex. 20-7"]
+[FEN "3r2k1/3r1pp1/1p2b2p/p1qpQ3/3R4/1P2PB1P/P4PP1/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2214"]
+[Round "Ex. 20-8"]
+[FEN "5rk1/3r1bp1/1p6/p2pqpQ1/3R4/1P2PB1P/P4P2/6RK w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2214"]
+[Round "Ex. 20-10"]
+[FEN "5k2/p3rp2/5np1/R2p3p/8/4PBPP/P4PK1/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2219"]
+[Round "Diagram 21-1"]
+[FEN "r1b1kb1r/pp1n1pp1/2p1pq1p/8/2BP4/2N1PN2/PP3PPP/R2QK2R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2220"]
+[Round "Diagram 21-2"]
+[FEN "r1b1k2r/pp1nqpp1/2pbp2p/8/2BP4/2N1PN2/PP3PPP/R2Q1RK1 w kq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2220"]
+[Round "Diagram 21-3"]
+[FEN "r1b2rk1/ppbnqpp1/2p1p2p/8/2BbN3/4bN2/PbQ2PPP/2R2RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2221"]
+[Round "Diagram 21-4"]
+[FEN "r1br2k1/1pbnqpp1/2p1p2p/p7/3PN3/1B2PN2/PPQ2PPP/2RR2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2221"]
+[Round "Diagram 21-5"]
+[FEN "3r1nk1/rpbbqpp1/2p1p2p/p1N5/3P4/PB2PN2/1bQ2PPP/2RR2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2222"]
+[Round "Diagram 21-6"]
+[FEN "r2rbnk1/1p2qpp1/1bp1p2p/p3P3/3PN3/PB3N2/1PQ2PPP/2RR2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2222"]
+[Round "Diagram 21-7"]
+[FEN "r2qbnk1/bp1r1pp1/2pNp2p/p3P3/3P4/PQ3N2/BP3PPP/2RR2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2222"]
+[Round "Diagram 21-8"]
+[FEN "r2qb1k1/1Q3pp1/1b2p1np/p2pP3/3N4/b7/BP3PPP/2RR2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2223"]
+[Round "Diagram 21-9"]
+[FEN "1r1q4/5pk1/1bR1pnpp/p2p4/8/P6P/1P1Q1PP1/1B3RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2223"]
+[Round "Diagram 21-10"]
+[FEN "2R5/qr1n1pk1/1b2p1pp/p2p4/5Q2/P6P/1P3PP1/1BR3K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2223"]
+[Round "Diagram 21-11"]
+[FEN "2R5/qr1nQpk1/4p1pp/p2pb3/8/P6P/1P3PP1/1BR4K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2224"]
+[Round "Diagram 21-12"]
+[FEN "rnbqkb1r/ppppp2p/5np1/5p2/2PP4/2N2P2/PP2P1PP/R1BQKBNR b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2224"]
+[Round "Diagram 21-13"]
+[FEN "r1bq1rk1/pp1np1bp/3p2p1/2pPn1B1/2P1P3/2N2N2/PP2B1PP/R2Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2224"]
+[Round "Diagram 21-14"]
+[FEN "1rb1qrk1/1p1np1b1/p2p2pp/2pPn3/2P1P3/b1N2N2/1PQBB1PP/R4R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2225"]
+[Round "Diagram 21-15"]
+[FEN "1rb2rk1/3npq2/3p2pp/1ppP4/1P1bPP2/P1N5/2QBB2P/R5RK w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2225"]
+[Round "Diagram 21-16"]
+[FEN "1r6/4p2k/3P2pp/1pp1P2q/4N3/P3Qr2/3B3P/6RK w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2227"]
+[Round "Ex. 21-1"]
+[FEN "4rrk1/p2q2bp/bp4p1/n1pP1pB1/2P5/3B2N1/P4PPP/2QRR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2227"]
+[Round "Ex. 21-2"]
+[FEN "4r1kb/pn1q3p/bp2N1p1/2pP1pB1/2P5/3B4/P4PPP/2Q1R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2227"]
+[Round "Ex. 21-3"]
+[FEN "r1b2rk1/1p2bppp/q1p1p3/4N3/p1QP1P2/P1N1R3/1P3PPP/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2227"]
+[Round "Ex. 21-4"]
+[FEN "2r2rk1/5pp1/bp1pn2p/pNq5/2PpPP2/P7/1P1Q1RPP/3R1BK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2227"]
+[Round "Ex. 21-5"]
+[FEN "r1b1rbk1/1p3p1p/2pp1np1/2n5/1qPNP3/1PN1B1PP/2Q2PB1/1R1R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2227"]
+[Round "Ex. 21-6"]
+[FEN "r1b1rbk1/pq3ppp/1pnpn3/3Np3/1PP1P2P/P4NP1/1B1RQPB1/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2228"]
+[Round "Ex. 21-7"]
+[FEN "1rb2rk1/2nnqp1p/p2p1bp1/1ppP4/P3PP2/2N1B1PP/1P1N4/R2QRBK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2228"]
+[Round "Ex. 21-8"]
+[FEN "r1b2rk1/ppbnqpp1/2p1p2p/2Pp4/3P4/P1NBPN2/1P3PPP/2RQ1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2228"]
+[Round "Ex. 21-9"]
+[FEN "r3r1k1/1bpnbpp1/pp1p1q1p/4p3/2NbP3/2P2N2/PPB1QPPP/1K1R3R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2228"]
+[Round "Ex. 21-10"]
+[FEN "r2qrbk1/1b1n1pp1/pp1p3p/2pPp3/4P1P1/2P1NN2/PbB1QP1P/1K1R3R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2228"]
+[Round "Ex. 21-11"]
+[FEN "2rq1rk1/pb2bppp/n1p1p3/8/Np1PP3/4N1P1/PP3PBP/2RQ1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2228"]
+[Round "Ex. 21-12"]
+[FEN "2r3k1/pb1rbppp/n1p1p3/q3P3/Np1P2Q1/1P2N1P1/P4PBP/2RR2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2233"]
+[Round "Diagram 22-1"]
+[FEN "r3kbnr/ppp2ppp/2n5/3qp3/3P2b1/2P2N2/PP1N1PPP/R1BQKB1R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2233"]
+[Round "Diagram 22-2"]
+[FEN "r3kbnr/pppq1ppp/8/n3p3/Q1BP4/2P2b2/PP1N1PPP/R1B1K2R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2234"]
+[Round "Diagram 22-3"]
+[FEN "1rbr2k1/5pb1/p1nq1npp/1ppNp1N1/4P3/2P1BQ1P/PPB2PP1/R3R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2234"]
+[Round "Diagram 22-4"]
+[FEN "1rbr2k1/4qp2/p1n2bpp/1pp1p1N1/4P3/2P1BQ1P/PPB2PP1/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2234"]
+[Round "Diagram 22-5"]
+[FEN "1rb3k1/5p2/p1n2Qp1/1pq1p1p1/4P3/2P4P/PPB2PP1/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2235"]
+[Round "Diagram 22-6"]
+[FEN "2kr4/pp1n4/1Rp5/8/q2P2QP/2P5/1K3PP1/7R b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2235"]
+[Round "Diagram 22-7"]
+[FEN "2k2r2/pp1n4/1Rp5/8/q2P2QP/2P2P2/1K4P1/7R b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2236"]
+[Round "Diagram 22-8"]
+[FEN "3rr1k1/ppb1qpp1/2p2n2/4n3/5PPp/2N1P2P/PPQBB1K1/R2R4 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2236"]
+[Round "Diagram 22-9"]
+[FEN "1n1rqrk1/1p4pp/pnpbpp2/3P4/4PPP1/PP1N2NP/1BQ5/R4RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2237"]
+[Round "Diagram 22-10"]
+[FEN "1n1rqrk1/1p4pp/p1pPpp2/2Q5/5PP1/PP1N2NP/1B6/5RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2238"]
+[Round "Ex. 22-1"]
+[FEN "3r2k1/p4pp1/1p6/n5p1/2Pp2N1/2Q2PPP/P3q3/4R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2238"]
+[Round "Ex. 22-2"]
+[FEN "r4r1k/pb2b1pp/1p2Qn2/5p2/3q4/2NB4/PP3PPP/R1B1R1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2238"]
+[Round "Ex. 22-4"]
+[FEN "5rk1/6p1/8/P7/3Bp3/1P5p/2R4P/4n1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2239"]
+[Round "Ex. 22-7"]
+[FEN "1r2k2r/5ppp/pqp5/4PbB1/1b1p4/1PN5/P2QPPPP/2R1KB1R w Kk - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2239"]
+[Round "Ex. 22-8"]
+[FEN "2rq1rk1/pb1nbppp/1p6/4p3/3NPB2/1P4P1/P3QPBP/R2R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2239"]
+[Round "Ex. 22-10"]
+[FEN "2r1k2r/p2nbpp1/2B1p1p1/1Pnp4/3b1P2/4P3/1P1B2PP/R3K2R w KQk - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2239"]
+[Round "Ex. 22-11"]
+[FEN "r4rk1/p2p2bp/nq1p1pp1/2p1P3/8/2B2P2/PP2N1PP/R2Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2243"]
+[Round "Diagram 23-1"]
+[FEN "rnbqkb1r/p2p1ppp/1p2pn2/2p3B1/3P4/4bN2/PbP2PPP/RN1QKB1R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2244"]
+[Round "Diagram 23-2"]
+[FEN "rn1q1rk1/pb1p1ppp/1p3b2/2pN4/2B5/2P1PN2/PP3bPP/R2QK2R b KQ - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2244"]
+[Round "Diagram 23-3"]
+[FEN "1r3r2/2q2pkp/pn1p1bp1/1ppB4/4Q2P/2P1bN2/PP1R1PP1/3R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2245"]
+[Round "Diagram 23-4"]
+[FEN "3r1r2/4qpkp/pn4p1/1ppBp2P/8/2P1P1Q1/PP1R1PP1/3R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2245"]
+[Round "Diagram 23-5"]
+[FEN "3r4/2rnqpk1/p6p/1ppBp1pP/2P1P3/1P1RQ3/P4PP1/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2246"]
+[Round "Diagram 23-6"]
+[FEN "2rrk3/3nq3/p6p/b1p1p1pP/2P1P3/3R4/P4PP1/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2246"]
+[Round "Diagram 23-7"]
+[FEN "r1bq1rk1/pp2ppbp/2n2np1/2p5/2P5/2N1BNP1/PP2PPBP/R2Q1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2247"]
+[Round "Diagram 23-8"]
+[FEN "1rb2r2/pp1n1pkp/6p1/q1p1p3/2Pn4/2N3P1/PP1NPPBP/R1QR3K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2247"]
+[Round "Diagram 23-9"]
+[FEN "1rb2r2/1p1n3k/p3n1p1/q1pNpp1p/P1P4P/1P2P1P1/3N1PB1/R1QR3K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2248"]
+[Round "Diagram 23-10"]
+[FEN "1rb4q/1p1n1r1k/p3n1p1/2pNpp1p/P1P4P/1PQ1PNP1/5PB1/R2R3K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2248"]
+[Round "Diagram 23-11"]
+[FEN "1rb5/1p1n1rqk/p3n1p1/2pNp2p/P1P1N2P/1PQ3P1/5PB1/R2R3K b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2249"]
+[Round "Ex. 23-1"]
+[FEN "r1bq1rk1/pp2bppp/4p3/2p1Pn2/1nP2P2/2Q2N2/PP2B1PP/R1BN1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2249"]
+[Round "Ex. 23-2"]
+[FEN "rnbqk2r/p1p1bppp/1p2pn2/3p4/3P1B2/4bN2/PPPN1PPP/R2QKB1R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2249"]
+[Round "Ex. 23-3"]
+[FEN "r1bqk2r/pp1n1pQp/2n1p3/3pN3/3p4/8/PbP2PPP/R1B1KB1R b KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2249"]
+[Round "Ex. 23-4"]
+[FEN "rnbqr1k1/1p3pbp/6pn/1P2p3/p1Pp4/B2P1Nb1/P2N1bBP/R2Q1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2249"]
+[Round "Ex. 23-5"]
+[FEN "2b1r3/1p2r1kp/3q1np1/1PnBpp2/pNPp4/P2P1NP1/4RbKP/1Q2R3 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2249"]
+[Round "Ex. 23-6"]
+[FEN "rn2kb1r/pp3ppp/1q3n2/3p1b2/4p3/1NN3P1/PP1bPPBP/R1BQK2R w KQkq - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2250"]
+[Round "Ex. 23-7"]
+[FEN "r1b2rk1/p1q2ppp/4p3/2Ppn3/8/P1B5/2P1BPPP/R2Q1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2250"]
+[Round "Ex. 23-8"]
+[FEN "r1br2k1/p1q3pp/2n2p2/2Ppp3/5P2/b1B1Q3/2P1B1PP/3R1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2250"]
+[Round "Ex. 23-9"]
+[FEN "r1bq1rk1/ppn1b1pp/2n2p2/2p1p3/8/1PN3PN/PB1PPPBP/2RQ1RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2250"]
+[Round "Ex. 23-10"]
+[FEN "3r2k1/p1n3pp/1pn2b2/2pbp3/4N3/1P1N2P1/PB1PP1BP/2R2K2 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2250"]
+[Round "Ex. 23-11"]
+[FEN "r1bqnrk1/pp4bp/1n1p2p1/3P4/3BPp2/1PN2P1P/P2QN3/R3KB1R b KQ - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2250"]
+[Round "Ex. 23-12"]
+[FEN "4rrk1/p2bqp1p/1p4p1/n1pPp3/2P1PP2/2Q3P1/PR2N1BP/5RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2256"]
+[Round "Diagram 24-1"]
+[FEN "3r3r/ppk1b2p/1np2p2/4p1pP/2P1N3/1P2B1P1/P3PP2/2KR3R w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2256"]
+[Round "Diagram 24-2"]
+[FEN "4r3/ppk4p/1np2p2/2N1p1pP/2P5/1P4P1/P3PP2/2KR4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2257"]
+[Round "Diagram 24-3"]
+[FEN "3k4/3n3p/1pp1rp2/p3p1pP/2P1N1P1/1P3R2/P1K1PP2/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2257"]
+[Round "Diagram 24-4"]
+[FEN "4k3/7p/1pr1np2/p1pRpNpP/2P3P1/PPK5/4PP2/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2258"]
+[Round "Diagram 24-5"]
+[FEN "3nk3/7p/1pr2p2/p1p1pNpP/P1P1K1P1/1P2P3/5P2/3R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2258"]
+[Round "Diagram 24-6"]
+[FEN "4knN1/7p/1pr2p2/p1p1p1pP/P1P1K1P1/1P2P3/5P2/3R4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2259"]
+[Round "Diagram 24-7"]
+[FEN "4k3/7p/1pr1np2/p1p1pNpP/P1P1K1P1/1P2P3/3R1P2/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2259"]
+[Round "Diagram 24-8"]
+[FEN "4n3/3k3p/1p3p1P/pNpKp1p1/P1P3P1/1P2P3/5P2/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2259"]
+[Round "Diagram 24-9"]
+[FEN "4n3/3k3p/1p5P/pNp1K1p1/P1P3p1/1P2P3/5P2/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2260"]
+[Round "Diagram 24-10"]
+[FEN "6k1/4np1p/6p1/3p4/5N2/1P3Rb1/3r1bKP/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2260"]
+[Round "Diagram 24-11"]
+[FEN "5k2/5p1p/2n3p1/3p4/8/1P4b1/4NPKb/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2260"]
+[Round "Diagram 24-12"]
+[FEN "8/5p1p/6p1/2kp4/1n1N4/1P2K1P1/5P1P/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2261"]
+[Round "Diagram 24-13"]
+[FEN "8/5p1p/3k2p1/3p4/1n3PPP/1P2KN2/8/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2262"]
+[Round "Diagram 24-15"]
+[FEN "8/2n4p/5pp1/1k1p4/1P3bPP/2K5/2N5/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2262"]
+[Round "Diagram 24-16"]
+[FEN "8/7p/1P3p2/2npkN2/6PP/4K3/8/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2262"]
+[Round "Diagram 24-17"]
+[FEN "8/1n5p/1Pk2p2/3p3P/3K2P1/1N6/8/8 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2263"]
+[Round "Diagram 24-18"]
+[FEN "8/4n3/1b1k3p/3p1p1P/1N1K2P1/8/8/8 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2264"]
+[Round "Ex. 24-1"]
+[FEN "8/2p2kpp/p2r4/3b4/P7/2P5/4BPPP/3R2K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2264"]
+[Round "Ex. 24-4"]
+[FEN "4R3/6p1/6pq/8/6K1/2R5/P7/3k4 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2264"]
+[Round "Ex. 24-6"]
+[FEN "rnb2rk1/5ppp/p2ppb2/5P2/3N4/1B1PB3/P5PP/R4RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2265"]
+[Round "Ex. 24-7"]
+[FEN "2r5/5pkp/R2p4/pB6/b2r1p2/3P1R1P/6P1/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2265"]
+[Round "Ex. 24-9"]
+[FEN "4qrk1/1r2b1p1/4p2p/2n1Pp2/pBQp3P/P5PN/R4P2/4R1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2265"]
+[Round "Ex. 24-10"]
+[FEN "3r4/4bkp1/4p2p/1rn1Pp2/pB5P/P2N2P1/3R1P2/3R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2265"]
+[Round "Ex. 24-11"]
+[FEN "5b1k/6p1/p2p1n1p/3q1N2/2p5/P1B2QP1/1P3P1P/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2265"]
+[Round "Ex. 24-12"]
+[FEN "6k1/ppp5/2b4p/5qp1/2Pp4/3P1P2/PP2Q1BP/6K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2270"]
+[Round "Ex. "]
+[FEN "8/p3r3/3k2p1/1p1p4/n1p1pP2/P1P1R1P1/2P3KP/4R3 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2270"]
+[Round "Ex. "]
+[FEN "2rQ2k1/5pp1/2p1b2p/p3nq2/B7/2R4P/PP3PP1/3R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2270"]
+[Round "Ex. "]
+[FEN "r1br3k/1p1nq1bp/2p3p1/p1P1pp2/N1Qn4/1P2b1P1/PB1N1PBP/3R1RK1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2270"]
+[Round "Ex. "]
+[FEN "3r2k1/6pp/4p3/1Q1bP3/1R3P2/qN3rP1/P6P/R5K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2270"]
+[Round "Ex. "]
+[FEN "r3br1k/pp2R1pp/8/2p2P1Q/P1Bp2P1/3P4/1P1q1P1P/5RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2270"]
+[Round "Ex. "]
+[FEN "r1r3k1/pbqn1ppp/1p6/P1pp1B2/3P4/Q1P1PN2/5PPP/RR4K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2271"]
+[Round "Ex. "]
+[FEN "2kr3r/pp5p/2p2N2/4bb2/2P5/8/PP2BPPP/R4RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2271"]
+[Round "Ex. "]
+[FEN "2r2bk1/R2R2p1/p3p2p/4P2r/8/P5B1/5PP1/5K2 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2271"]
+[Round "F-0"]
+[FEN "1r3r1k/p1q3pp/3b2n1/3p1p1b/3Pn3/5NPP/PP1N1PB1/R1BQR1K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2271"]
+[Round "F-1"]
+[FEN "4r1k1/pp3pp1/2p2n2/4q2p/2P3nP/1PN3P1/P2Q1PB1/3R2K1 b - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2271"]
+[Round "F-2"]
+[FEN "3r3k/p2r1P1p/1p1Nn2p/2p5/7Q/6RP/Pq1b2P1/5RK1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2272"]
+[Round "F-3"]
+[FEN "1r4k1/2pb1rb1/q2n3p/p1BPpp1Q/8/1PN5/P1B2RPP/5R1K w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2272"]
+[Round "F-6"]
+[FEN "3r1rk1/p1q2ppp/3bb3/3pB3/1p6/2P2Q1P/PPB2bP1/3RR1K1 w - - 0 0"]
+ *
+
+
+[Event "Evolve_2"]
+[Site "2272"]
+[Round "F-8"]
+[FEN "3q2k1/1b3pbp/p2pr1p1/n1pn4/8/4b1P1/P1NN1bBP/BQ1R2K1 w - - 0 0"]
+ *
+
+
