@@ -1,0 +1,315 @@
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "* Scotch Game /"]
+[Black "Info:"]
+[Result "*"]
+[ECO ""]
+{Scotch Game received its name from a correspondence match in 1824 between Edinburgh (Scotland) and London.
+It is popular today, and it is a good sample of an Open Game. The opening was played by Garry Kasparov who consider it as a nice replacement for the multivariation Ruy Lopes. The best Black moves to answer Scotch Game are the following 4: (1) 4... Bc5 (appr. 45%), (2) 4... Nf6 (appr. 40%), (3) 4... Nxd4 (appr. 10%), and (4) 4... Qh4 (appr. 5%). Officially, Scotch Game has 21 variations. As today, the most common 4-6 variations are being played for appr. 90% of all games on Scotch Game. ECO: C45. The designated move order:}
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation:"]
+[Black "The 4... Bc5 var."]
+[Result "*"]
+[ECO "C45"]
+{The 4... Bc5 var.}
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation:"]
+[Black "Meitner var."]
+[Result "*"]
+[ECO "C45"]
+{Meitner var.}
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Nc2
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation:"]
+[Black "Schmidt var."]
+[Result "*"]
+[ECO "C45"]
+{Schmidt var.}
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation:"]
+[Black "Horwitz Attack var."]
+[Result "*"]
+[ECO "C45"]
+{Horwitz Attack var.}
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "< How to Play >"]
+[Black ">>Meitner var."]
+[Result "*"]
+[ECO "C45"]
+{How to play Scotch Game/ Meitner var.: 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Nc2... Best moves for White and Black:}
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Nc2 d6 8. Bxc5 dxc5 9. Ne3 Qg6 10. Nd2 0-0 
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "< How to Play >"]
+[Black ">>Schmidt var."]
+[Result "*"]
+[ECO "C45"]
+{How to play Scotch Game/ Schmidt var.: 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6... Best moves for White and Black:}
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nc6 bxc6 7. Bd3 d5 8. exd5 cxd5 9. 0-0 0-0 10. Bg5 Be6 11. Qf3 Be7
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "< How to Play >"]
+[Black ">>Horwitz Attack var."]
+[Result "*"]
+[ECO "C45"]
+{How to play Scotch Game/ Horwitz Attack var.: 1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5... Best moves for White and Black:}
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bb4+ 6. Bd2 Qxe4+ 7. Be2 Kd8 8. 0-0 Nf6 9. N1c3 Qh4 10. g3 Qh3 11. Bf3
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 1"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2465 - Black 2517} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 b6 8. O-O Bb7 9. f4 O-O-O 10. Qd2 Qh4 11. Bd3 f5 12. Nxf5 Bxe3+ 13. Nxe3 d5 14. exd5 Nxd5 15. Nxd5 Rxd5 16. Qe2 Rhd8 17. Be4 R5d6 {The position was analyzed by a computer program: If White finds a best line 18.Na3 Kb8 19.Bf3 Rd2 20.Qe6 Na5, White will be better at 0.32 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 2"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2385 - Black 2488} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 b6 8. O-O Bb7 9. Nb5 O-O-O 10. Bxc5 bxc5 11. Bd5 Nxd5 12. exd5 Ne7 13. c4 c6 14. N5c3 cxd5 15. cxd5 Qd4 {The position was analyzed by a computer program: If White finds a best line 16.Qc2 Kb8 17.Rd1 Qb4 18.Na3 d6, White will be better at 0.40 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 3"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2481 - Black 2535} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 Qxf3 7. gxf3 bxc6 8. Be3 Bxe3 9. fxe3 Ne7 10. Nc3 d6 11. Bc4 Be6 12. Bb3 O-O {The position was analyzed by a computer program: If White finds a best line 13.f4 Rfe8 14.Rg1 g6 15.h4 Kg7, White will be slightly better at 0.18 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 4"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2579 - Black 2664} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bc4 Ne5 8. Be2 Qg6 9. O-O d6 10. f3 O-O 11. Kh1 Bb6 12. Nd2 f5 13. exf5 Nxf5 14. Nxf5 Bxf5 {The position was analyzed by a computer program: If White finds a best line 15.Nc4 Rae8 16.Nxe5 Rxe5 17.Bc4+ Kh8 18.Bxb6 axb6, Black will be slightly better at 0.08 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 5"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2592 - Black 2664} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nd2 a5 8. a4 d6 9. Bd3 Qxf3 10. Nxf3 Ne7 11. O-O Ng6 12. c3 f6 13. Nd4 Ne5 14. Bc2 g5 15. f4 gxf4 16. Bxf4 Bd7 {The position was analyzed by a computer program: If White finds a best line 17.Kh1 Rb8 18.b3 Bb6 19.h3 Rg8, White will be better at 0.36 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 6"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2354 - Black 2493} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 Qxf3 7. gxf3 bxc6 8. Be3 Bxe3 9. fxe3 Rb8 10. b3 Ne7 11. Nc3 f5 12. Bd3 O-O 13. exf5 Nxf5 14. Bxf5 Rxf5 15. f4 d6 16. O-O-O Bd7 {The position was analyzed by a computer program: If White finds a best line 17.Rhf1 Rbf8 18.Rf2 g6 19.Rg1 Kg7, Black will be slightly better at 0.14 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 7"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2322 - Black 2441} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 bxc6 7. Nd2 d6 8. Qxf6 Nxf6 9. Bd3 O-O 10. O-O Re8 11. h3 a5 12. Re1 a4 13. Nf3 Nd7 14. Bd2 Bb6 15. Bc3 Nc5 16. Nd2 Be6 {The position was analyzed by a computer program: If White finds a best line 17.Be2 f6 18.b4 axb3 19.axb3 Bf7, Black will be slightly better at 0.18 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 8"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2305 - Black 2522} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. g3 d5 8. Bg2 dxe4 9. Nd2 Bb6 10. Nxe4 Qg6 11. Nxc6 Nxc6 12. Bxb6 axb6 13. O-O O-O 14. Qf3 Ne5 15. Qf4 f6 16. c4 Bg4 17. Nc3 c6 {The position was analyzed by a computer program: If White finds a best line 18.h3 Bf5 19.b3 Rfe8 20.Rfe1 Re7, Black will be slightly better at 0.20 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 9"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2543 - Black 2533} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Nxc6 Bc5 {Alternative move order for the 4... Bc5 var.} 6. Qd2 dxc6 7. Nc3 Ne7 8. Qf4 Be6 9. Qxf6 gxf6 10. Na4 Bb4+ 11. c3 Bd6 12. Be3 b6 13. f4 O-O-O 14. Kf2 c5 15. b3 Bd7 16. g3 Bc6 17. Bg2 Rhe8 {The position was analyzed by a computer program: If White finds a best line 18.c4 f5 19.e5 Bxg2 20.Kxg2 Nc6, White will be slightly better at 0.20 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 10"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2546 - Black 2529} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Bc5 6. Be3 Bb6 7. Nxc6 bxc6 8. Bd4 Nf6 9. Bd3 O-O 10. O-O d6 11. Nd2 Re8 12. Qf3 Ng4 13. Nc4 f6 14. a4 Rb8 15. h3 Nh6 16. a5 Bxd4 17. cxd4 Nf7 {The position was analyzed by a computer program: If White finds a best line 18.Rfe1 Ba6 19.Nd2 Ng5 20.Qe3 Bxd3 21.Qxd3 d5, the position will be equal.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 11"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2325 - Black 2441} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Ba6 9. b3 g6 10. f4 f6 11. exf6 Qxe2+ 12. Bxe2 Bb4+ 13. Kd1 Nxf6 14. Bd2 Bxd2 15. Nxd2 c5 16. Bf3 O-O-O 17. Kc2 Bb7 {The position was analyzed by a computer program: If White finds a best line 18.Rae1 Rde8 19.Rhf1 d6 20.Bxb7+ Kxb7, White will be better at 0.34 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 12"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2533 - Black 2408} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qf3 dxc6 7. Nc3 Be6 8. Qg3 O-O-O 9. Be3 Bd4 10. Bxd4 Rxd4 11. f4 Ne7 12. Bd3 Rhd8 13. O-O Bc4 14. Bxc4 Rxc4 {The position was analyzed by a computer program: If White finds a best line 15.Qh3+ Kb8 16.Qxh7 Rb4 17.Rab1 Rd2 18.e5 Qg6, White will be better at 0.46 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 13"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2540 - Black 2385} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Nb6 9. Nc3 a5 10. Qe4 g6 11. Bd3 Bg7 12. O-O O-O 13. Re1 Ba6 14. Bf4 Rfe8 {The position was analyzed by a computer program: If White finds a best line 15.Rac1 Qb4 16.a3 Qb3 17.c5 Bxd3 18.Qxd3 Nd5, Black will be better at 0.27 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 14"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2581 - Black 2471} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Nb6 9. Nc3 Ba6 10. Qe4 Qe6 11. b3 O-O-O 12. Bb2 Re8 13. f4 Bb7 14. O-O-O d5 15. cxd5 cxd5 16. Qc2 Kb8 17. Kb1 g6 {The position was analyzed by a computer program: If White finds a best line 18.Nb5 c5 19.f5 gxf5 20.Nd6 Bxd6 21.exd6 c4, White will be better at 0.46 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 15"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2627 - Black 2540} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Ba6 9. b3 g6 10. f4 f6 11. Qe4 Nb6 12. Nd2 fxe5 13. Qxe5 Qxe5+ 14. fxe5 Bg7 15. Bb2 d6 16. O-O-O dxe5 17. Nf3 O-O {The position was analyzed by a computer program: If White finds a best line 18.Bxe5 Rxf3 19.Bxg7 Rf2 20.Be5 Rxa2, White will be better at 0.44 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 16"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2432 - Black 2379} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8. c4 Ba6 9. b3 g6 10. f4 Bg7 11. Qf2 Nf6 12. Be2 Ne4 13. Qe3 f5 14. Ba3 d6 15. Nd2 Nxd2 16. Qxd2 O-O 17. O-O-O Rfd8 18. Bf3 Bb7 {The position was analyzed by a computer program: If White finds a best line 19.exd6 cxd6 20.Rhe1 Qf6 21.Bb2 Qxb2+ 22.Qxb2 Bxb2+ 23.Kxb2 Kf7, White will be better at 0.72 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2008"]
+[Black "Game 17"]
+[Result "*"]
+[ECO "C45"]
+
+{White 1758 - Black 2068} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Qf6 6. e5 Qb6 7. Be3 Qxd4 8. Bxd4 Ne7 9. Nd2 Nc6 10. Bc3 Bb4 11. Bxb4 Nxb4 12. Bd3 Nxd3+ 13. cxd3 b6 14. Rc1 c5 15. Nc4 Ba6 {The position was analyzed by a computer program: If White finds a best line 16.Kd2 Ke7 17.Rhe1 Bxc4 18.Rxc4 Rac8, White will be better at 0.27 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2008"]
+[Black "Game 18"]
+[Result "*"]
+[ECO "C45"]
+
+{White Unrated - Black 2014} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Bc4 Ne7 7. Nc3 Nc6 8. Bb5 Bd7 9. Bxc6 Bxc6 10. Be3 Qd7 11. O-O-O b6 12. Nd5 O-O-O 13. Rd3 Kb8 14. Ra3 Rg8 15. Rd1 g6 {The position was analyzed by a computer program: If White finds a best line 16.Nf6 Qe6 17.Nxg8 Bxe4 18.f3 Bb7 19.Qa4 a6, White will be much much better at 3.85 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 19"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2175 - Black 2322} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bc5 6. Qe2 Nf6 7. g3 Qxe4 8. N1c3 Qxe2+ 9. Bxe2 Kd8 10. Bf4 Ne8 11. Ne4 Bb4+ 12. c3 Be7 13. O-O-O h6 14. g4 a6 15. Nd4 Nxd4 16. Rxd4 Nf6 17. Ng3 d6 {The position was analyzed by a computer program: If White finds a best line 18.Nf5 Bxf5 19.gxf5 Nd7 20.Be3 Bf6, Black will be better at 0.36 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 20"]
+[Result "*"]
+[ECO "C45"]
+
+{White 2030 - Black 2252} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nb5 Bc5 6. Qe2 Nf6 7. N1c3 Kd8 8. Be3 Nxe4 9. Nxe4 Bxe3 10. Qxe3 Re8 11. Bd3 f5 12. g3 Qh5 13. Qf4 d6 14. Nxc7 fxe4 15. Qxd6+ Bd7 16. Bb5 Rc8 {The position was analyzed by a computer program: If White finds a best line 17.Nxe8 Qxb5 18.Nxg7 Qe5 19.Qxe5 Nxe5, White will be much much better at 2.38 pawns.}

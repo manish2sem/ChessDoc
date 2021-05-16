@@ -1,0 +1,543 @@
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "* King's Gambit /"]
+[Black "Info:"]
+[Result "*"]
+[ECO ""]
+{King's Gambit belongs to the Open Games. It is one of the oldest chess openings. It was the most popular one for long time. Today, it is being played at the chess master level but not so often. Today, the tendency is to play King's Gambit "more positionally." The top-level variations: *King's Gambit Accepted (KGA): 1.e4 e5 2.f4 ef *King's Gambit Declined (KGD): 1.e4 e5 2.f4 (other than ef). It is usually recommended for Black to accept the Gambit. Black may get good position. King's Gambit has at least 125 subvariations, of these the most common 10-15. Some of them are shown in this file. It is recommended for beginners to learn King's Gambit at first turn. The ECO codes: C30-C39. The designated move order:}
+
+1. e4 e5 2. f4
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: KGD/"]
+[Black "Classical Variation:"]
+[Result "*"]
+[ECO "C30"]
+{King's Gambit: King's Gambit Declined, Classical Variation.}
+
+1. e4 e5 2. f4 Bc5
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: KGD/"]
+[Black "Keene's Defense:"]
+[Result "*"]
+[ECO "C30"]
+{King's Gambit: King's Gambit Declined, Keene's Defense.}
+
+1. e4 e5 2. f4 Qh4+ 3. g3 Qe7
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: KGD/"]
+[Black "Falkbeer Counter-Gambit:"]
+[Result "*"]
+[ECO "C31"]
+{King's Gambit: King's Gambit Declined, Falkbeer Counter-Gambit.}
+
+1. e4 e5 2. f4 d5
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: (KGA)"]
+[Black "King's Gambit Accepted:"]
+[Result "*"]
+[ECO "C33"]
+{King's Gambit: King's Gambit Accepted.}
+
+1. e4 e5 2. f4 exf4
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: KGA/"]
+[Black "King's Bishop's Gambit:"]
+[Result "*"]
+[ECO "C33"]
+{King's Gambit: King's Gambit Accepted, King's Bishop's Gambit.}
+
+1. e4 e5 2. f4 exf4 3. Bc4
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: KGA/"]
+[Black "King's Knight's Gambit:"]
+[Result "*"]
+[ECO "C34"]
+{King's Gambit: King's Gambit Accepted, King's Knight's Gambit (KKG). This variation is the most common one.}
+
+1. e4 e5 2. f4 exf4 3. Nf3
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: KGA/"]
+[Black "KKG/ Fischer Defense:"]
+[Result "*"]
+[ECO "C34"]
+{King's Gambit: King's Gambit Accepted, King's Knight's Gambit (KKG), Fischer Defense.}
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: KGA/"]
+[Black "KKG/ Cunningham Defense:"]
+[Result "*"]
+[ECO "C35"]
+{King's Gambit: King's Gambit Accepted, King's Knight's Gambit (KKG), Cunningham Defense.}
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: KGA/"]
+[Black "KKG/ Abbazia (Modern) Defense:"]
+[Result "*"]
+[ECO "C36"]
+{King's Gambit: King's Gambit Accepted, King's Knight's Gambit (KKG), Abbazia (Modern) Defense.}
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "Variation: KGA/"]
+[Black "KKG/ Quaade Gambit:"]
+[Result "*"]
+[ECO "C37"]
+{King's Gambit: King's Gambit Accepted, King's Knight's Gambit (KKG), Quaade Gambit.}
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "< How to Play >"]
+[Black "KGD/ Classical Variation"]
+[Result "*"]
+[ECO "C30"]
+{How to play KGD/ Classical Variation: 1.e4  e5 2.f4 Bc5 ... Best moves for White and Black:}
+
+1. e4  e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nf6 5. fxe5 dxe5 6. Nxe5 Qe7 7. d4 Bd6 8. Nxf3 Nxe4 9. Be2 0-0 10. 0-0 c5
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "< How to Play >"]
+[Black "KGD/ Falkbeer Counter-Gambit, 5.de"]
+[Result "*"]
+[ECO "C32"]
+{How to play KGD/ Falkbeer Counter-Gambit, 5.de: C32 (1.e4 e5 2.f4 d5 3.ed e4 4.d3 Nf6 5.de) ... Best moves for White and Black:}
+
+1. e4  e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 Bf5 8. Nc3 Qe7 9. Be3 Bxe3 10. Qxe3
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "< How to Play >"]
+[Black "KGA/ King's Bishop's Gambit"]
+[Result "*"]
+[ECO "C33"]
+{How to play KGA/ King's Bishop's Gambit: C33: 1.e4 e5 2.f4 exf4 (3.Bc4) ... Best moves for White and Black:}
+
+1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 c6 5.Bb3 d5 6.exd5 cxd5 7.d4 Bd6 8.Nge2 0-0 9.0-0 g5
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "< How to Play >"]
+[Black "KGA/ KKG/ Fischer Defense"]
+[Result "*"]
+[ECO "C34"]
+{How to play KGA/ KKG/ Fischer Defense: C34: 1.e4 e5 2.f4 exf4 3.Nf3 (d6) ... Best moves for White and Black:}
+
+1. e4  e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. h4 g4 6. Ng1 Bh6 7. Nc3 Nc6 8. Qd3 Nf6 9. Nge2 d5
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "< How to Play >"]
+[Black "KGA/ KKG/ Abbazia (Modern) Defense"]
+[Result "*"]
+[ECO "C33"]
+{How to play KGA/ KKG/ Abbazia (Modern) Defense: C36: 1.e4 e5 2.f4 exf4 3.Nf3 (d5) ... Best moves for White and Black:}
+
+1. e4  e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6 8. Qe2+ Be6 9. Ng5! 0-0 10. Nxe6 fxe6  11. 0-0 {For White, do not play 11.Qxe6+ because 11.... Kh8 12.0-0 f3! 13.Rxf3 Re8! with very strong attack.} Qc7
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 1"]
+[Result "*"]
+[ECO "C30"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Nc3 Nc6 5. Bc4 Nf6 6. d3 Bg4 7. h3 Bxf3 8. Qxf3 Na5 {The position was analyzed by a computer program: If White finds a best line 9.fxe5 dxe5 10.Bg5 c6 11.Bb3 h6, White will be slightly better at 0.22 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 2"]
+[Result "*"]
+[ECO "C30"]
+
+1. e4 e5 2. f4 Qh4+ 3. g3 Qe7 4. fxe5 d6 5. Nc3 dxe5 6. Nf3 Nf6 7. Bc4 Nc6 8. d3 Na5 9. Bb3 Nxb3 10. axb3 h6 11. h3 c6 12. Be3 a6 {The position was analyzed by a computer program: If White finds a best line 13.Qd2 Qc7 14.0-0-0 Bb4 15.g4 Be6, White will be better at 0.29 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 3"]
+[Result "*"]
+[ECO "C30"]
+
+1. e4 e5 2. f4 Bc5 3. Nc3 d6 4. Nf3 Nc6 5. Bb5 Bg4 6. Bxc6+ bxc6 7. fxe5 dxe5 8. h3 Bxf3 9. Qxf3 Ne7 10. b3 O-O 11. Bb2 Qd6 {The position was analyzed by a computer program: If White finds a best line 12.0-0-0 a5 13.h4 Nc8 14.h5 h6, White will be better at 0.26 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 4"]
+[Result "*"]
+[ECO "C30"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 Bc5 4. Nc3 d6 5. Bb5 Bg4 6. h3 Bd7 7. Na4 Qe7 8. Nxc5 dxc5 9. d3 O-O-O 10. O-O exf4 11. Bxf4 a6 12. Bxc6 Bxc6 {The position was analyzed by a computer program: If White finds a best line 13.Qe1 Nf6 14.Qa5 Kb8 15.Nh4 Rc8, White will be better at 1.02 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 5"]
+[Result "*"]
+[ECO "C30"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6 7. Bd3 d5 8. e5 Ne4 9. Nc3 Bf5 10. Be3 Nc6 11. O-O O-O {The position was analyzed by a computer program: If White finds a best line 12.Qb1 Nb4 13.Bxe4 dxe4 14.Nxe4 h6, White will be better at 0.34 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 6"]
+[Result "*"]
+[ECO "C31"]
+
+1. e4 e5 2. f4 d5 3. exd5 c6 4. Nc3 exf4 5. Nf3 Bd6 6. d4 Ne7 7. dxc6 Nbxc6 8. Ne4 O-O 9. c3 Bg4 10. Be2 Bc7 11. O-O Ng6 12. Bd2 Re8 13. Qc2 Rc8 {The position was analyzed by a computer program: If White finds a best line 14.Rae1 Ba5 15.Qd3 Bb6 16.Nf2 Be6, White will be slightly better at 0.17 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 7"]
+[Result "*"]
+[ECO "C32"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Nf3 Bc5 7. Qe2 f5 8. Nc3 Bf2+ 9. Kd1 O-O 10. Nxe4 fxe4 11. Qxf2 exf3 12. Qxf3 Nc6 13. Bd2 Nd4 14. Qc3 c5 15. Qxc5 Bg4+ 16. Kc1 Qf6 {The position was analyzed by a computer program: If White finds a best line 17.c3 Rfc8 18.Qb4 Bf5 19.Qa4 a6, White will be slightly better at 0.20 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 8"]
+[Result "*"]
+[ECO "C33"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d6 4. d4 Qh4+ 5. Kf1 Nc6 6. Nc3 Bg4 7. Qd2 g5 8. g3 fxg3 9. Kg2 Qh5 10. hxg3 Qg6 {The position was analyzed by a computer program: If White finds a best line 11.Nh3 Bxh3+ 12.Rxh3 g4 13.Rh1 0-0-0, Black will be still slightly better at 0.19 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 9"]
+[Result "*"]
+[ECO "C33"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 Bb4 5. Nf3 O-O 6. O-O Nxe4 7. Nd5 c6 8. Nxb4 Qb6+ 9. d4 Qxb4 10. Bd3 d5 11. Bxf4 Nd7 {The position was analyzed by a computer program: If White finds a best line 12.Qe2 Ndf6 13.c3 Qb6 14.Qc2 Re8, Black will be still better at 0.38 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 10"]
+[Result "*"]
+[ECO "C33"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 c6 4. Nc3 d5 5. Bb3 Nf6 6. exd5 cxd5 7. d4 Bb4 8. Nf3 O-O 9. O-O Bxc3 10. bxc3 Be6 11. Bxf4 Nbd7 12. Qd3 Ne4  {The position was analyzed by a computer program: If White finds a best line 13.c4 Bf5 14.Nd2 Nxd2 15.Qxd2 dxc4, White will be better at 0.65 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 11"]
+[Result "*"]
+[ECO "C33"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Bb3 d5 6. exd5 cxd5 7. d4 Bd6 8. Nf3 O-O 9. O-O Nc6 10. Nxd5 Nxd5 11. Bxd5 Bf5 12. c3 Qc7  {The position was analyzed by a computer program: If White finds a best line 13.Ng5 Ne7 14.Bf3 Ng6 15.Be4 Bxe4, White will be better at 0.27 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 12"]
+[Result "*"]
+[ECO "C33"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 5. Nc3 Bb4 6. Nf3 Bxc3 7. dxc3 c6 8. Bb3 Qxd1+ 9. Kxd1 O-O 10. Bxf4 Nxe4 11. Re1 Bf5 12. Ke2 Nd7 13. Kf1 Ndc5  {The position was analyzed by a computer program: If White finds a best line 14.Bc4 h6 15.Kg1 Rad8 16.a4 Rfe8, White will be slightly better at 0.11 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 13"]
+[Result "*"]
+[ECO "C33"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Bb3 d5 6. exd5 cxd5 7. d4 Bd6 8. Nge2 O-O 9. O-O f3 10. Rxf3 Bg4 11. Rf2 Nc6 {The position was analyzed by a computer program: If White finds a best line 12.Bg5 Be7 13.Qd2 Be6 14.Raf1 Rc8, White will be better at 0.26 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 14"]
+[Result "*"]
+[ECO "C34"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. Be2 d6 6. exd6 Bxd6 7. d4 O-O 8. O-O Bg4 9. Ne1 Bxe2 10. Qxe2 g6 11. Nd3 Nc6 12. c3 Qh4 13. Nd2 Rae8 14. Qd1 g5 {The position was analyzed by a computer program: If White finds a best line 15.Nf3 Qg4 16.Nf2 Qf5 17.Nh3 f6, the position will be equal.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 15"]
+[Result "*"]
+[ECO "C34"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Ne7 4. d4 d5 5. Nc3 dxe4 6. Nxe4 Nd5 7. Bd3 Be7 8. O-O Bg4 9. h3 Bh5 10. Qe2 O-O 11. c4 Nb4  {The position was analyzed by a computer program: If White finds a best line 12.d5 f5 13.Nf2 Bd6, Black will be better at 0.54 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 16"]
+[Result "*"]
+[ECO "C34"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. b3 f5 5. Nc3 fxe4 6. Nxe4 Nf6 7. Qe2 Nxe4 8. Qxe4+ Qe7 9. d3 Bf5 10. Qxe7+ Bxe7 11. Bxf4 O-O {The position was analyzed by a computer program: If White finds a best line 12.Bg3 Nc6 13.c3 b5 14.d4 a6 15.0-0-0 Bf6, Black will be still better at 0.35 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 17"]
+[Result "*"]
+[ECO "C34"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. d4 g5 5. g3 g4 6. Nh4 f3 7. Nc3 Nc6 8. Be3 Be7 9. Qd2 h6 10. Bc4 Bg5 11. O-O Bxe3+ 12. Qxe3 Qg5 13. Qf2 Nge7 {The position was analyzed by a computer program: If White finds a best line 14.Rad1 a6 15.e5 Qg7 16.exd6 cxd6, Black will be still better at 0.83 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 18"]
+[Result "*"]
+[ECO "C34"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Ne7 4. d4 d5 5. Qe2 dxe4 6. Qxe4 Nbc6 7. Bc4 Bf5 8. Qxf4 Bg6 9. O-O Qd7 10. c3 O-O-O 11. Ng5 Nf5 {The position was analyzed by a computer program: If White finds a best line 12.Bxf7 Bd6 13.Be6 Bxf4 14.Bxd7+ Rxd7, White will be better at 0.77 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 19"]
+[Result "*"]
+[ECO "C34"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. d4 d5 6. c4 g5 7. Be2 g4 8. O-O Rg8 9. Nc3 Be6 10. Ne1 f3 11. Nxf3 gxf3 12. Bxf3 Ng7 13. cxd5 Bc8 {The position was analyzed by a computer program: If White finds a best line 14.e6 Nxe6 15.dxe6 Bxe6 16.Bxb7 Nd7, White will be much better at 4.47 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 20"]
+[Result "*"]
+[ECO "C34"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Ne7 4. d4 d5 5. Nc3 dxe4 6. Nxe4 Nd5 7. Bd3 Be7 8. c4 Ne3 9. Bxe3 fxe3 10. Qe2 Bg4 11. O-O-O Bxf3 12. gxf3 Qxd4 13. c5 Qe5 14. Qxe3 O-O 15. Bc2 Na6 {The position was analyzed by a computer program: If White finds a best line 16.f4 Qe6 17.Qc3 Rad8 18.Kb1 Qc6, Black will be still better at 0.60 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 21"]
+[Result "*"]
+[ECO "C34"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 Be6 5. Bxe6 fxe6 6. d4 Qf6 7. Nc3 Nd7 8. Nb5 O-O-O 9. Nxa7+ Kb8 10. Nb5 c6 11. Nc3 g5 12. O-O Ne7 {The position was analyzed by a computer program: If White finds a best line 13.Nxg5 Qxg5 14.Bxf4 Qg7 15.Bxd6+ Kc8, White will be slightly better at 0.06 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 22"]
+[Result "*"]
+[ECO "C36"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ Nbd7 6. c4 Be7 7. O-O c6 8. dxc6 bxc6 9. Ba4 O-O 10. d4 Ba6 {The position was analyzed by a computer program: If White finds a best line 11.b3 Qc7 12.Nh4 Nb6 13.Bxf4 Qd7, White will be better at 0.37 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 23"]
+[Result "*"]
+[ECO "C36"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. exd5 Nf6 5. Nf3 Nxd5 6. O-O Be6 7. Bb3 c5 8. Ne5 Bd6 9. Ba4+ Kf8 10. Qe2 Qf6 11. Nc4 Bc7 12. d3 a6 13. Bb3 Nc6 {The position was analyzed by a computer program: If White finds a best line 14.Nc3 Rd8 15.Qf2 Qd4 16.Nd2 h6, Black will be still better at 0.80 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 24"]
+[Result "*"]
+[ECO "C36"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6 8. d5 Nxd5 9. O-O Be6 10. Nd4 O-O {The position was analyzed by a computer program: If White finds a best line 11.Nc3 Nxd4 12.Qxd4 Nxc3 13.bxc3 g5, Black will be still better at 1.48 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 25"]
+[Result "*"]
+[ECO "C36"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bc4 c6 6. d4 Bd6 7. Qe2+ Kf8 8. dxc6 Nxc6 9. O-O Bg4 10. c3 Qc7 11. b3 Re8 12. Qd3 a6 {The position was analyzed by a computer program: If White finds a best line 13.Qd2 h6 14.Bd3 g6 15.Na3 b5, Black will be still better at 0.44 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 26"]
+[Result "*"]
+[ECO "C36"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Nf6 5. Bb5+ c6 6. dxc6 Nxc6 7. d4 Bd6 8. Qe2+ Be6 9. Ng5 O-O 10. Nxe6 fxe6 11. Bxc6 bxc6 12. O-O Qc7 13. Nd2 Rae8 14. Nc4 g5 15. Bd2 e5 {The position was analyzed by a computer program: If White finds a best line 16.dxe5 Bxe5 17.Nxe5 Rxe5 18.Qc4+ Rf7, Black will be slightly better at 0.08 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 27"]
+[Result "*"]
+[ECO "C37"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 g5 5. h4 gxh4 6. Rxh4 Nf6 7. Nc3 Rg8 8. Qe2 Bg4 9. d4 Nc6 10. Bb5 a6 11. Bxc6+ bxc6 12. Bd2 Nh5 13. Rh2 Qc8 14. O-O-O a5 {The position was analyzed by a computer program: If White finds a best line 15.d5 Bg7 16.dxc6 Bxc3 17.Bxc3 Qa6, White will be better at 0.63 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 28"]
+[Result "*"]
+[ECO "C37"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h6 4. d4 g5 5. h4 Bg7 6. g3 d6 7. gxf4 gxf4 8. Bxf4 Qf6 9. Be3 Bg4 10. Nbd2 Nc6 11. c3 O-O-O {The position was analyzed by a computer program: If White finds a best line 12.Rg1 Qg6 13.d5 Nb8 14.Qa4 h5 15.Qxa7 Nf6, White will be better at 0.80 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 29"]
+[Result "*"]
+[ECO "C38"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 d6 6. O-O Nc6 7. c3 h6 8. g3 Bh3 9. Rf2 Qd7 {The position was analyzed by a computer program: If White finds a best line 10.gxf4 Nf6 11.Nfd2 gxf4 12.Rxf4 Rg8, Black will be still better at 1.06 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 30"]
+[Result "*"]
+[ECO "C38"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d6 4. Bc4 h6 5. d4 g5 6. h4 Bg7 7. c3 Nc6 8. O-O Qe7 9. Re1 Bd7 {The position was analyzed by a computer program: If White finds a best line 10.Nbd2 g4 11.Nh2, Black will be still much better at 1.74 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 31"]
+[Result "*"]
+[ECO "C38"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O d6 6. d4 Be6 7. Bxe6 fxe6 8. c3 h6 9. Qb3 Qc8 {The position was analyzed by a computer program: If White finds a best line 10.h4 Ne7 11.hxg5 Ng6 12.Na3 Nc6, White will be slightly better at 0.16 pawns.}
+
+[Event ""]
+[Site ""]
+[Date "??.??.??"]
+[Round ""]
+[White "2009"]
+[Black "Game 32"]
+[Result "*"]
+[ECO "C39"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 Nf6 6. Nc3 h6 7. Nxf7 Kxf7 8. d4 d5 9. Bxf4 Bb4 10. Bd3 Bxc3+ 11. bxc3 dxe4 12. Bc4+ Kg7 13. O-O Qe7 14. Be5 Rf8 15. Qe2 Nc6 {The position was analyzed by a computer program: If White finds a best line 16.Bxf6+ Rxf6 17.Rxf6 Qxf6 18.Qxe4 Bf5, Black will be still better at 1.53 pawns.}
