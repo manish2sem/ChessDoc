@@ -1,0 +1,99 @@
+[Event "Naroditsky Complex Endgames - Positions to play out: Chapter 1: Kramnik - Ivanchuk, Linares 1998"]
+[Site "https://lichess.org/study/NqM9HGzD/8s1ld9Cq"]
+[Result "*"]
+[UTCDate "2020.04.05"]
+[UTCTime "03:28:05"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/liszt85"]
+[FEN "6k1/5p2/4pp2/7p/2KP3P/4P3/r4PP1/5R2 b - - 0 1"]
+[SetUp "1"]
+
+1... f5 { This is an endgame from Kramnik - Ivanchuk, Linares 1998. These are the moves they played. Refer to Naroditsky's book "Mastering Complex Endgames" for full annotations. } 2. d5 (2. Kb3 Re2 3. Kc3 Kg7 4. Kd3 Ra2 5. g4 fxg4 (5... Kf6 6. f3 (6. gxh5 Kg7) 6... Ra3+) 6. Ke4 f6 (6... Ra5 7. Kf4 Rf5+ 8. Kg3 Rf3+)) 2... Kf8 (2... exd5+ { [%csl Gf7,Gd5,Gf5] } 3. Kxd5 Ra5+ (3... Kg7 4. Ke5 Ra5+ 5. Kf4 Kg6 6. Rd1 Ra2 7. Rd6+ Kg7 8. Kg3 Rb2 9. Kf3 Rb5 10. Rd4 Rb2 11. Rc4 Ra2 { [%csl Gf7,Gf5,Gh5] }) 4. Kd6 Ra6+ 5. Ke5 Ra5+ 6. Kf6) 3. dxe6 (3. d6 Ke8 4. Kd4 f6) 3... fxe6 4. Kd4 Ke7 5. Ke5 Ra4 6. f3 Ra5+ 7. Kf4 Ra2 8. Rb1 (8. Kg3 Re2 9. Rf2 Rxe3 10. Kf4 Rd3 11. Kg5 Rd8) 8... Kf6 9. Kg3 Re2 10. Rb3 e5 { [%csl Ge3] } 11. Rb6+ Kg7 12. Rb3 Kf6 13. Ra3 Kg6 14. Kh3 Kf6 15. g4 hxg4+ 16. fxg4 fxg4+ 17. Kxg4 Kg6 18. h5+ Kh6 19. Ra6+ Kh7 20. Ra3 Kh6 21. Kf5 e4 (21... Rf2+ 22. Ke6 Re2 (22... e4 23. Ke5 Kxh5) 23. Kf5 Rf2+) 22. Kxe4 Kxh5 23. Kf5 Rf2+ 24. Ke5 Kg6 25. e4 Rb2 26. Ra7 Rb5+ 27. Ke6 Rb6+ 28. Ke7 Rb5 29. Ra6+ Kg5 30. Re6 Kf4 31. Kf6 Rh5 { and Kramnik agreed to a draw here. } *
+
+
+[Event "Naroditsky Complex Endgames - Positions to play out: Chapter 2: Naroditsky - Nip, San Francisco 2007"]
+[Site "https://lichess.org/study/NqM9HGzD/FKBoOKyi"]
+[Result "*"]
+[UTCDate "2020.04.05"]
+[UTCTime "03:31:02"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/liszt85"]
+[FEN "8/3r1k2/p6p/1p1p2pP/3R2P1/2P3K1/PP6/8 b - - 0 1"]
+[SetUp "1"]
+
+ *
+
+
+[Event "Casual Standard game"]
+[Site "https://lichess.org/70v3P36E"]
+[Date "2020.04.05"]
+[Round "-"]
+[White "liszt85"]
+[Black "Jamaika_Feeling"]
+[Result "1-0"]
+[WhiteElo "2009"]
+[BlackElo "2183"]
+[TimeControl "300+30"]
+[Termination "Normal"]
+[UTCDate "2020.04.05"]
+[UTCTime "13:24:50"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/liszt85"]
+[FEN "6k1/5p2/4pp2/7p/2KP3P/4P3/r4PP1/5R2 b - - 0 1"]
+[SetUp "1"]
+
+1... Kf8 { [%clk 0:05:00] } 2. Kd3 { [%clk 0:05:00] } 2... f5 { [%clk 0:04:14] } 3. Kc4 { [%clk 0:03:58] } 3... Ke7 { [%clk 0:04:22] } 4. Kc5 { [%clk 0:04:24] } 4... Rc2+ { [%clk 0:04:45] } 5. Kb4 { [%clk 0:04:50] } 5... Ra2 { [%clk 0:05:11] } 6. Kb3 { [%clk 0:05:17] } 6... Ra8 { [%clk 0:05:00] } 7. Rc1 { [%clk 0:05:25] } 7... Rb8+ { [%clk 0:05:21] } 8. Kc2 { [%clk 0:05:49] } 8... Ra8 { [%clk 0:05:45] } 9. Kd3 { [%clk 0:06:15] } 9... Ra7 { [%clk 0:05:19] } 10. f3 { [%clk 0:06:22] } 10... Ra3+ { [%clk 0:05:28] } 11. Kd2 { [%clk 0:06:44] } 11... Ra4 { [%clk 0:05:41] } 12. g3 { [%clk 0:05:36] } 12... Kf6 { [%clk 0:05:30] } 13. Rc2 { [%clk 0:05:30] } 13... Ra3 { [%clk 0:04:50] } 14. Ke2 { [%clk 0:05:48] } 14... Ra4 { [%clk 0:05:08] } 15. Rd2 { [%clk 0:05:52] } 15... Ra5 { [%clk 0:05:14] } 16. e4 { [%clk 0:05:55] } 16... Rb5 { [%clk 0:05:03] } 17. Ke3 { [%clk 0:05:11] } 17... Rb8 { [%clk 0:04:23] } 18. Rc2 { [%clk 0:04:57] } 18... Rb3+ { [%clk 0:02:53] } 19. Kf4 { [%clk 0:04:57] } 19... fxe4 { [%clk 0:02:21] } 20. fxe4 { [%clk 0:05:02] } 20... Rb8 { [%clk 0:00:53] } 21. Rc5 { [%clk 0:05:02] } 21... Kg6 { [%clk 0:00:57] } (21... Rb4 22. Rxh5 Rxd4 23. Rb5 Kg6 24. Rg5+ Kf6 25. Rb5 Kg6 26. g4 (26. Rb7)) 22. Rg5+ { [%clk 0:04:37] } 22... Kh6 { [%clk 0:01:17] } 23. Ke5 { [%clk 0:05:03] } 23... Rd8 { [%clk 0:01:00] } 24. d5 { [%clk 0:04:48] } 24... exd5 { [%clk 0:00:43] } 25. exd5 { [%clk 0:05:17] } 25... Rd7 { [%clk 0:00:44] } 26. Kf6 { [%clk 0:05:12] } 26... Ra7 { [%clk 0:01:00] } 27. d6 { [%clk 0:05:34] } 27... Rd7 { [%clk 0:01:09] } 28. Rd5 { [%clk 0:05:43] } 28... Kh7 { [%clk 0:01:05] } 29. Rxh5+ { [%clk 0:06:05] } 29... Kg8 { [%clk 0:01:34] } 30. Rd5 { [%clk 0:06:25] } 30... Kh7 { [%clk 0:01:53] } 31. g4 { [%clk 0:06:54] } 31... Kg8 { [%clk 0:02:21] } 32. g5 { [%clk 0:07:20] } 32... Kh7 { [%clk 0:02:23] } 33. h5 { [%clk 0:07:48] } 33... Kg8 { [%clk 0:02:50] } 34. g6 { [%clk 0:06:56] } 34... fxg6 { [%clk 0:03:05] } 35. hxg6 { [%clk 0:07:25] } 35... Kf8 { [%clk 0:03:21] } 36. g7+ { [%clk 0:06:42] } 36... Kg8 { [%clk 0:03:16] } 37. Ke6 { [%clk 0:07:07] } 37... Rd8 { [%clk 0:02:59] } 38. d7 { [%clk 0:07:18] } 38... Kxg7 { [%clk 0:03:09] } 39. Ke7 { 1-0 Black resigns. } { [%clk 0:07:45] } 1-0
+
+
+[Event "Casual Standard game"]
+[Site "https://lichess.org/r7wx6tpd"]
+[Date "2020.04.05"]
+[Round "-"]
+[White "Jamaika_Feeling"]
+[Black "liszt85"]
+[Result "1/2-1/2"]
+[WhiteElo "2183"]
+[BlackElo "2009"]
+[TimeControl "300+30"]
+[Termination "Normal"]
+[UTCDate "2020.04.05"]
+[UTCTime "13:25:12"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/liszt85"]
+[FEN "6k1/5p2/4pp2/7p/2KP3P/4P3/r4PP1/5R2 b - - 0 1"]
+[SetUp "1"]
+
+1... f5 { [%clk 0:05:00] } 2. Kc5 { [%clk 0:05:00] } (2. d5) 2... Kg7 { [%clk 0:04:23] } 3. g3 { [%clk 0:05:07] } 3... Kf6 { [%clk 0:04:49] } 4. Kc4 { [%clk 0:05:06] } 4... Ke7 { [%clk 0:04:59] } 5. Kb3 { [%clk 0:05:03] } 5... Rd2 { [%clk 0:05:14] } 6. Kc3 { [%clk 0:05:10] } 6... Ra2 { [%clk 0:05:31] } 7. Kd3 { [%clk 0:05:38] } 7... Kd6 { [%clk 0:05:30] } 8. Kc4 { [%clk 0:01:09] } 8... Rb2 { [%clk 0:05:03] } 9. Kc3 { [%clk 0:01:32] } 9... Ra2 { [%clk 0:05:26] } 10. Kb3 { [%clk 0:00:38] } 10... Rd2 { [%clk 0:05:53] } 11. Kc3 { [%clk 0:01:06] } 11... Ra2 { [%clk 0:06:22] } 12. Kb3 { [%clk 0:01:35] } 12... Rd2 { 1/2-1/2 The game is a draw. } { [%clk 0:06:50] } 1/2-1/2
+
+
+[Event "Casual Standard game"]
+[Site "https://lichess.org/DykM3Xya"]
+[Date "2020.04.11"]
+[Round "-"]
+[White "Jamaika_Feeling"]
+[Black "liszt85"]
+[Result "1-0"]
+[WhiteElo "2183"]
+[BlackElo "2009"]
+[TimeControl "300+30"]
+[Termination "Normal"]
+[UTCDate "2020.04.11"]
+[UTCTime "12:43:50"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/liszt85"]
+[FEN "8/3r1k2/p6p/1p1p2pP/3R2P1/2P3K1/PP6/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Rd6 { [%clk 0:05:00] } (1... Ke6 2. Rd1 Rf7 3. Re1+ Kd6 4. Re8 Rf6 5. b3 Kd7 6. Re3 Kd6 7. a3 Kc5 8. Re8 Kd6 9. Rg8 Ke7 10. Rc8 Kd7 11. Rc5 Kd6 12. b4 Rf8) 2. Kf3 { [%clk 0:05:00] } 2... Ke7 { [%clk 0:05:24] } 3. Ke3 { [%clk 0:05:10] } 3... Kd7 { [%clk 0:04:40] } 4. a4 { [%clk 0:02:44] } 4... Ke6 { [%clk 0:03:14] } 5. Kd2 { [%clk 0:01:08] } (5. axb5 axb5 6. Rb4 Rb6 7. b3 Ke5 (7... Kd6 8. c4 dxc4 9. bxc4 Kc5)) 5... Rb6 { [%clk 0:02:25] } 6. Kc2 { [%clk 0:00:48] } 6... bxa4 { [%clk 0:02:14] } 7. Rxa4 { [%clk 0:01:02] } 7... Ke5 { [%clk 0:02:29] } 8. Kd3 { [%clk 0:00:35] } 8... Rf6 { [%clk 0:02:31] } (8... Rxb2 9. Rxa6 Rg2 10. Rxh6 Rg3+ 11. Kc2 Rxg4 12. Rh8 Rh4 13. h6 Kf6 14. h7 Kg7 15. Rg8+ Kxh7 16. Rxg5 d4) 9. b3 { [%clk 0:00:33] } 9... Rf3+ { [%clk 0:01:57] } 10. Kd2 { [%clk 0:00:59] } 10... Rf6 { [%clk 0:02:25] } 11. Ke3 { [%clk 0:01:20] } 11... Rc6 { [%clk 0:02:48] } 12. Kd3 { [%clk 0:01:37] } 12... Rb6 { [%clk 0:02:56] } 13. Kc2 { [%clk 0:00:37] } 13... Rf6 { [%clk 0:03:00] } 14. Kd3 { [%clk 0:00:31] } 14... Rf3+ { [%clk 0:03:20] } 15. Kd2 { [%clk 0:00:53] } 15... Rf6 { [%clk 0:03:07] } 16. c4 { [%clk 0:01:20] } 16... dxc4 { [%clk 0:03:27] } 17. bxc4 { [%clk 0:01:41] } 17... Kd4 { [%clk 0:03:41] } 18. Ke2 { [%clk 0:01:29] } 18... Kc5 { [%clk 0:03:53] } 19. Kd3 { [%clk 0:01:05] } 19... Rf3+ { [%clk 0:04:17] } 20. Ke4 { [%clk 0:01:08] } 20... Rf6 { [%clk 0:04:18] } 21. Ke5 { [%clk 0:01:19] } 21... Rb6 { [%clk 0:04:48] } 22. Ke4 { [%clk 0:01:09] } 22... Re6+ { [%clk 0:05:10] } 23. Kd3 { [%clk 0:01:27] } 23... Rd6+ { [%clk 0:05:35] } 24. Kc3 { [%clk 0:01:44] } 24... Rb6 { [%clk 0:06:05] } (24... Re6 25. Ra5+ Kb6 26. Rf5 a5 27. Kd4 a4 28. Kc3 Re4) 25. Ra5+ { [%clk 0:02:07] } 25... Kc6 { [%clk 0:06:12] } 26. Rf5 { [%clk 0:02:28] } 26... Kd7 { [%clk 0:06:23] } 27. c5 { [%clk 0:02:44] } 27... Rc6 { [%clk 0:06:42] } 28. Kc4 { [%clk 0:03:01] } 28... Re6 { [%clk 0:03:44] } (28... Kc7 29. Kd5) 29. Kd5 { [%clk 0:03:09] } 29... Re1 { [%clk 0:03:58] } 30. Rf7+ { [%clk 0:02:28] } 30... Ke8 { [%clk 0:04:23] } 31. Ra7 { [%clk 0:01:09] } 31... Rd1+ { [%clk 0:04:17] } 32. Ke6 { [%clk 0:01:28] } 32... Kd8 { [%clk 0:04:41] } 33. Rxa6 { [%clk 0:01:33] } 33... Kc7 { [%clk 0:04:58] } 34. Ke5 { [%clk 0:00:36] } 34... Re1+ { [%clk 0:05:22] } 35. Kf5 { [%clk 0:00:54] } 35... Rf1+ { [%clk 0:05:50] } 36. Kg6 { [%clk 0:01:01] } 36... Rf4 { [%clk 0:06:13] } 37. Kxh6 { [%clk 0:01:19] } 37... Rxg4 { [%clk 0:06:42] } 38. Rg6 { 1-0 Black resigns. } { [%clk 0:01:32] } (38. Kg7 Rd4 39. h6 Rd7+ 40. Kg6 Rd8 41. h7) 38... Rg1 39. Rxg5 Rc1 40. Kg7 Kd7 41. h6 Re1 42. h7 Re7+ 43. Kh6 Re6+ 44. Rg6 Re8 45. Rg8 Re6+ 46. Kg5 Re5+ 47. Kf6 Re6+ 48. Kf5 Rh6 49. h8=Q Rxh8 50. Rxh8 Kc6 51. Rc8+ Kd7 52. Ra8 Kc6 53. Ra5 Kb7 54. Ke5 Kc6 55. Ke6 Kb7 56. Kd7 Kb8 57. Kc6 Kc8 58. Ra8# 1-0
+
+
