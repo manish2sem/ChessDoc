@@ -1,0 +1,746 @@
+[Event ""]
+[Site ""]
+[Round ""]
+[White "How subtle are you?"]
+[Black "Study 1"]
+[Result "*"]
+[FEN "8/p7/p7/8/3K4/1k6/1P6/8 w - - 0 1"]
+[Time "23:53:09"]
+
+1. Kd5 (1. Kc5 a5 2. Kb5 (2. Kc6 a4 (2.. Kc4 3. Kb7 a4 4. Ka6 Kb4) 3. Kb5)
+2.. a4 3. Ka5 a6) 1.. Kxb2 (1.. Kb4 2. Kc6 a5 3. Kb7 a4 4. Ka6 Kb3 5. Kb5
+$1 a6+ 6. Ka5 {Draws}) 2. Kc4 Ka3 3. Kc3 a5 4. Kc2 {Draws} *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Have you ideas?"]
+[Black "Study 2"]
+[Result "*"]
+[FEN "8/p7/Pp6/1P3K2/4P3/8/7k/b7 w - - 0 1"]
+[Time "21:55:43"]
+
+1. e5 Bxe5 (1.. Bc3 2. e6 Bb4 3. Ke5 Kg3 4. Kd5 Kf4 5. Kc6 Ke5 6. Kb7 Kd6
+7. e7) 2. Ke4 $1 (2. Kxe5 Kg3 3. Kd6 Kf4 4. Kc7 Ke5 5. Kb7 Kd6 6. Kxa7 (6.
+Kc8 Ke7 $1) 6.. Kc7) 2.. Kg3 3. Kd5 Kf4 4. Kc6 Ke4 5. Kb7 Kd5 6. Kxa7 {Wins
+} *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "How generous are you?"]
+[Black "Study 3"]
+[Result "*"]
+[FEN "6k1/bp3pp1/7p/1q1B4/3PQp2/P5Pb/1P3B1P/6K1 w - - 0 1"]
+[Time "22:13:56"]
+
+1. Kh1 Qf1+ 2. Bg1 Bxd4 3. Qe8+ (3. Bxf7+) (3. Qxd4 f3 4. Bxf7+ Kxf7 5.
+Qd5+ Kg6 $1 6. Qe4+ Bf5 {Wins}) 3.. Kh7 4. Be4+ f5 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Finish of an attack"]
+[Black "Study 4"]
+[Result "*"]
+[FEN "3r1rk1/1b3p1p/p2q1Pp1/np4Q1/2p4R/6NP/PBB3PK/8 b - - 0 1"]
+[Time "23:01:55"]
+
+1.. Qd2 2. Nf5 $1 (2. Qxd2 Rxd2) 2.. Qxg5 3. Ne7+ Kh8 4. Nxg6+ Qxg6 (4..
+Kg8 5. Ne7+ Kh8 6. Rxh7# {White mates}) (4.. fxg6 5. f7+) 5. Bxg6 Rd2 6.
+Rxh7+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Make it conclusive (a)"]
+[Black "Study 5"]
+[Result "*"]
+[FEN "8/1p2Bp1k/4b1p1/1P4P1/3R2np/N7/1r4P1/5K2 b - - 0 1"]
+[Time "00:30:32"]
+
+1.. h3 (1.. Ne3+ 2. Kg1 Bd5 3. Rxh4+ Kg8 4. Rh8+ Kxh8 5. Bf6+ Kg8 {[not  
+given in text]} 6. Bxb2) 2. gxh3 (2. Kg1 Rxg2+ 3. Kf1 (3. Kh1 Nf2# {Black 
+mates}) 3.. Rf2+ 4. Kg1 h2+) (2. Bd6 h2) 2.. Nh2+ 3. Kg1 {[or K-K1]   }
+Nf3+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Make it conclusive (b)"]
+[Black "Study 6"]
+[Result "1-0"]
+[FEN "1r4r1/2p3kp/4qNb1/b7/1Q6/2n3P1/P6R/K1B2R2 w - - 0 1"]
+[Time "08:27:08"]
+
+1. Rxh7+ (1. Nh5+ Bxh5 2. Qd4+ Kg6 3. Qd3+ Qe4) 1.. Bxh7 2. Nh5+ Kg6 (2..
+Kh8 3. Qd4+) 3. Qg4+ Qxg4 4. Rf6+ Kxh5 5. Rh6# {White mates} 1-0
+
+[Event "20th Soviet Championship "]
+[Site ""]
+[Round ""]
+[White "Dozing on Olympus"]
+[Black "Study 7"]
+[Result "1/2-1/2"]
+[FEN "2k4r/ppp3p1/5p2/1P6/r3P3/4K3/3R2B1/3R4 w - - 0 1"]
+[Time "09:32:18"]
+
+1. Kf2 (1. Rd8+ Rxd8 2. Bh3+ Rd7 3. Rxd7 a6 (3.. Ra3+ 4. Rd3+) 4. Rd4+) 1..
+a6 1/2-1/2
+
+[Event "A Hungarian Championship "]
+[Site ""]
+[Round ""]
+[White "One move deep"]
+[Black "Study 8"]
+[Result "1-0"]
+[FEN "4nr1k/2qr3p/p2b1p1Q/1p6/2p3R1/P7/1PB1R3/7K w - - 0 1"]
+[Time "15:47:12"]
+
+1. Re7 1-0
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Several moves deep"]
+[Black "Study 9"]
+[Result "*"]
+[FEN "2b2rk1/1pp2r2/p2q3p/3pb1pQ/8/2P1N2P/PP1B1PP1/4RRK1 b - - 0 1"]
+[Time "15:57:00"]
+
+1.. Bh2+ 2. Kh1 Rxf2 3. Rxf2 Rxf2 4. Nxd5 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Use of resources"]
+[Black "Study 10"]
+[Result "1-0"]
+[FEN "r3r3/3R1Qpk/pqb1pb2/1p6/8/2N1P3/PP3PPP/2R3K1 w - - 0 1"]
+[Time "21:42:39"]
+
+1. Ne4 Bxb2 (1.. Bxe4 2. Qxf6 Rg8 3. Qh4+ Kg6 4. Qxe4+) 2. Ng5+ Kh6 3. g4
+$1 g6 (3.. Kxg5 4. Qh5+ Kf6 5. Rf7# {White mates}) 4. h4 Rh8 5. Qh7+ Rxh7
+6. Rxh7# {White mates} 1-0
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Live dangerously"]
+[Black "Study 11"]
+[Result "*"]
+[FEN "1Q3bk1/3b1p1p/5Pp1/1p6/2q2N2/4P1P1/rP4BP/5RK1 b - - 0 1"]
+[Time "23:35:38"]
+
+1.. Rxb2 2. Nd5 Rxg2+ 3. Kxg2 Bh3+ 4. Kxh3 Qxf1+ 5. Kh4 Qc4+ 6. Nf4 h6 7.
+Kh3 Qf1+ 8. Kg4 g5 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Tribulation - White to play"]
+[Black "Study 12"]
+[Result "*"]
+[FEN "4k3/8/1r3PP1/6K1/8/8/8/8 w - - 0 1"]
+[Time "17:53:31"]
+
+1. Kh6 Rxf6 (1.. Kf8 2. Kh7 Rb8) 2. Kh7 Rf1 3. g7 Rh1+ 4. Kg8 (4. Kg6 Rg1+
+5. Kf6 Rg2) 4.. Rg1 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Tribulation - Black to play"]
+[Black "Study 12"]
+[Result "*"]
+[FEN "4k3/8/1r3PP1/6K1/8/8/8/8 b - - 0 1"]
+[Time "17:41:04"]
+
+1.. Kf8 2. Kh6 (2. Kf5 Rb1 3. Ke6 (3. g7+ Kf7) (3. Kg5 Rf1) 3.. Rg1 4. Kf5
+Rb1) 2.. Rxf6 (2.. Rb5 3. f7 (3. g7+) 3.. Rb1) 3. Kh7 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Idle curiosity 1"]
+[Black "Study 13"]
+[Result "1-0"]
+[FEN "7k/4K1pp/7N/8/8/8/8/B7 w - - 0 1"]
+[Time "08:09:52"]
+
+1. Bf6 gxf6 2. Kf8 f5 3. Nf7# {White mates} 1-0
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Idle curiosity 2"]
+[Black "Study 13"]
+[Result "1-0"]
+[FEN "7B/8/8/8/8/N7/pp1K4/k7 w - - 0 1"]
+[Time "08:18:40"]
+
+1. Kc3 b1=Q (1.. b1=N+ 2. Kc2+ Nc3 3. Bxc3# {White mates}) 2. Nc2+ Qxc2+ 3.
+Kxc2# {White mates} 1-0
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Difficult defence"]
+[Black "Study 14"]
+[Result "*"]
+[FEN "1q6/1r1nk3/Q1Rp1pp1/1P1Pp1p1/1K2P3/5P1P/6P1/5B2 b - - 0 1"]
+[Time "09:19:56"]
+
+1.. Ra7 (1.. Nc5 2. Qa5 Ra7 3. Rc8 Rxa5 4. Rxb8 Ra1 5. Bc4) 2. Qc8 Ra4+ 3.
+Kxa4 (3. Kb3 Qa7) (3. Kc3 Qa8) 3.. Nb6+ 4. Rxb6 Qxc8 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Tactical complex "]
+[Black "Study 15"]
+[Result "*"]
+[FEN "r4rk1/1b3ppp/4p3/p3P3/1pP1n2q/3BP3/2QB1PPP/R4RK1 w - - 0 1"]
+[Time "16:31:32"]
+
+1. g3 Qg4 (1.. Ng5 2. gxh4 (2. f3 Bxf3) 2.. Nh3# {Black mates}) 2. f3 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Unexpected aggression"]
+[Black "Study 16"]
+[Result "*"]
+[FEN "2rn1r1k/1q2bppp/p3bn2/1p2N3/1PpP4/P1N1Q3/1B3PPP/1B1RR1K1 w - - 0 1"]
+[Time "20:42:23"]
+
+1. d5 Nxd5 (1.. Bxd5 2. Nxd5 Nxd5 3. Rxd5 Qxd5 4. Qh6 gxh6 5. Nxf7+ Kg8 6.
+Nxh6# {White mates}) 2. Nxd5 Bxd5 3. Qh6 Be4 4. Ng6+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Breaking & entering"]
+[Black "Study 17"]
+[Result "1-0"]
+[FEN "2b5/2qrrp1k/5Rp1/2p4p/1pB1PR1P/1P1P2P1/1Q5K/8 w - - 0 1"]
+[Time "22:25:11"]
+
+1. R4f5 (1. g4 Rd4 2. gxh5 Bf5 $1 3. Kg3 Kg7 4. Ra6 Bc8) (1. e5 Qxe5 2.
+Rxf7+ Kh6 $1 3. Qc1 Qe3) 1.. gxf5 (1.. Qd8 2. Bxf7 gxf5 3. Rh6+ Kxh6 4.
+Qf6+) (1.. Kh6 2. Rxh5+ (2. Qd2+ Kg7 (2.. Kh7 3. Rxh5+) 3. Qg5) 2.. Kxh5 3.
+Rf5+ gxf5) 2. Rh6+ Kxh6 3. Qh8+ Kg6 4. exf5+ Kxf5 5. Qxh5+ Kf6 6. Qg5# {
+White mates} 1-0
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Thief in the night"]
+[Black "Study 18"]
+[Result "0-1"]
+[FEN "3r4/1ppb1ppk/p6p/4n1PQ/4Pq2/2P2p2/PP3P1P/R3RBK1 b - - 0 1"]
+[Time "09:54:04"]
+
+1.. Rh8 2. gxh6 (2. Red1 {any move} g6 3. Qxh6+ Kg8) 2.. g6 0-1
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Diagnosis "]
+[Black "Study 19"]
+[Result "*"]
+[FEN "4B1bk/6p1/6P1/6K1/8/3B4/8/8 b - - 0 1"]
+
+*
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Rookonstruction 1"]
+[Black "Study 20"]
+[Result "*"]
+[FEN "3K1k2/3P4/8/8/8/8/7R/3r4 w - - 0 1"]
+[Time "22:19:45"]
+
+1. Rf2+ Kg7 2. Rc2 Kf7 3. Kc7 Ke7 4. Re2+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Rookonstruction 2"]
+[Black "Study 20"]
+[Result "*"]
+[FEN "3K1k2/3P4/8/8/8/8/7R/5r2 w - - 0 1"]
+[Time "22:26:28"]
+
+1. Rc2 Rd1 2. Kc7 Ke7 3. Re2+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Rookonstruction 3"]
+[Black "Study 20"]
+[Result "*"]
+[FEN "3K1k2/3P4/8/8/8/8/7R/r7 w - - 0 1"]
+[Time "23:18:53"]
+
+1. Rf2+ Kg7 2. Rc2 Ra8+ 3. Kc7 Ra7+ 4. Kc8 Ra8+ 5. Kb7 Rd8 6. Kc7 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Rookonstruction 4"]
+[Black "Study 20"]
+[Result "*"]
+[FEN "3K1k2/3P4/8/8/8/8/7R/2r5 w - - 0 1"]
+[Time "23:23:37"]
+
+1. Rf2+ Kg7 2. Rf4 $1 Rc2 3. Ke7 Re2+ 4. Kd6 Rd2+ 5. Ke6 Kg6 (5.. Re2+ 6.
+Kd5 $1 Rd2+ 7. Rd4) 6. Rf8 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Recovery"]
+[Black "Study 21"]
+[Result "*"]
+[FEN "r3k2r/ppqnbppb/2p1p2p/4N3/Q1pPP3/4B1P1/PP3PBP/R4RK1 w kq - 0 1"]
+[Time "10:36:03"]
+
+1. Nxc4 (1. Nxd7 b5) (1. Qxc4 Nxe5 2. dxe5 Qxe5 3. Bd4 Qg5 4. f4 Qg6) 1..
+b5 2. Qa5 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Prevention or cure"]
+[Black "Study 22"]
+[Result "*"]
+[FEN "4r1k1/1p3p2/p1b2Qpp/8/2P5/1q6/5PPP/1B3RK1 b - - 0 1"]
+[Time "16:11:42"]
+
+1.. Qxc4 $1 2. Bxg6 Qxf1+ {White resigns} 3. Kxf1 Bb5+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Beat the computer"]
+[Black "Study 23"]
+[Result "1-0"]
+[FEN "5Kbk/6pp/6P1/8/8/8/8/7R w - - 0 1"]
+[Time "22:41:00"]
+
+1. Rh6 gxh6 (1.. Be6 2. Rxh7# {White mates}) 2. g7# {White mates} 1-0
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Is ingenuity enough?"]
+[Black "Study 24"]
+[Result "*"]
+[FEN "7k/3PK3/8/2P2Q2/8/8/q7/8 b - - 0 1"]
+[Time "08:24:09"]
+
+1.. Qf7+ 2. Kd6 $1 Qg6+ 3. Kc7 Qf7 4. Qf6+ (4. Kc8 Qxf5) 4.. Qxf6 5. d8=Q+ 
+*
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Too early - or too late? 1"]
+[Black "Study 25"]
+[Result "*"]
+[FEN "rnbk2r1/pp3p1p/2pb4/3P4/3q1p1P/2N5/PPPBQ1P1/R3KB1R w Q - 0 1"]
+[Time "22:49:50"]
+
+1. Qf2 (1. O-O-O Bg4) (1. Qd3 Re8+ 2. Be2 Qxd3 3. cxd3 cxd5 4. Nxd5 Bg4 5.
+Nc3 Nc6) 1.. Qxf2+ 2. Kxf2 Bc5+ 3. Kf3 (3. Ke2) (3. Ke1) 3.. Rg3+ 4. Kxf4
+Bd6+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Too early - or too late? 2"]
+[Black "Study 25"]
+[Result "*"]
+[FEN "rnbk2r1/pp3p1p/2pb4/3P4/3q1p1P/2N5/PPPBQ1P1/R3KB1R w Q - 0 13"]
+[Time "22:58:32"]
+
+13. O-O-O Bg4 14. Qe4 Qxe4 15. Nxe4 Bxd1 16. Nxd6 Bh5 17. Bxf4 cxd5 18.
+Nxf7+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Latet anguis in herba"]
+[Black "Study 26"]
+[Result "*"]
+[FEN "r1b2rk1/pp2ppbp/2np1np1/q1p5/2PPP3/2N1BN1P/PP1Q1PP1/R3KB1R w KQ - 0 9"]
+[Time "08:13:26"]
+
+9. Be2 cxd4 10. Nxd4 (10. Bxd4 Nxe4 11. Nxe4 Qxd2+) 10.. Nxd4 11. Bxd4 (11.
+Qxd4 Nxe4 12. Qxe4 Bxc3+) 11.. Nxe4 12. Nxe4 Qxd2+ 13. Kxd2 Bxd4 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Planning a development "]
+[Black "Study 27"]
+[Result "*"]
+[FEN "r1bq1r1k/pp4pp/2p1p2n/3pPp2/2P1n3/2NBP2P/PPQB1PP1/2KR3R w - - 0 1"]
+[Time "14:38:57"]
+
+1. Be1 (1. Rhf1) (1. Rdf1 Nf7 (1.. Qc7 2. f4 (2. Bxe4 fxe4 3. f4 exf3) 2..
+Ng3) 2. f4 (2. Bxe4 fxe4 3. f4 exf3) 2.. Ng3) 1.. Nf7 2. cxd5 exd5 3. f3
+Nc5 4. Bf1 Nxe5 5. Nxd5 cxd5 6. Qxc5 Be6 7. Bc3 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "While Rome burns?"]
+[Black "Study 28"]
+[Result "*"]
+[FEN "r5k1/p4pbp/3q4/1QpNp2b/4P3/8/PPP2PP1/R3K1N1 w Q - 0 1"]
+[Time "16:18:42"]
+
+1. f3 Rb8 2. Qc6 Qxc6 3. Ne7+ Kf8 4. Nxc6 Rxb2 (4.. Rb6 5. Nxa7 Rxb2 6.
+O-O-O Rxa2 7. Rd8+ Ke7 8. Nc6+ Ke6) 5. O-O-O *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Greek gift?"]
+[Black "Study 29"]
+[Result "1-0"]
+[FEN "8/8/5p2/8/p3NKpk/7p/7P/8 w - - 0 1"]
+[Time "08:17:33"]
+
+1. Ng3 (1. Nc3 g3 2. hxg3+ Kh5 3. g4+ Kh4 4. Kf3 a3) 1.. a3 2. Kf5 a2 3.
+Kg6 a1=Q 4. Nf5# {White mates} 1-0
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Another Greek (or Trojan) gift"]
+[Black "Study 30"]
+[Result "*"]
+[FEN "8/P7/1Pb5/1p6/8/6K1/k7/8 w - - 0 1"]
+[Time "15:32:53"]
+
+1. Kf4 Ka3 (1.. b4 2. Ke5 b3 3. Kd6 Bh1 4. Kc7 b2 5. b7 Bxb7 6. Kxb7 b1=Q+
+7. Kc7 (7. Ka8)) 2. Ke5 Ka4 3. Kd6 Bh1 4. Kc7 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "What have you to lose?"]
+[Black "Study 31"]
+[Result "*"]
+[FEN "8/5p2/7p/2pk3P/1p1p2P1/8/3K4/8 w - - 0 1"]
+[Time "07:59:06"]
+
+1. g5 Ke6 2. gxh6 Kf6 3. Kc2 c4 4. Kc1 c3 (4.. d3 5. Kd2 b3 6. Kc3) (4.. b3
+5. Kb2) 5. Kc2 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "What is equality?"]
+[Black "Study 32"]
+[Result "*"]
+[FEN "8/8/8/5bk1/8/3n1B2/r4PPP/5RK1 b - - 0 1"]
+[Time "08:12:46"]
+
+1.. Nxf2 2. Rxf2 Ra1+ 3. Rf1 Rxf1+ 4. Kxf1 Bh3 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "A luxury"]
+[Black "Study 33"]
+[Result "*"]
+[FEN "r1b2rk1/3pb1pp/1pn1pp2/3pP3/3P4/3B1N2/PP1B1PPP/R4RK1 w - - 0 15"]
+[Time "08:21:34"]
+
+15. a3 fxe5 16. dxe5 Rxf3 $1 17. gxf3 Nxe5 18. Be2 Ba6 19. Bxa6 Nxf3+ 20.
+Kg2 Nh4+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Out of trouble?"]
+[Black "Study 34"]
+[Result "*"]
+[FEN "r4rk1/5p1p/bq2p1p1/p1R3Q1/Pp2P2P/5B2/1P3PP1/3R2K1 b - - 0 25"]
+[Time "18:07:09"]
+
+25.. f6 26. Qe3 Rad8 (26.. e5 27. Rd7 Rad8 (27.. Ra7) 28. Rcc7) 27. Rxd8
+Rxd8 28. e5 fxe5 (28.. f5 29. Rc8 $1) 29. Qxe5 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Assessment"]
+[Black "Study 35"]
+[Result "*"]
+[FEN "5r2/R1R2pp1/6k1/P2p1p2/3P4/6nN/3r4/6K1 b - - 0 34"]
+[Time "18:32:11"]
+
+34.. Kh5 35. a6 Re8 36. Re7 Rxe7 37. Rxe7 Kg4 38. Nf2+ Kf3 39. Rc7 Ne2+ 40.
+Kf1 Ra2 41. Nd3 Ng3+ (41.. Rxa6 42. Ne1+) 42. Ke1 Rxa6 43. Rxf7 Ke3 44. Nf2
+g5 {White resigns} *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Technique in attack"]
+[Black "Study 36"]
+[Result "*"]
+[FEN "r2qk3/pp2bp2/2p5/4Pp1p/P2PN3/5Q2/1r5P/3R1R1K w - - 0 1"]
+[Time "08:17:54"]
+
+1. Rg1 (1. Qxf5 Qd5) (1. d5 Qc7 (1.. cxd5 2. Rxd5 Qxd5 3. Nf6+) 2. Nf6+
+Bxf6 3. exf6 Qd8 4. Rfe1+ Kf8 5. Qa3+) 1.. fxe4 2. Rg8+ Kd7 (2.. Bf8 3. Qa3
+) 3. Rxd8+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Castling too early"]
+[Black "Study 37"]
+[Result "*"]
+[FEN "2r1k2r/ppq2pp1/1n2p3/8/2PPN3/6P1/P3QP2/R1R3K1 b k - 0 1"]
+[Time "16:44:29"]
+
+1.. Ke7 (1.. Kf8) (1.. Nxc4 2. Nd2 (2. Rxc4 Qxc4 3. Nd6+) (2. d5 Qe5) 2..
+b5 3. a4 a6) (1.. O-O 2. Nf6+ gxf6 3. Qg4+ Kh8 4. Kg2) *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Point of order (a)"]
+[Black "Study 38"]
+[Result "*"]
+[FEN "6k1/1ppq2rn/7p/1P1bP2Q/1B2p1B1/P3P2P/8/4R1K1 w - - 0 1"]
+[Time "22:10:48"]
+
+1. Rd1 (1. Kh1 Be6 2. Rd1 Bxg4 3. Qxg4 Qxg4) 1.. c6 2. Kh1 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Point of order (b)"]
+[Black "Study 39"]
+[Result "*"]
+[FEN "8/8/P6p/p5b1/6P1/7k/8/6K1 w - - 0 1"]
+[Time "09:35:45"]
+
+1. a7 (1. Kh1 Be3 2. g5 hxg5 3. a7 Bxa7 {Stalemate}) 1.. Be3+ 2. Kh1 Bxa7
+3. g5 h5 4. g6 Bd4 5. g7 Bxg7 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Point of order (c)"]
+[Black "Study 40"]
+[Result "*"]
+[FEN "2br2k1/r3bppp/p1B1pn2/4p3/8/1PN3P1/P1P2P1P/R1B2RK1 w - - 0 1"]
+[Time "11:22:57"]
+
+1. Bb2 (1. Bg2 Rc7 2. Bb2 Rd2 3. Ne4) 1.. Rd2 2. Rac1 Rc7 3. Bg2 Bc5 (3..
+Bb4) *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Order of advance"]
+[Black "Study 41"]
+[Result "*"]
+[FEN "1rbqr1k1/5pbp/3p1np1/1ppPn3/4P1P1/2N2PNP/1P4B1/R1BQ1RK1 w - - 0 1"]
+[Time "16:47:26"]
+
+1. f4 (1. g5 Nfd7 2. f4 Nc4) 1.. Nexg4 $1 2. hxg4 Nxg4 3. Nce2 Qh4 4. Rf3
+Qh2+ 5. Kf1 Qh4 6. Kg1 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Embarras de richesses"]
+[Black "Study 42"]
+[Result "*"]
+[FEN "rn1q1rk1/pbpnb1p1/1p1pp2p/4p1B1/2PP3P/2NB1N2/PPQ2PP1/3RK2R w K - 0 12"]
+[Time "00:23:19"]
+
+12. Be4 Nc6 13. Bxh6 gxh6 14. Bxc6 Bxc6 15. Qg6+ Kh8 16. Ng5 Nf6 17. Qxh6+
+Kg8 18. Nxe6 Ne8 19. Rd3 Bf6 20. Qxf8+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Sudden activity"]
+[Black "Study 43"]
+[Result "*"]
+[FEN "r2q1rk1/1pp2ppp/p2pbb2/n3p3/2P1P3/1PP2N2/P1B1QPPP/R1B1R1K1 b - - 0 14"]
+[Time "09:05:01"]
+
+14.. b5 15. cxb5 axb5 16. Bb2 (16. Qxb5 c6 17. Qe2 (17. Qb4 c5 18. Qb5 c4 (
+18.. Qc7) (18.. Qe7) 19. b4 Nb3 20. Bxb3 cxb3 21. a4) 17.. Nxb3) 16.. c6 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Avoidance of automatism"]
+[Black "Study 44"]
+[Result "*"]
+[FEN "8/4k3/R2r3p/2B2P2/2P1p3/8/3r4/4K3 w - - 0 1"]
+[Time "14:52:38"]
+
+1. Rxd6 (1. Bxd6+ Rxd6 2. Rxd6 Kxd6) 1.. Rxd6 2. f6+ Ke6 3. Bxd6 Kxd6 4.
+c5+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Winning chances"]
+[Black "Study 45"]
+[Result "*"]
+[FEN "3r4/5p1k/4p3/1R5P/2p5/2p1P3/1p6/4R1K1 b - - 0 1"]
+[Time "22:10:46"]
+
+1.. Rd1 (1.. c2 2. Rxb2 Rd1 3. Rxc2 Rxe1+ 4. Kf2 Rh1 5. Rxc4 Rxh5 6. Kg3)
+2. Rxd1 c2 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Subtle Kings 1"]
+[Black "Study 46"]
+[Result "*"]
+[FEN "8/Bpk5/8/P2K4/8/8/8/8 w - - 0 1"]
+[Time "09:13:21"]
+
+1. Kc5 (1. Kc4 b5+) (1. Kd4 Kc8 (1.. Kc6 2. Kc4 (2. Bb6 Kb5 (2.. Kd7 3. Kc5
+Kc8 4. Ba7 Kc7 5. Kb5) (2.. Kd6 3. Kc4 Kc6 4. Kb4) 3. Kd5 Ka6 4. Kd6) 2..
+b5+) 2. Kc5 b6+ (2.. b5 3. a6) 3. Kxb6) 1.. b6+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Subtle Kings 2"]
+[Black "Study 46"]
+[Result "*"]
+[FEN "8/Bpk5/8/P2K4/8/8/8/8 b - - 0 1"]
+[Time "09:16:04"]
+
+1.. Kc8 2. Kc5 b5 3. a6 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Zugzwang?"]
+[Black "Study 47"]
+[Result "*"]
+[FEN "3k4/PKn4p/6p1/6P1/B7/2p5/8/8 b - - 0 1"]
+[Time "08:16:45"]
+
+1.. Na8 2. Kxa8 (2. Kc6 Ke7 3. Kd5 Nb6+ 4. Kd4 Kd6 5. Bb3 Kc7 6. Kxc3 Kb7
+7. Bg8 Kxa7 8. Kd4 Nd7 9. Bxh7 Nf8 10. Bg8 Kb6 11. Ke5 Kc6 12. Kf6 Kd6 13.
+Kf7 (13. Kg7 Ke5 $1) (13. Bb3 Nh7+) 13.. Ke5 $1) 2.. Kc7 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Choice of goods "]
+[Black "Study 48"]
+[Result "*"]
+[FEN "r2r2k1/1p3ppp/p4n2/3bp3/1PP1P3/3B3P/P5P1/R4RK1 w - - 0 1"]
+[Time "16:29:30"]
+
+1. exd5 e4 (1.. b5 2. cxb5 Nxd5 3. bxa6 (3. a3 Nf4 4. Bc4 axb5 5. Bxb5) 3..
+Nxb4 4. Bc4 Ra7 5. Rxf7 Rxf7 6. Rf1 Nd5 7. Rd1 $1) 2. Be2 Rab8 3. a4 b5 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Temptation "]
+[Black "Study 49"]
+[Result "*"]
+[FEN "2r2rk1/3bqp2/p1pb3p/1p1p2p1/P2PnN2/1B1NPQ1P/1PR2PP1/R5K1 w - - 0 1"]
+[Time "08:46:46"]
+
+1. Bxd5 (1. Nh5) 1.. cxd5 2. Nxd5 (2. Rxc8 gxf4) 2.. Qe6 3. Rxc8 Rxc8 (3..
+Qxd5 4. Rxf8+ Kxf8) 4. Qxe4 Qxe4 5. Nf6+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Has he enough?"]
+[Black "Study 50"]
+[Result "*"]
+[FEN "1k5r/1P2q3/1Q6/7p/6p1/6P1/2R4P/7K w - - 0 1"]
+[Time "15:31:25"]
+
+1. Rc8+ Rxc8 2. Qa7+ Kxa7 3. bxc8=N+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Strange retreat "]
+[Black "Study 51"]
+[Result "*"]
+[FEN "r2r3k/5p1p/2ppb1pq/1pn1p3/4P3/1PP1N1RP/P3QPP1/1B2R1K1 w - - 0 27"]
+[Time "16:32:20"]
+
+27. Nc2 f5 28. exf5 gxf5 29. Nd4 exd4 30. cxd4 f4 (30.. Ne4 31. Bxe4 fxe4
+32. d5 Qf6 33. dxe6 d5) 31. Rc3 Bd5 32. dxc5 Qg7 (32.. f3 33. Qb2 (33. Qe7)
+) 33. Qg4 $1 Rg8 (33.. Qxc3 34. Re7 Bg8 35. Qf5) 34. Qxg7+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Offer declined "]
+[Black "Study 52"]
+[Result "*"]
+[FEN "2rb2k1/1q1b1p1p/n2p2p1/3Pp3/1P6/3BNN1P/5PP1/1Q2R1K1 b - - 0 34"]
+[Time "08:17:18"]
+
+34.. Nxb4 35. Re2 Ba5 36. Rb2 Rb8 37. Nd2 Qa7 38. Ndc4 Qc5 (38.. Bb5 39.
+Rxb4) 39. Nxa5 Qxa5 40. Nc2 Nxd3 *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Evergreen problem "]
+[Black "Study 53"]
+[Result "*"]
+[FEN "1r2k1r1/pbppRp1p/1bn2P2/8/Q7/B1PB1q2/P4PPP/3R2K1 b - - 0 20"]
+[Time "19:16:43"]
+
+20.. Nxe7 (20.. Kd8 21. Rxd7+ Kxd7 (21.. Kc8 22. Rd8+ Rxd8 (22.. Nxd8 23.
+Qd7+) (22.. Kxd8 23. Be2+ Nd4 24. Bxf3 Bxf3 25. g3 Bxd1 26. Qxd1) 23. gxf3)
+22. Bf5+ Ke8 23. Bd7+ Kd8 24. Bxc6+) 21. Qxd7+ Kxd7 22. Bf5+ Ke8 (22.. Kc6
+23. Bd7# $1 {White mates}) 23. Bd7+ *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Super technique "]
+[Black "Study 54"]
+[Result "*"]
+[FEN "8/8/pP1P3K/k2r4/Pp6/1P6/1P2R3/8 w - - 0 1"]
+[Time "08:06:03"]
+
+1. Re5 Rxe5 2. d7 Re6+ 3. Kg5 Rxb6 4. d8=N *
+
+[Event ""]
+[Site ""]
+[Round ""]
+[White "Per ardua"]
+[Black "Study 55"]
+[Result "*"]
+[FEN "8/1p4p1/3Pp1p1/2P2pK1/Ppk5/8/8/4bN2 w - - 0 1"]
+[Time "08:14:42"]
+
+1. c6 bxc6 2. d7 Bc3 3. Nd2+ Kc5 4. Nb3+ Kc4 5. Na5+ Kc5 6. Nb7+ Kc4 7.
+Nd6+ Kb3 8. Ne8 *
+

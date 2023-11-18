@@ -1,0 +1,758 @@
+[Event "Mastering complex endgames: 1. Sandipan- Hertneck"]
+[Site "https://lichess.org/study/GzWzECFx/3yC8MUpB"]
+[Result "*"]
+[UTCDate "2021.11.30"]
+[UTCTime "18:58:37"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "5r2/1p5k/4p3/3p2R1/8/P2n1p2/1P3P2/R4K2 w Q - 0 1"]
+[SetUp "1"]
+
+1. Rd1 Kh6 2. Rg3 Nc5 3. Rc1 Ne4 4. Rg4 Kh5 5. Rg7 Ng5 6. Rxb7 Kg4 7. Ke1 Kf4 8. a4 *
+
+
+[Event "Mastering complex endgames: 2.  Suetin- Gufeld"]
+[Site "https://lichess.org/study/GzWzECFx/K8aCX8dv"]
+[Result "*"]
+[UTCDate "2021.11.29"]
+[UTCTime "16:16:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "r3r3/1k2bb2/p1p1p1p1/1pPpP2p/1P1BpP1P/R1P1K1P1/1P6/R4B2 w - - 0 1"]
+[SetUp "1"]
+
+1. c4 Bf8 (1... bxc4) (1... dxc4) 2. cxb5 axb5 3. Bxb5 Rxa3+ 4. Rxa3 cxb5 5. c6+ Kxc6 6. Ra6+ Kb7 7. Ra7+ Kc6 8. Rxf7 Bxb4 9. Rf6 Kd7 10. Rxg6 Rc8 11. Rg7+ Ke8 12. Rg8+ Kd7 13. Rg7+ Ke8 14. Rg8+ Kd7 15. Rxc8 Kxc8 16. g4 hxg4 17. Kf2 Bd2 18. Kg3 e3 19. h5 e2 20. Bf2 e1=Q 21. Bxe1 Bxe1+ 22. Kxg4 Bb4 23. h6 Bf8 24. h7 Bg7 25. Kg5 d4 26. Kg6 Bh8 27. f5 d3 28. fxe6 d2 29. e7 d1=Q 30. e8=Q+ Qd8 31. Qc6+ Kb8 32. Kf7 Ka7 33. Qd6 Qc8 34. e6 Qc2 35. e7 Qxh7+ 36. Ke8 Bxb2 37. Kd8 Qh4 38. Kc8 Qe4 39. Qc5+ (39. Qd7+ Kb6 40. Qc7+) 39... Ka6 40. Qd6+ Ka7 41. Kd8 Qh4 42. Qd7+ Kb6 43. Qe6+ Kb7 44. Qd5+ Kb6 45. Kd7 Qh7 46. Qe6+ Ka7 47. Kc8 Qc2+ 48. Kd8 Kb7 49. Qd7+ Kb6 50. Qd6+ Kb7 51. e8=Q Bf6+ 52. Kd7 *
+
+
+[Event "Mastering complex endgames: 3.  Naroditsky - Sandberg 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/HGzlYtHQ"]
+[Result "*"]
+[UTCDate "2021.11.29"]
+[UTCTime "16:44:42"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "6k1/4qpp1/5n1p/1p3P2/p2Qp3/2P1P1P1/1P5P/5BK1 b - - 0 1"]
+[SetUp "1"]
+
+1... Qb7 2. Be2 h5 3. Kg2 Ng4 4. h3 Nf6 5. g4 hxg4 6. hxg4 Nd5 7. Kf2 b4 8. c4 Ne7 9. Qd6 Nc6 10. g5 Qa8 11. g6 fxg6 12. Qe6+ Kf8 13. fxg6 Qe8 14. Qf5+ Kg8 15. c5 Ne5 16. c6 a3 17. c7 Nd7 18. Bc4+ *
+
+
+[Event "Mastering complex endgames: 4. .Reprintsev-Grigoriants  1-0"]
+[Site "https://lichess.org/study/GzWzECFx/KKsVkVaN"]
+[Result "*"]
+[UTCDate "2021.11.30"]
+[UTCTime "18:54:18"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "5k2/pR3ppr/3rp2p/3p4/3p4/3P1P2/PP4PP/1K5R b K - 0 1"]
+[SetUp "1"]
+
+1... g5 2. Rxa7 Kg7 3. Rc1 Rh8 4. Rcc7 Rf8 5. b4 Rb6 6. a3 Kg6 7. Kb2 h5 8. Kb3 f6 9. a4 Rfb8 10. b5 Kf5 11. g3 h4 12. Kb4 hxg3 13. hxg3 e5 14. Rc5 Rd6 15. a5 g4 16. fxg4+ Kxg4 17. b6 e4 18. Rc1 Kf3 19. Re7 e3 20. Kc5 Rdd8 21. Kxd4 Re8 22. Rxe8 Rxe8 23. b7 *
+
+
+[Event "Mastering complex endgames: 5. Van der Wiel-Ernst 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/ILU0AH39"]
+[Result "*"]
+[UTCDate "2021.12.01"]
+[UTCTime "05:48:18"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "r4rk1/p2R3p/1p4p1/6R1/8/1KP5/1P3PPP/8 w q - 0 1"]
+[SetUp "1"]
+
+1. Re5 Rxf2 2. Ree7 Rxg2 3. Rg7+ Kh8 4. Rxh7+ Kg8 5. h4 Rg4 6. Rdg7+ Kf8 7. h5 Rh4 8. Rxg6 Re8 9. h6 Re5 10. Rc6 Rb5+ 11. Kc2 Rh2+ 12. Kd3 Rc5 13. Rxc5 bxc5 14. Rxa7 Rxh6 15. Kc4 *
+
+
+[Event "Mastering complex endgames: 6. Rudyak - Naroditsky  0-1"]
+[Site "https://lichess.org/study/GzWzECFx/6l7hSfs6"]
+[Result "*"]
+[UTCDate "2021.12.01"]
+[UTCTime "14:22:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "2r3k1/ppp3pp/4p3/3p4/1P1P1r2/3R1P2/P1P1P2P/4K2R b K - 0 1"]
+[SetUp "1"]
+
+1... b6! 2. Kd2 c5 3. bxc5 bxc5 4. dxc5 Rxc5 5. Rb1 Rfc4 6. c3?! Ra4 7. Rb7!? Rxa2+ 8. Ke1 Rc2? 9. Re3! Rc6 10. Rxa7 R2xc3 11. Re5 Kf8 12. h4 R3c4 13. Rg5? Rc7 14. Ra8+ Kf7 15. h5 h6 16. Re5 Rh4?? 17. Ra6 Re7 18. e3? Rh2 19. Kf1 Rb7 20. Kg1 Rc2 21. Ra1 Kf6 22. f4 Rb3 23. Re1 Rbb2 24. e4 d4 25. Rd1 d3 26. Ra5 Re2 27. e5+ Kf5 28. Ra3 d2 29. Kf1 Re4 30. Rg3 Rxf4+ 31. Ke2 Re4+ 32. Kf1 Rg4 *
+
+
+[Event "Mastering complex endgames: 7. Capablanca"]
+[Site "https://lichess.org/study/GzWzECFx/PkDWEZMv"]
+[Result "*"]
+[UTCDate "2021.12.04"]
+[UTCTime "06:55:10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "6k1/p4p1p/1p4p1/3r4/2r5/P1P4P/2R2PP1/2R1K3 b - - 0 1"]
+[SetUp "1"]
+
+1... Re4+ 2. Re2 Ra4 3. Ra2 h5 4. Rd1 Rda5 5. Rda1 h4 6. Kd2 Kg7 7. Kc2 Rg5 8. Rg1 Rf4 9. Kd3 Rf3+ 10. Ke2 Rxh3 *
+
+
+[Event "Mastering complex endgames: 8. Capablanca - Janowski  1-0"]
+[Site "https://lichess.org/study/GzWzECFx/OBfWpiQj"]
+[Result "*"]
+[UTCDate "2021.12.04"]
+[UTCTime "07:50:16"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "1k2r3/1ppr2pp/p1p2p2/5R2/4P3/1P1P3P/P1P3P1/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. g4 b6 2. b4 Kb7 3. Kf2 b5 4. a4 Rd4 5. Rb1 Re5 6. Ke3 Rd7 7. a5 Re6 8. Rbf1 Rde7 9. g5 fxg5 10. Rxg5 Rh6 11. Rg3 Rhe6 12. h4 g6 13. Rg5 h6 14. Rg4 Rg7 15. d4 Kc8 16. Rf8+ Kb7 17. e5 g5 18. Ke4 Ree7 19. hxg5 hxg5 20. Rf5 Kc8 21. Rgxg5 Rh7 22. Rh5 Kd7 23. Rxh7 Rxh7 24. Rf8 Rh4+ 25. Kd3 Rh3+ 26. Kd2 c5 27. bxc5 Ra3 28. d5 *
+
+
+[Event "Mastering complex endgames: 9. Varavin - Ozolin 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/Py0I29IC"]
+[Result "*"]
+[UTCDate "2021.12.04"]
+[UTCTime "17:35:00"]
+[Variant "Standard"]
+[ECO "B43"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+
+1. e4 (1. d4 Nf6 (1... d6) 2. Bg5 (2. Bf4) 2... g6 (2... c5 3. Bxf6 gxf6 4. d5 f5) 3. Bxf6 exf6) 1... c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Be2 Nf6 7. O-O Nc6 8. Be3 Bb4 9. Na4 O-O 10. c4 Nxe4 11. Bf3 f5 12. Bxe4 fxe4 13. c5 d6 14. Nxc6 bxc6 15. Qc2 Bxc5 16. Bxc5 dxc5 17. Nxc5 e5 18. Rac1 Bf5 19. Nxe4 Qf7 20. Nd6 Bxc2 21. Nxf7 Rxf7 22. Rxc2 Rb7 23. Re1 Rb5 24. Ree2 Rab8 25. b3 a5 26. h3 Rb4 27. Rxe5 a4 28. bxa4 Rxa4 29. Re7 Rd4 30. Ra7 h6 31. a4 Rb1+ 32. Kh2 Ra1 33. a5 Rd5 34. a6 c5 35. Re2 Rd6 36. Ree7 Rg6 37. h4 c4 38. h5 Rg5 39. f4 Rxh5+ 40. Kg3 Ra3+ 41. Kg4 Rh2 42. Rxg7+ Kh8 43. Rg6 Rxg2+ 44. Kf5 Rxg6 45. Kxg6 Rg3+ 46. Kxh6 Rh3+ 47. Kg6 Rg3+ 48. Kf6 Ra3 49. Kg6 Rg3+ 50. Kf5 Ra3 51. Kg6 Rg3+ 52. Kf5 Ra3 53. Ke4 Kg8 54. f5 Kf8 55. Kd4 c3 56. Kd3 Ra5 57. Kxc3 Rc5+ 58. Kb4 Rc6 59. Kb5 Rf6 60. Rc7 Rxf5+ 61. Kb6 Rf1 62. a7 Rb1+ 63. Kc6 Rc1+ 64. Kb7 Rb1+ 65. Kc8 Ra1 66. Kb8 Rb1+ 67. Rb7 Rd1 68. Kc7 Kg7 *
+
+
+[Event "Mastering complex endgames: 10. Sahovic- Kortchnoi 0-1"]
+[Site "https://lichess.org/study/GzWzECFx/nianDDzJ"]
+[Result "*"]
+[UTCDate "2021.12.05"]
+[UTCTime "06:05:46"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/1p6/p4k1p/3r2p1/1PP1p1KP/4Pr2/1P2R3/4R3 b - - 0 1"]
+[SetUp "1"]
+
+1... h5+ 2. Kxh5 Rd8 3. hxg5+ Kf5 4. Kh6 Rh3+ 5. Kg7 Rd7+ 6. Kg8 Kg6 7. Rf2 Rg7+ 8. Kf8 Rh8# *
+
+
+[Event "Mastering complex endgames: 11. Petrosian- Larsen 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/x2Sn9H12"]
+[Result "*"]
+[UTCDate "2021.12.05"]
+[UTCTime "06:13:02"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "3R4/5kp1/5p2/7R/1r3PKP/6P1/1r6/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rhh8 Rb7 2. Rhf8+ Ke7 3. Kf5 R2b3 4. g4 Rg3 5. Rde8+ Kd6 6. g5 fxg5 7. hxg5 Rb5+ 8. Kg6 *
+
+
+[Event "Mastering complex endgames: 12. I. Polgar-Minev 1/2 -1/2"]
+[Site "https://lichess.org/study/GzWzECFx/qFf1cK28"]
+[Result "*"]
+[UTCDate "2021.12.05"]
+[UTCTime "06:20:47"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "4r2k/pR4p1/7p/5r2/4p3/P5P1/1P5P/2R3K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxa7 Rd8 2. Rc2 Rd1+ 3. Kg2 Rfd5 4. Re2 Rb1 5. Re7 Rd4 6. Kf2 Kg8 7. Ke3 Rd3+ 8. Kxe4 Rb3 9. Ra7 R1xb2 10. Rxb2 Rxb2 11. h4 Rg2 12. Kf3 Rc2 13. Re7 Ra2 14. Re3 Kf7 15. Ke4 Ke6 16. Kd4+ Kd6 17. Kc4 Ra1 18. Kb4 Rb1+ 19. Rb3 Re1 20. Kb5 Re8 21. a4 Rb8+ 22. Kc4 Rc8+ 23. Kd4 Ra8 24. Ra3 Ra5 25. Kc4 Kc6 26. Kb4 Re5 27. Rc3+ Kb6 28. g4 g6 29. Rc4 Re1 30. Rf4 Rb1+ 31. Kc4 Ka5 32. Kd5 Rh1 *
+
+
+[Event "Mastering complex endgames: Naroditsky-Aliyev  1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/WRebEru0"]
+[Result "*"]
+[UTCDate "2021.12.08"]
+[UTCTime "08:44:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/7p/p1R2pp1/5k2/1P1P4/1r4P1/5K1P/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxa6 Rxb4 2. Rd6 Rb2+ 3. Kg1 Rd2 4. h3 h5 5. Kf1 g5 6. Kg1 Re2 7. Kh1 Rf2 8. Kg1 Rf3 9. Kg2 Ra3 10. g4+ hxg4 11. hxg4+ Kxg4 12. Rxf6 Rd3 13. Ra6 Rd2+ 14. Kg1 Rxd4 15. Ra3 Kf4 16. Rb3 Ra4 17. Rc3 *
+
+
+[Event "Mastering complex endgames: 14. Lasker- Levenfish"]
+[Site "https://lichess.org/study/GzWzECFx/PSAbRi7w"]
+[Result "*"]
+[UTCDate "2021.12.08"]
+[UTCTime "09:19:35"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "r4k2/5p2/4p1p1/p3P2p/R4PPP/5K2/8/8 b q - 0 1"]
+[SetUp "1"]
+
+1... hxg4+ 2. Kxg4 Ke7 3. Kg5 Ra7 4. Kh6 Kd7 5. Kg7 Kc6 6. Kf6 Kb5 7. Ra1 a4 8. f5 exf5 9. e6 fxe6 10. Kxg6 f4 11. h5 f3 12. h6 e5 13. Re1 a3 14. Rxe5+ Kc4 15. Re1 a2 16. h7 Ra8 17. Kg7 f2 18. Rf1 a1=Q+ 19. Rxa1 Rxa1 20. h8=Q Rg1+ *
+
+
+[Event "Mastering complex endgames: 15. Dxoirys-Tseitlin 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/cs24C54u"]
+[Result "*"]
+[UTCDate "2021.12.12"]
+[UTCTime "06:54:37"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/5p2/7p/4kPp1/1K6/1Pp2RP1/P2r3P/8 b - - 0 1"]
+[SetUp "1"]
+
+1... c2 2. Rc3 Rxh2 3. a4 Kxf5 4. a5 Kg4 5. a6 f5 6. Kb5 Rg2 (6... Re2 7. Kb6 (7. a7 Re5+ 8. Kb6 Re6+ 9. Kb7 Re7+)) 7. a7 c1=Q 8. Rxc1 Ra2 9. Rc4+ Kxg3 10. Ra4 *
+
+
+[Event "Mastering complex endgames: 16. Kramnik- Ivanchuck  1/2  1/2"]
+[Site "https://lichess.org/study/GzWzECFx/rTRz2R7K"]
+[Result "*"]
+[UTCDate "2021.12.12"]
+[UTCTime "07:12:58"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "6k1/5p2/4pp2/7p/2KP3P/4P3/r4PP1/5R2 b - - 1 10"]
+[SetUp "1"]
+
+10... f5 11. d5 Kf8 12. dxe6 fxe6 13. Kd4 Ke7 14. Ke5 Ra4 15. f3 Ra5+ 16. Kf4 Ra2 17. Rb1 Kf6 18. Kg3 Re2 19. Rb3 e5 20. Rb6+ Kg7 21. Rb3 Kf6 22. Ra3 Kg6 23. Kh3 Kf6 24. g4 hxg4+ 25. fxg4 fxg4+ 26. Kxg4 Kg6 27. h5+ Kh6 28. Ra6+ Kh7 29. Ra3 Kh6 30. Kf5 e4 31. Kxe4 Kxh5 32. Kf5 Rf2+ 33. Ke6 Re2 34. Kf5 Rf2+ 35. Ke5 Kg6 36. e4 Rb2 37. Ra7 Rb5+ 38. Ke6 Rb6+ 39. Ke7 Rb5 40. Ra6+ Kg5 41. Ke6 Kf4 42. Kf6 Rh5 *
+
+
+[Event "Mastering complex endgames: 17. Naroditsky- Nip 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/YgjTSzWD"]
+[Result "*"]
+[UTCDate "2021.12.12"]
+[UTCTime "07:43:08"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/3r1k2/p6p/1p1p2pP/3R2P1/2P3K1/PP6/8 b - - 13 43"]
+[SetUp "1"]
+
+43... Ke6 44. Rd1 Rf7 45. Re1+ Kd6 46. Re8 Rf6 47. b3 Kd7 48. Re3 Kd6 49. a3 Kc5 50. Re8 Kd6 51. Rg8 Ke7 52. Rc8 Kd7 53. Rc5 Kd6 54. b4 Rf8 *
+
+
+[Event "Mastering complex endgames: 18. Capablanca- Tartakover 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/DzvFMRp8"]
+[Result "*"]
+[UTCDate "2021.12.13"]
+[UTCTime "05:12:44"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "5k2/p1p4R/1pr5/3p1pP1/P2P1P2/2P2K2/8/8 w - - 1 55"]
+[SetUp "1"]
+
+55. Kg3 Rxc3+ 56. Kh4 Rf3 57. g6 Rxf4+ 58. Kg5 Re4 59. Kf6 Kg8 60. Rg7+ Kh8 61. Rxc7 Re8 62. Kxf5 Re4 63. Kf6 Rf4+ 64. Ke5 Rg4 65. g7+ Kg8 66. Rxa7 Rg1 67. Kxd5 Rc1 68. Kd6 Rc2 69. d5 Rc1 70. Rc7 Ra1 71. Kc6 Rxa4 72. d6 *
+
+
+[Event "Mastering complex endgames: 19. Naroditsky"]
+[Site "https://lichess.org/study/GzWzECFx/oCqh93cA"]
+[Result "*"]
+[UTCDate "2021.12.13"]
+[UTCTime "05:25:12"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "2r4k/1R6/8/1p3P1K/2p5/8/6P1/8 w - - 0 72"]
+[SetUp "1"]
+
+72. f6 Rf8 73. Kg6 Rg8+ 74. Kf7 Rxg2 75. Rxb5 Rh2 76. Re5 Kh7 77. Ke8 Kg6 78. f7 Rb2 79. f8=Q Rb8+ 80. Ke7 *
+
+
+[Event "Mastering complex endgames: 20. Gutman-Hertneck"]
+[Site "https://lichess.org/study/GzWzECFx/ZIHqDicG"]
+[Result "*"]
+[UTCDate "2021.12.13"]
+[UTCTime "05:40:29"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/6R1/7p/1p1k1P2/1P1p2P1/1Kp4P/P3r3/8 b - - 0 72"]
+[SetUp "1"]
+
+72... Rb2+ 73. Ka3 Rb1 74. Rc7 d3 *
+
+
+[Event "Mastering complex endgames: 21. Naroditsky 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/Z3zdqgaV"]
+[Result "*"]
+[UTCDate "2021.12.14"]
+[UTCTime "05:31:17"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "2r4k/5Kp1/1P4P1/6Pp/R1p4P/2P5/7p/8 w - - 0 1"]
+[SetUp "1"]
+
+1. b7 Rf8+ 2. Kxf8 h1=Q 3. b8=Q Qa8 4. Qe8 Qxa4 5. Ke7+ Qxe8+ 6. Kxe8 *
+
+
+[Event "Mastering complex endgames: 22. Rubinstein- Reti  1-0"]
+[Site "https://lichess.org/study/GzWzECFx/Os28NhO8"]
+[Result "*"]
+[UTCDate "2021.12.15"]
+[UTCTime "17:57:04"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "2k5/p5pp/2p5/4P3/2K5/2p1P3/r4PPP/2R5 w - - 0 6"]
+[SetUp "1"]
+
+6. f4 Rxg2 7. Rxc3 Kd7 8. Ra3 Ke6 9. Rxa7 h5 10. h4 Rg4 11. Kd4 g6 12. Rg7 Rg1 13. Ke4 Rg2 14. Rc7 Rc2 15. Kd3 Rc1 16. e4 Rd1+ 17. Ke2 Rc1 18. Kd2 Rc4 19. Kd3 Rc1 20. Rg7 Rd1+ 21. Ke3 Re1+ 22. Kd4 Rd1+ 23. Kc5 Rc1+ 24. Kb6 c5 25. Rxg6+ Ke7 26. f5 Re1 27. Kc6 Rxe4 28. Kd5 Rxh4 29. Rg7+ Kf8 30. f6 Rf4 31. Ke6 Ra4 32. Rc7 Ra6+ 33. Kf5 h4 34. Rc8+ Kf7 35. e6+ *
+
+
+[Event "Mastering complex endgames: 23. Shipman-Naroditky 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/yqGcvMNQ"]
+[Result "*"]
+[UTCDate "2021.12.16"]
+[UTCTime "06:32:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/p1k1rp2/6p1/1p6/2p2R2/2P5/PP4PP/5K2 w - - 0 35"]
+[SetUp "1"]
+
+35. a4 a6 36. Rf6 Kb7 37. a5 Rd7 38. Ke1 Re7+ 39. Kd2 Ka7 40. h4 Kb7 41. g4 Re4 42. Rxf7+ (42. h5 gxh5 43. gxh5 Rh4 44. h6 b4 45. cxb4) 42... Kb8 43. h5 gxh5 44. gxh5 Rh4 45. Rh7 Rh2+ 46. Kc1 Rh1+ 47. Kc2 Ka8 48. h6 Kb8 49. Kd2 Rh3 50. Ke2 Ka8 51. Kf2 Kb8 52. Kg2 Rh5 53. Kg3 Ka8 54. Kg4 Rh2 55. Kg5 Rg2+ 56. Kf6 Kb8 57. Rg7 Rf2+ 58. Ke6 Re2+ 59. Kd5 Rd2+ 60. Kc5 Rh2 61. h7 *
+
+
+[Event "Mastering complex endgames: 24. Karpov-Hort  1-0"]
+[Site "https://lichess.org/study/GzWzECFx/LKvYhsvZ"]
+[Result "*"]
+[UTCDate "2021.12.17"]
+[UTCTime "19:32:45"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "4r1k1/p5pp/4p3/8/8/4R1P1/4PPKP/8 w - - 0 61"]
+[SetUp "1"]
+
+{ [%csl Gg5] }
+61. Ra3 Re7 62. Ra5 Kf7 63. h4 h6 64. g4 Kf6 65. f4 Rb7 66. Kf3 Rc7 67. Ra6 g6 68. Ra5 Rd7 69. e3 Rb7 70. h5 g5 71. Ra6 gxf4 72. exf4 Rb3+ 73. Kg2 Rb7 74. Kg3 Kf7 75. Ra4 Kg7 76. g5 Rc7 77. Ra5 Kg8 78. Rb5 Kf7 79. Kg4 a6 80. Rb8 Rc1 81. g6+ Kg7 82. Rb7+ Kf8 83. Rb6 Rg1+ 84. Kf3 Rf1+ 85. Ke4 Re1+ 86. Kd4 Ke7 87. Rxa6 Kf6 88. Ra7 e5+ 89. fxe5+ Rxe5 90. Ra6+ *
+
+
+[Event "Mastering complex endgames: 25. Naroditsky- Martínez 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/yChpNko9"]
+[Result "*"]
+[UTCDate "2021.12.19"]
+[UTCTime "18:54:04"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "1R6/1P4p1/6k1/7p/1r3P2/6PP/4K3/8 b - - 1 90"]
+[SetUp "1"]
+
+90... Rb3! 91. f5+ Kh7 92. h4 Rb5 93. Ke3 Rb4 94. g4? Rb3+! 95. Kd2?? hxg4 96. Ke2 Rb5 97. h5 g3! 98. h6 g2 99. Kf2 Rxf5+ 100. Kxg2 Rb5 101. hxg7 Kxg7 102. Kf3 Rb3+ 103. Ke4 Rb4+ 104. Kd5 Rb1 105. Kc4 Rc1+ 106. Kb3 Rb1+ 107. Ka3 Kh7 108. Ka2 Rb6 109. Rc8 Rxb7 *
+
+
+[Event "Mastering complex endgames: 26. Young-Galofre 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/s7vzri7d"]
+[Result "*"]
+[UTCDate "2021.12.19"]
+[UTCTime "19:33:33"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "7R/8/4k3/3p4/5P2/r3P3/5K2/8 w - - 0 110"]
+[SetUp "1"]
+
+110. Rh6+ Ke7 111. Rb6 Rc3 112. Ke2 Ra3 113. Rb5 Ke6 114. Rb6+ Ke7 115. f5 Rc3?! 116. Re6+ Kf7?? 117. Re5?? Rc5 118. e4 Rc4 119. exd5 Kf6 120. Kd3! Ra4 121. Re4 Ra3+ 122. Kd4 Kxf5 123. Re1 Ra2 124. d6 Rd2+ 125. Kc5 Kf6 126. Kc6 Rc2+ 127. Kd7 Kf7 128. Rf1+ Kg7 129. Kd8 Rc3 130. d7 Rc4 131. Rf2 Kg8 132. Rf5 Kg7 133. Ke7 *
+
+
+[Event "Mastering complex endgames: 2.5 Karpov-Kamsky 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/7Wy41gSa"]
+[Result "*"]
+[UTCDate "2021.12.24"]
+[UTCTime "13:29:54"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/p4r2/8/PPR1pkp1/7p/6P1/5PK1/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Ke4 2. b6 axb6 3. axb6 Rb7 4. f3+ Kd4 5. Rb5 e4 6. Rb4+ Kc5 7. Rxe4 Rxb6 8. gxh4 gxh4 9. Rxh4 Rf6 *
+
+
+[Event "Mastering complex endgames: 2.6 Cheparinov-Yakovenko"]
+[Site "https://lichess.org/study/GzWzECFx/Nr17oMkk"]
+[Result "*"]
+[UTCDate "2021.12.24"]
+[UTCTime "17:46:16"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/p4p2/1p3k2/2p2P2/r1P4P/3PK3/5P2/1R6 w - - 0 1"]
+[SetUp "1"]
+
+1. h5 Kg5 2. Rg1+ Kh6 3. f6 Ra2 4. Rg7 Kxh5 5. f4 Kh6 6. Ke4 Rh2 7. Ke5 Rh5+ 8. f5 *
+
+
+[Event "Mastering complex endgames: 27. Getz-Naroditsky 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/0rknn1Ty"]
+[Result "*"]
+[UTCDate "2021.12.24"]
+[UTCTime "19:27:13"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "4r1k1/1p3p1p/p1b5/8/8/2B3P1/1PPR2P1/5K2 b - - 0 8"]
+[SetUp "1"]
+
+8... h6 9. Kf2 Re4 10. Bd4! Kh7 11. Be3 Kg6 12. Rd6+ Re6 13. Rxe6+ fxe6 14. g4! Be4 15. c3 Bd5 16. Bf4 Be4 17. g3 Bc2 18. Kg2 Bd3 19. Kf3 Bc2 20. Ke2 Bb3 21. Kd2 Bd5 *
+
+
+[Event "Mastering complex endgames: 28. Naroditsky-Odondoo 0-1"]
+[Site "https://lichess.org/study/GzWzECFx/kJF6ezLL"]
+[Result "*"]
+[UTCDate "2021.12.25"]
+[UTCTime "08:47:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "6k1/6p1/p1b2p1p/P3pP2/2P5/1r1P4/5B1P/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. d4! exd4 2. Bxd4 Rb4 3. Rc1 Be4 4. Rc3 Bxf5 5. Bb6 Bd7? 6. c5 Bc6 7. Rd3 Bb5 8. Rd8+? Kf7 9. Rc8 Rc4 10. Rc7+ Kg6 11. Re7?! Rg4+? 12. Kf2 Kf5 13. h3 Rf4+ 14. Kg3 g5 15. Bc7 Rc4 16. Bd6 h5 17. Rb7 h4+ 18. Kf2 Rc2+ 19. Ke3 Rc3+ 20. Kd2 Rd3+ 21. Kc2 Rxh3 22. Rxb5!? axb5 23. c6 Ke6 24. Bb4 Rh2+ 25. Kb3 Re2!! 26. a6 Kd5 27. c7 Re8 28. Be7 Rc8 29. Bxf6 h3 *
+
+
+[Event "Mastering complex endgames: 29. Lowe-Deacon 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/SM6lJnnP"]
+[Result "*"]
+[UTCDate "2021.12.25"]
+[UTCTime "19:58:40"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "2b5/3k4/p1p1p3/3pB2p/3P1K1P/2P5/P1r5/1R6 w - - 0 30"]
+[SetUp "1"]
+
+30. Kg5 Rxa2! 31. Kxh5 Rg2 32. Rb8! Rg1 33. Kh6 a5? 34. Ra8 Ra1? 35. Ra7+? Ke8 36. h5 c5? 37. Kh7? Bd7? 38. h6! Ba4? 39. Kg8! Bc2 40. dxc5 Rh1? 41. Bg7?? (41. c6) 41... e5! 42. c6 Bf5 43. Rxa5 Be6+ 44. Kh8 e4 45. Ra8+ Kf7 46. Rf8+?? Ke7 47. Rf2 Kd6 48. Bf8+ Kxc6 49. Rf6 Kd7 50. Bc5 Rh3 51. h7 Rg3! 52. Bf2 Rg2 53. Rf8 Kc7 54. Bd4 Rg5 55. Rf1 Rg6 56. Rg1 Rxg1 57. Bxg1 Bf5 58. Kg7 Bxh7 59. Kxh7 Kc6 60. Kg6 Kb5 *
+
+
+[Event "Mastering complex endgames: 30. Lee-Naroditsky"]
+[Site "https://lichess.org/study/GzWzECFx/7QHqlBv1"]
+[Result "*"]
+[UTCDate "2021.12.28"]
+[UTCTime "04:33:27"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "6k1/7p/6p1/2bPp3/4PpP1/1R3K1P/2r1B3/8 b - - 2 2"]
+[SetUp "1"]
+
+2... Kg7?! 3. g5 Kg8?! 4. h4 Kg7 5. Rd3 Bd4 6. Rb3 Rc1?! 7. Rb7+ Kf8 8. d6 Rc3+ 9. Kg2 Rc2 10. Rb8+ Kf7 11. d7 Bb6! *
+
+
+[Event "Mastering complex endgames: 31.Muller-Heinemann 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/FMaqU2ZF"]
+[Result "*"]
+[UTCDate "2022.01.08"]
+[UTCTime "07:16:22"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "4r3/6kp/4p1p1/1Pb5/4P3/1B3R1P/6P1/5K2 w - - 2 2"]
+[SetUp "1"]
+
+2. Rc3! Rf8+ 3. Ke2 Bd4 4. Rc7+ Rf7 5. Rc6 Rb7! 6. Bc4 e5 7. Kd3 Kh6 8. Rd6 Bf2 9. Rd5 Re7 10. Rd8 Rb7 11. Ke2 Ba7 12. Rd5 Re7 13. Rd6 Rb7 14. Ra6 Bd4 15. Rd6 Ba7 16. g3 Kg5 17. Kf3 Kh6 18. h4 Kh5 19. Kg2 Bc5 20. Rc6 Bd4 21. Kh3 Kh6 22. g4 Kg7 23. g5 Be3 24. Bd5! Rb8 25. Rc7+ Kh8 26. Bc6 Rf8 27. Re7 Bd4 28. Bd5 Rf3+ 29. Kg2 Rf2+ 30. Kg3 h6 31. gxh6 Rf4 32. Re6 Kh7 33. b6 Rf8 34. b7 Ba7 35. h5! gxh5 36. Kh4 Rf1 37. Kxh5 Rg1 38. Re7+ Kh8 39. Rxe5 *
+
+
+[Event "Mastering complex endgames: 32. Yermolinsky-Naroditsky 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/I4uXcvgl"]
+[Result "*"]
+[UTCDate "2022.01.11"]
+[UTCTime "05:41:23"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/4k3/5r2/1K2p2R/3bB1P1/5P2/8/8 w - - 0 39"]
+[SetUp "1"]
+
+39. g5 Rf7 40. Kc4 Rg7 41. g6! Kf6 42. Rh8 Ra7 43. Rc8 Ra4+ 44. Kb5 Ra7 45. Rc6+ Kg7 46. Kc4 Be3 47. Kd5 Bf4? 48. Ke6! Rb7 49. Rd6? Rc7 50. Ra6 Kh6 51. Kf6 Bg5+ 52. Kxe5 Kg7 53. f4 Bh4 54. Bd5 *
+
+
+[Event "Mastering complex endgames: 33. Larsen-Lengyel"]
+[Site "https://lichess.org/study/GzWzECFx/wZCpb3hi"]
+[Result "*"]
+[UTCDate "2022.01.11"]
+[UTCTime "14:48:00"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/1p1k4/2p5/2P1B2R/3PPK1P/3b4/8/4r3 w - - 2 54"]
+[SetUp "1"]
+
+54. Rh7+ Ke6 55. d5+! cxd5 56. exd5+ Kxd5 57. Rd7+ Kc4 58. Rd4+ Kc3 59. Re4+ Kd2 60. Bc3+ *
+
+
+[Event "Mastering complex endgames: 34. Naroditsky- Stein 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/1NHGR1lg"]
+[Result "*"]
+[UTCDate "2022.01.13"]
+[UTCTime "06:35:29"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "5k2/pb2r1pp/8/2pp4/8/5B2/PPPK2PP/3R4 w - - 7 60"]
+[SetUp "1"]
+
+60. Re1 Rxe1 61. Kxe1 Kf7 62. c4! Ke6 63. Ke2 Kd6 64. b3! Bc6! 65. Bxd5 Bxd5 66. cxd5 Kxd5 67. Kd3 a6 68. a3 a5?! 69. Kc3 g5 70. g4 h6?? 71. Kd3 Kd6 72. Kc4 Kc6 73. a4 *
+
+
+[Event "Mastering complex endgames: 35. Ziatdinov- Homs 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/s9l9iLto"]
+[Result "*"]
+[UTCDate "2022.01.13"]
+[UTCTime "07:04:16"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "5k2/6bp/8/1rp1p3/3p4/B4P2/P1P2P1P/K3R3 b - - 0 73"]
+[SetUp "1"]
+
+73... d3?! 74. Bb2 c4 75. cxd3 cxd3 76. Rd1! Rd5 77. Bc3 Bh6 78. Kb2 Ke7 79. Kb3 Kd6 80. a4?! Kc5 81. Bb4+ Kd4 82. Bc3+ Kc5 83. Bb2 Bf4 84. h3 Rd7 85. Kc3 e4 86. Ba3+ Kd5 87. fxe4+? Kxe4 88. Bc5? Rc7 89. Kb4 d2 90. a5 Kd3 91. a6 Ke2 92. Rb1 d1=Q 93. Rxd1 Kxd1 94. a7 Rc8 95. Kb5 Ke2 96. Kb6 Kf3 97. Kb7 Rg8 98. a8=Q Rxa8 99. Kxa8 h5 100. Kb7 Kg2 101. h4 Kh3 102. Be7 Kg2 103. Bc5 Kh3 104. Kc6 Kxh4 105. Kd5 Kg4 106. Be7 h4 *
+
+
+[Event "Mastering complex endgames: 36. Asztalos-Hajdu 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/XVoKZbFK"]
+[Result "*"]
+[UTCDate "2022.01.14"]
+[UTCTime "16:05:39"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "5bk1/5p2/6pp/1p1p4/8/2P5/1P3PPP/r1B1R1K1 w - - 3 96"]
+[SetUp "1"]
+
+96. Kf1 Rb1 97. Ke2 h5? 98. Kd3 Bh6? 99. Kc2 Rxc1+ 100. Rxc1 Bxc1 101. Kxc1 Kf8 102. Kd2 Ke7 103. Kd3 Ke6 104. Kd4 Kd6 105. f4 f6 106. g3 Kc6 107. h3 Kd6 108. g4 h4 109. b3 Kc6 110. g5! f5 111. Ke5 Kc5 *
+
+
+[Event "Mastering complex endgames: 37. Geske-Zilka 0-1"]
+[Site "https://lichess.org/study/GzWzECFx/u5XXt1aP"]
+[Result "*"]
+[UTCDate "2022.01.15"]
+[UTCTime "07:35:36"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "2k4r/6p1/2p2p2/1pb5/p1p1PBP1/5P2/PPPRK3/8 b - - 4 96"]
+[SetUp "1"]
+
+96... a3 97. bxa3 Bxa3 98. Bd6 c3 99. Rd1 Bxd6 100. Rxd6 Rh2+ 101. Kd1 Rh1+ 102. Ke2 Rh2+ 103. Kd1 Kc7 104. Rd3 b4 105. Rd4?! c5 106. Rd5 Kc6 107. g5 Kb5 108. f4 Kc4 109. g6 Rh1+ 110. Ke2 Rc1 111. Rd7 Rxc2+ 112. Kd1 Rg2 113. Rxg7 c2+ *
+
+
+[Event "Mastering complex endgames: 38. Shulman-Sosa Harrison 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/jZsIADEh"]
+[Result "*"]
+[UTCDate "2022.01.24"]
+[UTCTime "19:56:37"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "r1b5/4kp2/p1R3pp/1p1p4/3P4/P1KB4/1P3PPP/8 w - - 0 114"]
+[SetUp "1"]
+
+114. Kb4 a5+! *
+
+
+[Event "Mastering complex endgames: 39. Rozentalis-Glek 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/fQU4NUA3"]
+[Result "*"]
+[UTCDate "2022.02.01"]
+[UTCTime "18:44:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "2rbk3/6p1/p2B1p1p/2p5/6P1/2P2P2/PPKR4/8 w - - 0 1"]
+[SetUp "1"]
+
+1. c4! Rc6 2. Rd5 Be7 3. Bf4 Kf7 4. Kd3 Ke6 5. Be3 Rc8 6. f4! Bd6 7. f5+ Ke7 8. b3 a5 9. a4! Rc6 10. Ke4 Rc8 11. Bf2 Rc6 12. Rd3 Bc7 13. Rf3 Bb6 14. Bg3! Ba7 15. Kd5 Kd7 16. Re3 Rb6 17. Bf4 Rb7 18. Bd6 Kd8 19. Rd3 Kd7 20. Bxc5 Bxc5 21. Kxc5+ Kc7 22. Re3 Kd7 23. Kd4 Rb8 24. Kc3 g6 25. Rd3+ Kc7 26. fxg6 Rg8 27. Rd5 Rxg6 28. Rxa5 Rxg4 29. Rf5 Rg6 30. a5 Kd6 31. a6 *
+
+
+[Event "Mastering complex endgames: 40. Tkachiev-Hoffman 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/WiWHLuZy"]
+[Result "*"]
+[UTCDate "2022.02.07"]
+[UTCTime "21:37:26"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "R3bk2/5p1p/3rpPpP/3p4/2pP2B1/1pP1K1P1/1P3P2/8 w - - 0 1"]
+[SetUp "1"]
+
+1. Kf4 Rb6 2. Kg5 Rb7 3. f4 Rd7 4. Bf3 Rd6 5. g4 Rd7 6. f5 exf5 7. gxf5 Rd6 8. Bg4 *
+
+
+[Event "Mastering complex endgames: 41. Danielsen-Hillarp Persson 1-0"]
+[Site "https://lichess.org/study/GzWzECFx/nvLXuDAG"]
+[Result "*"]
+[UTCDate "2022.02.07"]
+[UTCTime "22:02:04"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "1r6/p4pk1/6p1/8/2PR1P2/1P5P/b5B1/6K1 w - - 2 8"]
+[SetUp "1"]
+
+8. Rd7! Bxb3 9. Bd5 a5?! 10. Rxf7+ Kh6 11. Ra7 a4 12. Kf2 Rc8 13. Be6 Rc5 14. Ke3 Bxc4 15. Kd4 Bxe6 16. Kxc5 Bxh3 17. Kd4 Bf5 18. Rxa4 Kh5 19. Ra1 Kg4 20. Ke3 Be6 21. Ke4 Bf5+ 22. Ke5 Kf3 23. Rc1 Kg3 24. Rg1+ Kf3 25. Ra1 Kg3 26. Ra3+ Kg4 27. Ra4 Bc2 28. Rb4 Bf5 29. Kf6 Kh4 30. Rb5 *
+
+
+[Event "Mastering complex endgames: 42. S. Atalik-Khomyakov"]
+[Site "https://lichess.org/study/GzWzECFx/fmWln4iO"]
+[Result "*"]
+[UTCDate "2022.02.18"]
+[UTCTime "19:21:44"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "6k1/3b3p/p2p1rp1/3P4/8/2P2BKP/5PP1/4R3 b - - 24 30"]
+[SetUp "1"]
+
+30... a5? 31. Ra1 a4 32. Bg4! Be8 33. Be6+ Kg7 34. f4 Bb5 35. c4! Be8 36. Rb1 Rf8 37. Rb7+ Kf6 38. Ra7 h6 39. Kf3 g5 40. f5 Ke5 41. Ke3 h5 42. g3 *
+
+
+[Event "Mastering complex endgames: 43. Hubner-Portisch 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/QHm1djmX"]
+[Result "*"]
+[UTCDate "2022.02.18"]
+[UTCTime "19:50:26"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/2p2p1k/3b1p2/1p6/3P4/1p2BP2/rP4PP/1R4K1 w - - 0 42"]
+[SetUp "1"]
+
+42. Kf1! f5 43. Ke2 Kg6 44. g3 f4! 45. Bd2 fxg3 46. hxg3 Ra4 47. Kd3 Rc4 48. Bc3 Ra4 49. g4 Bf4 50. Ke4 Bd6 51. Kd3 Ra8 52. Rh1 Ra2 53. d5! f5 54. Rh8 *
+
+
+[Event "Mastering complex endgames: 44. Vaisser-M.D.Tseitlin 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/zU4ClZRa"]
+[Result "*"]
+[UTCDate "2022.02.26"]
+[UTCTime "07:46:58"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "3r4/p3pk1p/1p3p2/2bP1P2/4PB2/8/P1R1K2P/8 b - - 0 1"]
+[SetUp "1"]
+
+1... Rg8 2. Bg3 Ke8 3. Kf3 Kd7 4. Rc4 Rc8 5. e5 fxe5 6. Rh4 Bd4 7. Rxh7 Rc3+ 8. Kg4 Kd6 9. h4 Rc1 { [%csl Gc2] } (9... Rc8 10. h5 Rg8+ 11. Kh4 Kxd5 12. Rxe7 Ke4 13. f6 Kf3 14. f7 (14. h6 Rxg3 15. Rg7) 14... Rg4+ 15. Kh3 Rxg3+ 16. Kh2 Rg2+) *
+
+
+[Event "Mastering complex endgames: 45. Horvath-Gretarsson 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/Ij4HGqRB"]
+[Result "*"]
+[UTCDate "2022.05.21"]
+[UTCTime "18:43:51"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "8/p1r2p1p/1p3kp1/3Pb3/1P6/3R1P1P/P2B1PK1/8 b - - 2 17"]
+[SetUp "1"]
+
+17... Kf5 18. b5 Bd6 19. a4 Rc2 20. Be3 Ra2 21. Rd4 g5 22. h4 Bc5 23. Re4 Bxe3 24. Rxe3 Rxa4 25. Rd3 Rc4 26. d6 Rc8 27. hxg5 Rd8 28. f4 Kxf4 29. Rf3+ Kxg5 30. Rxf7 Rxd6 31. Rxh7 Rd5 *
+
+
+[Event "Mastering complex endgames: 46. Dus Chotimirsky-Rabinovih 1/2 1/2"]
+[Site "https://lichess.org/study/GzWzECFx/q4gaaFux"]
+[Result "*"]
+[UTCDate "2022.05.21"]
+[UTCTime "18:53:44"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+[FEN "2r3k1/pp3ppp/2p1b3/3p4/3P4/2PB4/PP3P1P/4R2K w - - 1 32"]
+[SetUp "1"]
+
+32. f4 Re8 33. Kg1 Kf8 34. h4 h6 35. Kf2 Bd7 36. Rg1 f5 37. a4 Kf7 38. b4 Kf6 39. Kf3 Rg8 40. c4 Be6 41. c5 Bf7 42. b5 Bh5+ 43. Kf2 Re8 44. Rb1 Re7 45. b6 a5 46. Re1 Rd7 47. Re5 Bg4 48. Re8 g5 49. fxg5+ hxg5 50. hxg5+ Kxg5 51. Rc8 Rh7 52. Rc7 Rxc7 53. bxc7 f4 54. Be2 Bc8 55. Bf3 Kf6 56. Bg2 Ke7 57. Kf3 Kd7 58. Kxf4 Kxc7 59. Ke5 Bg4 60. Kf4 Bd1 61. Ke3 Bxa4 62. Kd2 Bb5 63. Kc3 b6 64. cxb6+ Kxb6 65. Kb2 Bc4 66. Ka3 *
+
+
+[Event "Mastering complex endgames: Chapter 52"]
+[Site "https://lichess.org/study/GzWzECFx/MihzmaxB"]
+[Result "*"]
+[UTCDate "2022.10.03"]
+[UTCTime "04:46:41"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+
+ *
+
+
+[Event "Mastering complex endgames: Chapter 53"]
+[Site "https://lichess.org/study/GzWzECFx/EHnYFMB8"]
+[Result "*"]
+[UTCDate "2022.10.05"]
+[UTCTime "18:30:55"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+
+ *
+
+
+[Event "Mastering complex endgames: Chapter 54"]
+[Site "https://lichess.org/study/GzWzECFx/eW6IQRAi"]
+[Result "*"]
+[UTCDate "2023.05.06"]
+[UTCTime "05:39:43"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/boby64fisher"]
+
+ *
+
+

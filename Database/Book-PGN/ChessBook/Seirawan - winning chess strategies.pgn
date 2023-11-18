@@ -1,0 +1,2331 @@
+[Event "Diagram 001"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1r1k1/p3qpp1/np5p/2pp4/Q2P4/2R2NP1/PP2PP1P/4KB1R w K - 0 29"]
+[PlyCount "35"]
+[SourceDate "2002.06.24"]
+
+29. Re3 Be6 30. Qxa6 cxd4 31. Rb3 Bf5 32. Bg2 Bc2 33. Nxd4 Bxb3 34. Nxb3 Rac8
+35. Bf3 Rc2 36. O-O Rxb2 37. Rd1 Rd8 38. Nd4 Rd7 39. Nc6 Qe8 40. Nxa7 Rc7 41.
+a4 Qa8 42. Rxd5 Qxa7 43. Rd8+ Kh7 44. Qd3+ f5 45. Qxf5+ g6 46. Qe6 *
+
+[Event "Diagram 002"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2br4/4k3/4p3/1B2P3/8/2KN4/1R6/5R2 w - - 0 46"]
+[PlyCount "5"]
+[SourceDate "2002.06.24"]
+
+46. Bc4 Rh8 47. Rf6 Rd8 48. Rb6 *
+
+[Event "Diagram 003"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNB1KBNR w KQkq - 0 1"]
+[PlyCount "29"]
+[SourceDate "2002.06.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Na5 5. Nxe5 Nxe4 6. d3 Nc5 7. Bxf7+ Ke7
+8. Bg5+ Kd6 9. Nb5+ Kxe5 10. f4+ Kf5 11. Nd4+ Kg4 12. h3+ Kg3 13. Ne2+ Kxg2 14.
+Bd5+ Ne4 15. Bxe4# *
+
+[Event "Diagram 004-005"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/R1BQKBNR w KQkq - 0 1"]
+[PlyCount "29"]
+[SourceDate "2002.06.24"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 f5 4. Bc4 fxe4 5. O-O exf3 6. Qxf3 Bc5+ 7. d4 Bxd4+
+8. Kh1 d6 9. Bxf4 Nf6 10. Rae1+ Kf8 11. Qd5 Qd7 12. Qxd4 Nc6 13. Qxf6+ gxf6 14.
+Bh6+ Qg7 15. Rxf6# *
+
+[Event "PROBLEM 1"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1k1nr/1pp3pp/p2q4/4p1B1/1b2P3/2N2N2/PPP3PP/3RKB1R b Kkq - 0 15"]
+[PlyCount "6"]
+[SourceDate "2002.06.24"]
+
+15... Qg6 (15... Bxc3+ 16. bxc3 Nf6 17. Rxd6 cxd6) 16. Rd8+ Kf7 17. Bc4+ Be6
+18. Nxe5# *
+
+[Event "Diagram 006"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/pp5p/6p1/1N2q3/2P1P1n1/1P6/P2Q2PP/3R2K1 w - - 0 17"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+17. Qd4 *
+
+[Event "Diagram 007"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/7r/p7/3P1p2/1NPq2n1/1P5P/P5PQ/6RK w - - 0 17"]
+[PlyCount "9"]
+[SourceDate "2002.06.24"]
+
+17. Qb8+ Kxb8 18. Nc6+ Kb7 19. Nxd4 Nf2+ 20. Kh2 Ng4+ 21. Kg3 *
+
+[Event "Diagram 008"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/p2bpppp/1qpp4/6B1/3NP1n1/2N5/PPP2PPP/R2Q1RK1 b kq - 0 21"]
+[PlyCount "45"]
+[SourceDate "2002.06.24"]
+
+21... Qxb2 22. Qd2 h6 23. Bh4 g5 24. Rab1 Qa3 25. Rb3 Qa5 26. Bg3 Bg7 27. h4
+gxh4 28. Bxh4 Bxd4 29. Qxd4 Qe5 30. Qxe5 Nxe5 31. Rb7 f6 32. f3 Bc8 33. Rb4 Rg8
+34. Kh1 Kf7 35. Rfb1 Rd8 36. Bg3 c5 37. Rb8 Rxb8 38. Rxb8 Nc6 39. Rb2 Rd7 40.
+Bf4 h5 41. Nd5 Rb7 42. Bc1 Rxb2 43. Bxb2 Be6 *
+
+[Event "PROBLEM 2"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/7p/p2b4/1P1pN2q/3P2p1/2P2p2/1P3PP1/R1BQR1K1 w - - 0 43"]
+[PlyCount "13"]
+[SourceDate "2002.06.24"]
+
+43. Qd2 Bf5 44. Rxa6 Rxa6 45. bxa6 Ra8 46. Qg5+ Qxg5 47. Bxg5 Rxa6 48. gxf3
+gxf3 49. Nxf3 *
+
+[Event "Diagram 009"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4b3/5ppk/5q1p/2QBpP2/2P1P3/7P/r5P1/1R4K1 w - - 0 49"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+49. Qe3 *
+
+[Event "Diagram 010"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3kqR2/6K1/3p4/1p1B4/p3P3/8/8 b - - 0 49"]
+[PlyCount "3"]
+[SourceDate "2002.06.24"]
+
+49... Qxf7+ 50. Kxf7 b3 *
+
+[Event "Diagram 011"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4kpp1/3b4/KB6/8/1R6/7p/2r5 w - - 0 50"]
+[PlyCount "3"]
+[SourceDate "2002.06.24"]
+
+50. Re3+ Kf8 51. Re8# *
+
+[Event "Diagram 012"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5ppp/Bp3q2/2rp4/1R1N4/2n1P1Pb/1Q3P1P/R5K1 b - - 0 51"]
+[PlyCount "7"]
+[SourceDate "2002.06.24"]
+
+51... b5 52. Bxb5 Nxb5 53. Rxb5 Rxb5 54. Qxb5 Qe5 *
+
+[Event "PROBLEM 3"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/3k3p/4q3/8/1R1K4 b - - 0 54"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+54... h3 (54... Kc3 55. Rb3+ Kxb3) *
+
+[Event "Diagram 013"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2rbk1/7p/1pqN1pp1/2pRp2n/P3P3/1P1Q1NP1/1B3PKP/3R4 b - - 0 54"]
+[PlyCount "10"]
+[SourceDate "2002.06.24"]
+
+54... Re6 55. Qc4 Ng7 56. Nb5 Na6 57. Rd7 Kh8 58. Na7 Rxa7 59. Rxa7 *
+
+[Event "Diagram 014"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/8/1PP5/K2R4/6P1/8/5r2 w - - 0 59"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+59. Rf4+ *
+
+[Event "Diagram 015"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/pbqnbp2/1p2p3/2ppP2p/PP3B1p/2PBPN2/5PP1/R2Q1RK1 b - - 0 59"]
+[PlyCount "11"]
+[SourceDate "2002.06.24"]
+
+59... c4 60. Be2 a6 61. Kh1 Rdg8 62. Rg1 Rg4 63. Qd2 Rhg8 64. a5 b5 *
+
+[Event "Diagram 016"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r4r/4kppp/bq1p1n2/p3p3/Pp2P3/6PP/1PPQNPB1/R2R2K1 b - - 0 64"]
+[PlyCount "11"]
+[SourceDate "2002.06.24"]
+
+64... h5 65. b3 Bxe2 66. Qxe2 Rc3 67. Rd3 Rhc8 68. Rxc3 Rxc3 69. Kh2 Qc5 *
+
+[Event "Diagram 017"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/pp3q2/3p1rn1/2pPprpp/P1P1R3/2P1BPPP/6K1/3Q1R2 b - - 0 69"]
+[PlyCount "56"]
+[SourceDate "2002.06.24"]
+
+69... Kf8 70. Rf2 Ke8 71. Rf1 Kd7 72. Rf2 Kc8 73. Rf1 Qh7 74. Bd2 Rf8 75. Qc1
+Qf7 76. Qd1 Kc7 77. Be3 Qg7 78. Kh2 Qh7 79. Kg2 Rg8 80. Bd2 Nf8 81. Qb1 Nd7 82.
+Ree1 Nb6 83. Qe4 Nxa4 84. Ra1 Nb6 85. Rxa7 Rf7 86. Re1 Qxe4 87. Rxe4 Rgf8 88.
+f4 gxf4 89. gxf4 Nd7 90. Kg3 Rg8+ 91. Kf2 Rfg7 92. Ke2 Rg2+ 93. Kd1 Rh2 94. Re2
+Rg1+ 95. Be1 Rgh1 96. Kd2 exf4 97. Bh4 *
+
+[Event "PROBLEM 4"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2p2p1r/4kPpP/p1PbP3/3R1K2/Pr6/5N1R b - - 0 1"]
+[PlyCount "17"]
+[SourceDate "2002.06.24"]
+
+1... Rxh5 2. Rxh5 Rf2+ 3. Kg3 Rxf1 4. Rh8 Kxe4 5. Ra3 Rg1+ 6. Kh2 Rc1 7. Rxa4
+Rc2+ 8. Kh1 c5 9. Ra3 Kxf5 *
+
+[Event "Diagram 018"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k5n/2p5/1p2K3/1P1PN3/8/8/8/8 w - - 0 1"]
+[PlyCount "11"]
+[SourceDate "2002.06.24"]
+
+1. d6 (1. Kf6) 1... cxd6 2. Kxd6 Kb7 3. Kd7 Kb8 4. Kc6 Ka7 5. Kc7 Ka8 6. Kxb6 *
+
+[Event "Diagram 020"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1n1k1/2q2ppp/1p6/8/7P/3Q1N2/P4PP1/R5K1 w - - 0 1"]
+[PlyCount "2"]
+[SourceDate "2002.06.24"]
+
+1. Ng5 Nf6 *
+
+[Event "Diagram 021"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/2q2pp1/1p2p2p/3n4/1P1P4/3QB2P/5PP1/1R4K1 w - - 0 2"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 022"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/1pq2pp1/5n2/3p1P1p/3P3P/1NPQ4/6P1/2R3K1 b - - 0 2"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 023"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/5p1p/6p1/2p5/q1Pp4/3QnP1B/P5PP/2R1R1K1 b - - 0 2"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 024"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/1p1n1p2/p2p3p/2pPp1p1/2P1P1P1/1P5P/P4PB1/R2QR1K1 b - - 0 2"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+2... Nf8 *
+
+[Event "Diagram 025"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/p3qp1p/1p3np1/2pPp3/2P1P3/6PP/P4PBK/1R1QR3 b - - 0 2"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+2... Ne8 *
+
+[Event "Diagram 026-027"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A92"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "47"]
+[SourceDate "2002.06.24"]
+
+1. Nf3 e6 2. g3 f5 3. Bg2 Nf6 4. O-O Be7 5. d4 O-O 6. c4 c6 7. Qc2 Qe8 8. Nbd2
+d5 9. Ne5 Nbd7 10. Nd3 Ne4 11. Nf3 Nd6 12. b3 b5 13. c5 Nf7 14. a4 bxa4 15.
+Rxa4 Bf6 16. Bb2 a6 17. Nfe5 Nfxe5 18. dxe5 Be7 19. f4 Rb8 20. Rfa1 Rb5 21. b4
+h5 22. Bc3 h4 23. e3 Nb8 24. Ne1 *
+
+[Event "Diagram 028"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3nk3/7p/1pr2p2/p1p1pNpP/P1P1K1P1/1P2P3/5P2/3R4 w - - 0 24"]
+[PlyCount "25"]
+[SourceDate "2002.06.24"]
+
+24. Nh6 Ne6 25. Ng8 Nf8 26. Rd2 Kf7 27. Nh6+ Ke8 28. Nf5 Ne6 29. Rd6 Rxd6 30.
+Nxd6+ Kd7 31. Nb5 Ng7 32. h6 Ne8 33. Kd5 f5 (33... Nc7+ 34. Nxc7 Kxc7 35. Ke6)
+(33... Ke7 34. Kc6) 34. Kxe5 fxg4 35. Nc3 Ke7 36. Ne4 *
+
+[Event "PROBLEM 5"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/1ppn2p1/p3kp2/P1P4P/1PN1KPP1/8/8 b - - 0 36"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+36... Nb7 *
+
+[Event "Diagram 029"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/7P/5B1K/8/8/8/8 w - - 0 36"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 030"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/7P/5B1K/2b2B2/8/8/8 w - - 0 36"]
+[PlyCount "3"]
+[SourceDate "2002.06.24"]
+
+36. Be5+ Kg8 37. h7+ *
+
+[Event "Diagram 031"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "B6k/8/7P/5B1K/2B1B3/8/B7/3B1B1B w - - 0 37"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 032"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2br2k1/1p3ppp/3p4/3B4/3P3P/2P3P1/5P2/4R1K1 w - - 0 37"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+37. Re7 *
+
+[Event "Diagram 033"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/3p4/2pPp3/1pP1Pp2/1P1B1Pp1/4K1P1/8 w - - 0 60"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 034"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2br2k1/1p3ppp/1p1p4/1P1BpP2/2P1P1P1/3P2KP/8/R7 w - - 0 60"]
+[PlyCount "3"]
+[SourceDate "2002.06.24"]
+
+60. Ra8 Rf8 61. Rb8 *
+
+[Event "Diagram 035"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b3k1/4p1p1/1pnp2np/p7/2PPPP2/1P2BN2/3N2P1/6K1 w - - 0 61"]
+[PlyCount "7"]
+[SourceDate "2002.06.24"]
+
+61. f5 Nf8 62. d5 Ne5 63. Nxe5 dxe5 64. Bxb6 *
+
+[Event "Diagram 036A"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C21"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "9"]
+[SourceDate "2002.06.24"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 *
+
+[Event "Diagram 036B"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A56"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "9"]
+[SourceDate "2002.06.24"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 *
+
+[Event "Diagram 037"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r2k1/1bpnqpb1/pp1pp1pp/8/3PP3/2NB1N2/PPP1QPPP/3RR1K1 b - - 0 5"]
+[PlyCount "3"]
+[SourceDate "2002.06.24"]
+
+5... c5 6. dxc5 Nxc5 *
+
+[Event "Diagram 038"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4qk1/ppp2pbp/2n2np1/4p3/4P3/2N1BB1P/PPP2PP1/2QR2K1 b - - 0 6"]
+[PlyCount "11"]
+[SourceDate "2002.06.24"]
+
+6... h5 7. Nb5 Rc8 8. c3 Kh7 9. Na3 Bh6 10. Bxh6 Qxh6 11. Qxh6+ Kxh6 *
+
+[Event "Diagram 039"]
+[Site "Denver"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "0-1"]
+[ECO "A10"]
+[PlyCount "66"]
+[EventDate "1971.??.??"]
+[SourceDate "2002.06.24"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 Nf6 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. Rb1 Ne8 11. b4 b6 12. a4 f5 13. a5 Nf6 14. Qa4 Bd7 15. Qa3
+Bh6 16. Bd3 Qc7 17. bxc5 bxc5 18. exf5 gxf5 19. Bc2 a6 20. Nde4 Bxc1 21. Nxf6+
+Rxf6 22. Rfxc1 Raf8 23. Rb6 Bc8 24. Ne2 f4 25. Be4 Nf5 26. Rc6 Qg7 27. Rb1 Nh4
+28. Qd3 Bf5 29. Kh1 f3 30. Ng3 fxg2+ 31. Kg1 Bxe4 32. Qxe4 Nf3+ 33. Kxg2 Nd2
+0-1
+
+[Event "PROBLEM 6"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p1b3p/p2p1pp1/2pPp3/P1PbP3/1P1B2P1/3B1P1P/6K1 w - - 0 34"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 040"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n2b2k/4rp1p/pp1p3p/2pP4/PqP1P3/1P3NR1/2B2P1P/5Q1K w - - 0 34"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+34. Qg1 *
+
+[Event "Diagram 041"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/p6p/Pp4pP/1P1p2P1/3P4/3K4/8/2R5 w - - 0 34"]
+[PlyCount "3"]
+[SourceDate "2002.06.24"]
+
+34. Rc7 Ra8 35. Rd7 *
+
+[Event "Diagram 042"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n3rk1/r4ppp/pp1q4/3p4/Q2P4/5N2/PP3PPP/2R1R1K1 w - - 0 35"]
+[PlyCount "65"]
+[SourceDate "2002.06.24"]
+
+35. Qc2 Re7 36. Rxe7 Qxe7 37. Qc7 Qxc7 38. Rxc7 f6 39. Kf1 Rf7 40. Rc8+ Rf8 41.
+Rc3 g5 42. Ne1 h5 43. h4 Nd7 44. Rc7 Rf7 45. Nf3 g4 46. Ne1 f5 47. Nd3 f4 48.
+f3 gxf3 49. gxf3 a5 50. a4 Kf8 51. Rc6 Ke7 52. Kf2 Rf5 53. b3 Kd8 54. Ke2 Nb8
+55. Rg6 Kc7 56. Ne5 Na6 57. Rg7+ Kc8 58. Nc6 Rf6 59. Ne7+ Kb8 60. Nxd5 Rd6 61.
+Rg5 Nb4 62. Nxb4 axb4 63. Rxh5 Rc6 64. Rb5 Kc7 65. Rxb4 Rh6 66. Rb5 Rxh4 67.
+Kd3 *
+
+[Event "Diagram 043"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r3k1/p3nqp1/Ppn1p2p/1B1pPp2/1P1P1P2/5N2/3Q2PP/R1R3K1 w - - 0 1"]
+[PlyCount "19"]
+[SourceDate "2002.06.24"]
+
+1. Rc2 Qe8 2. Rac1 Rab8 3. Qe3 Rc7 4. Rc3 Qd7 5. R1c2 Kf8 6. Qc1 Rbc8 7. Ba4 b5
+8. Bxb5 Ke8 9. Ba4 Kd8 10. h4 *
+
+[Event "Diagram 043A"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B32"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "5"]
+[SourceDate "2002.06.24"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 *
+
+[Event "Diagram 043B"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D50"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "7"]
+[SourceDate "2002.06.24"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 *
+
+[Event "Diagram 043C"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C42"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "15"]
+[SourceDate "2002.06.24"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O 8.
+Re1 *
+
+[Event "Diagram 044"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k2/r2b1ppp/p4n2/2NpR3/1P6/3B1P2/P5PP/R5K1 w - - 0 8"]
+[PlyCount "31"]
+[SourceDate "2002.06.24"]
+
+8. Nxd7+ Rxd7 9. Rc1 Rd6 10. Rc7 Nd7 11. Re2 g6 12. Kf2 h5 13. f4 h4 14. Kf3 f5
+15. Ke3 d4+ 16. Kd2 Nb6 17. Ree7 Nd5 18. Rf7+ Ke8 19. Rb7 Nxb4 20. Bc4 Nc6 21.
+Rh7 Rf6 22. Rh8+ Rf8 23. Bf7+ *
+
+[Event "PROBLEM 7"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp1bppp/2np1n2/4p3/2B1P3/2N2N1P/PPPP1PP1/R1BQ1RK1 w - - 0 23"]
+[PlyCount "3"]
+[SourceDate "2002.06.24"]
+
+23. d4 exd4 24. Nxd4 *
+
+[Event "PROBLEM 8"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rr3k2/pp1R1ppp/2p5/8/7P/8/P4PP1/4R1K1 w - - 0 24"]
+[PlyCount "11"]
+[SourceDate "2002.06.24"]
+
+24. Ree7 f6 25. Rxg7 h5 26. Rh7 Kg8 27. Rdg7+ Kf8 28. g4 hxg4 29. h5 *
+
+[Event "Diagram 045"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/ppp2ppp/2b1p3/4P3/1nPP4/4QN2/PP3PPP/R1B1KB1R w KQkq - 0 69"]
+[PlyCount "11"]
+[SourceDate "2002.06.24"]
+
+69. Kd2 a5 70. a3 Na6 71. Kc2 Qd7 72. b3 b5 73. c5 Be7 74. Bb2 *
+
+[Event "Diagram 046"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnbqk1r1/4ppb1/1n1p2p1/p1pP2P1/PpP1P3/5N2/1P2BP2/RNBQK2R b KQq - 0 1"]
+[PlyCount "39"]
+[SourceDate "2002.06.24"]
+
+1... Kd7 2. Nbd2 Rh8 3. Rg1 Kc7 4. Rb1 Rh3 5. b3 Qh8 6. Nf1 N8d7 7. Bf4 Ne5 8.
+Nxe5 Bxe5 9. Bxe5 Qxe5 10. f3 Bd7 11. Qc2 Qd4 12. Rg2 Rh1 13. Rf2 Qh8 14. f4
+Qh4 15. Rd1 f6 16. gxf6 exf6 17. e5 fxe5 18. fxe5 Rf8 19. exd6+ Kb7 20. Bd3
+Re8+ *
+
+[Event "Diagram 047"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn3rk1/pbppq1pp/1p2pb2/4N2Q/3PN3/3B4/PPP2PPP/R3K2R w KQ - 0 20"]
+[PlyCount "15"]
+[SourceDate "2002.06.24"]
+
+20. Qxh7+ Kxh7 21. Nxf6+ Kh6 22. Neg4+ Kg5 23. h4+ Kf4 24. g3+ Kf3 25. Be2+ Kg2
+26. Rh2+ Kg1 27. Kd2# *
+
+[Event "Diagram 048"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/pp2kppp/4p3/8/1Pn5/P3PP2/3KBP1P/R7 w - - 0 27"]
+[PlyCount "36"]
+[SourceDate "2002.06.24"]
+
+27. Bxc4 Rxc4 28. Rc1 Rxc1 29. Kxc1 Kf6 30. Kd2 Kg5 31. Ke2 Kh4 32. Kf1 Kh3 33.
+Kg1 e5 34. Kh1 b5 35. Kg1 f5 36. Kh1 g5 37. Kg1 h5 38. Kh1 g4 39. e4 fxe4 40.
+fxe4 h4 41. Kg1 g3 42. hxg3 hxg3 43. fxg3 (43. f4 exf4 44. e5 g2 45. e6 Kg3 46.
+e7 f3 47. e8=Q f2#) 43... Kxg3 44. Kf1 Kf3 *
+
+[Event "Diagram 049"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r3/4kppp/p7/1ppR4/4n3/P3PN1P/1P3PP1/2R2K2 b - - 0 48"]
+[PlyCount "27"]
+[SourceDate "2002.06.24"]
+
+48... Rcd8 49. Rh5 h6 50. b4 c4 51. a4 Kf6 52. axb5 g6 53. Rxh6 axb5 54. Nd4
+Nd2+ 55. Kg1 Nb3 56. Nxb3 cxb3 57. Rb1 Re4 58. g3 Rxb4 59. Rh4 Rxh4 60. gxh4
+Rd3 61. Kg2 Ke5 *
+
+[Event "PROBLEM 9"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rnb1kb1r/pp2pppp/8/2p5/4P3/2P5/PPK2PPP/R1B2BNR b kq - 0 61"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "PROBLEM 10"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp2ppp/8/4p3/2B1P3/2P5/PP3PPP/R4RK1 b kq - 0 61"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+61... Ke7 *
+
+[Event "Diagram 050"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C23"]
+[PlyCount "6"]
+[SourceDate "2002.06.24"]
+
+1. e4 e5 2. Bc4 Bc5 3. Qh5 Qe7 *
+
+[Event "Diagram 050A"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B01"]
+[PlyCount "14"]
+[SourceDate "2002.06.24"]
+
+{2048kB, B10-19.ctg. Pentium
+} 1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Bg4 5.
+d4 Bxe2 6. Ngxe2 Qd6 7. Bf4 Qd8 *
+
+[Event "Diagram 050B"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C45"]
+[PlyCount "9"]
+[SourceDate "2002.06.24"]
+
+{2048kB, B10-19.ctg. Pentium
+} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5.
+Qxd4 *
+
+[Event "Diagram 051"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp3pp1/2npbn1p/2p1p3/2P1P3/1PP1B1PP/P3NPBK/R2Q1R2 w - - 0 5"]
+[PlyCount "5"]
+[SourceDate "2002.06.24"]
+
+5. Qc2 Qe7 6. Rad1 Rad8 7. Rd2 *
+
+[Event "Diagram 052"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2r2/1p1bppbk/p2p1npp/q4P2/1PP1P3/P1N1B3/3QB1PP/R4RK1 b - - 0 7"]
+[PlyCount "9"]
+[SourceDate "2002.06.24"]
+
+7... Qe5 8. Rae1 Bc6 9. Bf4 Nxe4 10. Nxe4 Qxe4 11. Bd3 Qd4+ *
+
+[Event "Diagram 053"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2r1k2/p3npp1/bp1bp2p/q6P/2PPQ3/1B3N2/PB3PP1/3R1K1R w - - 0 11"]
+[PlyCount "29"]
+[SourceDate "2002.06.24"]
+
+11. d5 exd5 12. Qh7 f6 13. Kg1 Bxc4 14. Rh4 Bxb3 15. axb3 Kf7 16. Rg4 Rg8 17.
+Re1 d4 18. Rxd4 Be5 19. Rd7 Qxe1+ 20. Nxe1 Bxb2 21. Qc2 Be5 22. Qc4+ Kf8 23.
+Qe6 Re8 24. Nf3 Bb8 25. Nh4 *
+
+[Event "Diagram 054"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b2r1k/2pp2p1/3n1p2/2Q4p/2P5/3BPPR1/1B1PKP1q/8 w - - 0 25"]
+[PlyCount "11"]
+[SourceDate "2002.06.24"]
+
+25. Rxg7 Kxg7 26. Qg5+ Kf7 (26... Kh8 27. Qh6+ Kg8 28. Qh7#) 27. Qxf6+ Ke8 28.
+Bg6+ Nf7 29. Be5 Qh3 30. Bxc7 *
+
+[Event "PROBLEM 11"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B53"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "7"]
+[SourceDate "2002.06.24"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 *
+
+[Event "Diagram 055"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr4/1k6/pp1pp2p/4b1p1/2P1Pp2/1P3P2/P1N3PP/2R2R1K b - - 0 4"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 056"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr4/1k4b1/pp1p3p/4p1p1/2P1Pp2/1P3P2/P1N3PP/2R2R1K w - - 0 4"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+4. Nb4 *
+
+[Event "Diagram 057"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rn1rk1/pp5p/3p1n2/2pP1p2/P1P1pP2/7P/2PBB1P1/R3R1K1 w - - 0 4"]
+[PlyCount "29"]
+[SourceDate "2002.06.24"]
+
+4. g4 fxg4 5. hxg4 Rc7 6. Kf2 h6 7. Rh1 e3+ 8. Bxe3 Ne4+ 9. Kg2 Nf7 10. Bd3 Re7
+11. Rae1 Rfe8 12. Bc1 Nc3 13. Rxe7 Rxe7 14. a5 b6 15. axb6 axb6 16. Bd2 Ne2 17.
+c3 b5 18. Kf3 *
+
+[Event "Diagram 058"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7P/1p4P1/b7/p1k5/5N1K/8 b - - 0 18"]
+[PlyCount "5"]
+[SourceDate "2002.06.24"]
+
+18... Bc2 19. Nd1+ Kd2 20. Nf2 a2 *
+
+[Event "Diagram 059"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3b1ppp/3p4/p1pP4/2P5/6P1/PP5P/4N1K1 w - - 0 20"]
+[PlyCount "50"]
+[SourceDate "2002.06.24"]
+
+20. Kf2 f5 21. Ke3 Kf7 22. Nd3 Bc8 23. b3 g5 24. Kf3 Kf6 25. Ke3 Bd7 26. Kf3
+Be8 27. Ke3 h6 28. Kf3 Bh5+ 29. Ke3 Bd1 30. Kd2 Bf3 31. Ke3 Be4 32. Kd2 Bxd3
+33. Kxd3 Ke5 34. Ke3 f4+ 35. gxf4+ gxf4+ 36. Kf3 Kf5 37. Kf2 Ke4 38. Ke2 f3+
+39. Kf2 Kf4 40. h4 h5 41. a3 Ke4 42. b4 (42. Kf1 Ke3 43. Ke1 f2+ 44. Kf1 Kf3
+45. b4 axb4 46. axb4 cxb4 47. c5 b3) 42... axb4 43. axb4 cxb4 44. c5 Kxd5 *
+
+[Event "PROBLEM 12"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r2rk1/1b1p2p1/p3pq1p/1p3p2/3P4/4PN2/PP2QPPP/2R2RK1 b - - 0 48"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+48... d6 *
+
+[Event "Diagram 060"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6r/k1q1p3/3pPp2/P1nB1P2/2PK4/2P5/R5Q1 b - - 0 48"]
+[PlyCount "2"]
+[SourceDate "2002.06.24"]
+
+48... Qe8 49. Ke2 *
+
+[Event "Diagram 061"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A36"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "59"]
+[SourceDate "2002.06.24"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. e4 c5 6. Nge2 Nc6 7. a3 a5 8. O-O
+d6 9. d3 Ne8 10. Be3 Nd4 11. Bxd4 cxd4 12. Nb5 Qb6 13. a4 Nc7 14. f4 Na6 15. h3
+e5 16. f5 Bh6 17. h4 Bd7 18. Kh2 Nc5 19. Bh3 g5 20. Nexd4 exd4 21. Qh5 f6 (
+21... Bg7 22. f6 Bh8 23. Qxg5+) 22. Qxh6 Bxb5 23. axb5 g4 24. Rf4 gxh3 25. Rg4+
+Kf7 26. Rg7+ Ke8 27. Qxh7 Kd8 28. b4 Kc8 29. bxc5 dxc5 30. h5 *
+
+[Event "Diagram 062"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/1n3kp1/p2Bp3/1p2P3/1P1K2P1/P6P/8 w - - 0 30"]
+[PlyCount "84"]
+[SourceDate "2002.06.24"]
+
+30. Bc6 Ke7 31. h4 h6 32. Ke3 Nc8 33. Kd3 Nd6 34. Ke3 Kd8 35. Kd3 Kc7 36. Ba4
+Kb6 37. Ke3 Kc5 38. Bd7 Kb6 39. Ba4 Kc7 40. Kd3 Kd8 41. Bc6 Ke7 42. Ke3 Ke6 43.
+Kf3 Kf6 44. g4 g5 45. h5 Ke7 46. Ke3 Kd8 47. Kd3 Kc7 48. Ba4 Kb6 49. Bd7 Kc5
+50. Ba4 Nc8 51. Be8 Ne7 52. Ke3 Ng8 53. Bd7 Nf6 54. Bf5 Kb5 55. Kd3 a4 56.
+bxa4+ Kxa4 57. Kc4 Ka3 58. Kb5 Kxa2 59. Kxb4 Kb2 60. Kc5 Kc3 61. Kd6 Kd4 62.
+Ke6 Nxe4 63. Kf7 Nf2 64. Kg6 e4 65. Kxh6 e3 66. Kg7 e2 67. h6 e1=Q 68. h7 Qe7+
+69. Kg8 Ne4 70. h8=Q+ (70. Bxe4 Kxe4 71. h8=Q Qe8+ 72. Kg7 Qxh8+ 73. Kxh8 Kf4)
+70... Nf6+ 71. Qxf6+ Qxf6 *
+
+[Event "Diagram 063"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp4pp/1n1p1n2/b2Pp3/2b3P1/2N1BP2/PP1RN1BP/3R2K1 b - - 0 74"]
+[PlyCount "7"]
+[SourceDate "2002.06.24"]
+
+74... Bxe2 75. Rxe2 Bxc3 76. Bxb6 axb6 77. bxc3 g5 *
+
+[Event "Diagram 064"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "113"]
+[SourceDate "2002.06.24"]
+
+1. d4 Nf6 2. c4 e6 3. Bg5 h6 4. Bxf6 Qxf6 5. Nc3 b6 6. Nf3 Bb7 7. e3 g6 8. Bd3
+Bg7 9. Be4 Bxe4 10. Nxe4 Qe7 11. Qa4 O-O 12. O-O d6 13. Rad1 Nd7 14. Qc6 Rfc8
+15. Ne1 Nf6 16. Nxf6+ Bxf6 17. Nc2 Qe8 18. Nb4 Qxc6 19. Nxc6 Kf8 20. b4 Ke8 21.
+Rd3 Kd7 22. d5 Bg7 23. e4 a6 24. a4 Re8 25. Rf3 f5 26. g4 Rf8 27. gxf5 gxf5 28.
+exf5 e5 29. Rg3 Bf6 30. f4 exf4 31. Rxf4 Rae8 32. h4 Re1+ 33. Kg2 Ra1 34. Rg6
+Ra2+ 35. Kh3 h5 36. Re4 Ra3+ 37. Kg2 Ra2+ 38. Kh3 Ra3+ 39. Kg2 Ra2+ 40. Kg3
+Ra3+ 41. Kf2 Bd8 42. Rf4 Bf6 43. Re4 Bd8 44. Ke2 Ra2+ 45. Ke3 Rxa4 46. Na7 Ra3+
+47. Ke2 Ra2+ 48. Kd1 Ra1+ 49. Kc2 Bf6 50. Re6 Bh8 51. Rh6 Ra2+ 52. Kb3 Rb2+ 53.
+Ka3 Rg2 54. f6 Rfg8 55. Rh7+ Kd8 56. Nc6+ Kc8 57. Ne7+ *
+
+[Event "PROBLEM 13"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3r4/3p2p1/p1k1pp1r/PpPnP2p/1P2RP1P/2BR2P1/6K1 b - - 0 57"]
+[PlyCount "2"]
+[SourceDate "2002.06.24"]
+
+57... Nxc2 58. Rxc2 *
+
+[Event "Diagram 065"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2n5/4pk2/p1p3p1/P1P1P2p/P2PKP1P/4B3/8/8 b - - 0 31"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+31... e6 *
+
+[Event "Diagram 066"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2n5/4pk2/p1p3p1/4P2p/P1PPKP2/4B1PP/8/8 b - - 0 31"]
+[PlyCount "18"]
+[SourceDate "2002.06.24"]
+
+31... e6 32. g4 hxg4 33. hxg4 Ne7 34. Bf2 Ke8 35. Bh4 Ng8 36. Bg5 Kd7 37. f5
+gxf5+ 38. gxf5 exf5+ 39. Kxf5 Ke8 40. d5 *
+
+[Event "Diagram 067"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2k2r/pp1q1ppp/2pbpn2/8/3P1P2/3Q2N1/PPP1N1PP/R1B2RK1 b kq - 0 40"]
+[PlyCount "41"]
+[SourceDate "2002.06.24"]
+
+40... g6 41. b3 Na6 42. Bb2 Be7 43. c4 Nc7 44. Qf3 O-O 45. Nc1 Nce8 46. Nd3 Ng7
+47. Ne5 Qc7 48. h3 Rad8 49. Rad1 h5 50. Ne2 h4 51. Ng4 Nfh5 52. Qc3 Kh7 53. Rf3
+Nf5 54. Ne3 Bf6 55. Ng4 Bh8 56. Ne5 Nxf4 57. Rxf4 Bxe5 58. Re4 Bf6 59. Rf1 c5
+60. Qd3 cxd4 *
+
+[Event "Diagram 068"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn2kb1r/p2qnppp/4p3/2p1P3/2Pp4/8/PP1BQPPP/R2NNRK1 b kq - 0 60"]
+[PlyCount "61"]
+[SourceDate "2002.06.24"]
+
+60... h5 61. Nd3 Nf5 62. f4 Qb7 63. N1f2 Nd7 64. Qe4 Qxe4 65. Nxe4 a5 66. g3
+Be7 67. Kf2 Nh6 68. h3 f5 69. exf6 gxf6 70. Rae1 Kf7 71. Ke2 Rhg8 72. Kd1 Nf5
+73. Rg1 Nb6 74. b3 a4 75. Ndxc5 axb3 76. axb3 Nxg3 77. Rxg3 Rxg3 78. Nxg3 Bxc5
+79. f5 exf5 80. Nxf5 d3 81. Bc3 Ra3 82. Kd2 Rxb3 83. Ra1 Bb4 84. Ra7+ Kg6 85.
+Ne7+ Kg5 86. Bxb4 Nxc4+ 87. Ke1 Rxb4 88. Rd7 Rb1+ 89. Kf2 Rb2+ 90. Kg1 d2 *
+
+[Event "PROBLEM 14"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p6p/1pb3p1/2p1k3/2P3P1/1P2K2P/P7/5B2 b - - 0 90"]
+[PlyCount "9"]
+[SourceDate "2002.06.24"]
+
+90... g5 91. Bd3 h6 92. Be2 Be4 93. a3 a5 94. Kd2 Kf4 *
+
+[Event "Diagram 069"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rq1kb/p1nrnp1p/1pp1p1p1/8/P2PP2P/1P3NP1/1B1R1PK1/Q2R1N2 w - - 0 94"]
+[PlyCount "9"]
+[SourceDate "2002.06.24"]
+
+94. d5 Bxb2 95. Qxb2 cxd5 96. Ne5 Rd6 97. Ng4 e5 98. Qxe5 *
+
+[Event "Diagram 070"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1nk1/ppqr1pbp/2p1p3/7R/2PP4/1P3BP1/PB2QP2/3R2K1 w - - 0 98"]
+[PlyCount "31"]
+[SourceDate "2002.06.24"]
+
+98. d5 exd5 99. Bxg7 Kxg7 100. cxd5 cxd5 101. Rdxd5 Qc3 102. Kg2 b6 103. Rhf5
+Ng6 104. Rxd7 Rxd7 105. Bd5 Re7 106. Qg4 f6 107. Rh5 Qc7 108. Be4 Qd7 109.
+Rxh7+ Kxh7 110. Qxg6+ Kh8 111. Qxf6+ Kg8 (111... Rg7 112. Qf8+ Rg8 113. Qh6+)
+112. Qg5+ Kf8 113. Bd5 *
+
+[Event "Diagram 071"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/1p2n1qp/p1p4n/3pPpp1/1QPP4/5BP1/PP2N2P/R4RK1 b - - 0 1"]
+[PlyCount "21"]
+[SourceDate "2002.06.24"]
+
+1... f4 2. gxf4 g4 3. Bg2 Nhf5 4. Qb3 dxc4 5. Qxc4+ Kh8 6. Qc3 h5 7. Rad1 h4 8.
+Rd3 Nd5 9. Qd2 Rg8 10. Bxd5 cxd5 11. Kh1 g3 *
+
+[Event "Diagram 072"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/2n2ppp/2P5/p7/P7/2N5/6PP/7K w - - 0 1"]
+[PlyCount "5"]
+[SourceDate "2002.06.24"]
+
+1. Nb5 Na8 2. c7 Nb6 3. Nd6 *
+
+[Event "Diagram 073"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/pp5p/4qp2/6p1/1P1Qn3/4B1P1/P1p2P1P/2R3K1 b - - 0 3"]
+[PlyCount "21"]
+[SourceDate "2002.06.24"]
+
+3... b6 4. f3 Nd6 5. Qd3 Rc6 6. a4 Qc4 7. Qd2 Nf7 8. f4 g4 9. b5 Rc8 10. Qd7 h5
+11. Kf2 Qc3 12. Qf5 Re8 13. Qg6+ (13. Re1 Qxe1+ 14. Kxe1 c1=Q+) 13... Kf8 *
+
+[Event "Diagram 074"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1rk1/p3pp1p/1pr3p1/3P4/3QP3/8/P3RPPP/5RK1 w - - 0 14"]
+[PlyCount "41"]
+[SourceDate "2002.06.24"]
+
+14. Rd1 Rc5 15. e5 e6 16. d6 Qd7 17. Qe3 f6 18. f4 fxe5 19. fxe5 Rf5 20. h3 Qa4
+21. Red2 Qd7 22. Re1 Rf8 23. Rf2 Rxf2 24. Qxf2 Rc8 25. Rf1 Qg7 26. Qf6 Qd7 27.
+h4 Re8 28. h5 Qg7 29. Qxg7+ Kxg7 30. h6+ Kxh6 31. Rf7 Kg5 32. Re7 Rc8 33. Rxe6
+Kf4 34. d7 *
+
+[Event "Diagram 075"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5nk1/p1r1b2p/1p3pp1/2p1p3/8/6P1/PPP1PPBP/1N1R2K1 w - - 0 34"]
+[PlyCount "5"]
+[SourceDate "2002.06.24"]
+
+34. c4 Kg7 35. Nc3 Ne6 36. e3 *
+
+[Event "PROBLEM 15"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/p3r3/1p4p1/2p2pn1/2Pp4/3P2P1/PP3PK1/2RR1B2 w - - 0 36"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "PROBLEM 16"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1b3p2/1P3kp1/p3p3/1p1pP3/1B1P2P1/P4PK1/8 w - - 0 36"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+36. Bd5 *
+
+[Event "Diagram 076"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1pp2kpp/8/1P2pp2/P1P4P/6P1/5P1K/8 b - - 0 36"]
+[PlyCount "5"]
+[SourceDate "2002.06.24"]
+
+36... b6 37. c5 Ke6 38. Kg2 Kd5 *
+
+[Event "Diagram 077"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r2k1/pp4pp/4b3/5p2/1PP1p3/P7/5PPP/2R2BK1 w - - 0 38"]
+[PlyCount "36"]
+[SourceDate "2002.06.24"]
+
+38. g3 Kf7 39. c5 Kf6 40. Bc4 Bc8 41. a4 g5 42. b5 f4 43. Kf1 Rd2 44. gxf4 gxf4
+45. Ke1 Rb2 46. Be2 Ke5 47. c6 bxc6 48. Rxc6 Be6 49. Bd1 Rb1 50. Rc5+ Kd4 51.
+Rc2 e3 52. fxe3+ fxe3 53. Rc6 Bg4 54. Rd6+ Ke5 55. h3 Bh5 *
+
+[Event "Diagram 078"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/pp2qppp/4b3/2p1N3/3np3/4P1P1/PP3PBP/R2Q1RK1 b kq - 0 25"]
+[PlyCount "73"]
+[SourceDate "2002.06.24"]
+
+25... Nf3+ 26. Nxf3 exf3 27. Qxf3 O-O 28. Rfc1 Rab8 29. Qe4 Qc7 30. Rc3 b5 31.
+a3 c4 32. Bf3 Rfd8 33. Rd1 Rxd1+ 34. Bxd1 Rd8 35. Bf3 g6 36. Qc6 Qe5 37. Qe4
+Qxe4 38. Bxe4 Rd1+ 39. Kg2 a5 40. Rc2 b4 41. axb4 axb4 42. Bf3 Rb1 43. Be2 b3
+44. Rd2 (44. Rc3 Rxb2 45. Bxc4 Rc2 46. Rxc2 bxc2) 44... Rc1 45. Bd1 c3 46. bxc3
+b2 47. Rxb2 Rxd1 48. Rc2 Bf5 49. Rb2 Rc1 50. Rb3 Be4+ 51. Kh3 Rc2 52. f4 h5 53.
+g4 hxg4+ 54. Kxg4 Rxh2 55. Rb4 f5+ 56. Kg3 Re2 57. Rc4 Rxe3+ 58. Kh4 Kg7 59.
+Rc7+ Kf6 60. Rd7 Bg2 61. Rd6+ Kg7 *
+
+[Event "PROBLEM 17"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/pk1r1p2/1pR1p1p1/1P5p/PP3P1P/6PK/8 w - - 0 61"]
+[PlyCount "4"]
+[SourceDate "2002.06.24"]
+
+61. a4 Rd3 62. a5+ (62. axb5 axb5) 62... Kb7 *
+
+[Event "Diagram 079"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C02"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "16"]
+[SourceDate "2002.06.24"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 cxd4 6. cxd4 Qb6 7. Be2 Nge7 8. Na3
+Nf5 *
+
+[Event "Diagram 081"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qk2r/2p1b1pp/p1n1p3/1p6/3pR3/5N2/PPP2PPP/R1BQ2K1 w kq - 0 9"]
+[PlyCount "31"]
+[SourceDate "2002.06.24"]
+
+9. Nxd4 O-O 10. Qg4 Nxd4 11. Rxd4 Qc8 12. Re4 Rf6 13. Be3 Qd7 14. Rd1 Qc6 15.
+Bd4 Rg6 16. Qe2 Rd8 17. g3 Qd5 18. Re1 c5 19. Bc3 Rd6 20. Be5 Rd8 21. Bf4 c4
+22. Rxe6 Rxe6 23. Qxe6+ Qxe6 24. Rxe6 *
+
+[Event "Diagram 082"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1r1n1k1/p2pqpp1/bpn1p2p/1N2P3/2P2Q2/P4N2/1P2BPPP/3R1RK1 w - - 0 24"]
+[PlyCount "21"]
+[SourceDate "2002.06.24"]
+
+24. Rd2 f6 25. exf6 Qxf6 26. Qxf6 gxf6 27. Rfd1 Bxb5 28. cxb5 Nb8 29. Nd4 Kf7
+30. Bh5+ Ke7 31. Bxe8 Kxe8 32. f4 Rc5 33. Kf2 h5 34. Kg3 *
+
+[Event "Diagram 083"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb2rk1/p1pp1pbp/2p2qp1/5n2/2P5/2N1P1P1/PPQ2PBP/R1B2RK1 w - - 0 34"]
+[PlyCount "39"]
+[SourceDate "2002.06.24"]
+
+34. Rb1 Rd8 35. Rd1 Nh6 36. h3 Nf5 37. Bd2 Qe7 38. Qa4 Bb7 39. Qa5 Qe5 40. Ne4
+d5 41. cxd5 cxd5 42. Nc5 Ba8 43. Bc3 d4 44. exd4 Qe7 45. d5 Bxc3 46. Qxc3 Nd6
+47. a4 Qe2 48. b4 a5 49. b5 Qc4 50. Rbc1 Qxc3 51. Rxc3 Ne8 52. Rcd3 Rb6 53. Nb3
+*
+
+[Event "PROBLEM 18"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4b1r/p3kppp/8/3p4/8/5P2/PP3P1P/R1B1K2R w KQ - 0 53"]
+[PlyCount "16"]
+[SourceDate "2002.06.24"]
+
+53. O-O Ke6 54. Re1+ Kf5 55. Be3 Be7 56. Rad1 Rhd8 57. Rd4 g5 58. Red1 Ke5 59.
+Re1 Kf5 60. Red1 Ke5 *
+
+[Event "Diagram 084"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1k3/2r1bp1p/1p3p2/1R1p3N/2qP1P2/4P3/R4KPP/1Q6 w - - 0 1"]
+[PlyCount "31"]
+[SourceDate "2002.06.24"]
+
+1. Rxb6 Rc6 2. Rxc6 Rxc6 3. Ra8+ Kd7 4. Ra7+ Rc7 5. Rxc7+ Kxc7 6. Qxh7 Qa2+ 7.
+Kf3 Qd2 8. Qb1 f5 9. Ng3 Bh4 10. Ne2 Be7 11. h3 Bb4 12. Ng3 Kc6 13. Nxf5 Kb5
+14. Nd6+ Ka4 15. Nxf7 Ba3 16. Ne5 *
+
+[Event "Diagram 085"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C55"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "16"]
+[SourceDate "2002.06.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. O-O O-O 6. d3 d6 7. Be3 Bb6 (7...
+Bg4 8. Bxc5 dxc5) 8. Bxb6 axb6 *
+
+[Event "Diagram 086"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/pp3pbp/2pqrnp1/3p4/PP1P4/1NNQP2P/2R2PP1/1R4K1 b - - 0 9"]
+[PlyCount "24"]
+[SourceDate "2002.06.24"]
+
+9... b6 10. Nc1 Bh6 11. N1e2 Nh5 12. b5 Qd7 13. bxc6 Rxc6 14. Qb5 Rec8 15. Rbc1
+R8c7 16. g4 a6 17. Qxa6 Nf6 18. Nxd5 Nxg4 19. Rxc6 Qxd5 20. Qa8+ Kg7 21. Rxg6+
+*
+
+[Event "Diagram 087"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D36"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "65"]
+[SourceDate "2002.06.24"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. cxd5 exd5 6. Bg5 c6 7. Qc2 g6 8. e3
+Bf5 9. Bd3 Bxd3 10. Qxd3 O-O 11. O-O Re8 12. Bxf6 Bxf6 13. b4 Nd7 14. b5 Nb6
+15. bxc6 bxc6 16. Rac1 Be7 17. Rc2 Bd6 18. Nb1 Rc8 19. Rfc1 Qf6 20. Nbd2 Rc7
+21. g3 Rec8 22. Kg2 Qe7 23. e4 Bb4 24. h4 Qd8 25. e5 c5 26. dxc5 Rxc5 27. Rxc5
+Rxc5 28. Rxc5 Bxc5 29. Nb3 Be7 30. Nbd4 Nc4 (30... Qc8 31. Qb5 Kf8 32. Nc6 Qb7
+33. Nfd4 a6 34. Qa5 Ke8 35. Nxe7 Kxe7 36. Qc5+ Ke8 37. e6 Nc8 38. exf7+ Kxf7
+39. Nc6 Kg7 40. Qd4+ Kh6 41. Qf6) 31. Nc6 Qd7 32. Qxd5 Qxd5 33. Nxe7+ *
+
+[Event "PROBLEM 19"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k2r/ppq2ppp/2nbpn2/3p4/3P1P2/2P1BB2/PP4PP/RN1Q1RK1 w kq - 0 1"]
+[PlyCount "2"]
+[SourceDate "2002.06.24"]
+
+1. g3 b5 *
+
+[Event "Diagram 087A"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A30"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "17"]
+[SourceDate "2002.06.24"]
+
+1. c4 c5 2. b3 Nf6 3. Bb2 g6 4. Bxf6 exf6 5. Nc3 Bg7 6. g3 Nc6 7. Bg2 f5 8. e3
+O-O 9. Nge2 *
+
+[Event "Diagram 088"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2npbp/2npp1p1/2p5/3PP3/2P2NP1/PP3PBP/RNBQ1RK1 w - - 0 9"]
+[PlyCount "5"]
+[SourceDate "2002.06.24"]
+
+9. dxc5 dxc5 10. Qe2 b6 11. e5 *
+
+[Event "Diagram 089"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r1b1rk1/1p3ppp/3p4/p2BpP2/P3P1PP/1P6/1P1K4/2R4R b - - 0 27"]
+[PlyCount "22"]
+[SourceDate "2002.06.24"]
+
+27... g5 28. fxg6 hxg6 29. Kd3 Kg7 30. h5 Bb6 31. Rh3 Bc5 32. Rf1 f6 33. hxg6
+Kxg6 34. Rfh1 Rbe8 35. Rh7 Kg5 36. Ke2 Kf4 37. R1h3 Bd4 38. Rg7 *
+
+[Event "Diagram 090"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rn1qkbnr/pp3ppp/2p1p3/3pP3/3P1P2/3Q4/PPP3PP/RNB1K1NR b KQkq - 0 38"]
+[PlyCount "5"]
+[SourceDate "2002.06.24"]
+
+38... Nh6 39. Nf3 Nf5 40. O-O h5 *
+
+[Event "Diagram 091"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B83"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "73"]
+[SourceDate "2002.06.24"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 Be7 7. O-O O-O 8. f4
+Nc6 9. Be3 Bd7 10. Nb3 a5 11. a4 Nb4 12. Bf3 Bc6 13. Nd4 g6 14. Rf2 e5 15. Nxc6
+bxc6 16. fxe5 dxe5 17. Qf1 Qc8 18. h3 Nd7 19. Bg4 h5 20. Bxd7 Qxd7 21. Qc4 Bh4
+22. Rd2 Qe7 23. Rf1 Rfd8 24. Nb1 Qb7 25. Kh2 Kg7 26. c3 Na6 27. Re2 Rf8 28. Nd2
+Bd8 29. Nf3 f6 30. Rd2 Be7 31. Qe6 Rad8 32. Rxd8 Bxd8 33. Rd1 Nb8 34. Bc5 Rh8
+35. Rxd8 Rxd8 36. Be7 Rc8 37. Qxf6+ *
+
+[Event "Diagram 092"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r1k/2q1r1pp/1pn2p2/p1p1p3/P1N1P3/2PR1P2/1P1R2PP/3Q2K1 w - - 0 37"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 093"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1bq4p/1p4p1/p1p2p2/P1P5/1P3P2/1B1Q2PP/6K1 w - - 0 37"]
+[PlyCount "1"]
+[SourceDate "2002.06.24"]
+
+37. Qc3 *
+
+[Event "Diagram 094"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "67"]
+[SourceDate "2002.06.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Be7 7. h3 O-O 8. Qe2
+Ne8 9. g4 b5 10. Bc2 Bb7 11. Nbd2 Qd7 12. Nf1 Nd8 13. Ne3 Ne6 14. Nf5 g6 15.
+Nxe7+ Qxe7 16. Be3 N8g7 17. O-O-O c5 18. d4 exd4 19. cxd4 c4 20. d5 Nc7 21. Qd2
+a5 22. Bd4 f6 23. Qh6 b4 24. g5 f5 25. Bf6 Qf7 26. exf5 gxf5 27. g6 Qxg6 28.
+Bxg7 Qxh6+ 29. Bxh6 Rf6 30. Rhg1+ Rg6 31. Bxf5 Kf7 32. Bxg6+ hxg6 33. Ng5+ Kg8
+34. Rge1 *
+
+[Event "PROBLEM 20"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3ppp/q3p3/2npPn2/5P2/1PN2N2/P1PQ1BPP/R3K2R b KQkq - 0 34"]
+[PlyCount "4"]
+[SourceDate "2002.06.24"]
+
+34... Be7 (34... h5) 35. g4 Nh6 36. h3 *
+
+[Event "Diagram 096"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/pb1n1ppp/1p1p1n2/2pPp3/2P1P3/P1NB4/1PQ2PPP/R1B2RK1 w - - 0 1"]
+[PlyCount "39"]
+[SourceDate "2002.06.24"]
+
+1. g3 Ne8 2. f4 Qe7 3. f5 f6 4. g4 g5 5. h4 h6 6. Kf2 Nc7 7. Rh1 Rf7 8. Be3 Rh7
+9. Rh3 Kg7 10. Rah1 Rah8 11. Ne2 Kg8 12. Ng3 Ne8 13. b4 Nf8 14. Qd2 Bc8 15. Bc2
+Qc7 16. Bb3 Qe7 17. Ba4 Bd7 18. Bc6 Qd8 19. Rb1 Qc7 20. b5 *
+
+[Event "Diagram 097"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1nk1/pp2rppp/2p1p3/3n4/2BP4/2N1PN2/PPQ2PPP/2R2RK1 w - - 0 20"]
+[PlyCount "73"]
+[SourceDate "2002.06.24"]
+
+20. Rfd1 Bd7 21. e4 Nb6 22. Bf1 Rc8 23. b4 Be8 24. Qb3 Rec7 25. a4 Ng6 26. a5
+Nd7 27. e5 b6 28. Ne4 Rb8 29. Qc3 Nf4 30. Nd6 Nd5 31. Qa3 f6 32. Nxe8 Qxe8 33.
+exf6 gxf6 34. b5 Rbc8 35. bxc6 Rxc6 36. Rxc6 Rxc6 37. axb6 axb6 38. Re1 Qc8 39.
+Nd2 Nf8 40. Ne4 Qd8 41. h4 Rc7 42. Qb3 Rg7 43. g3 Ra7 44. Bc4 Ra5 45. Nc3 Nxc3
+46. Qxc3 Kf7 47. Qe3 Qd6 48. Qe4 Ra4 49. Qb7+ Kg6 50. Qc8 Qb4 51. Rc1 Qe7 52.
+Bd3+ Kh6 53. Rc7 Ra1+ 54. Kh2 Qd6 55. Qxf8+ Qxf8 56. Rxh7# *
+
+[Event "Diagram 098"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/2pnppbp/p2p1np1/1p6/3PP3/3BBNNP/PPP2PP1/R2QK2R b KQ - 0 56"]
+[PlyCount "45"]
+[SourceDate "2002.06.24"]
+
+56... c5 57. c3 e5 58. dxe5 dxe5 59. O-O c4 60. Bc2 Bb7 61. Qd2 Re8 62. Rad1
+Qe7 63. Bh6 Nc5 64. Bxg7 Kxg7 65. Qe3 h6 66. Rd2 Rad8 67. Rfd1 Rxd2 68. Rxd2
+Qc7 69. Nh4 Kh7 70. Nf3 Ne6 71. a4 Kg7 72. Rd1 Qc5 73. Qxc5 Nxc5 74. axb5 axb5
+75. Rd6 Ncd7 76. Kf1 Ra8 77. Rd1 Ra2 78. Rb1 Nc5 *
+
+[Event "PROBLEM 21"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1nrk1/pppnqpbp/3p2p1/3Pp3/1PP1P3/2N5/PB1NBPPP/R2Q1RK1 w - - 0 78"]
+[PlyCount "2"]
+[SourceDate "2002.06.24"]
+
+78. f4 exf4 *
+
+[Event "Diagram 099"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1ppb1pp1/pbnp1n1p/8/3PP3/P1NQBN1P/BP3PP1/R4RK1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 100"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2p1bp/3p1pp1/8/2PBP1n1/2N5/PP1QBPPP/R4RK1 w - - 0 1"]
+[PlyCount "61"]
+[SourceDate "2002.06.24"]
+
+1. Nd5 Bh6 2. f4 e5 3. Bxg4 Bxg4 4. Be3 Bg7 5. f5 g5 6. a4 Bh5 7. a5 Rf7 8. b3
+Rd7 9. Qf2 Qb8 10. Nc3 Be8 11. Nb5 b6 12. axb6 axb6 13. Qd2 Bf7 14. Qd3 Rxa1
+15. Rxa1 Bf8 16. Qd2 Rb7 17. h4 h6 18. Nc3 Be7 19. Ra6 Kg7 20. Qa2 Qc7 21. Qa4
+d5 22. Nb5 Qd7 23. cxd5 Be8 24. Na7 Qxa4 25. bxa4 b5 26. axb5 Bxb5 27. Nxb5
+Rxb5 28. d6 Bd8 29. Ra8 Bb6 30. Bxb6 Rxb6 31. d7 *
+
+[Event "Diagram 101"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2q1rk1/1b1nppbp/1p1n2p1/pPpp2B1/P2P4/RQP1PB2/1N1N1PPP/5RK1 b - - 0 1"]
+[PlyCount "10"]
+[SourceDate "2002.06.24"]
+
+1... c4 2. Qc2 h6 3. Bh4 Nf5 4. Bg3 Nxg3 5. hxg3 Rb8 6. e4 *
+
+[Event "Diagram 102"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D87"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "36"]
+[SourceDate "2002.06.24"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. h3 b6 13. f4 Na5 14. Bd3 f5 15.
+e5 c4 16. Bb1 e6 17. Bd2 Bb7 18. Be3 Bd5 *
+
+[Event "Diagram 103"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2nppp/2n1p3/3pPb2/3P4/P4N2/1P2BPPP/RNBQ1RK1 b kq - 0 19"]
+[PlyCount "23"]
+[SourceDate "2002.06.24"]
+
+19... Be4 20. Nbd2 Nf5 21. b4 a5 (21... Ncxd4 22. Nxd4 Nxd4 23. Nxe4 dxe4 24.
+Qa4+ Nc6 25. Rd1 Qc7 26. b5 Nxe5 27. b6+ Qc6 28. Bb5) 22. bxa5 Qxa5 23. g4
+Nfxd4 24. Nxd4 Nxd4 25. Nxe4 Nxe2+ 26. Qxe2 dxe4 27. Qxe4 Bc5 28. Qxb7 O-O 29.
+Qe4 Qc3 30. Ra2 Qb3 *
+
+[Event "PROBLEM 22"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1ppn1pbp/3p1np1/pP2p3/P2PP3/2PB1N1P/3N1PP1/R1BQ1RK1 w - - 0 30"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 104"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B78"]
+[SetUp "1"]
+[FEN "3q1rk1/pp1bppbp/3p1np1/8/2rNP2P/2N1BP2/PPPQ2P1/2KR3R w - - 0 81"]
+[PlyCount "31"]
+[SourceDate "2002.06.24"]
+
+81. h5 Nxh5 82. g4 Nf6 83. Nde2 Qa5 84. Bh6 Bxh6 85. Qxh6 Rfc8 86. Rd3 R4c5 87.
+g5 Rxg5 88. Rd5 Rxd5 89. Nxd5 Re8 90. Nef4 (90. Nxf6+ exf6 91. Qxh7+ Kf8 92.
+Qh8+ Ke7) 90... Bc6 91. e5 Bxd5 92. exf6 exf6 93. Qxh7+ Kf8 94. Qh8+ Ke7 95.
+Nxd5+ Qxd5 96. Re1+ *
+
+[Event "Diagram 105"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp1n1bp/3p1np1/2PPp3/4Pp2/2NN1P2/PP1BB1PP/R2Q1RK1 b - - 0 96"]
+[PlyCount "0"]
+[SourceDate "2002.06.24"]
+
+ *
+
+[Event "Diagram 106"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3r1k1/pb2qp1p/1p2pnpQ/4N3/3P4/P1P1R3/B4PPP/4R1K1 w - - 0 96"]
+[PlyCount "27"]
+[SourceDate "2002.06.24"]
+
+96. Nxg6 hxg6 (96... fxg6 97. Rxe6 Qf7 98. Rxe8+) 97. Rh3 Nh5 98. Rxh5 gxh5 99.
+Re5 f6 100. Re3 h4 101. Qxh4 Kf7 102. d5 Qxa3 103. dxe6+ Ke7 104. Qh7+ Kd6 105.
+Qd7+ Kc5 106. Qd4+ Kb5 107. c4+ Ka4 108. Qd7+ Kb4 109. Qd6+ *
+
+[Event "Diagram 107"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b1k2r/p1q2ppp/1ppbpn2/2p3B1/2P5/PQ3NP1/1P2PPBP/2KR3R w kq - 0 109"]
+[PlyCount "29"]
+[SourceDate "2002.06.24"]
+
+109. Rxd6 Qxd6 110. Rd1 Qc7 111. Bf4 Qb7 112. Ne5 Bd7 113. Rxd7 Nxd7 114. Bxc6
+Qa6 115. Nxd7 Qc8 116. Ba4 Ke7 117. Qd3 f6 118. Qd6+ Kf7 119. Ne5+ fxe5 120.
+Bd7 Qd8 121. Qxe6+ Kf8 122. Bxe5 g6 123. Bf6 *
+
+[Event "PROBLEM 23"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1n1ppp/2n1p3/3pP3/2pP3P/2P2N2/PPB2PP1/R1BQK2R w KQ - 0 123"]
+[PlyCount "15"]
+[SourceDate "2002.06.24"]
+
+123. Bxh7+ Kxh7 124. Ng5+ Kg8 (124... Kh6 125. Nxe6+) (124... Kg6 125. h5+ Kh6
+126. Nxe6+) 125. Qh5 Re8 126. Qxf7+ Kh8 127. Qh5+ Kg8 128. Qh7+ Kf8 129. Qh8+
+Ke7 130. Qxg7# *
+
+[Event "Diagram 108"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "D36"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "82"]
+[SourceDate "2002.06.24"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. cxd5 exd5 5. Nc3 c6 6. Bg5 Be7 7. Qc2 g6 8. e3
+Bf5 9. Bd3 Bxd3 10. Qxd3 Nbd7 11. Bh6 Ng4 12. Bf4 O-O 13. O-O Re8 14. h3 Ngf6
+15. Ne5 Nb6 16. Bg5 Ne4 17. Bxe7 Qxe7 18. Qc2 Nd6 19. Na4 Nbc4 20. Nxc4 Nxc4
+21. Nc5 Nd6 22. Rac1 Qg5 23. Qd1 h5 24. Kh1 Re7 25. Nd3 Ne4 26. Nc5 Nd6 27. Nd3
+Qf5 28. Ne5 f6 29. Nf3 Rg7 30. Nh2 Re8 31. Kg1 Ne4 32. Qf3 Qe6 33. Rfd1 g5 34.
+Qxh5 f5 35. Re1 g4 36. hxg4 fxg4 37. f3 gxf3 38. Nxf3 Rh7 39. Qe5 Qc8 40. Qf4
+Rf8 41. Qe5 Rf5 *
+
+[Event "Diagram 109"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/ppp2pp1/2nbbq1p/3p4/3P4/2NNP3/PP2BPPP/R2Q1RK1 b - - 0 42"]
+[PlyCount "29"]
+[SourceDate "2002.06.24"]
+
+42... Ne7 43. g3 g6 44. Bf3 h5 45. Nf4 Bxf4 46. gxf4 Nf5 47. Kh1 c5 48. dxc5 d4
+49. Ne4 Qe7 50. Qe2 Nh4 51. Nd6 d3 52. Qd1 b6 53. b4 bxc5 54. bxc5 Qc7 55. e4
+Bh3 56. Qxd3 (56. Rg1 Qxc5) 56... Rb8 *
+
+[Event "Diagram 110"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p3pbp/1pn3p1/4p3/4N3/6P1/PPQPPPBP/R1B1K2R b KQ - 0 56"]
+[PlyCount "35"]
+[SourceDate "2002.06.24"]
+
+56... Nd4 57. Qb1 f5 58. Nc3 e4 59. d3 b5 60. Be3 b4 61. Nd1 Re8 62. dxe4 fxe4
+63. Bxd4 Qxd4 64. a3 (64. O-O Qd2 65. Bxe4 Bh3 66. Bg2 Bxg2 67. Kxg2 Rxe2 68.
+Qc1 Qd5+ 69. Kg1 Bd4) 64... Bg4 65. Qc2 Qd3 66. exd3 exd3+ 67. Kd2 Re2+ 68.
+Kxd3 Rd8+ 69. Kc4 Rxc2+ 70. Kxb4 Rcd2 71. f3 Bf8+ 72. Ka5 Bd7 73. Bf1 Bc5 *
+
+[Event "PROBLEM 24"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1qrr1bk1/3n1ppp/1p2p3/7N/b1P5/3BQ2P/1B3PP1/2R1R1K1 w - - 0 73"]
+[PlyCount "13"]
+[SourceDate "2002.06.24"]
+
+73. Bxg7 Bxg7 74. Qg5 Kf8 75. Rxe6 (75. Qxg7+ Ke7) 75... Qe5 (75... fxe6 76.
+Qxg7+ Ke8 77. Bxh7) 76. Rxe5 Bxe5 77. Re1 Re8 78. Qh6+ Ke7 79. f4 *
+
+[Event "Diagram 111"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppq1bppp/2nppn2/8/2B1PP2/1NN1B3/PPP3PP/R2Q1RK1 w - - 0 4"]
+[PlyCount "14"]
+[SourceDate "2002.06.24"]
+
+4. g4 d5 5. Bd3 dxe4 6. Nxe4 Nd5 7. Bd2 a5 8. c3 Rd8 9. g5 a4 10. Nc1 Qb6+ *
+
+[Event "Diagram 112"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A30"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "33"]
+[SourceDate "2002.06.24"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Nc6 7. e4 e5 8. d3 g6
+9. Nxe5 Nxe5 10. f4 Nc6 11. e5 Ng8 12. f5 Nh6 13. Ne4 Nxf5 14. Nf6+ Ke7 15.
+Nd5+ Ke8 16. Nf6+ Ke7 17. g4 *
+
+[Event "Diagram 113"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A20"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "31"]
+[SourceDate "2002.06.24"]
+
+1. c4 e5 2. g3 g6 3. d4 d6 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Nc3 c6 7. f4 Be6 8.
+Nf3 Bxc4 9. Bh3 f5 10. b3 Bb4 11. Bb2 Bd5 12. e4 fxe4 13. O-O-O Bxc3 14. Bxc3
+exf3 15. Bxe5 Ne7 16. Bxh8 *
+
+[Event "Diagram 114"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/2pq1rbk/ppnpb1pn/3NppBp/1PP1P2P/P2P1PP1/3QN1B1/2R2RK1 b - - 0 16"]
+[PlyCount "14"]
+[SourceDate "2002.06.24"]
+
+16... a5 17. b5 Nd8 18. exf5 Bxf5 19. g4 hxg4 20. fxg4 Nxg4 21. Nxb6 cxb6 22.
+Bxa8 Qc8 23. Bf3 *
+
+[Event "PROBLEM 25"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1bqk1nr/pppnbp1p/3p2pP/1B1Pp3/4P3/2N2N2/PPP2PP1/R1BQK2R w KQkq - 0 23"]
+[PlyCount "34"]
+[SourceDate "2002.06.24"]
+
+23. g4 Ngf6 24. Nh4 a6 25. Bd3 Nc5 26. g5 Nh5 27. Rg1 Nf4 28. Bxf4 exf4 29. Nf3
+O-O 30. Be2 f6 31. Nd4 fxg5 32. b4 Bf6 33. Qd2 Be5 34. Rd1 Qf6 35. Bg4 Bxg4 36.
+Rxg4 Nd7 37. Nde2 f3 38. Nd4 Bf4 39. Qd3 Ne5 *
+
+[Event "Diagram 115"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p5b/pP1p1k1p/P1pP4/2P1PK1N/8/8 b - - 0 69"]
+[PlyCount "8"]
+[SourceDate "2002.06.24"]
+
+69... Kf6 70. Nf4 Bxf4 71. Kxf4 h4 72. e4 dxe4 73. Kxe4 *
+
+[Event "Diagram 116"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r1q1rbk1/pppb1ppp/3p1nn1/3Pp3/2P1P3/P1N4P/1PQ1BPPN/R1B2RK1 w - - 0 73"]
+[PlyCount "24"]
+[SourceDate "2002.06.24"]
+
+73. f4 exf4 74. Bxf4 Nxf4 75. Rxf4 Be7 76. Raf1 Rf8 77. Qd3 Be8 78. Qg3 Qd8 79.
+Nd1 Nd7 80. Ne3 Bg5 81. Rg4 f6 82. Qf2 h5 83. Rg3 h4 84. Rg4 Bh5 *
+
+[Event "PROBLEM 26"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r5k1/1Q3pp1/p6p/2bBp3/q1p1Pn2/P4N2/1PP2PPP/R4K2 b - - 0 85"]
+[PlyCount "7"]
+[SourceDate "2002.06.24"]
+
+85... Qxc2 86. Qxa8+ (86. Bxf7+ Kh7) (86. Qxf7+ Kh8) 86... Kh7 87. Kg1 Qxf2+
+88. Kh1 Qxg2# *
+
+[Event "Steinitz"]
+[Site "?"]
+[Date "1894.??.??"]
+[Round "?"]
+[White "Lasker, Em"]
+[Black "Steinitz, W."]
+[Result "0-1"]
+[ECO "C50"]
+[PlyCount "102"]
+[EventDate "1894.??.??"]
+[SourceDate "2002.06.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 d6 6. Be3 Bb6 7. Qd2 Na5 8.
+Bb5+ c6 9. Ba4 Bxe3 10. fxe3 b5 11. Bb3 Qb6 12. O-O Ng4 13. Rae1 f6 14. h3 Nh6
+15. Ne2 Nxb3 16. axb3 O-O 17. Ng3 a5 18. d4 Nf7 19. Qf2 Ra7 20. Rd1 a4 21. b4
+Qc7 22. Ne1 c5 23. Qd2 Be6 24. d5 Bd7 25. Ra1 cxb4 26. Qxb4 Rc8 27. Qd2 Qc4 28.
+Rf2 Ng5 29. Qd3 Rac7 30. h4 Nf7 31. Qxc4 Rxc4 32. Rd2 g6 33. Kf2 Nd8 34. b3
+R4c7 35. Rdd1 Nb7 36. Rdb1 Kf7 37. Ke2 Ra8 38. Kd2 Na5 39. Kd3 h5 40. Ra2 Raa7
+41. b4 Nc4 42. Nf3 Ra8 43. Nd2 Nb6 44. Rf1 Rac8 45. Nb1 Ke7 46. c3 Nc4 47. Raf2
+Na3 48. Ne2 Nxb1 49. Rxb1 Bg4 50. Rc1 Rc4 51. Rc2 f5 0-1
+
+[Event "Rubinstein"]
+[Site "Teplitz-Schonau"]
+[Date "1922.??.??"]
+[Round "?"]
+[White "Rubinstein, A."]
+[Black "Tarrasch, S."]
+[Result "1-0"]
+[ECO "D30"]
+[PlyCount "105"]
+[EventDate "1922.??.??"]
+[SourceDate "2002.06.24"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. cxd5 exd5 5. Nc3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. a3 Be6 10. dxc5 Bxc5 11. b4 Be7 12. Bb2 Ne4 13. b5 Na5 14. Nxe4 dxe4 15.
+Nd4 Qd5 16. Qc2 f5 17. Qc3 Nc4 18. Nxf5 Bf6 19. Qxf6 gxf6 20. Ne7+ Kf7 21. Nxd5
+Bxd5 22. Rfd1 Ke6 23. Bc3 Rfd8 24. Rd4 f5 25. g4 Nd6 26. Rad1 Nxb5 27. gxf5+
+Kf7 28. Rxd5 Rxd5 29. Rxd5 Nxc3 30. Rc5 Nxe2+ 31. Kf1 Nf4 32. Bxe4 Rd8 33. Rc7+
+Kf6 34. Ke1 Re8 35. f3 Nd5 36. Rxb7 Nc3 37. Rb4 Nd5 38. Ra4 Re7 39. Kf2 Nb6 40.
+Ra5 Rc7 41. Kg3 Nd7 42. Ra6+ Kg7 43. Kf4 Nb6 44. h4 Rf7 45. Kg5 h6+ 46. Kf4 Kf8
+47. a4 Rc7 48. a5 Nc4 49. f6 Rd7 50. Rc6 Nxa5 51. Rc8+ Kf7 52. Ke5 Nb7 53. Bf5
+1-0
+
+[Event "Capablanca"]
+[Site "St Petersburg"]
+[Date "1913.??.??"]
+[Round "?"]
+[White "Capablanca, J."]
+[Black "Alekhine, A."]
+[Result "1-0"]
+[ECO "D10"]
+[PlyCount "69"]
+[EventDate "1913.??.??"]
+[SourceDate "2002.06.24"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nf3 e6 5. Nbd2 Nbd7 6. Bd3 Be7 7. O-O O-O 8. Qc2
+dxc4 9. Nxc4 c5 10. Nce5 cxd4 11. exd4 Nb6 12. Ng5 g6 13. Ngf3 Kg7 14. Bg5 Nbd5
+15. Rac1 Bd7 16. Qd2 Ng8 17. Bxe7 Qxe7 18. Be4 Bb5 19. Rfe1 Qd6 20. Bxd5 exd5
+21. Qa5 a6 22. Qc7 Qxc7 23. Rxc7 h6 24. Rxb7 Rac8 25. b3 Rc2 26. a4 Be2 27. Nh4
+h5 28. Nhxg6 Re8 29. Rxf7+ Kh6 30. f4 a5 31. Nh4 Rxe5 32. fxe5 Kg5 33. g3 Kg4
+34. Rg7+ Kh3 35. Ng2 1-0
+
+[Event "Nimzowitsch"]
+[Site "?"]
+[Date "1927.??.??"]
+[Round "?"]
+[White "Yates, F."]
+[Black "Nimzowitsch, A."]
+[Result "0-1"]
+[ECO "B29"]
+[PlyCount "80"]
+[EventDate "1927.??.??"]
+[SourceDate "2002.06.24"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Bc4 Nb6 5. Be2 Nc6 6. c3 d5 7. d4 cxd4 8. cxd4
+Bf5 9. O-O e6 10. Nc3 Be7 11. Ne1 Nd7 $1 12. Bg4 $1 Bg6 13. f4 Nxd4 14. Nxd5 $1
+Nc6 15. Nxe7 Qb6+ 16. Kh1 Nxe7 17. Qa4 $2 h5 18. Bh3 Bf5 19. Qa3 Qb5 20. Kg1
+Nb6 21. Qf3 Nbd5 22. b3 Qb6+ 23. Rf2 Rc8 24. Bd2 Rh6 25. Rd1 Bxh3 26. Qxh3 Nf5
+27. Qd3 Rg6 28. Nf3 Rg4 29. h3 Rg3 30. a4 Nh4 31. Kf1 Rc6 32. a5 Qd8 33. Kg1
+Nf5 34. Kh2 a6 35. Qb1 Qe7 36. Nd4 Qh4 $1 37. Be1 Nxf4 38. Rxf4 Rxh3+ $1 39.
+gxh3 Qxf4+ 40. Kg2 Ne3+ 0-1
+
+[Event "Petrosian"]
+[Site "?"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Petrosian"]
+[Black "Taimonov"]
+[Result "1-0"]
+[ECO "D46"]
+[PlyCount "47"]
+[SourceDate "2002.06.24"]
+
+{16384kB, General.ctg. PentiumII
+} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5.
+e3 Nbd7 6. Bd3 Bb4 7. O-O O-O 8. Qc2 Bd6 9. b3 dxc4 10. bxc4 e5 11. Bb2 Re8 12.
+Ne4 Nxe4 13. Bxe4 h6 14. Rad1 exd4 15. Bh7+ Kh8 16. Rxd4 Bc5 17. Rf4 Qe7 18.
+Re4 Qf8 19. Rh4 f6 20. Bg6 Re7 21. Rh5 Bd6 22. Rd1 Be5 23. Ba3 c5 24. Nh4 1-0
+
+[Event "Karpov"]
+[Site "Leningrad"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Karpov, A."]
+[Black "Spassky, B."]
+[Result "1-0"]
+[ECO "E10"]
+[PlyCount "69"]
+[EventDate "1974.??.??"]
+[SourceDate "2002.06.24"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 b6 8. Be2
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. O-O Qd6 12. Rc1 a6 13. a3 Nd7 14. b4 b5 15.
+Ne1 c6 16. Nd3 Nb6 17. a4 Bd8 18. Nc5 Bc8 19. a5 Bc7 20. g3 Nc4 21. e4 Bh3 22.
+Re1 dxe4 23. N3xe4 Qg6 24. Bh5 Qh7 25. Qf3 f5 26. Nc3 g6 27. Qxc6 gxh5 28. Nd5
+f4 29. Re7 Qf5 30. Rxc7 Rae8 31. Qxh6 Rf7 32. Rxf7 Kxf7 33. Qxf4 Re2 34. Qc7+
+Kf8 35. Nf4 1-0
+

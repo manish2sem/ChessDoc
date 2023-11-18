@@ -1,0 +1,1671 @@
+[Event "-------------------------------"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Ch 1"]
+[Black "Prophyaxis "]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+
+ *
+
+[Event "p.15;  Warna"]
+[Site "?"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Fischer"]
+[Black "Donner"]
+[Result "0-1"]
+[ECO "B19"]
+[PlyCount "104"]
+[EventDate "1962.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. Bd3
+Bxd3 9. Qxd3 e6 10. Bf4 Qa5+ 11. Bd2 Qc7 12. c4 Ngf6 13. Bc3 a5 14. O-O Bd6 15.
+Ne4 Nxe4 16. Qxe4 O-O 17. d5 Rfe8 18. dxc6 bxc6 19. Rad1 Bf8 20. Nd4 Ra6 21.
+Nf5 Nc5 22. Qe3 Na4 23. Be5 Qa7 24. Nxh6+ gxh6 25. Rd4 f5 26. Rfd1 Nc5 27. Rd8
+Qf7 28. Rxe8 Qxe8 29. Bd4 Ne4 30. f3 e5 31. fxe4 exd4 32. Qg3+ Bg7 33. exf5
+Qe3+ 34. Qxe3 dxe3 35. Rd8+ Kf7 36. Rd7+ Kf6 37. g4 Bf8 38. Kg2 Bc5 39. Rh7 Ke5
+40. Kf3 Kd4 41. Rxh6 Rb6 42. b3 a4 43. Re6 axb3 44. axb3 Kd3 45. g5 Rxb3 46. g6
+Rb1 47. g7 Rf1+ 48. Kg2 e2 49. f6 Be3 50. Rxe3+ Kxe3 51. g8=Q e1=Q 52. Qe6+ Kd2
+0-1
+
+[Event "p.16; USSR ch"]
+[Site "?"]
+[Date "1952.??.??"]
+[Round "?"]
+[White "Botvinnik M."]
+[Black "Keres P."]
+[Result "1-0"]
+[ECO "D36"]
+[PlyCount "73"]
+[EventDate "1952.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8.
+Qc2 Re8 9. Nge2 Nf8 10. O-O c6 11. Rab1 Bd6 12. Kh1 Ng6 13. f3 Be7 14. Rfe1 Nd7
+15. Bxe7 Rxe7 16. Ng3 Nf6 17. Qf2 Be6 18. Nf5 Bxf5 19. Bxf5 Qb6 20. e4 dxe4 21.
+fxe4 Rd8 22. e5 Nd5 23. Ne4 Nf8 24. Nd6 Qc7 25. Be4 Ne6 26. Qh4 g6 27. Bxd5
+cxd5 28. Rec1 Qd7 29. Rc3 Rf8 30. Nf5 Rfe8 31. Nh6+ Kf8 32. Qf6 Ng7 33. Rf3 Rc8
+34. Nxf7 Re6 35. Qg5 Nf5 36. Nh6 Qg7 37. g4 1-0
+
+[Event "p.18; Montreal"]
+[Site "?"]
+[Date "1979.??.??"]
+[Round "2"]
+[White "Karpov, Anatoly"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "2705"]
+[BlackElo "2625"]
+[PlyCount "75"]
+[EventDate "1979.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. O-O Na6 8. Re1
+c6 9. h3 Re8 10. Bg5 h6 11. Be3 Qc7 12. Qd2 Kh7 13. Rad1 Bd7 14. g4 Rad8 15.
+Ng3 Bc8 16. f4 b5 17. a3 b4 18. axb4 Nxb4 19. Nce2 exd4 20. Nxd4 a5 21. c3 Na6
+22. Qc2 Bd7 23. Nf3 Re7 24. Bf2 Be8 25. Qd3 Qb7 26. Ra1 Nc7 27. Rxa5 Rdd7 28.
+b4 Ne6 29. Be3 c5 30. f5 Nd8 31. b5 Kh8 32. Bf2 Qc7 33. Ra4 Qb8 34. c4 Ra7 35.
+Rxa7 Rxa7 36. e5 dxe5 37. Nxe5 Ra2 38. Bxc5 1-0
+
+[Event "p.20"]
+[Site "?"]
+[Date "2010.04.07"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/5ppp/R3b3/1p1q4/3pn3/1PP1B3/2P2PPP/Q3R1K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "2010.??.??"]
+
+1. Ra7 Qc6 2. Bxd4 Nf6 3. Re5 Nd5 4. Ra6 Qb7 5. Ra8+ Kd7 6. Ra7 *
+
+[Event "p.22; T. candidates Zurich Switzerlan"]
+[Site "?"]
+[Date "1953.??.??"]
+[Round "?"]
+[White "Reshevsky Samuel H"]
+[Black "Petrosian Tigran V"]
+[Result "1/2-1/2"]
+[ECO "E58"]
+[PlyCount "81"]
+[EventDate "1953.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 b6 10. cxd5 exd5 11. Bb2 c4 12. Bc2 Bg4 13. Qe1 Ne4 14. Nd2 Nxd2
+15. Qxd2 Bh5 16. f3 Bg6 17. e4 Qd7 18. Rae1 dxe4 19. fxe4 Rfe8 20. Qf4 b5 21.
+Bd1 Re7 22. Bg4 Qe8 23. e5 a5 24. Re3 Rd8 25. Rfe1 Re6 26. a4 Ne7 27. Bxe6 fxe6
+28. Qf1 Nd5 29. Rf3 Bd3 30. Rxd3 cxd3 31. Qxd3 b4 32. cxb4 axb4 33. a5 Ra8 34.
+Ra1 Qc6 35. Bc1 Qc7 36. a6 Qb6 37. Bd2 b3 38. Qc4 h6 39. h3 b2 40. Rb1 Kh8 41.
+Be1 1/2-1/2
+
+[Event "p.23; Ch URS, Moscow"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Polugaevsky, Lev A"]
+[Black "Petrosian, Tigran V. Title: IG"]
+[Result "0-1"]
+[ECO "A42"]
+[PlyCount "48"]
+[EventDate "1983.??.??"]
+[SourceDate "2004.11.04"]
+
+1. Nf3 g6 2. d4 Bg7 3. c4 d6 4. Nc3 e5 5. e4 Nc6 6. dxe5 Nxe5 7. Nd4 a6 8. Be2
+c5 9. Nc2 Be6 10. Nd5 Bxd5 11. exd5 Ne7 12. O-O O-O 13. Rb1 Nf5 14. b4 cxb4 15.
+Rxb4 Qc7 16. Bb2 Rfe8 17. Nd4 Nxd4 18. Bxd4 Nd7 19. Be3 Rxe3 20. fxe3 Nc5 21.
+Qc2 Re8 22. Rf3 Bh6 23. Qc3 Qe7 24. Rb6 Na4 0-1
+
+[Event "p.24; Moscow"]
+[Site "?"]
+[Date "1951.??.??"]
+[Round "?"]
+[White "Terpugov"]
+[Black "Petrosian, T."]
+[Result "0-1"]
+[ECO "A43"]
+[PlyCount "80"]
+[EventDate "1951.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. Bg5 Qb6 5. Nc3 h6 6. Bxf6 exf6 7. e4 a6 8. a4
+bxa4 9. Nxa4 Qc7 10. Be2 d6 11. O-O Be7 12. Nd2 Nd7 13. Bg4 O-O 14. Ra3 Rb8 15.
+Rg3 Kh8 16. Bf5 Qd8 17. Qg4 Rg8 18. Qh5 Qe8 19. b3 Bf8 20. Qe2 g6 21. Bh3 f5
+22. f4 Nf6 23. Re1 fxe4 24. Bxc8 Qxc8 25. Nxe4 Nxe4 26. Qxe4 Bg7 27. Rd3 Rb4
+28. Qf3 c4 29. Rd2 cxb3 30. cxb3 Qf5 31. g3 g5 32. Qd3 Qxd3 33. Rxd3 gxf4 34.
+Re7 fxg3 35. hxg3 Rgb8 36. Rxf7 Rxb3 37. Rxb3 Rxb3 38. Kg2 Rb4 39. Rf4 Bd4 40.
+Nb6 Rb2+ 0-1
+
+[Event "p.26; URS-ch50 Moscow"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Karpov, An"]
+[Black "Yusupov"]
+[Result "1-0"]
+[ECO "C82"]
+[WhiteElo "2710"]
+[BlackElo "2565"]
+[PlyCount "87"]
+[EventDate "1983.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 Bf5 12. Nb3 Bg6 13. Nfd4 Bxd4 14. cxd4 a5
+15. Be3 a4 16. Nd2 a3 17. Nxe4 axb2 18. Rb1 Bxe4 19. Rxb2 Qd7 20. Bd3 Bxd3 21.
+Qxd3 Rfb8 22. Rfb1 b4 23. h3 h6 24. Rc1 Rb6 25. Qb1 Rab8 26. Rc5 Nd8 27. Rcc2
+Nc6 28. Qc1 R8b7 29. Rc5 Ne7 30. Kh2 Nf5 31. Rbc2 Rg6 32. Rxc7 Rxc7 33. Rxc7
+Qb5 34. g4 Nh4 35. Rc8+ Kh7 36. Qd1 Qa6 37. Rc2 f5 38. Kg3 fxg4 39. Kxh4 gxh3
+40. f4 Qe6 41. Qh5 Qe7+ 42. Kxh3 Qf7 43. Rh2 Qd7+ 44. f5 1-0
+
+[Event "p.29; New York op"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Gajic, Zoran"]
+[Black "Dlugy Maxim"]
+[Result "0-1"]
+[ECO "B17"]
+[PlyCount "72"]
+[EventDate "1985.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Be2 g6
+8. O-O Bg7 9. c3 O-O 10. Ne5 Ne8 11. Bf4 Nd6 12. Re1 Be6 13. Ng4 Qb6 14. b4 a5
+15. Nh6+ Kh8 16. a3 Qd8 17. Bd3 Nb5 18. Qd2 axb4 19. axb4 Rxa1 20. Rxa1 Qd5 21.
+Re1 Nd6 22. h3 Ra8 23. Ng4 Ra2 24. Qc1 Qb3 25. Bg5 Nf5 26. Bxf5 gxf5 27. Nh6 f6
+28. Bh4 Bf8 29. Qe3 Kg7 30. Qf4 Kg6 31. Qg3+ Kxh6 32. Qe3+ Kh5 33. Bg3 Bd7 34.
+Bc7 Kg6 35. Bd8 Ra8 36. Qg3+ Kf7 0-1
+
+[Event "p.30"]
+[Site "?"]
+[Date "2010.04.08"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "1-0"]
+[ECO "A05"]
+[PlyCount "95"]
+[EventDate "2010.??.??"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 Nf6 4. O-O d6 5. d3 c5 6. e4 Nc6 7. Nbd2 Bg4 8. h3
+Bd7 9. a4 Qc8 10. Kh2 h5 11. Nc4 Qc7 12. Bf4 e5 13. Be3 Nd4 14. Ng5 Ne6 15.
+Nxe6 Bxe6 16. f4 O-O-O 17. fxe5 dxe5 18. Na3 Nd7 19. Nb5 Qb8 20. Qe1 a6 21. Nc3
+Qd6 22. a5 Kb8 23. Qf2 Rhf8 24. Qf3 Rc8 25. Ra4 Rc7 26. Kg1 Rfc8 27. b3 Ka8 28.
+Nd1 Nb8 29. Qf2 Bf8 30. Nb2 Qd7 31. Nc4 Bxc4 32. Rxc4 Nc6 33. Qd2 Nd4 34. Kh2
+Qb5 35. Bxd4 cxd4 36. Rxf7 Qxc4 37. bxc4 Rxf7 38. Qg5 Rf2 39. Qxe5 Rxc2 40.
+Qxd4 Bb4 41. e5 Bc5 42. Qd7 Rb8 43. e6 Re2 44. d4 Ba7 45. c5 Rb2 46. c6 Rf8 47.
+cxb7+ Kb8 48. Qd6# 1-0
+
+[Event "34a; 32nd Chess Olympiad, Yerevan ARM"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "5"]
+[White "Solomon S"]
+[Black "Williams Lei"]
+[Result "1-0"]
+[ECO "B33"]
+[PlyCount "149"]
+[EventDate "1996.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Bxf6 gxf6 10. Nd5 f5 11. Bd3 Be6 12. O-O Bxd5 13. exd5 Ne7 14. c3 Bg7
+15. Qh5 e4 16. Bc2 O-O 17. Rad1 Rc8 18. Bb1 Rc5 19. Nc2 Nxd5 20. f4 Qb6 21. Kh1
+a5 22. a3 b4 23. axb4 axb4 24. cxb4 Rxc2 25. Rxd5 Rxb2 26. b5 Rxb5 27. Bxe4
+Rxd5 28. Bxd5 Qb5 29. Rd1 Qa4 30. g3 Qc2 31. Re1 Qd2 32. Qd1 Bc3 33. Qxd2 Bxd2
+34. Re7 Kg7 35. Kg2 Kg6 36. Rb7 Be3 37. Ba2 Kf6 38. Kf3 Bc5 39. Bb3 Re8 40.
+Rxf7+ Kg6 41. Kg2 Re2+ 42. Kf1 Rf2+ 43. Ke1 Rxh2 44. Rf8 Bb4+ 45. Kf1 Rh1+ 46.
+Kg2 Re1 47. Bc4 Re3 48. Bb5 Be1 49. Rg8+ Kf6 50. Bd7 Re7 51. Bc6 Rg7 52. Rf8+
+Rf7 53. Rd8 Bb4 54. Bb5 Kg7 55. Bc4 Rf8 56. Rd7+ Kg6 57. Kh3 Bc5 58. Kh4 Ra8
+59. Bf7+ Kf6 60. Bd5 Ra7 61. Rd8 Re7 62. Rf8+ Kg6 63. Bf3 Bf2 64. Bh5+ Kh6 65.
+Rf6+ Kg7 66. Rxf5 Re3 67. Rg5+ Kh6 68. Bd1 d5 69. Kh3 d4 70. Kg2 Be1 71. Rg8
+Rd3 72. Bf3 Bd2 73. Rd8 Be3 74. Be4 Ra3 75. Rd7 1-0
+
+[Event "p.34b; 12, URS-ch38 "]
+[Site "?"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Karpov Anatoli"]
+[Black "Bagirov V"]
+[Result "1-0"]
+[ECO "B05"]
+[PlyCount "92"]
+[EventDate "1970.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 e6 6. O-O Be7 7. c4 Nb6 8. exd6
+cxd6 9. Nc3 O-O 10. Be3 d5 11. c5 Bxf3 12. Bxf3 Nc4 13. Bc1 Nc6 14. b3 N4a5 15.
+Be3 b6 16. Na4 Rb8 17. Rc1 bxc5 18. Nxc5 Bf6 19. a3 Ne7 20. Be2 Nf5 21. b4 Nb7
+22. Bf4 Nbd6 23. Be5 Bxe5 24. dxe5 Nb7 25. Nb3 Qb6 26. Bd3 Ne7 27. Qg4 f5 28.
+Qd4 Nd8 29. b5 g5 30. a4 Ng6 31. Qa1 Qb7 32. Rfe1 Qg7 33. Nc5 Rf7 34. a5 Re7
+35. Na6 Ra8 36. Bf1 Nf7 37. Nc7 Rd8 38. Rc6 Nf8 39. b6 axb6 40. a6 Nh6 41. Rec1
+Ng4 42. a7 Nxe5 43. R6c2 Nc4 44. a8=Q Rxa8 45. Nxa8 b5 46. Ra2 Rb7 1-0
+
+[Event "p.38"]
+[Site "?"]
+[Date "2010.04.08"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/1q3p2/b2pr1p1/1pnN2Qp/4P3/2P4P/2B3P1/R3R1K1 b - - 0 1"]
+[PlyCount "39"]
+[EventDate "2010.??.??"]
+
+1... Kg7 2. Nf4 Re5 3. Nxh5+ Kf8 4. Qh6+ Ke7 5. Nf4 Kd8 6. Rad1 Qb6 7. Kh1 Bb7
+8. Rd4 Bxe4 9. Bxe4 Nxe4 10. Kh2 Nxc3 11. Rxe5 Qxd4 12. Qh4+ Kd7 13. Rg5 Re4
+14. Qg4+ Kc7 15. Qf3 Rxf4 16. Qa8 Rf5 17. Rg3 Ne2 18. Qa5+ Kb7 19. Qe1 Nxg3 20.
+Qe7+ Ka6 *
+
+[Event "40; It (cat.16)"]
+[Site "Ubeda ESP"]
+[Date "1997.??.??"]
+[Round "4"]
+[White "Illescas Cordoba, Miguel"]
+[Black "Andersson, Ulf"]
+[Result "0-1"]
+[ECO "B88"]
+[WhiteElo "2635"]
+[BlackElo "2655"]
+[PlyCount "71"]
+[EventDate "1997.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. Bc4 a6 7. O-O Be7 8. Bb3
+Nc6 9. f4 Nxd4 10. Qxd4 O-O 11. f5 Kh8 12. Kh1 Bd7 13. Bg5 Qa5 14. Rad1 Rad8
+15. Qd3 exf5 16. exf5 Bc6 17. Qd4 d5 18. Qh4 Rfe8 19. Rd3 Qc5 20. Rh3 Kg8 21.
+Bxf6 Bxf6 22. Qxh7+ Kf8 23. Qh8+ Ke7 24. Qh5 Rd7 25. Re1+ Kd8 26. Rxe8+ Kxe8
+27. Qh8+ Ke7 28. Nd1 d4 29. Qg8 Qe5 30. Qxf7+ Kd8 31. Rh8+ Kc7 32. Qe8 Qxf5 33.
+Qe1 Re7 34. Qg3+ Kb6 35. Bc4 Qxc2 36. Bb3 0-1
+
+[Event "p.42"]
+[Site "?"]
+[Date "2010.04.08"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[Annotator ""]
+[SetUp "1"]
+[FEN "r2qrbk1/pp5p/2n1bpp1/2pnp3/P1N1N3/3P2P1/1PP2PBP/R1BQR1K1 w - - 0 1"]
+[PlyCount "19"]
+[EventDate "2010.??.??"]
+
+1. h4 $1 Qd7 2. Be3 Nd4 3. c3 Nf5 4. Nxc5 Bxc5 5. Bxc5 b6 6. Ba3 Rad8 7. Qc2
+Qc7 8. Rad1 a6 9. Nd2 Kf7 10. a5 $1 *
+
+[Event "--------------------------------------"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Ch 2"]
+[Black "Defense in worse positions"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "2010.??.??"]
+
+ *
+
+[Event "p.45"]
+[Site "?"]
+[Date "2010.04.08"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1rb1k/1bqn1ppp/p2p4/1p2nNB1/4P3/P1NB2Q1/1PP3PP/3R1R1K w - - 0 1"]
+[PlyCount "32"]
+[EventDate "2010.??.??"]
+
+1. Bxb5 axb5 2. Nxb5 Qxc2 3. Nbxd6 Bxd6 4. Bf6 Ng6 5. Bxg7+ Kg8 6. Bd4 Bf8 7.
+h4 Bxe4 8. Ne3 Qc7 9. Qg4 Bc6 10. h5 Re4 11. hxg6 fxg6 12. Qg5 Be7 13. Rf6 Bxf6
+14. Bxf6 Nxf6 15. Nf5 Qe5 16. Nh6+ Kg7 *
+
+[Event "p.48; Wch-J U16 Masculino"]
+[Site "Oropesa del Mar"]
+[Date "2000.10.14"]
+[Round "4.9"]
+[White "Real de Azua, Ernesto"]
+[Black "Bhat, Vinay"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[PlyCount "80"]
+[EventDate "2000.10.11"]
+[EventRounds "11"]
+[EventCountry "ESP"]
+[SourceDate "2004.11.04"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 b6 5. g3 dxe4 6. dxe4 Bb7 7. Qe2 Ba6 8. c4
+Nc6 9. e5 Nd7 10. Bg2 Nc5 11. O-O Qd7 12. a3 Bb7 13. b4 Qd3 14. Qd1 Nd7 15. Bb2
+O-O-O 16. Re1 h6 17. Re3 Qh7 18. Qa4 Be7 19. Nb3 b5 20. cxb5 Nb6 21. bxc6 Nxa4
+22. cxb7+ Kb8 23. Bd4 Rd5 24. Nfd2 Rhd8 25. Be4 Qg8 26. Bxd5 Rxd5 27. Na5 Qe8
+28. Ndb3 c5 29. bxc5 Bd8 30. Nc4 Bc7 31. Nd6 Bxd6 32. exd6 Qb5 33. Bxg7 Nxc5
+34. Nxc5 Qxc5 35. Bf8 Qc2 36. Bxh6 Rd1+ 37. Rxd1 Qxd1+ 38. Kg2 Qd5+ 39. Kg1
+Kxb7 40. Bf8 Qd1+ 1/2-1/2
+
+[Event "p.53"]
+[Site "?"]
+[Date "2010.04.08"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[ECO "B33"]
+[PlyCount "93"]
+[EventDate "2010.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Bg5 13. a4 bxa4 14. Rxa4 a5
+15. Bc4 Rb8 16. Ra2 Kh8 17. Nce3 g6 18. h4 Bxh4 19. g3 Bg5 20. f4 exf4 21. gxf4
+Bh4+ 22. Kd2 f5 23. Kc1 fxe4 24. b3 g5 25. Rah2 Bf5 26. Nxf5 Rxf5 27. Qh5 Qd7
+28. Rg2 Qg7 29. Kc2 Rbf8 30. Qe2 a4 31. Rxh4 axb3+ 32. Kb1 Qa7 33. Rxh7+ Kxh7
+34. Qh5+ Kg7 35. Rh2 Qg1+ 36. Kb2 Qxh2+ 37. Qxh2 Na5 38. Qe2 gxf4 39. Qxe4
+Nxc4+ 40. Qxc4 f3 41. Qg4+ Kh7 42. Qh4+ Kg7 43. Ne3 f2 44. Qg4+ Kh8 45. Nxf5
+Rf7 46. Qh4+ Kg8 47. Qxf2 *
+
+[Event "p.57"]
+[Site "?"]
+[Date "2010.04.08"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "1/2-1/2"]
+[ECO "B99"]
+[PlyCount "58"]
+[EventDate "2010.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 h6 11. Bxf6 Bxf6 12. h4 g5 13. hxg5 hxg5 14. e5 dxe5
+15. Nxe6 fxe6 16. Rxh8+ Bxh8 17. Qh1 Bg7 18. Qh5+ Kf8 19. fxg5 e4 20. Bg2 Qe5
+21. Bxe4 Qf4+ 22. Kb1 Bxc3 23. Qh1 Qxg5 24. bxc3 Ke7 25. Qh2 Qb5+ 26. Ka1 Qc5
+27. Qh8 Qg5 28. Qh2 Qc5 29. Qh8 Qg5 1/2-1/2
+
+[Event "p.61; Moskou wch m"]
+[Site "?"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Karpov, Anatoly"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "B85"]
+[PlyCount "84"]
+[EventDate "1985.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+O-O 9. Kh1 Qc7 10. a4 Nc6 11. Be3 Re8 12. Bf3 Rb8 13. Qd2 Bd7 14. Nb3 b6 15. g4
+Bc8 16. g5 Nd7 17. Qf2 Bf8 18. Bg2 Bb7 19. Rad1 g6 20. Bc1 Rbc8 21. Rd3 Nb4 22.
+Rh3 Bg7 23. Be3 Re7 24. Kg1 Rce8 25. Rd1 f5 26. gxf6 Nxf6 27. Rg3 Rf7 28. Bxb6
+Qb8 29. Be3 Nh5 30. Rg4 Nf6 31. Rh4 g5 32. fxg5 Ng4 33. Qd2 Nxe3 34. Qxe3 Nxc2
+35. Qb6 Ba8 36. Rxd6 Rb7 37. Qxa6 Rxb3 38. Rxe6 Rxb2 39. Qc4 Kh8 40. e5 Qa7+
+41. Kh1 Bxg2+ 42. Kxg2 Ne3+ 0-1
+
+[Event "p.67"]
+[Site "?"]
+[Date "2010.04.08"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[ECO "E91"]
+[PlyCount "52"]
+[EventDate "2010.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nc6 7. d5 Nb4 8. a3
+Na6 9. Nd2 Nc5 10. Rb1 Nh5 11. Bxh5 Nd3+ 12. Kf1 gxh5 13. Qxh5 f5 14. Nf3 fxe4
+15. Nxe4 Bf5 16. Neg5 Nc5 17. Nd2 h6 18. Ngf3 Qe8 19. Qxe8 Raxe8 20. Ra1 e6 21.
+dxe6 Rxe6 22. h3 Bd3+ 23. Kg1 Rxf3 24. Nxf3 Nb3 25. Bxh6 Nxa1 26. Bxg7 Kxg7 *
+
+[Event "p.70"]
+[Site "?"]
+[Date "2010.04.08"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3qrk1/4n1bp/2ppbn2/4p3/1N2Ppp1/2N2P2/P1Q1BBPP/2RR2K1 b - - 0 1"]
+[PlyCount "32"]
+[EventDate "2010.??.??"]
+
+1... g3 2. hxg3 fxg3 3. Bxg3 Bh6 4. Rxd6 Qg6 5. Bf2 Bh3 6. Bf1 Bxc1 7. Qxc1 Kh8
+8. Nd3 Rad8 9. Nxe5 Qg7 10. Qd2 Rxd6 11. Qxd6 Ne8 12. Qc5 Nf6 13. Bd4 Rd8 14.
+Ne2 Rxd4 15. Nxd4 Nh5 16. Nexc6 Qh6 17. Qe5+ *
+
+[Event "p.72*"]
+[Site "?"]
+[Date "2010.04.08"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "1/2-1/2"]
+[SetUp "1"]
+[FEN "2r1kb1r/5ppp/p2p4/q3pPPP/np2P3/4B1N1/PPP2Q2/1K1R2R1 b k - 0 1"]
+[PlyCount "17"]
+[EventDate "2010.??.??"]
+
+1... Nc3+ 2. bxc3 bxc3 3. Ka1 Rc4 4. Rb1 Ra4 5. Rb8+ Kd7 6. Kb1 Rxa2 7. Rd8+
+Qxd8 8. Kxa2 Qa5+ 9. Kb1 Be7 1/2-1/2
+
+[Event "p.73; Amsterdam izt"]
+[Site "?"]
+[Date "1964.??.??"]
+[Round "15"]
+[White "Larsen, Bent"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[ECO "C01"]
+[PlyCount "65"]
+[EventDate "1964.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Qf3 Nc6 6. Bb5 Nge7 7. Bf4 O-O 8.
+O-O-O Na5 9. Nge2 c6 10. Bd3 b5 11. h4 Nc4 12. h5 f6 13. g4 Qa5 14. Bxc4 dxc4
+15. a3 Bxc3 16. Nxc3 Qd8 17. Rhe1 a5 18. Qg3 Ra7 19. h6 g6 20. Bd6 Re8 21. Qf4
+Kf7 22. Be5 f5 23. Bb8 Rb7 24. Qe5 Rg8 25. g5 b4 26. Qf6+ Ke8 27. Qxc6+ Kf7 28.
+Qf6+ Ke8 29. d5 Rf8 30. Qc6+ Qd7 31. Bd6 Rf7 32. Bxe7 bxc3 33. Bb4+ 1-0
+
+[Event "p.76"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[ECO "B23"]
+[PlyCount "50"]
+[EventDate "2010.??.??"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bb5+ Bd7 6. Bc4 Nc6 7. d3 e6 8. f5
+gxf5 9. O-O Nge7 10. Nb5 d5 11. Nd6+ Kf8 12. Bb3 c4 13. dxc4 dxe4 14. Ng5 Ne5
+15. c5 h6 16. Nh3 Qc7 17. Be3 Ng4 18. Bd4 e5 19. Qxg4 fxg4 20. Rxf7+ Kg8 21.
+Rxe7+ Kh7 22. Be6 Rhf8 23. Bxd7 Kh8 24. Nb5 Qd8 25. Rxg7 exd4 *
+
+[Event "p.78; It (cat.13)"]
+[Site "Pamplona ESP"]
+[Date "1997.??.??"]
+[Round "1"]
+[White "Gulko, Boris F"]
+[Black "Azmaiparashvili, Zurab A"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[WhiteElo "2595"]
+[BlackElo "2650"]
+[PlyCount "98"]
+[EventDate "1997.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. f4 Nc6 5. Be3 Nf6 6. Be2 O-O 7. Nf3 e6 8. h3 b6
+9. O-O Bb7 10. e5 Nd5 11. Nxd5 exd5 12. Qd2 f6 13. exf6 Qxf6 14. Rae1 Rae8 15.
+c3 Na5 16. b3 c5 17. Nh2 Kh8 18. Ng4 Qf5 19. Bd3 Qh5 20. Bf2 Rxe1 21. Rxe1 Nc6
+22. Re6 cxd4 23. cxd4 Nd8 24. Re7 Bc8 25. Qe2 Bf5 26. Re8 Bxd3 27. Rxf8+ Bxf8
+28. Qxd3 Ne6 29. Be3 Qf5 30. Qxf5 gxf5 31. Nf6 Nc7 32. Nh5 Ne8 33. g4 Kg8 34.
+Kf2 Kf7 35. Ng3 Ng7 36. Ne2 Ne6 37. gxf5 Ng7 38. Nc3 Nxf5 39. Nxd5 Bg7 40. Nc7
+Bxd4 41. Bxd4 Nxd4 42. Ke3 Nf5+ 43. Ke4 Ng3+ 44. Kf3 Nf5 45. Nb5 a6 46. Nc7 a5
+47. Ke4 Ng3+ 48. Kf3 Nf5 49. Ke4 Ng3+ 1/2-1/2
+
+[Event "p.80; Arnhem Sonsbeek SNS"]
+[Site "Arnhem"]
+[Date "1999.05.03"]
+[Round "2"]
+[White "Nijboer, Friso"]
+[Black "Kortchnoi, Viktor"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "2515"]
+[BlackElo "2673"]
+[PlyCount "62"]
+[EventDate "1999.05.02"]
+[EventRounds "6"]
+[EventCountry "NED"]
+[EventCategory "14"]
+[SourceDate "2004.11.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Qd2
+cxd4 9. Nxd4 Bc5 10. O-O-O O-O 11. h4 Nxd4 12. Bxd4 b5 13. Rh3 b4 14. Na4 Bxd4
+15. Qxd4 a5 16. c4 bxc3 17. Rxc3 Qxh4 18. g3 Qd8 19. Kb1 Ba6 20. Bxa6 Rxa6 21.
+Rh1 Ra8 22. g4 Rb8 23. a3 Nb6 24. g5 Nxa4 25. Qxa4 Qb6 26. Qc2 g6 27. Rh6 Rb7
+28. Qh2 Rfb8 29. Rc2 Qd4 30. Ka1 Rb3 31. Ka2 Qa4 0-1
+
+[Event "Mermaid Beach Club"]
+[Site "Bermuda"]
+[Date "1997.??.??"]
+[Round "2"]
+[White "Ashley, Maurice"]
+[Black "Bezold, Michael"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "2465"]
+[BlackElo "2500"]
+[PlyCount "148"]
+[EventDate "1997.01.??"]
+[EventRounds "11"]
+[EventCountry "BER"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "2004.01.01"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nc6 7. Be3 b5 8. O-O
+Bb7 9. Qe2 Nf6 10. Rad1 Ne5 11. h3 b4 12. Na4 d5 13. exd5 Nxd5 14. Be4 Rd8 15.
+Nb3 Bc6 16. Bxd5 Bb5 17. Qh5 g6 18. Bb6 Qb8 19. Qg5 Be7 20. Qh6 Rxd5 21. Rxd5
+exd5 22. Qg7 Kd7 23. Ba7 Qxa7 24. Qxh8 f6 25. Rd1 Bxa4 26. Rxd5+ Kc6 27. Qg8
+Qc7 28. f4 Bxb3 29. axb3 Nd7 30. Qe6+ Bd6 31. Rd1 Qb6+ 32. Kh1 Qc5 33. Qe4+ Kc7
+34. Qe2 a5 35. Qa6 Bxf4 36. Qe6 Bd6 37. Rd5 Qb6 38. Qe2 Ne5 39. Rd1 Kd7 40. Qd2
+Ke6 41. Qe2 h5 42. Re1 Qd4 43. Qa6 Qd2 44. Rf1 Qxc2 45. Qa8 Qc7 46. Qg8+ Qf7
+47. Qa8 Qf8 48. Qxa5 Be7 49. Rd1 Kf7 50. Qc7 Qa8 51. Qc2 Qc6 52. Qe2 Qe6 53.
+Qe3 g5 54. Qe4 Ng6 55. Qc4 g4 56. hxg4 hxg4 57. Re1 Ne5 58. Qe4 Kg7 59. Qb7 Qf7
+60. Rc1 Bd6 61. Qxf7+ Kxf7 62. Rd1 Ke6 63. Kg1 f5 64. Kf1 Bc5 65. Rd8 f4 66.
+Rg8 f3 67. g3 Kd5 68. Rc8 Bd4 69. Re8 Ke4 70. Rb8 Kd3 71. Rd8 f2 72. Re8 Nf3
+73. Kg2 Nd2 74. Kh2 f1=R 0-1
+
+[Event "p.88; Interpolis"]
+[Site "Tilburg"]
+[Date "1981.10.??"]
+[Round "7"]
+[White "Kasparov, Garry"]
+[Black "Petrosian, Tigran V"]
+[Result "0-1"]
+[ECO "D22"]
+[WhiteElo "2630"]
+[BlackElo "2585"]
+[PlyCount "83"]
+[EventDate "1981.10.??"]
+[EventRounds "11"]
+[EventCountry "NED"]
+[EventCategory "15"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4 5. Bxc4 e6 6. h3 Bh5 7. Nc3 a6 8. g4
+Bg6 9. Ne5 Nbd7 10. Nxg6 hxg6 11. Bf1 c6 12. Bg2 Qc7 13. O-O Be7 14. f4 Nb6 15.
+g5 Nfd7 16. Qg4 O-O-O 17. Rb1 Kb8 18. b4 Nd5 19. Na4 f5 20. Qg3 Nxb4 21. Bd2
+Nd5 22. Rfc1 Ka7 23. Qe1 Ba3 24. Rc2 Qd6 25. Rb3 Qe7 26. Qe2 Rb8 27. Qd3 Bd6
+28. Nb2 Rhc8 29. Nc4 Bc7 30. a4 b5 31. axb5 cxb5 32. Ra2 Kb7 33. Bb4 Qe8 34.
+Bd6 Ra8 35. Qb1 Kc6 36. Rba3 bxc4 37. Rxa6+ Rxa6 38. Rxa6+ Bb6 39. Bc5 Qd8 40.
+Qa1 Nxc5 41. dxc5 Kxc5 42. Ra4 0-1
+
+[Event "------------------------------------"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Ch 3"]
+[Black "Building/breaking Fortresses"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "2010.??.??"]
+
+ *
+
+[Event "p.95"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/p3k3/2p5/1pPp4/3P4/PP4P1/3P1PB1/2K5 w - - 0 1"]
+[PlyCount "34"]
+[EventDate "2010.??.??"]
+
+1. Kd1 Rh2 2. Ke1 Rxg2 3. Kf1 Rh2 4. Kg1 Rh6 5. f3 Re6 6. Kf2 Kf6 7. Kf1 Kf5 8.
+Kf2 b4 9. a4 Re4 10. fxe4+ Kxe4 11. Kg2 Kd3 12. g4 Kc2 13. g5 Kxb3 14. g6 Ka2
+15. g7 b3 16. g8=Q b2 17. Qa8 b1=Q *
+
+[Event "p.96; USA-ch"]
+[Site "Tulsa"]
+[Date "2008.05.13"]
+[Round "2"]
+[White "Kraai, Jesse"]
+[Black "Akobian, Varuzhan"]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2509"]
+[BlackElo "2601"]
+[Annotator "Zhou,Jason"]
+[PlyCount "199"]
+[EventDate "2008.05.13"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[Source "ChessBase"]
+[SourceDate "2008.07.03"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 c5 5. Bg2 Nc6 6. O-O Be7 7. dxc5 Bxc5 8. a3
+O-O 9. b4 Be7 10. Bb2 dxc4 11. Nbd2 Qc7 12. Rc1 b5 13. Ne5 Nd5 14. Ndxc4 bxc4
+15. Rxc4 Qxe5 $3 16. Bxe5 Nxe5 17. Bxd5 exd5 18. Qxd5 Nxc4 19. Qxa8 Nxa3 20.
+Qxa7 Bxb4 21. Qa4 Be7 22. Ra1 h6 23. Rxa3 Bxa3 24. Qxa3 Re8 25. Qd3 Be6 26. f3
+f6 27. Kf2 h5 28. h3 Bxh3 29. Qd5+ Be6 30. Qxh5 Bf7 31. Qf5 Re5 32. Qc8+ Kh7
+33. f4 Re8 34. Qd7 Kg8 35. Kf3 Bg6 36. g4 Be4+ 37. Kg3 Bg6 38. Qb5 Re3+ 39. Kf2
+Re7 40. Qc6 Kh7 41. Kf3 f5 42. gxf5 Bxf5 43. Qd6 Re6 44. Qd5 Kg6 45. e3 Re7 46.
+Qc6+ Re6 47. Qd5 Re7 48. Kf2 Re6 49. Qg2+ Kf7 50. Qg5 g6 51. Qd8 Re8 52. Qd4
+Re4 53. Qc3 Ke7 54. Kg3 Kd7 55. Qc5 Re6 56. Kh4 Be4 57. Kg5 Bf5 58. Kh6 Re7 59.
+Qd5+ Ke8 60. Qd4 Re4 61. Qc5 Re7 62. Kg5 Re6 63. Qa7 Be4 64. Kh6 Re7 65. Qb8+
+Kd7 66. Kg5 Re6 67. Kh4 Bf5 68. Qa7+ Ke8 69. Kg3 Re7 70. Qc5 Kf7 71. Qa3 Re6
+72. Kf3 Re7 73. Ke2 Re4 74. Kd2 Kg7 75. Qa7+ Kf6 76. Kc3 Ke6 77. Qc5 Kf7 78.
+Qb6 Ke7 79. Kb3 Be6+ 80. Kc2 Bf5 81. Kc3 Kf7 82. Qa7+ Kf6 83. Kd2 Re7 84. Qb8
+Kf7 85. Qh8 Re4 86. Ke2 Ke7 87. Kf2 Kd7 88. Qf6 Re6 89. Qc3 Re4 90. Kg3 Re6 91.
+Kh4 Re4 92. Qc5 Kd8 93. Kg5 Re6 94. Kh6 Re7 95. Qd6+ Ke8 96. Qb8+ Kd7 97. Qh8
+Re4 98. Qf6 Re7 99. Kg5 Re6 100. Qb2 1/2-1/2
+
+[Event "101; Open, Biel SUI"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "4"]
+[White "Adianto, U."]
+[Black "Mikhalevski, A."]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2615"]
+[BlackElo "2485"]
+[PlyCount "113"]
+[EventDate "1998.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8.
+cxd5 Nxd5 9. Nxd5 exd5 10. Bd3 Bb4+ 11. Kf1 Nc6 12. h4 Bd6 13. Bxd6 Qxd6 14. h5
+Qf6 15. Rh4 Qxb2 16. Rb1 Qf6 17. Rf4 Qe7 18. h6 g5 19. Rf5 Bxf5 20. Bxf5 Qf6
+21. g4 Ne7 22. Nd4 Qxh6 23. Qf3 Qf6 24. Bxh7+ Kg7 25. Qxf6+ Kxf6 26. Rxb7 Rfb8
+27. Rd7 Rb2 28. a4 Rb4 29. a5 Ra4 30. Kg2 Rxa5 31. Rxe7 Kxe7 32. Nc6+ Kd6 33.
+Nxa5 Rb8 34. Bd3 Kc5 35. Bc2 Rb2 36. Nb3+ Kb4 37. Nd4 a5 38. Kg3 Kc4 39. Ba4
+Rb4 40. Be8 Rb7 41. Nc6 a4 42. Na5+ Kb4 43. Nxb7 a3 44. Nd8 f6 45. Nc6+ Kc3 46.
+Nd4 a2 47. Bf7 a1=Q 48. Bxd5 Qg1+ 49. Bg2 Kd3 50. Nf5 Ke2 51. Nd4+ Kd3 52. Nf5
+Qc1 53. Bf3 Kd2 54. Kg2 Ke1 55. Nd4 Qb2 56. Be2 Qb1 57. Bf3 1/2-1/2
+
+[Event "p.103"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5p1p/6p1/4q3/4B1P1/6NP/5P2/6K1 b - - 0 1"]
+[PlyCount "49"]
+[EventDate "2010.??.??"]
+
+1... h5 2. gxh5 gxh5 3. Bf3 h4 4. Nf1 Qf4 5. Kg2 Kf8 6. Ne3 Qg5+ 7. Bg4 Ke7 8.
+Kh2 Kd8 9. Kg2 Kc7 10. Kf1 Kb6 11. Kg1 Kb5 12. Kf1 Kc5 13. Bc8 Kd4 14. Bf5 Kc3
+15. Ke2 Kb2 16. Nc4+ Kc1 17. Ne3 Qf4 18. Bg4 Qa4 19. Bf5 Qb4 20. Bg4 Qb5+ 21.
+Ke1 Qb4+ 22. Ke2 Qd2+ 23. Kf3 Qe1 24. Kg2 Qd2 25. Bd1 f5 *
+
+[Event "p.105"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2B5/R2P3b/5p1k/4pP2/3r3p/4K2P/8 w - - 0 1"]
+[PlyCount "16"]
+[EventDate "2010.??.??"]
+
+1. d7 Rxd7 2. Be5 Bg7 3. Ra3 Bxe5 4. fxe5 Re7 5. Ke3 Rxe5 6. Kf4 Rb5 7. Rxh3+
+Kg6 8. Ra3 Rb6 *
+
+[Event "p.107; ROM-ch"]
+[Site "Herculane"]
+[Date "1996.??.??"]
+[Round "9"]
+[White "Marin, Mihail"]
+[Black "Florean, Andrei"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[WhiteElo "2530"]
+[BlackElo "2375"]
+[PlyCount "88"]
+[EventDate "1996.12.??"]
+[EventRounds "15"]
+[EventCountry "ROM"]
+[EventCategory "8"]
+[Source "ChessBase"]
+[SourceDate "2004.01.01"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 Bg4 8. d5
+Na5 9. Nd2 c5 10. h3 Bd7 11. Qc2 a6 12. b3 b5 13. Bb2 Rb8 14. Rab1 e5 15. dxe6
+Bxe6 16. cxb5 axb5 17. Rfd1 Qe7 18. Nde4 Nxe4 19. Nxe4 Nb7 20. Bxg7 Kxg7 21.
+Nc3 b4 22. Nd5 Bxd5 23. Rxd5 Nd8 24. Rbd1 Rb6 25. Qd2 Ne6 26. Rxd6 Rxd6 27.
+Qxd6 Qf6 28. Qa6 Rd8 29. Rxd8 Qxd8 30. Qd3 Qxd3 31. exd3 Nd4 32. f4 Ne2+ 33.
+Kf2 Nc1 34. Ke3 Nxa2 35. d4 cxd4+ 36. Kxd4 f6 37. Kc5 h6 38. Bf3 g5 39. Kc4 Kf8
+40. Be4 Kg7 41. Bb1 Nc3 42. Bd3 Na2 43. h4 Kf8 44. Kd5 Kg7 1/2-1/2
+
+[Event "p.108; Dos Hermanas"]
+[Site "Dos Hermanas"]
+[Date "1997.04.04"]
+[Round "3"]
+[White "Topalov, Veselin"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[ECO "D17"]
+[WhiteElo "2725"]
+[BlackElo "2765"]
+[PlyCount "51"]
+[EventDate "1997.04.01"]
+[EventRounds "9"]
+[EventCountry "ESP"]
+[EventCategory "19"]
+[Source "ChessBase"]
+[SourceDate "1997.08.01"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. e4
+Bxe4 9. fxe4 Nxe4 10. Bd2 Qxd4 11. Nxe4 Qxe4+ 12. Qe2 Bxd2+ 13. Kxd2 Qd5+ 14.
+Kc2 Na6 15. Nxc4 b5 16. axb5 Nb4+ 17. Kc3 cxb5 18. Rd1 bxc4 19. Rxd5 Nxd5+ 20.
+Kc2 O-O 21. Qe4 Rfc8 22. h4 Rc5 23. Rh3 Rac8 24. Ra3 a5 25. Kc1 h5 26. Qd4
+1/2-1/2
+
+[Event "p.113"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/1b3ppp/p2Bp3/4P3/2P3PP/1P2KP2/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.??.??"]
+
+ *
+
+[Event "p.116; St Petersburg"]
+[Site "St Petersburg"]
+[Date "1909.??.??"]
+[Round "?"]
+[White "Vidmar, Milan Sr"]
+[Black "Spielmann, Rudolf"]
+[Result "0-1"]
+[ECO "A85"]
+[PlyCount "100"]
+[EventDate "1909.??.??"]
+[EventRounds "20"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 f5 2. c4 e6 3. Nc3 Nf6 4. e3 Bb4 5. Bd3 Bxc3+ 6. bxc3 c5 7. Ne2 d6 8. Qc2
+Qe7 9. O-O g6 10. e4 e5 11. f4 fxe4 12. Bxe4 Nxe4 13. Qxe4 Bf5 14. Qe3 Nd7 15.
+fxe5 dxe5 16. Ng3 O-O 17. Bd2 Rae8 18. Rae1 Qd6 19. Qh6 Bd3 20. Rxf8+ Rxf8 21.
+Qe3 Bxc4 22. dxe5 Nxe5 23. Ne4 Qd5 24. Qxc5 Qf7 25. Nf2 Qxf2+ 26. Qxf2 Rxf2 27.
+Kxf2 Nd3+ 28. Ke3 Nxe1 29. Bxe1 Bxa2 30. Kd4 Kf7 31. Ke5 Bc4 32. Bf2 a5 33. Bb6
+a4 34. Bc5 Bf1 35. g3 Bh3 36. Ba3 g5 37. Bb4 Kg6 38. c4 Kh5 39. Kf6 Kg4 40. Ba3
+Bg2 41. Bd6 Bf1 42. Kg7 Kf5 43. c5 a3 44. c6 a2 45. g4+ Ke4 46. Be5 bxc6 47.
+Ba1 c5 48. Kxh7 c4 49. Kg6 Kd3 50. Kxg5 c3 0-1
+
+[Event "p.117; Linares 16th"]
+[Site "Linares"]
+[Date "1999.03.01"]
+[Round "7"]
+[White "Topalov, Veselin"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[ECO "B80"]
+[WhiteElo "2700"]
+[BlackElo "2812"]
+[PlyCount "122"]
+[EventDate "1999.02.21"]
+[EventRounds "14"]
+[EventCountry "ESP"]
+[EventCategory "20"]
+[Source "ChessBase"]
+[SourceDate "1999.06.08"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 b5 8. g4 h6
+9. Qd2 Nbd7 10. O-O-O Bb7 11. h4 b4 12. Na4 Qa5 13. b3 Nc5 14. a3 Nxa4 15. axb4
+Qc7 16. bxa4 d5 17. e5 Nd7 18. f4 Nb6 19. a5 Nc4 20. Qc3 Qe7 21. Bxc4 dxc4 22.
+Bd2 Bxh1 23. Rxh1 Qb7 24. Rd1 Be7 25. Qf3 O-O-O 26. Qc6+ Qxc6 27. Nxc6 Rd7 28.
+Nxe7+ Rxe7 29. Re1 h5 30. g5 Kb7 31. Be3 Rd7 32. Bc5 Kc6 33. Bd6 f6 34. gxf6
+gxf6 35. Rg1 f5 36. Kd2 Kd5 37. Ke3 Rhh7 38. Bf8 Rhf7 39. Bh6 Rh7 40. Rg6 Rb7
+41. Bf8 Rhf7 42. Bd6 Rg7 43. Rg5 Rbf7 44. c3 Kc6 45. Kf3 Kb5 46. Bc5 Ka4 47.
+Bd4 Rd7 48. Ke3 Kb3 49. Ke2 Rxg5 50. fxg5 Rxd4 51. cxd4 c3 52. g6 c2 53. g7
+c1=Q 54. g8=Q Qc4+ 55. Ke3 Kc3 56. Qd8 Qd3+ 57. Kf4 Qd2+ 58. Kf3 Qd1+ 59. Ke3
+Qg1+ 60. Ke2 Qg2+ 61. Ke3 f4+ 0-1
+
+[Event "-----------------------------------"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Ch 4"]
+[Black "Positional sacrifice"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "2010.??.??"]
+
+ *
+
+[Event "p.122"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[ECO "D70"]
+[PlyCount "118"]
+[EventDate "2010.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O 8. f4
+Nc6 9. d5 Nb8 10. Bd4 Bh6 11. Qf3 c6 12. h4 cxd5 13. exd5 e5 14. Bxe5 N8d7 15.
+Bd4 Nf6 16. O-O-O Qd6 17. Bxf6 Qxf6 18. g3 Bg7 19. Rh2 h5 20. Bh3 Nc4 21. Kb1
+Re8 22. Qd3 Qa6 23. Bxc8 Raxc8 24. Re2 Rxe2 25. Ngxe2 Qb6 26. b3 Na3+ 27. Kb2
+Nb5 28. Rc1 Qc5 29. d6 Nxc3 30. Nxc3 Rd8 31. d7 Qc6 32. Kb1 Rxd7 33. Qe4 Rc7
+34. Qxc6 Rxc6 35. Nd5 Rxc1+ 36. Kxc1 Bd4 37. Kd2 Kf8 38. Ne3 Ke7 39. Kd3 Bc5
+40. Ke4 Kf6 41. Nc4 Ke6 42. Na5 f5+ 43. Kf3 b5 44. Nc6 Kd5 45. Ne5 Kd4 46. Nxg6
+Kc3 47. Ne5 a5 48. Ke2 Bb6 49. Nc6 Kb2 50. b4 a4 51. Kd3 Kxa2 52. Kc2 Ka3 53.
+Ne7 Kxb4 54. Nxf5 a3 55. g4 hxg4 56. h5 g3 57. Nxg3 Bd4 58. Kd3 a2 59. Kxd4
+a1=Q+ *
+
+[Event "p.129; Yerevan ch-URS"]
+[Site "?"]
+[Date "1975.??.??"]
+[Round "8"]
+[White "Romanishin, Oleg"]
+[Black "Petrosian, Tigran V"]
+[Result "1-0"]
+[ECO "A17"]
+[PlyCount "59"]
+[EventDate "1975.??.??"]
+[SourceDate "2004.11.04"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 b6 4. e4 Bb7 5. Bd3 d6 6. Bc2 c5 7. d4 cxd4 8. Nxd4
+Be7 9. O-O O-O 10. b3 Nc6 11. Bb2 a6 12. Kh1 Qc7 13. f4 Rad8 14. Rc1 Qb8 15.
+Rf3 g6 16. Nd5 exd5 17. exd5 Nxd4 18. Qxd4 Rde8 19. f5 Bd8 20. Qh4 Re5 21. Qh6
+Qc7 22. Rg3 Bc8 23. Bxe5 dxe5 24. fxg6 fxg6 25. Bxg6 Ng4 26. Bh5 Rf6 27. Qd2
+Rf4 28. d6 Qg7 29. d7 Bb7 30. Qxf4 1-0
+
+[Event "p.133; NY Open, New York US"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "?"]
+[White "Shabalov, Al"]
+[Black "Gurevich, Dmitry"]
+[Result "1-0"]
+[ECO "A31"]
+[PlyCount "89"]
+[EventDate "1998.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. N5c3 O-O 8.
+e3 e4 9. Be2 Qe7 10. a3 Rd8 11. O-O a5 12. Nd2 Bf5 13. Qb3 h5 14. Nc4 Ra6 15.
+Rd1 Ng4 16. h3 Nxf2 17. Kxf2 Bxh3 18. Bf1 Qh4+ 19. Kg1 Rf6 20. Qc2 Bg4 21. Nxe4
+Rf4 22. Nxa5 Bxd1 23. Qxd1 Rxf1+ 24. Qxf1 Qxe4 25. Nxb7 Rxd5 26. Nxc5 Qc2 27.
+Qf4 Nc6 28. Ne4 Qd1+ 29. Kh2 Ne5 30. Nf2 Qf1 31. e4 Rd3 32. Nxd3 Ng4+ 33. Kg3
+Qxd3+ 34. Qf3 Qd8 35. Bf4 g5 36. Rf1 f6 37. Kh3 Qd7 38. Bxg5 Ne3+ 39. Kh2 Nxf1+
+40. Qxf1 fxg5 41. Qf5 Qd6+ 42. e5 Qd2 43. Qc8+ Kf7 44. Qc7+ Kg6 45. e6 1-0
+
+[Event "p.139; ch-NED, Rotterdam NED"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "3"]
+[White "Nikolic, Pr"]
+[Black "Van Wely, L."]
+[Result "1-0"]
+[ECO "A30"]
+[WhiteElo "2635"]
+[BlackElo "2605"]
+[PlyCount "81"]
+[EventDate "1998.??.??"]
+[SourceDate "2004.11.04"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7 7. d4 cxd4 8. Qxd4
+O-O 9. Bf4 d6 10. Qd2 Qc8 11. Rac1 Rd8 12. Rfd1 a6 13. Qe3 Qc7 14. Bh3 Qc5 15.
+Nd5 Bxd5 16. cxd5 Qxe3 17. Bxe3 Nxd5 18. Rxd5 exd5 19. Bxb6 Rf8 20. b4 f5 21.
+Be3 Nd7 22. Rc7 Rad8 23. Nd4 Bf6 24. Ne6 g6 25. Bg2 d4 26. Bh6 Rfe8 27. Nxd8
+Rxd8 28. Bd5+ Kh8 29. h4 Ne5 30. Bg5 Bxg5 31. hxg5 d3 32. exd3 Nxd3 33. a3 Re8
+34. Bc4 Ne5 35. Bxa6 h6 36. gxh6 d5 37. a4 d4 38. Rc5 d3 39. Kg2 g5 40. Bb5 Re6
+41. Rd5 1-0
+
+[Event "143; It (a), Balatonbereny (Hungary)"]
+[Site "?"]
+[Date "1996.??.??"]
+[Round "6"]
+[White "Bacrot Etienne"]
+[Black "Nisipeanu Liviu_Dieter"]
+[Result "0-1"]
+[ECO "A57"]
+[PlyCount "46"]
+[EventDate "1996.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Nf3 g6
+9. Bc4 Bg7 10. O-O O-O 11. Re1 Nbd7 12. a4 bxa3 13. Rxa3 Rxa3 14. Nxa3 Ng4 15.
+Bf1 Nde5 16. Nd2 Nxf2 17. Kxf2 Ng4+ 18. Ke2 e6 19. Qb3 exd5 20. h3 dxe4 21.
+Nxe4 Re8 22. Kd2 Qa5+ 23. Kc2 Qxe1 0-1
+
+[Event "p.146; Wch U10"]
+[Site "Belfort"]
+[Date "2005.07.25"]
+[Round "8"]
+[White "Grover, Sahaj"]
+[Black "Naroditsky, Daniel"]
+[Result "1/2-1/2"]
+[ECO "B86"]
+[WhiteElo "1955"]
+[BlackElo "1599"]
+[PlyCount "61"]
+[EventDate "2005.07.19"]
+[EventRounds "11"]
+[EventCountry "FRA"]
+[Source "ChessBase"]
+[SourceDate "2005.01.01"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. a3 Be7 8. O-O
+O-O 9. f4 Nc6 10. Be3 Bd7 11. Nf3 Ng4 12. Qe2 Nxe3 13. Qxe3 Rc8 14. Kh1 Qc7 15.
+Ba2 Bf6 16. Rad1 Rfd8 17. e5 dxe5 18. f5 Nd4 19. fxe6 Bxe6 20. Bxe6 Nxe6 21.
+Nd5 Rxd5 22. Rxd5 Qc6 23. Rxe5 Qxc2 24. Re4 Bxb2 25. Rxe6 fxe6 26. Qxe6+ Kh8
+27. Kg1 h6 28. Ng5 Bd4+ 29. Kh1 Qd3 30. Nh7 Kxh7 31. Qf5+ 1/2-1/2
+
+[Event "p.149; Astana it"]
+[Site "Astana"]
+[Date "2001.06.01"]
+[Round "10"]
+[White "Kasparov, Garry"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2827"]
+[BlackElo "2797"]
+[PlyCount "81"]
+[EventDate "2001.05.20"]
+[EventRounds "10"]
+[EventCountry "KAZ"]
+[EventCategory "20"]
+[SourceDate "2004.11.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 h6 10. h3 Bd7 11. b3 Ke8 12. Bb2 Rd8 13. Rad1 Ne7 14. Rfe1
+Ng6 15. Ne4 Nf4 16. e6 Nxe6 17. Nd4 c5 18. Nf5 Rh7 19. Bf6 Rc8 20. Bxg7 Bxg7
+21. Nxg7+ Rxg7 22. Nf6+ Ke7 23. Nxd7 Rd8 24. Ne5 Rxd1 25. Rxd1 Nf4 26. Kh1 Rg5
+27. Ng4 Rd5 28. Re1+ Kf8 29. Nxh6 Rd2 30. Re5 Rxf2 31. Rf5 Kg7 32. Ng4 Rxg2 33.
+Rxf4 Rxc2 34. Rf2 Rc3 35. Kg2 b5 36. h4 c4 37. h5 cxb3 38. axb3 Rc5 39. h6+ Kf8
+40. Nf6 Rg5+ 41. Kh1 1-0
+
+[Event "p.152; Elista olm"]
+[Site "?"]
+[Date "1998.??.??"]
+[Round "6"]
+[White "Lautier, J."]
+[Black "Topalov, V."]
+[Result "0-1"]
+[ECO "E42"]
+[WhiteElo "2625"]
+[BlackElo "2700"]
+[PlyCount "86"]
+[EventDate "1998.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Bc5 10. Nd4 d6 11. Be2 a6 12. O-O Nbd7 13. Be3 Ne5 14. h3 Re8 15.
+b4 Bb6 16. Qb3 Bd7 17. a4 Rc8 18. Rac1 Ng6 19. Rfd1 Rxe3 20. fxe3 Qe7 21. Na2
+Rxc1 22. Nxc1 Bxa4 23. Qxa4 Qxe3+ 24. Kh1 Ne4 25. Nf5 Nf2+ 26. Kh2 Qe5+ 27. Ng3
+Ne4 28. Qb3 Bf2 29. Rd3 h5 30. Bxh5 Nxg3 31. Rxg3 Qxh5 32. Rxg6 Qxg6 33. Qf3
+Bd4 34. Nd3 Qg5 35. Qe4 Qe3 36. Qxe3 Bxe3 37. Kg3 g6 38. Kf3 Bd4 39. Ke2 Kg7
+40. Ne1 Kf6 41. Kd3 Bf2 42. Nf3 Kf5 43. Ke2 Ba7 0-1
+
+[Event "p.154; etch, (m) Pula (Croatia)"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "4"]
+[White "Jansa, Vlastimil "]
+[Black "Maki, Veijo "]
+[Result "1/2-1/2"]
+[ECO "B70"]
+[WhiteElo "2490"]
+[BlackElo "2395"]
+[PlyCount "86"]
+[EventDate "1997.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g3 g6 7. Nde2 Bg7 8.
+Bg2 O-O 9. h3 Rb8 10. a4 a6 11. Nd5 b5 12. axb5 axb5 13. Be3 b4 14. O-O Nd7 15.
+Ra2 e6 16. Ndf4 Qc7 17. b3 Bb7 18. Qd2 Ra8 19. Rxa8 Rxa8 20. Rd1 Ra1 21. Nc1
+Bb2 22. Nfe2 Ba6 23. Kh2 Bxe2 24. Nxe2 Rxd1 25. Qxd1 Nc5 26. f4 e5 27. f5 Nd7
+28. Qd2 Nd4 29. Nxd4 exd4 30. Bxd4 Bxd4 31. Qxd4 Qc5 32. Qxc5 dxc5 33. Kg1 Kg7
+34. Kf2 Kf6 35. fxg6 fxg6 36. Ke3 Ke5 37. h4 h6 38. Kf3 Kf6 39. Kf2 g5 40.
+hxg5+ hxg5 41. Bf1 Ne5 42. Bb5 Ke7 43. Be2 Kd6 1/2-1/2
+
+[Event "p.158; ECC"]
+[Site "Halkidiki GRE"]
+[Date "2002.09.23"]
+[Round "2"]
+[White "Karjakin, Sergey"]
+[Black "Kotsur, P."]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2523"]
+[BlackElo "2573"]
+[PlyCount "61"]
+[EventDate "2002.09.22"]
+[EventRounds "7"]
+[EventCountry "GRE"]
+[SourceDate "2004.11.04"]
+
+1. e4 d6 2. d4 g6 3. Nc3 c6 4. f4 d5 5. e5 h5 6. Nf3 Nh6 7. Be3 Qb6 8. Na4 Qa5+
+9. c3 Bg4 10. Nc5 Qc7 11. h3 Nf5 12. Bf2 Bxf3 13. Qxf3 b6 14. Nd3 h4 15. e6
+fxe6 16. Qg4 Rh6 17. Ne5 Nd7 18. Bd3 Bg7 19. O-O Bxe5 20. fxe5 Nf8 21. a4 c5
+22. b3 cxd4 23. cxd4 Qc3 24. Qd1 Nxd4 25. Rc1 Qb2 26. Be3 Rh8 27. Rf2 Qxb3 28.
+Bxd4 Qxd1+ 29. Rxd1 Rc8 30. Rdf1 Rg8 31. Rxf8+ 1-0
+
+[Event "p.162"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1r6/7p/3bQppk/2qPp3/4P2N/6PK/7P/5B2 b - - 0 1"]
+[PlyCount "12"]
+[EventDate "2010.??.??"]
+
+1... Qc8 2. Nf5+ Kg5 3. Nxd6 Qxe6+ 4. dxe6 f5 5. e7 fxe4 6. e8=Q Rxe8 7. Nxe8 *
+
+[Event "p.163; Canada op"]
+[Site "Edmonton"]
+[Date "2000.07.16"]
+[Round "10"]
+[White "Wells, Peter K"]
+[Black "Rowson, Jonathan"]
+[Result "0-1"]
+[ECO "A41"]
+[WhiteElo "2506"]
+[BlackElo "2494"]
+[PlyCount "72"]
+[EventDate "2000.07.08"]
+[EventRounds "10"]
+[EventCountry "CAN"]
+[Source "ChessBase"]
+[SourceDate "2000.10.18"]
+
+1. d4 d6 2. Nf3 Bg4 3. e4 Nf6 4. Bd3 e6 5. h3 Bh5 6. O-O d5 7. Nbd2 Be7 8. c3
+O-O 9. exd5 exd5 10. Re1 c5 11. dxc5 Bxc5 12. Nb3 Bb6 13. Bg5 h6 14. Bh4 Nc6
+15. Bf5 g5 16. Bg3 Ne4 17. Bxe4 dxe4 18. Rxe4 f5 19. Re6 Qxd1+ 20. Rxd1 f4 21.
+Bh2 Rad8 22. Rxd8 Rxd8 23. Nfd2 Bf7 24. Re2 Bc4 25. Re1 Ne5 26. Nxc4 Nxc4 27.
+Kf1 Nxb2 28. g3 f3 29. g4 Bxf2 30. Kxf2 Nd3+ 31. Kf1 Nxe1 32. Kxe1 Re8+ 33. Kf1
+Re2 34. Bg3 Rxa2 35. Nd4 a5 36. Nxf3 a4 0-1
+
+[Event "p.166; Moscow Aeroflot op-A"]
+[Site "Moscow"]
+[Date "2007.02.22"]
+[Round "9"]
+[White "Volkov, Sergey"]
+[Black "Balogh, Csaba"]
+[Result "1-0"]
+[ECO "E46"]
+[WhiteElo "2636"]
+[BlackElo "2616"]
+[PlyCount "63"]
+[EventDate "2007.02.14"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "ChessBase"]
+[SourceDate "2007.03.30"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Nge2 d5 6. a3 Bd6 7. Ng3 c5 8. dxc5
+Bxc5 9. b4 Bb6 10. Na4 Bc7 11. Bb2 Nc6 12. cxd5 exd5 13. Be2 Qe7 14. O-O Rd8
+15. Rc1 d4 16. exd4 Be5 17. dxe5 Rxd1 18. Rfxd1 Ne8 19. b5 Nd8 20. Nc5 Ne6 21.
+Nce4 Nf4 22. Bf3 Be6 23. Nd6 Rb8 24. Ngf5 Qg5 25. h4 Nh3+ 26. Kf1 Qf4 27. Ne7+
+Kf8 28. Nd5 Qh2 29. gxh3 Bxh3+ 30. Ke2 Bg2 31. Rh1 Bxh1 32. Rxh1 1-0
+
+[Event "p.170; Corus-C"]
+[Site "Wijk aan Zee"]
+[Date "2008.01.12"]
+[Round "1"]
+[White "Nijboer, Friso"]
+[Black "Braun, Arik"]
+[Result "0-1"]
+[ECO "C18"]
+[WhiteElo "2578"]
+[BlackElo "2536"]
+[PlyCount "78"]
+[EventDate "2008.01.12"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "10"]
+[Source "ChessBase"]
+[SourceDate "2008.01.30"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qc7 7. Qg4 f5 8. Qh5+
+g6 9. Qd1 Bd7 10. Bd3 Ba4 11. Bd2 Nd7 12. Nf3 h6 13. h4 O-O-O 14. Rh3 Nb6 15.
+dxc5 Nd7 16. c6 Bxc6 17. Kf1 Nc5 18. a4 Ne4 19. Be3 Ne7 20. Qc1 g5 21. hxg5
+hxg5 22. Bxg5 Rxh3 23. gxh3 Rh8 24. h4 Ng6 25. Qe3 Kb8 26. a5 Rh5 27. Bxe4 dxe4
+28. Nd4 Bd5 29. Qg3 e3 30. Bxe3 Qc4+ 31. Ne2 Rxh4 32. f3 Rh1+ 33. Bg1 Ne7 34.
+Qf4 Rxg1+ 35. Kxg1 Qxe2 36. Rf1 Bc4 37. Rf2 Qe1+ 38. Kg2 Nd5 39. Qh4 a6 0-1
+
+[Event "p.173; Mondariz zt 1.1"]
+[Site "Mondariz"]
+[Date "2000.09.13"]
+[Round "10"]
+[White "Magem Badals, Jordi"]
+[Black "Nijboer, Friso"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "2482"]
+[BlackElo "2537"]
+[PlyCount "68"]
+[EventDate "2000.09.03"]
+[EventRounds "11"]
+[EventCountry "ESP"]
+[Source "ChessBase"]
+[SourceDate "2000.11.21"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Bg5 c6 5. Qd2 b5 6. f4 Nf6 7. Bd3 O-O 8. Nf3
+Bg4 9. O-O-O Nbd7 10. f5 b4 11. Ne2 d5 12. exd5 Nxd5 13. fxg6 fxg6 14. h4 Qa5
+15. Kb1 Be6 16. Qe1 Rxf3 17. gxf3 Bf7 18. Nc1 Qb6 19. Be4 N7f6 20. h5 Nxh5 21.
+Rxh5 gxh5 22. Qg1 Kh8 23. Bxd5 cxd5 24. Bxe7 a5 25. Bc5 Qf6 26. Nd3 Rc8 27. f4
+Bg6 28. Ne5 Be4 29. Qe3 Qf5 30. Qf2 Rxc5 31. dxc5 Bxe5 32. c6 Qxf4 33. Qxf4
+Bxf4 34. Rf1 Be5 0-1
+
+[Event "p.176; Istanbul ol (Men)"]
+[Site "Istanbul"]
+[Date "2000.10.30"]
+[Round "3.1"]
+[White "Stefansson, Hannes"]
+[Black "Fernandes, Antonio"]
+[Result "1/2-1/2"]
+[ECO "A87"]
+[WhiteElo "2557"]
+[BlackElo "2438"]
+[PlyCount "71"]
+[EventDate "2000.10.28"]
+[EventRounds "14"]
+[EventCountry "TUR"]
+[Source "ChessBase"]
+[SourceDate "2000.11.22"]
+[WhiteTeam "ISL"]
+[BlackTeam "POR"]
+[WhiteTeamCountry "ISL"]
+[BlackTeamCountry "POR"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O c6 6. c4 O-O 7. b3 d6 8. Bb2 Ne4
+9. Nbd2 Nxd2 10. Qxd2 Nd7 11. Ng5 Nf6 12. d5 Bd7 13. h4 Qe8 14. Rae1 h6 15. Nh3
+Qf7 16. Bd4 a5 17. Nf4 c5 18. Bxf6 Bxf6 19. Ne6 Bxe6 20. dxe6 Qg7 21. Bxb7 Ra7
+22. Qd5 a4 23. e3 Bc3 24. Rc1 Qe5 25. bxa4 Bb2 26. Rc2 Rxa4 27. Rb1 Rb4 28.
+Qxe5 Bxe5 29. Rxb4 cxb4 30. f4 Bc3 31. Bd5 Rb8 32. Kf2 Kg7 33. Kf3 h5 34. Ke2
+Rb6 35. Kf2 Kf6 36. Ke2 1/2-1/2
+
+[Event "p.179; San Antonio"]
+[Site "San Antonio"]
+[Date "1972.??.??"]
+[Round "?"]
+[White "Portisch, Lajos"]
+[Black "Petrosian, Tigran V"]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[WhiteElo "2640"]
+[BlackElo "2645"]
+[PlyCount "77"]
+[EventDate "1972.??.??"]
+[EventRounds "15"]
+[EventCountry "USA"]
+[EventCategory "11"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. c4 c5 2. Nc3 Nc6 3. Nf3 g6 4. e3 Bg7 5. d4 d6 6. Be2 cxd4 7. exd4 Nf6 8. d5
+Nb8 9. O-O O-O 10. Be3 Na6 11. Nb5 b6 12. Nfd4 Bb7 13. Bf3 Nd7 14. Qd2 Ne5 15.
+Be2 Qc8 16. Rac1 Nc5 17. b4 Ne4 18. Qd1 a6 19. Na3 a5 20. b5 Qc7 21. Nc6 Rae8
+22. Nb1 Nd7 23. Bf3 Nec5 24. Bg5 e5 25. Be7 f5 26. Bxf8 Nxf8 27. Be2 Bh6 28.
+Rc2 Bc8 29. Nc3 Nfd7 30. Re1 Nf6 31. Bf1 f4 32. Rce2 Rf8 33. Na4 Nxa4 34. Qxa4
+Nd7 35. Ne7+ Kh8 36. Nxc8 Qxc8 37. Qa3 Nc5 38. Qf3 Qf5 39. h3 1/2-1/2
+
+[Event "p.180; Ashdod op"]
+[Site "Ashdod"]
+[Date "2004.12.14"]
+[Round "7"]
+[White "Mikhalevski, Victor"]
+[Black "Kaganskiy, Gleb"]
+[Result "1-0"]
+[ECO "D45"]
+[WhiteElo "2566"]
+[BlackElo "2287"]
+[PlyCount "95"]
+[EventDate "2004.12.09"]
+[EventRounds "9"]
+[EventCountry "ISR"]
+[Source "ChessBase"]
+[SourceDate "2005.01.01"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 dxc4 8. Bxc4
+e5 9. g5 Nd5 10. Ne4 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 Qe7 13. Bb3 O-O 14. O-O-O Re8
+15. Rhg1 exd4 16. exd4 Qxe4 17. Rde1 Qxf3 18. Rxe8+ Nf8 19. Bxd5 cxd5 20. Rge1
+a5 21. Qe3 Qxe3+ 22. R1xe3 b5 23. Rc3 Bb7 24. Rxa8 Bxa8 25. Rc8 Bb7 26. Rc7 Ba8
+27. g6 fxg6 28. f4 h5 29. Kd2 h4 30. Ke3 h3 31. b3 b4 32. Kf3 Ne6 33. Rc8+ Kf7
+34. Rxa8 Nxd4+ 35. Kg4 Ne2 36. Rxa5 Nc3 37. Ra7+ Ke6 38. Ra6+ Ke7 39. Kf3 d4
+40. Rxg6 Nxa2 41. Ke4 Kf7 42. Rb6 Nc1 43. Rxb4 d3 44. Ke3 Kg6 45. Kd2 Ne2 46.
+Kxd3 Ng3 47. hxg3 h2 48. f5+ 1-0
+
+[Event "p.182; Montreal 6th"]
+[Site "Montreal"]
+[Date "2005.08.14"]
+[Round "11"]
+[White "Charbonneau, Pascal"]
+[Black "Huzman, Alexander"]
+[Result "1-0"]
+[ECO "B96"]
+[WhiteElo "2509"]
+[BlackElo "2577"]
+[PlyCount "115"]
+[EventDate "2005.08.03"]
+[EventRounds "11"]
+[EventCountry "CAN"]
+[EventCategory "12"]
+[Source "ChessBase"]
+[SourceDate "2005.11.14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qe2
+Qc7 9. O-O-O b5 10. f5 e5 11. Nd5 Nxd5 12. exd5 Bb7 13. g4 Nb6 14. Bg2 Qc4 15.
+Qxc4 Nxc4 16. Nc6 h6 17. Bd2 Be7 18. h4 Bd8 19. b3 Nxd2 20. Kxd2 Kd7 21. Ra1
+Bb6 22. a4 Kc7 23. a5 Bf2 24. Kd3 Bg3 25. Be4 Bf4 26. Nb4 Kd7 27. c4 bxc4+ 28.
+bxc4 Rhb8 29. Rab1 Bc8 30. Ke2 Ra7 31. f6 gxf6 32. Bf5+ Kc7 33. Bxc8 Rxc8 34.
+Nc6 Rb7 35. Rxb7+ Kxb7 36. Rb1+ Kc7 37. Rb6 Ra8 38. Nb4 e4 39. Nxa6+ Kc8 40. c5
+dxc5 41. Rc6+ Kd8 42. Nxc5 Ke7 43. a6 Rd8 44. a7 Ra8 45. Ra6 Be5 46. Ke3 h5 47.
+Na4 Bh2 48. Kxe4 Bg1 49. gxh5 f5+ 50. Kxf5 Rxa7 51. Rxa7+ Bxa7 52. Nc3 Kf8 53.
+d6 Bf2 54. Kg4 f5+ 55. Kxf5 Bxh4 56. Kg6 Bg3 57. Ne4 Be5 58. h6 1-0
+
+[Event "p.185"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/R1k1npb1/4p1pp/1Pp5/1p2P3/5N2/1P2NPPP/6K1 b - - 0 1"]
+[PlyCount "26"]
+[EventDate "2010.??.??"]
+
+1... Kb6 2. Rxe7 Rd8 3. g3 Bxb2 4. Rxf7 b3 5. Re7 Rd1+ 6. Kg2 Bd4 7. Rxe6+ Kb7
+8. Rd6 b2 9. Nc3 Rc1 10. Ne2 b1=Q 11. Nxc1 Qxc1 12. Nxd4 cxd4 13. Rxd4 Kc7 14.
+b6+ *
+
+[Event "-----------------------------------"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Ch 5"]
+[Black "Paralysis in the middlegame"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "2010.??.??"]
+
+ *
+
+[Event "p.187; Copenhagen"]
+[Site "Copenhagen"]
+[Date "1923.??.??"]
+[Round "?"]
+[White "Saemisch, Fritz"]
+[Black "Nimzowitsch, Aaron"]
+[Result "0-1"]
+[ECO "E06"]
+[PlyCount "50"]
+[EventDate "1923.??.??"]
+[EventRounds "10"]
+[EventCountry "DEN"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. O-O d5 8. Ne5
+c6 9. cxd5 cxd5 10. Bf4 a6 11. Rc1 b5 12. Qb3 Nc6 13. Nxc6 Bxc6 14. h3 Qd7 15.
+Kh2 Nh5 16. Bd2 f5 17. Qd1 b4 18. Nb1 Bb5 19. Rg1 Bd6 20. e4 fxe4 21. Qxh5 Rxf2
+22. Qg5 Raf8 23. Kh1 R8f5 24. Qe3 Bd3 25. Rce1 h6 0-1
+
+[Event "p.190; Tilburg"]
+[Site "Tilburg"]
+[Date "1991.??.??"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Timman, Jan H"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "2660"]
+[BlackElo "2630"]
+[PlyCount "67"]
+[EventDate "1991.10.??"]
+[EventRounds "14"]
+[EventCountry "NED"]
+[EventCategory "17"]
+[Source "ChessBase"]
+[SourceDate "2004.01.01"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. Qe2 Nc6 8. O-O
+O-O 9. h3 a5 10. a4 dxe5 11. dxe5 Nd4 12. Nxd4 Qxd4 13. Re1 e6 14. Nd2 Nd5 15.
+Nf3 Qc5 16. Qe4 Qb4 17. Bc4 Nb6 18. b3 Nxc4 19. bxc4 Re8 20. Rd1 Qc5 21. Qh4 b6
+22. Be3 Qc6 23. Bh6 Bh8 24. Rd8 Bb7 25. Rad1 Bg7 26. R8d7 Rf8 27. Bxg7 Kxg7 28.
+R1d4 Rae8 29. Qf6+ Kg8 30. h4 h5 31. Kh2 Rc8 32. Kg3 Rce8 33. Kf4 Bc8 34. Kg5
+1-0
+
+[Event "p.193; ch World tt students Chicago USA"]
+[Site "?"]
+[Date "1983.??.??"]
+[Round "?"]
+[White "Psakhis, Lev"]
+[Black "Hebden, Mark L"]
+[Result "1-0"]
+[ECO "C88"]
+[PlyCount "137"]
+[EventDate "1983.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. Nc3 Na5 11. Ba2 b4 12. Ne2 c5 13. c3 c4 14. Ng3 cxd3 15. Qxd3
+b3 16. Bb1 Re8 17. Nf5 Bf8 18. Bg5 h6 19. Bxf6 Qxf6 20. Ne3 Qd8 21. Nd2 Bc6 22.
+Nd5 Be7 23. Ra3 Bg5 24. Nxb3 Nxb3 25. Rxb3 Bxa4 26. Rb6 Rb8 27. Qxa6 Rxb6 28.
+Nxb6 Bc6 29. Ba2 Qc7 30. Nd5 Bxd5 31. Bxd5 Rb8 32. Qe2 Bd8 33. g3 Qe7 34. h4
+Bb6 35. Rd1 Ba7 36. b4 Qc7 37. Rd3 g6 38. Qg4 Kg7 39. Rf3 Rf8 40. h5 g5 41. Qf5
+Qe7 42. Kg2 Bb6 43. Kf1 Ba7 44. Ke2 Bb6 45. Kd3 Ba7 46. Kc4 Qc7+ 47. Kb3 Qe7
+48. g4 Bb6 49. Kc4 Ba7 50. Kb5 Qe8+ 51. Bc6 Qd8 52. Kc4 Qe7 53. Qd7 Qe6+ 54.
+Qxe6 fxe6 55. Rxf8 Kxf8 56. Kb5 Ke7 57. Ka6 Bxf2 58. c4 Kd8 59. Kb7 Be1 60. b5
+Bf2 61. b6 Bd4 62. Ba4 d5 63. cxd5 exd5 64. exd5 e4 65. Kc6 Kc8 66. d6 e3 67.
+Bb5 Bf6 68. Ba6+ Kb8 69. Kd7 1-0
+
+[Event "p.195; Hastings 9899"]
+[Site "Hastings"]
+[Date "1998.12.29"]
+[Round "1"]
+[White "Sokolov, Ivan"]
+[Black "Emms, John M"]
+[Result "1-0"]
+[ECO "E12"]
+[WhiteElo "2620"]
+[BlackElo "2585"]
+[PlyCount "59"]
+[EventDate "1998.12.29"]
+[EventRounds "9"]
+[EventCountry "ENG"]
+[EventCategory "13"]
+[Source "ChessBase"]
+[SourceDate "1999.04.01"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb4 5. Qb3 c5 6. Bg5 Bb7 7. Rd1 O-O 8. e3
+cxd4 9. exd4 Bxf3 10. gxf3 Be7 11. Rg1 Re8 12. Be2 d6 13. f4 Nbd7 14. Qc2 d5
+15. f5 exf5 16. Qxf5 dxc4 17. Bxc4 g6 18. Qf3 Qc7 19. Bb3 Qxh2 20. Rh1 Qc7 21.
+Kf1 Qd8 22. Re1 Rf8 23. Ba4 b5 24. Bxb5 Rb8 25. Bxd7 Qxd7 26. Rxe7 Qxe7 27.
+Bxf6 Qe6 28. d5 Qa6+ 29. Kg2 Rb6 30. Ne4 1-0
+
+[Event "p.199; Ch URS (1 liga)"]
+[Site "Odessa UKR"]
+[Date "1974.??.??"]
+[Round "?"]
+[White "Podgaets, Mikhail"]
+[Black "Dvoretzky, Mark"]
+[Result "0-1"]
+[ECO "A44"]
+[BlackElo "2495"]
+[PlyCount "60"]
+[EventDate "1974.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Nc3 Be7 5. Nf3 Bg4 6. h3 Bxf3 7. Qxf3 Bg5 8. Bb5+
+Kf8 9. Bxg5 Qxg5 10. h4 Qe7 11. Be2 h5 12. a4 g6 13. g3 Kg7 14. O-O Nh6 15. Nd1
+Nd7 16. Ne3 Rhf8 17. a5 f5 18. exf5 e4 19. Qg2 Nxf5 20. Nxf5+ Rxf5 21. a6 b6
+22. g4 hxg4 23. Bxg4 Rf4 24. Rae1 Ne5 25. Rxe4 Rxe4 26. Qxe4 Qxh4 27. Bf3 Rf8
+28. Bh1 Ng4 29. Qg2 Rf3 30. c4 Kh6 0-1
+
+[Event "p.202"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/K6N/8/2N5/1n6/6Q1/6pn/7k w - - 0 1"]
+[PlyCount "7"]
+[EventDate "2010.??.??"]
+
+1. Ne4 Nd3 2. Qf2 Nxf2 3. Ng3+ Kg1 4. Ng5 *
+
+[Event "p.203"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[Annotator ""]
+[SetUp "1"]
+[FEN "2brrb2/p7/p7/7Q/1p1kpPp1/1P1pN1P1/3K4/8 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2010.??.??"]
+
+1. Qa5 $3 *
+
+[Event "-------------------------------"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Ch 6"]
+[Black "Maneuvering"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+[EventDate "2010.??.??"]
+
+ *
+
+[Event "p.205"]
+[Site "?"]
+[Date "2010.04.09"]
+[Round "?"]
+[White "Position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/pp1bq2p/2p3p1/2p1p3/4Pn2/2NPQN1P/PPP3P1/2KR2R1 w - - 0 1"]
+[PlyCount "24"]
+[EventDate "2010.??.??"]
+
+1. Nb1 h6 2. Nbd2 g5 3. Nc4 Ng6 4. b4 g4 5. hxg4 cxb4 6. Qxa7 Bxg4 7. Rdf1 Rde8
+8. Nfd2 Rhf8 9. Nb3 Be6 10. Nba5 Qc7 11. Nb6+ Kd8 12. Na8 Qg7 *
+
+[Event "p.207; Semmering/Baden"]
+[Site "Semmering"]
+[Date "1937.??.??"]
+[Round "4"]
+[White "Eliskases, Erich Gottlieb"]
+[Black "Flohr, Salo"]
+[Result "0-1"]
+[ECO "D93"]
+[PlyCount "114"]
+[EventDate "1937.09.08"]
+[EventRounds "14"]
+[EventCountry "AUT"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Nf3 c5 7. cxd5 Nxd5 8. Be5
+Nxc3 9. bxc3 cxd4 10. Bxg7 Kxg7 11. cxd4 Qa5+ 12. Qd2 Nc6 13. Be2 Rd8 14. Qxa5
+Nxa5 15. O-O Be6 16. e4 Bg4 17. Rfd1 e6 18. Kf1 Bxf3 19. Bxf3 Rac8 20. Rd2 e5
+21. d5 Nc4 22. Re2 Nd6 23. Rb1 Rc4 24. g3 Rdc8 25. Bg2 Rc1+ 26. Rxc1 Rxc1+ 27.
+Re1 Rxe1+ 28. Kxe1 f5 29. f3 fxe4 30. fxe4 b5 31. Kd2 a5 32. Kd3 Kf6 33. Bf3
+Ke7 34. h4 h6 35. Bd1 Kd8 36. a4 bxa4 37. Bxa4 Kc7 38. Bc2 Kb6 39. Kc3 Kb5 40.
+Kb3 Kc5 41. Ka4 Nc4 42. Bb3 Nd2 43. Bc2 Nf1 44. Kxa5 Nxg3 45. Ka4 Nh5 46. Kb3
+Kd4 47. Kb4 Nf6 48. d6 g5 49. hxg5 hxg5 50. Kb5 g4 51. Bd1 g3 52. Bf3 Ke3 53.
+Bh1 Kf2 54. Kc6 g2 55. Bxg2 Kxg2 56. d7 Nxd7 57. Kxd7 Kf3 0-1
+
+[Event "p.210; Candidates sf"]
+[Site "Riga"]
+[Date "1986.??.??"]
+[Round "1"]
+[White "Sokolov, Andrei"]
+[Black "Jussupow, Artur"]
+[Result "0-1"]
+[ECO "C19"]
+[WhiteElo "2620"]
+[BlackElo "2660"]
+[PlyCount "144"]
+[EventDate "1986.09.??"]
+[EventRounds "14"]
+[EventCountry "URS"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Nf3 b6 8. Bb5+
+Bd7 9. Bd3 Ba4 10. h4 h6 11. h5 Nbc6 12. Rh4 c4 13. Be2 Kd7 14. Be3 Qg8 15. Qd2
+Qh7 16. Rc1 Kc7 17. Rf4 Raf8 18. Nh4 Nd8 19. Bg4 Kb7 20. Rf3 Be8 21. Rh3 g5 22.
+hxg6 fxg6 23. Nf3 g5 24. Nh2 Qg7 25. Qe2 Bg6 26. Bh5 Nf5 27. Kd2 Bh7 28. Ng4
+Nc6 29. Nf6 Rxf6 30. exf6 Qxf6 31. Bg4 Nd6 32. f3 Bf5 33. Bxf5 exf5 34. Rch1 f4
+35. Bf2 Re8 36. Qd1 Nf5 37. Re1 Re7 38. Rhh1 Kc7 39. a4 Qf7 40. Rxe7+ Qxe7 41.
+Re1 Qf7 42. Qe2 Kd7 43. Kc1 h5 44. Kb2 Qg6 45. Qf1 g4 46. Re2 g3 47. Be1 Nfe7
+48. Bd2 Qf5 49. Qe1 h4 50. a5 bxa5 51. Qa1 Ng6 52. Qa3 h3 53. gxh3 Qh5 54. Qc5
+Qxf3 55. Re1 Nge7 56. Qb5 g2 57. Qb7+ Kd6 58. Rg1 Qf2 59. Bxf4+ Qxf4 60. Rxg2
+Qf3 61. Rg4 Qxh3 62. Rf4 Ke6 63. Rf8 Qh6 64. Rf3 Qh8 65. Re3+ Kd6 66. Rf3 Qh6
+67. Rf1 Qg7 68. Ka3 Nf5 69. Qc8 Ne3 70. Rf8 Nxc2+ 71. Ka4 N2xd4 72. cxd4 Qxd4
+0-1
+
+[Event "p.217; It (cat.18)"]
+[Site "Dortmund GER"]
+[Date "1997.??.??"]
+[Round "9"]
+[White "Topalov, Veselin"]
+[Black "Jussupow, Artur M"]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2725"]
+[BlackElo "2665"]
+[PlyCount "149"]
+[EventDate "1997.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Bg5 Rf7 11. Qh5 g6 12. Qd1 Qa5 13. Bd2 Nbc6 14. Nf3 c4 15.
+Be2 Bd7 16. O-O Kg7 17. Qc1 Ng8 18. Bf4 Raf8 19. Bd6 Qxc3 20. a4 Nf6 21. Rd1
+Ne4 22. Ra3 Qa5 23. Bxf8+ Rxf8 24. c3 Qb6 25. Re1 Nd6 26. Bd1 Rf6 27. Ra2 Nf7
+28. Qa3 Na5 29. Ne5 Nxe5 30. Rxe5 Qd8 31. Re3 Qf8 32. Qc1 Nb3 33. Qb1 Na5 34.
+h3 b6 35. Bg4 Qd6 36. Qe1 Nc6 37. h4 Nd8 38. g3 Nf7 39. Rae2 Nd8 40. Qa1 Nc6
+41. Rf3 Rxf3 42. Bxf3 Nd8 43. Bg4 Nf7 44. Re1 Kf6 45. Qc1 Ke7 46. h5 Kf6 47.
+hxg6 hxg6 48. Kg2 Kg7 49. Bd1 Qe7 50. Bc2 Qg5 51. Qd1 Nh6 52. Qe2 Qf6 53. Rh1
+Be8 54. f4 g5 55. Rf1 Bf7 56. fxg5 Qxg5 57. Rf4 Bg8 58. Qe3 Kh8 59. Qc1 Kg7 60.
+Qa3 Bf7 61. Qd6 Ng4 62. Kf3 Nf6 63. Qe7 Qh5+ 64. Ke3 Qg5 65. Ke2 a6 66. Kd1
+Qh5+ 67. Kc1 Ng8 68. Qc7 b5 69. axb5 axb5 70. g4 Qh1+ 71. Kb2 Nh6 72. Qe5+ Kg8
+73. Qg5+ Kf8 74. Qd8+ Kg7 75. Qf6+ 1-0
+
+[Event "p.219; Pardubice Tintera op-A 19th"]
+[Site "Pardubice"]
+[Date "2008.07.22"]
+[Round "5"]
+[White "Bykhovsky, Anatoly"]
+[Black "Naroditsky, Daniel"]
+[Result "1-0"]
+[ECO "A24"]
+[WhiteElo "2426"]
+[BlackElo "2313"]
+[PlyCount "103"]
+[EventDate "2008.07.18"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[Source "ChessBase"]
+[SourceDate "2008.09.01"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O e5 7. d3 c6 8. Bg5
+Be6 9. c5 h6 10. Bd2 Na6 11. cxd6 Qxd6 12. Rc1 Rfe8 13. Qa4 Nd7 14. Rfd1 f5 15.
+Be3 g5 16. d4 e4 17. d5 cxd5 18. Nd4 Nb6 19. Qb3 Qb4 20. Nxe6 Qxb3 21. axb3
+Rxe6 22. Bxb6 Bxc3 23. Rxc3 axb6 24. Rxd5 Rf6 25. g4 fxg4 26. Bxe4 Raf8 27. Rd7
+Nc5 28. Bd5+ Kh8 29. Re7 Rxf2 30. Bf3 R8xf3 31. exf3 Rxb2 32. fxg4 Kg8 33. Rf3
+b5 34. Rc7 b6 35. Rf2 Rb1+ 36. Rf1 Rxb3 37. Ra1 Rf3 38. Ra8+ Rf8 39. Raa7 Rf4
+40. h3 b4 41. Rc6 b3 42. Rg6+ Kf8 43. Rxh6 Kg8 44. Rg6+ Kh8 45. Rxb6 Rf8 46.
+Rc7 Ne4 47. Rxb3 Nd2 48. Rbb7 Nf3+ 49. Kh1 Ra8 50. Rh7+ Kg8 51. Rbg7+ Kf8 52.
+Rh8+ 1-0
+
+[Event "p.221; Sverdlovsk"]
+[Site "?"]
+[Date "1963.??.??"]
+[Round "?"]
+[White "Stein"]
+[Black "Ilivitsky"]
+[Result "1-0"]
+[ECO "B10"]
+[PlyCount "65"]
+[EventDate "1963.??.??"]
+[SourceDate "2004.11.04"]
+
+1. e4 c6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 e5 6. Bg2 Ne7 7. O-O O-O 8. Qe2
+Nd7 9. c3 Re8 10. Re1 Nb6 11. a4 a5 12. Nb3 dxe4 13. dxe4 Qc7 14. Be3 Rd8 15.
+Nc5 Nd7 16. Qc4 Nf6 17. Rad1 Rf8 18. Qb3 Ng4 19. Bg5 Re8 20. Bc1 Nf6 21. Nd3
+Be6 22. Qc2 Nd7 23. Ng5 Bc4 24. b3 Ba6 25. Bh3 Nf8 26. Nc5 b6 27. Nxa6 Rxa6 28.
+Qe2 Ra7 29. Nxf7 Kxf7 30. Qc4+ Kf6 31. Rd3 Nf5 32. exf5 e4 33. Rxe4 1-0
+
+[Event "p.225; Ales ch-FRA"]
+[Site "?"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Kouatly"]
+[Black "Cerisier"]
+[Result "1-0"]
+[ECO "E11"]
+[PlyCount "51"]
+[EventDate "1984.??.??"]
+[SourceDate "2004.11.04"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. g3 O-O 6. Bg2 d6 7. O-O Nc6 8. dxc5
+Bxd2 9. Qxd2 dxc5 10. Qf4 Qe7 11. Ne5 Nxe5 12. Qxe5 Nd7 13. Qc7 Qd8 14. Qd6 Qb6
+15. Qxb6 Nxb6 16. b3 Rb8 17. Nc3 Nd7 18. Rfd1 b6 19. Nb5 a6 20. Na7 Nf6 21. Nc6
+Rb7 22. Ne5 Rb8 23. Rd6 g6 24. Rad1 Kg7 25. Rc6 h6 26. Rdd6 1-0
+
+[Event "Open 14-wycc2008"]
+[Site "Vung Tau city"]
+[Date "2008.10.27"]
+[Round "8.7"]
+[White "Eduard Baboyan"]
+[Black "Daniel Naroditsky"]
+[Result "0-1"]
+[ECO "E88"]
+[WhiteElo "2170"]
+[BlackElo "2382"]
+[PlyCount "96"]
+[EventDate "2008.10.20"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 a6 10. O-O-O b5 11. Bd3 Nh5 12. g4 Nf4 13. Nge2 Nd7 14. Nxf4 exf4 15.
+Bxf4 Nc5 16. Be3 Qf6 17. Bxc5 dxc5 18. Be2 b4 19. Nb1 c4 20. g5 Qd6 21. Bxc4
+Be5 22. Qe2 a5 23. Nd2 a4 24. Kb1 a3 25. b3 Bg7 26. Kc2 Qe5 27. Rb1 Qxg5 28.
+Rhf1 Qf4 29. Qf2 Bh6 30. Rbd1 Qe5 31. Rb1 Bh3 32. Rfe1 Bf4 33. Qe2 Rac8 34. Qd3
+Bd7 35. Kd1 Bxh2 36. Nf1 Bf4 37. Ne3 h5 38. Ng2 Bh6 39. Rh1 Qg3 40. Ne1 h4 41.
+Qe2 h3 42. Nd3 Rxc4 43. bxc4 Ba4+ 44. Rb3 Bxb3+ 45. axb3 a2 46. Kc2 Qg2 47.
+Qxg2 hxg2 48. Ra1 Be3 0-1
+
+[Event "p.230; Bundesliga 0304"]
+[Site "Germany"]
+[Date "2004.04.24"]
+[Round "14.2"]
+[White "Berndt, Stephan"]
+[Black "Hickl, Joerg"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2462"]
+[BlackElo "2562"]
+[PlyCount "100"]
+[EventDate "2003.11.01"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "ChessBase"]
+[SourceDate "2004.07.27"]
+[WhiteTeam "Neukoelln"]
+[BlackTeam "Hofheim"]
+[WhiteTeamCountry "GER"]
+[BlackTeamCountry "GER"]
+
+1. e4 g6 2. d4 d6 3. Nc3 c6 4. f4 d5 5. e5 h5 6. Nf3 Qb6 7. Na4 Qa5+ 8. c3 Bg4
+9. Nc5 Qc7 10. Be3 e6 11. Nb3 Nd7 12. h3 Bxf3 13. Qxf3 h4 14. Bd3 Be7 15. O-O
+Nh6 16. Rfc1 Kf8 17. Qe2 Kg7 18. Nd2 Nf5 19. Bf2 f6 20. c4 fxe5 21. Bxf5 exf5
+22. cxd5 e4 23. dxc6 bxc6 24. d5 Qxf4 25. dxc6 Nf6 26. Nf1 Rhd8 27. Rd1 Qc7 28.
+Qc4 Nh5 29. Rac1 Bg5 30. Rb1 Nf4 31. Ne3 Kh6 32. Rxd8 Rxd8 33. Rd1 Rxd1+ 34.
+Nxd1 Nd3 35. Bd4 Qg3 36. Bf2 Nxf2 37. Nxf2 Be3 38. Qe2 Bb6 39. Kf1 Qd6 40. Qc2
+Qf4 41. Ke1 Qh2 42. Nd1 Qg1+ 43. Kd2 Qxg2+ 44. Kc1 Qf1 45. Qc3 e3 46. Qb4 Kh5
+47. Qe7 e2 48. Qh7+ Kg5 49. Qe7+ Kf4 50. Qd6+ Kf3 0-1
+

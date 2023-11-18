@@ -1,0 +1,1362 @@
+[Event "Moscow GMA op"]
+[Site "Moscow GMA op"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Gheorghiu Florin"]
+[Black "Shirov Aleksey"]
+[Result "0-1"]
+[ECO "E81"]
+[PlyCount "56"]
+[EventDate "1989.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 c5 7. Nge2 Nc6 8. Qd2
+b6 9. Rd1 e6 10. g3 Ba6 11. b3 Re8 12. Kf2 d5 13. e5 cxd4 14. Bxd4 Nd7 15. cxd5
+Ncxe5 16. Nf4 Bb7 17. Be2 exd5 18. Nfxd5 Nf6 19. Nf4 Qe7 20. Rhe1 Rad8 21. Qc1
+g5 22. Bb5 Rxd4 23. Rxd4 Nfg4+ 24. Kf1 Nxh2+ 25. Kg2 Nhxf3 26. Nfd5 Nxd4 27.
+Bxe8 Qe6 28. Qe3 Nc2 0-1
+
+
+24. axb5 Rxd1+ {Beliavsky,A-Ivanchuk,V/Reykjavik 1991/CBM 26/1/2-1/2 (39)}) (
+10. d5 Ne5 11. Ng3 exd5 12. cxd5 a6 13. a4 h5 14. Be2 h4 15. Nf1 Nh7 16. h3 f5
+17. Nh2 Bd7 18. O-O b5 19. exf5 gxf5 20. f4 Ng6 21. axb5 axb5 22. Nxb5 Bxb5 23.
+Bxb5 Rb8 24. Qd3 Bxb2 {Aung Aung-Wang Pin/Shanghai 2000/CBM 76/1-0 (42)}) 10...
+Ba6 $146 (10... Re8 11. Bg2 e5 12. dxe5 dxe5 13. Nd5 Nxd5 14. exd5 Nd4 15. O-O
+Nxe2+ 16. Qxe2 f5 17. Qd2 Qd6 18. Rfe1 Bd7 19. b3 Rf8 20. a3 a5 21. f4 e4 22.
+Rb1 {1/2-1/2 Mishra,N-Umanskaya,I/Calcutta 1992/CBM 27 ext}) 11. b3 {
+Der Gegner darf nicht nach c4} Re8 12. Kf2 d5 (12... Bb7 13. Bg2 $11) 13. e5
+cxd4 14. Bxd4 Nd7 15. cxd5 Ncxe5 16. Nf4 Bb7 17. Be2 exd5 18. Nfxd5 (18. Rhe1
+Rc8 $15) 18... Nf6 19. Nf4 Qe7 20. Rhe1 Rad8 21. Qc1 g5 (21... Rxd4 22. Rxd4
+Nfg4+ 23. Kg2 Qc5 $11) 22. Bb5 $4 (22. Ng2 $142 $15 {
+nur damit konnte man noch auf Rettung hoffen}) 22... Rxd4 $1 $19 {
+ist die überraschende Widerlegung} (22... gxf4 $6 23. Qxf4 Rxd4 24. Qxd4 Nfg4+
+25. fxg4 Qf6+ 26. Qf4 Nxg4+ 27. Kg1 Rxe1+ 28. Rxe1 Qd4+ 29. Qxd4 Bxd4+ 30. Kf1
+Nxh2+ 31. Ke2 Bxc3 32. Rc1 $19) 23. Rxd4 Nfg4+ $1 {Beseitigt den Bauernschutz}
+(23... gxf4 $6 {bringt nichts} 24. Rxf4 Rc8 25. Qe3 $19) 24. Kf1 (24. fxg4
+Nxg4+ {Motiv: Abzugsangriff}) 24... Nxh2+ (24... gxf4 $6 {scheitert an} 25.
+fxg4 fxg3 26. hxg3 $11 (26. Bxe8 g2+ 27. Kf2 Qh4+ 28. Ke2 Bf3+ 29. Ke3 Bh6+ 30.
+Rf4 Bxf4+ 31. Kxf4 Nd3+ 32. Kxf3 Nxe1+ 33. Qxe1 Qxe1 34. Kxg2 Qd2+ 35. Kf1 Qxc3
+$19)) 25. Kg2 Nhxf3 (25... gxf4 $6 {ist schnell zu verwerfen} 26. Nd5 Qd8 27.
+Bxe8 Bxd5 28. Bxf7+ Nxf7 29. Rxd5 Qxd5 30. Re8+ Bf8 31. Kxh2 fxg3+ 32. Kxg3 $19
+) (25... Bxf3+ 26. Kh3 Nhg4 27. Nd1 $19) 26. Nfd5 Nxd4 27. Bxe8 Qe6 28. Qe3 (
+28. Qb1 {ist noch eine dünne Chance} f5 29. Bh5 $19) 28... Nc2 (28... Nc2 29.
+Bxf7+ Qxf7 30. Qxe5 Bxe5 31. Rxe5 Nd4 $19) (28... Qxe8 $6 {
+scheint erheblich schwächer} 29. Qxd4 f5 30. Qd2 $17) 0-1
+
+[Event "Villeneuve Tolosane"]
+[Site "Villeneuve Tolosane"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Semkov Semko"]
+[Black "Hebden Mark"]
+[Result "1/2-1/2"]
+[ECO "E76"]
+[PlyCount "105"]
+[EventDate "1989.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 Na6 7. e5 Nd7 8. c5
+dxc5 9. d5 Ndb8 10. h4 c6 11. h5 Nb4 12. hxg6 hxg6 13. e6 fxe6 14. Ne5 exd5 15.
+Nxg6 Bf5 16. Qh5 Rf6 17. Qh7+ Kf7 18. Ne5+ Kf8 19. Qh8+ Bxh8 20. Rxh8+ Kg7 21.
+Rxd8 Nc2+ 22. Kf2 Nxa1 23. g4 Rf8 24. Rxf8 Kxf8 25. gxf5 Nc2 26. Kg3 Ke8 27.
+Bh3 Nd7 28. Nxd7 Kxd7 29. f6+ Kd6 30. fxe7 Rg8+ 31. Bg4 Kxe7 32. f5 Nd4 33. Kf4
+Kf6 34. b3 Nxf5 35. Bxf5 Rg1 36. Bb2 Rf1+ 37. Kg4 d4 38. Ne4+ Ke5 39. Ng3 Rf4+
+40. Kg5 Rf3 41. Kg4 Rxg3+ 42. Kxg3 Kxf5 43. Kf3 Ke5 44. Bc1 Kd5 45. Bg5 b5 46.
+Ke2 a5 47. Kd3 c4+ 48. bxc4+ bxc4+ 49. Kd2 a4 50. Bh6 Ke4 51. Bg5 c5 52. Bh6
+c3+ 53. Kc2 1/2-1/2
+
+ 15. dxc6 N8xc6 $11) 13... fxe6 14.
+Ne5 exd5 (14... Bxe5 $142 15. fxe5 Nd7 $15 (15... Nxd5 $143 16. Qg4 Kf7 17.
+Qf3+ Kg8 18. Qg3 $16)) 15. Nxg6 $4 {gibt den Vorteil aus der Hand} (15. a3 $142
+$5 {und Weiß spielt mit} d4 16. axb4 dxc3 17. Bc4+ e6 18. Qg4 $11 (18. bxc3
+$143 Qxd1+ 19. Kxd1 cxb4 $15)) 15... Bf5 (15... Rf6 16. a3 Rxg6 17. axb4 cxb4
+18. Qd3 $19) 16. Qh5 Rf6 (16... Nc2+ $5 17. Kf2 Rf6 (17... Nxa1 $143 18. Qh7+
+Kf7 19. Ne5+ Ke6 20. Qxg7 $11) 18. Qh7+ Kf7 19. Ne5+ Kf8 20. Qh8+ Bxh8 21.
+Rxh8+ Kg7 22. Rxd8 Nxa1 $17) 17. Qh7+ $17 Kf7 18. Ne5+ Kf8 19. Qh8+ Bxh8 20.
+Rxh8+ Kg7 21. Rxd8 Nc2+ 22. Kf2 Nxa1 23. g4 Rf8 (23... Bg6 $142 $17) 24. Rxf8
+$16 Kxf8 25. gxf5 Nc2 26. Kg3 (26. Bd3 Nb4 27. Bb1 Ke8 $16) 26... Ke8 (26... c4
+27. Bd2 $11) 27. Bh3 (27. Bd3 $5 Nb4 28. Bb1 $14) 27... Nd7 28. Nxd7 (28. Kf2
+$5 $11 {kam sehr in Betracht}) 28... Kxd7 $17 29. f6+ Kd6 30. fxe7 Rg8+ 31. Bg4
+Kxe7 32. f5 (32. Ne2 Nb4 $17) 32... Nd4 (32... Nb4 $5 $17) 33. Kf4 $15 Kf6 {
+Ist der Isolani f5 schwach?} 34. b3 (34. b4 $142 Re8 35. Bb2 $11) 34... Nxf5 (
+34... Re8 $142 {damit wäre Schwarz im Spiel geblieben} 35. Bb2 Re5 $15) 35.
+Bxf5 $16 Rg1 36. Bb2 (36. Ne4+ $5 dxe4 37. Bb2+ Ke7 38. Bxe4 $14 (38. Kxe4 $6
+Rg2 39. Bc1 Rxa2 $11)) 36... Rf1+ $11 37. Kg4 d4 (37... Rg1+ 38. Kf4 Rf1+ 39.
+Kg4 Rg1+ 40. Kf4 $11) 38. Ne4+ $4 {wirft den Vorteil weg} (38. Bc8 $142 $18)
+38... Ke5 $15 39. Ng3 Rf4+ 40. Kg5 Rf3 41. Kg4 Rxg3+ 42. Kxg3 {Eine Ablenkung}
+Kxf5 43. Kf3 Ke5 44. Bc1 Kd5 45. Bg5 (45. Ke2 c4 46. b4 c5 47. bxc5 Kxc5 48.
+Ba3+ Kd5 $17) 45... b5 {Will c4 spielen} (45... c4 $5 $17) 46. Ke2 $15 a5 (
+46... c4 $5 {ist zu beachten} 47. b4 c5 $15) 47. Kd3 c4+ 48. bxc4+ bxc4+ 49.
+Kd2 a4 50. Bh6 Ke4 {Schwarz aktiviert den König} 51. Bg5 c5 52. Bh6 c3+ 53. Kc2
+1/2-1/2
+
+[Event "Belgrade GMA"]
+[Site "Belgrade GMA"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Klinger Joseph"]
+[Black "Dorfman Iosif"]
+[Result "0-1"]
+[ECO "E94"]
+[PlyCount "82"]
+[EventDate "1988.??.??"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. Be3 exd4 8. Nxd4
+c6 9. O-O Re8 10. f3 d5 11. cxd5 Nxd5 12. Nxd5 cxd5 13. Qb3 Nc6 14. Rad1 Bxd4
+15. Bxd4 Nxd4 16. Rxd4 Qf6 17. Qxd5 Be6 18. Qc5 Rec8 19. Qb4 a5 20. Qa4 Rc2 21.
+Qxc2 Qxd4+ 22. Rf2 Rc8 23. Qd1 Qxb2 24. Bf1 Qc1 25. Qa4 Qe3 26. g4 h5 27. gxh5
+Rc1 28. Kg2 Qg5+ 29. Kh1 Bh3 30. Qe8+ Kg7 31. h6+ Qxh6 32. Qe5+ Kh7 33. Qb5 Qf4
+34. Qe2 b5 35. e5 b4 36. e6 Bxe6 37. Kg2 Qg5+ 38. Kh1 Bh3 39. f4 Qd5+ 40. Kg1
+Qc5 41. Kh1 Qxf2 0-1
+
+Rc1 {0-1 Ricardi,P-Bronstein,L/Buenos Aires 1985/MCD (35)}) 22... Rc8 23.
+Qd1 Qxb2 24. Bf1 Qc1 25. Qa4 (25. Qd4 Qc5 26. Qd2 a4 $11) 25... Qe3 $15 26. g4
+h5 27. gxh5 (27. Qxa5 $5 {ist zu prüfen} hxg4 28. Qd2 Qxd2 29. Rxd2 gxf3 30.
+Kf2 $15) 27... Rc1 $17 28. Kg2 $4 {vergrößert seine Probleme} (28. Qe8+ $142
+Kg7 29. h6+ Kh7 30. Qf8 Rxf1+ 31. Kxf1 Bh3+ 32. Rg2 Qd3+ 33. Ke1 Qb1+ 34. Ke2
+Qb2+ 35. Ke3 Qc3+ 36. Kf4 Bxg2 37. Qxf7+ Kxh6 38. Kg4 $19) 28... Qg5+ $19 29.
+Kh1 Bh3 (29... b5 $142 {entschiede die Partie sofort} 30. Qa3 Bh3 $19) 30. Qe8+
+Kg7 31. h6+ Qxh6 32. Qe5+ Kh7 33. Qb5 (33. Qf6 Bxf1 34. Qxf7+ Qg7 $19) 33...
+Qf4 (33... Bxf1 $142 {ist der schnellste Weg} 34. Qxf1 Rxf1+ 35. Rxf1 Qd2 $19)
+34. Qe2 b5 $1 {ist die schöne Entscheidung} 35. e5 (35. Qxb5 {
+Hinlenkung nach b5} Bxf1) 35... b4 (35... Qc4 {
+und Schwarz hätte es noch leichter} 36. Qxc4 bxc4 37. f4 $19) 36. e6 (36. Rg2
+$19 {wäre noch eine kleine Chance}) 36... Bxe6 37. Kg2 (37. Qe4 {
+lenkt vielleicht noch ab} Qxe4 38. fxe4 $19) 37... Qg5+ 38. Kh1 Bh3 39. f4 Qd5+
+40. Kg1 Qc5 41. Kh1 (41. f5 {hätte noch versucht werden können} Bxf1 42. Qxf1
+$19) 41... Qxf2 $3 {Eliminiert eine wichtige Deckungsfigur: f2} (41... Qxf2 42.
+Qxf2 Rxf1+ 43. Qxf1 Bxf1 $19) 0-1
+
+[Event "Blagoveshchensk"]
+[Site "Blagoveshchensk"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Krasenkov Mikhail"]
+[Black "Muratov Vladimir"]
+[Result "1-0"]
+[ECO "E91"]
+[PlyCount "83"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 Bg4 7. Bg5 Bxf3 8.
+Bxf3 Nc6 9. Ne2 Re8 10. Qd2 e5 11. d5 Nd4 12. Nxd4 exd4 13. O-O-O Qd7 14. Qf4
+Nxe4 15. Bxe4 h6 16. Bh4 g5 17. Bxg5 hxg5 18. Qf5 Qa4 19. Kb1 b5 20. h4 d3 21.
+Rxd3 bxc4 22. Rf3 Re7 23. hxg5 Kf8 24. Qf6 Bxf6 25. gxf6 Ke8 26. Bf5 Kd8 27.
+fxe7+ Kxe7 28. Re1+ Kd8 29. Rg3 c6 30. Rg8+ Kc7 31. Rxa8 cxd5 32. Rxa7+ Qxa7
+33. Re7+ Kb6 34. Rxa7 Kxa7 35. Bh7 d4 36. Bg8 Kb6 37. Bxf7 Kc5 38. g4 d3 39. g5
+d5 40. g6 d4 41. g7 d2 42. Bh5 1-0
+
+3 Bxa1 17. bxa4 Bf6 18. Bh6 Bg7 19. Be3 Qa8 20. Qc2 Ne5
+21. Be2 c5 22. f4 Nd7 23. Bb5 {
+Ivanov,M-Bosboom,M/Hafnarfjordur 1997/CBM 62 ext/0-1 (52)}) (8... c6 9. O-O
+Nbd7 10. Re1 e5 11. d5 Qc7 12. Qd2 a6 13. Rad1 c5 14. Bh6 Rab8 15. Bxg7 Kxg7
+16. Ne2 b5 17. cxb5 axb5 18. Ng3 b4 19. b3 Ra8 20. h4 Rh8 21. Re2 h5 22. Qg5
+Kf8 23. Rc2 {Banic,S-Sambo,P/Nova Gorica 2002/CBM 86 ext/0-1 (43)}) 9. Ne2 Re8
+10. Qd2 e5 11. d5 {Weiß erobert Raum} Nd4 12. Nxd4 exd4 13. O-O-O Qd7 14. Qf4
+Nxe4 15. Bxe4 h6 16. Bh4 (16. Bxh6 Bxh6) 16... g5 17. Bxg5 hxg5 18. Qf5 Qa4 (
+18... Qxf5 $142 $5 {muß beachtet werden} 19. Bxf5 Re2 $14) 19. Kb1 $16 b5 20.
+h4 d3 (20... gxh4 $5 21. Bc2 Qb4 $14) 21. Rxd3 (21. Bxd3 $4 Qb4 22. Qh7+ Kf8
+$19) 21... bxc4 (21... gxh4 $142 $5 22. Rf3 Re7 $16) 22. Rf3 $18 Re7 23. hxg5
+Kf8 24. Qf6 $1 {die richtige Fortsetzung, um den Vorteil festzuhalten} Bxf6 25.
+gxf6 {Motiv: Doppelangriff} Ke8 26. Bf5 (26. Rh8+ Kd7 27. Bf5+ Re6 28. b3 cxb3
+29. axb3 $11) 26... Kd8 $14 27. fxe7+ Kxe7 28. Re1+ Kd8 $4 (28... Kf8 $142 {
+war der einzige Versuch} 29. Be6 Kg7 30. Rxf7+ Kg6 $16) 29. Rg3 $18 c6 30. Rg8+
+Kc7 31. Rxa8 cxd5 (31... Kb6 {hilft auch nicht mehr} 32. Rb8+ Kc5 33. dxc6 Kxc6
+34. Rc8+ Kb7 35. g4 $18) 32. Rxa7+ Qxa7 33. Re7+ Kb6 34. Rxa7 Kxa7 35. Bh7 d4
+36. Bg8 Kb6 37. Bxf7 Kc5 38. g4 d3 39. g5 d5 40. g6 d4 41. g7 d2 42. Bh5 1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Farago Ivan"]
+[Black "Martinovic Slobodan"]
+[Result "1-0"]
+[ECO "E90"]
+[PlyCount "87"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. h3 O-O 7. Nf3 a6 8. Bd3 b5
+9. cxb5 axb5 10. Nxb5 Na6 11. Bd2 Qb6 12. Qe2 Bd7 13. a4 Nh5 14. a5 Nb4 15.
+Bxb4 cxb4 16. axb6 Rxa1+ 17. Kd2 Bh6+ 18. Kc2 Rxh1 19. Nbd4 b3+ 20. Kxb3 Rb8
+21. Bb5 Rxb6 22. Nc6 Rc1 23. Nfd4 e5 24. Nc2 Nf4 25. Qc4 Nxg2 26. Qb4 Kg7 27.
+Na3 Rc5 28. Qa5 Rb7 29. Qa6 Bc8 30. Ka2 Bc1 31. Qa8 Rcxb5 32. Nxb5 Rxb5 33. b4
+Bb7 34. Qa4 Rb6 35. b5 Bc8 36. Qa5 Rb7 37. b6 Nf4 38. Na7 Bxh3 39. Qa6 Rb8 40.
+Nc6 Rf8 41. b7 Bd2 42. Qa3 Bf1 43. Qxd6 Bc4+ 44. Kb1 1-0
+
+18. Be3 Bxb2 19. Rb1 Bg7 20. e5
+Rfb8 21. Rc1 Rxa4 22. exd6 exd6 23. Nxd6 Qxd6 24. Rxc5 Ra1 25. Qe2 Rbb1 26. Nd2
+Re1 27. Qc4 {Goncharov,V-Glyanets,A/Kazan 1995/CBM 51/0-1}) 13. a4 Nh5 (13...
+Nb4 14. Bxb4 cxb4 15. O-O $14) 14. a5 (14. Qe3 $5 $14 {ist erwägenswert}) 14...
+Nb4 $11 15. Bxb4 (15. axb6 $4 {Weiß denkt nur an das Material} Rxa1+ 16. Qd1
+Nxd3+ 17. Ke2 Rxd1 18. Rxd1 Bxb5 $19) 15... cxb4 16. axb6 Rxa1+ 17. Kd2 (17.
+Qd1 $1 {ist vielleicht stärker} Rxd1+ 18. Kxd1 $11) 17... Bh6+ 18. Kc2 Rxh1 19.
+Nbd4 (19. Nfd4 Nf4 20. Qf3 $11) 19... b3+ (19... Nf4 20. Qd2 Ba4+ 21. b3 Bd7
+$14) 20. Kxb3 $14 Rb8 21. Bb5 Rxb6 22. Nc6 {
+Der weiße Springer auf dem Vorposten c6} (22. Ka2 Bxb5 23. Nxb5 Nf4 $11) 22...
+Rc1 (22... Ra1 23. Nfd4 $17) 23. Nfd4 (23. Ka2 $142 $5 {
+damit wäre Weiß im Spiel geblieben} Kf8 24. Ncd4 Bxb5 25. Nxb5 $14) 23... e5
+$17 24. Nc2 (24. dxe6 fxe6 (24... Bxc6 $6 25. Nxc6 Rcxc6 26. Ka2 $19) 25. Ka2
+Bg7 $11) 24... Nf4 (24... Kg7 25. Na3 $19) 25. Qc4 $17 Nxg2 (25... Rb7 $142 $5
+$17) 26. Qb4 Kg7 ({Dagegen} 26... Bxh3 27. Qa5 Rxb5+ 28. Qxb5 $16) 27. Na3 (27.
+Qa5 Rb7 28. Qa6 Rc7 $16) 27... Rc5 (27... Bxc6 $142 $5 {ist zu beachten} 28.
+dxc6 Rcxc6 $15) 28. Qa5 $14 Rb7 29. Qa6 Bc8 30. Ka2 Bc1 31. Qa8 Rcxb5 32. Nxb5
+Rxb5 {Der Bauer b2 gerät unter Druck} 33. b4 Bb7 (33... Bxh3 $2 {
+ist ein Schlag ins Wasser} 34. Qa6 Nf4 35. Qxb5 $18) 34. Qa4 Rb6 35. b5 Bc8 (
+35... Bd2 $142 $5 $15 {sieht noch spielbar aus}) 36. Qa5 $16 Rb7 37. b6 {
+Weiß spielt seinen Trumpf aus} Nf4 38. Na7 Bxh3 39. Qa6 Rb8 40. Nc6 Rf8 41. b7
+Bd2 (41... Bg2 42. b8=Q Rxb8 43. Nxb8 Bxe4 44. Qxd6 Nxd5 $18) 42. Qa3 $18 Bf1 (
+42... Re8 43. Qxd6 Nd3 44. Qc7 $18) 43. Qxd6 Bc4+ (43... Nd3 44. Qxf8+ $3 {
+Die Krönung} Kxf8 45. b8=Q+ Kg7 46. d6 $18 (46. Nxe5 $6 Bf4 47. Qb1 Nc1+ 48.
+Ka3 Bxe5 $18)) 44. Kb1 (44. Kb1 Bd3+ 45. Kb2 $18) (44. Kb2 $142 {
+machte sofort alles klar} Nd3+ 45. Kc2 Bf4 46. Qxf8+ Kxf8 47. b8=Q+ Kg7 $18)
+1-0
+
+[Event "Klaipeda"]
+[Site "Klaipeda"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Gavrikov Viktor"]
+[Black "Smirin"]
+[Result "0-1"]
+[ECO "E97"]
+[PlyCount "60"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. a3 Nd7 11. Rb1 f5 12. b4 Kh8 13. Qc2 b6 14. f3 f4 15. Nb3
+axb4 16. axb4 g5 17. c5 Nf6 18. Nb5 g4 19. cxd6 cxd6 20. Qc7 gxf3 21. gxf3 Qe8
+22. Kh1 Nh5 23. Rb2 Bh3 24. Re1 Qg6 25. Bf1 Ng3+ 26. hxg3 Qxg3 27. Qc3 Rac8 28.
+Qd2 Bxf1 29. Rxf1 Qh3+ 30. Kg1 Bf6 0-1
+
+6 24. Nxe4 Nxf5 25. Bxg5 Ne7 26. Nf6 Nf5 27. Nh7 Nd4 28. Qg6 Bxg4 29.
+Bxd8 {Lputian,S-Frolov,A/Helsinki 1992/CBM 32/1-0 (32)}) 15. f3 f4 16. c5 axb4
+17. axb4 g5 18. Nb5 Ne8 19. Bb2 h5 20. Ra1 Rb8 21. Na7 Bd7 22. cxd6 cxd6 23.
+Nc6 Nxc6 24. dxc6 Bc8 25. Ra7 Nc7 26. b5 g4 27. Rd1 g3 28. Bf1 Rf6 {
+Ruban,V-Tuzan,O/Sochi 1990/CBM 21/1-0 (51)}) (14. Nb3 axb4 15. axb4 fxe4 16.
+Nxe4 Nf6 17. Bd3 Nxe4 18. Bxe4 Nf5 19. Qd3 Qh4 20. g3 Qf6 21. f3 Bd7 22. Bd2
+Nd4 23. Nxd4 exd4 24. Ra1 Bh3 25. Rxa8 Rxa8 26. Rd1 Bf5 27. Re1 h5 28. Kf2 Bxe4
+{Gavrikov,V-Kasparov,G/Moscow 1988/URS-ch/1/2-1/2 (40)}) (14. Nb5 Ng8 15. f3
+Bh6 16. exf5 gxf5 17. Bd3 Ndf6 18. Nb3 axb4 19. axb4 Qe7 20. f4 exf4 21. Bb2
+Bg7 22. Rbe1 Qf7 23. N3d4 Ng4 24. Ne6 Bxe6 25. dxe6 Qe7 26. Rxf4 Be5 27. Bxf5
+N8h6 28. Rxg4 Rxf5 {
+Schnepp,G-Schuh,B/Schwaebisch Gmuend 2000/CBM 74 ext/1-0 (42)}) 14... f4 {
+Schwarz hat mehr Raum} 15. Nb3 axb4 16. axb4 g5 (16... c5 17. dxc6 Nxc6 18. Nd5
+$14) 17. c5 (17. Bd2 Nf6 $16) 17... Nf6 (17... dxc5 $5 {ist bedenkenswert} 18.
+bxc5 c6 $11) 18. Nb5 $16 g4 {Schwarz packt die Bauernkette an der Wurzel} 19.
+cxd6 cxd6 20. Qc7 (20. fxg4 Nxg4 21. Bd2 Ba6 $11) 20... gxf3 21. gxf3 ({
+Schwächer scheint} 21. Bxf3 Ba6 22. Qxd8 Rfxd8 $17) 21... Qe8 22. Kh1 ({Nicht} 
+22. Nxd6 Qg6+ 23. Kh1 Nexd5 $11) (22. Qxb6 $2 {scheitert an} Qg6+ 23. Kh1 Nxe4
+$17) ({Und nicht} 22. Qxd6 Nexd5 23. Kh1 Bh3 24. exd5 Qg6 $17) 22... Nh5 (22...
+Nfxd5 $142 $5 {ist interessant} 23. exd5 Nxd5 $14) 23. Rb2 (23. Qxb6 Ng3+ {
+Beseitigt den Bauernschutz} 24. hxg3 Qh5+ 25. Kg2 Qh3+ 26. Kg1 Qxg3+ 27. Kh1
+Qh3+ 28. Kg1 Rg8 29. Qf2 Bf6+ 30. Qg3 Qxg3+ 31. Kh1 Qh3#) (23. Qxd6 Ng3+ {
+Zerstörung der Bauerndeckung} 24. Kg2 Nxe2 $19) 23... Bh3 24. Re1 (24. Rg1 Nc8
+$16) 24... Qg6 (24... Nc8 $142 $14) 25. Bf1 $4 {
+danach kann Weiß alle Träume begraben} (25. Rg1 $142 Ng3+ 26. hxg3 $16) 25...
+Ng3+ $17 26. hxg3 Qxg3 27. Qc3 Rac8 28. Qd2 Bxf1 29. Rxf1 Qh3+ 30. Kg1 Bf6 (
+30... Bf6 31. Qg2 Rg8 32. Nxd6 Rcf8 $17) 0-1
+
+[Event "Reykjavik WCup"]
+[Site "Reykjavik WCup"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Timman Jan H."]
+[Black "Kasparov Garry"]
+[Result "0-1"]
+[ECO "E88"]
+[PlyCount "89"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 b5
+9. cxb5 cxd5 10. exd5 e4 11. Nxe4 Nxd5 12. Bg5 Qa5+ 13. Qd2 Qxd2+ 14. Bxd2 Bxb2
+15. Rb1 Bg7 16. Ne2 Nd7 17. Nxd6 Nc5 18. Bc2 Be6 19. Ne4 Rac8 20. O-O Nxe4 21.
+Bxe4 f5 22. Bd3 Nb6 23. Nc1 Rfd8 24. Bg5 Rd7 25. Re1 Kf7 26. Be2 h6 27. Bh4 Nd5
+28. Bd1 Bd4+ 29. Bf2 Bxf2+ 30. Kxf2 Nc3 31. Bb3 Bxb3 32. Rxb3 Nd1+ 33. Rxd1
+Rxd1 34. Nd3 Rd2+ 35. Ke3 Rxg2 36. Ra3 Re8+ 37. Kd4 Re7 38. Ne5+ Kf6 39. Nc6
+Rd7+ 40. Kc4 Rc2+ 41. Kb4 Rxh2 42. Ra6 Kg5 43. a4 h5 44. Rxa7 Rxa7 45. Nxa7 0-1
+
+ 19. Bd3 a6 20. bxa6 d4 21. Kb1 Re3 22. Bc4 Bxa6 23.
+Bxa6 Rxa6 24. Nxd4 Re8 25. Ne2 Rb8 26. Nc3 Qb4 27. Rhe1 {
+Gulko,B-Kasparov,G/Linares 1990/CBM 17/1-0 (54)}) 13. Qd2 Qxd2+ 14. Bxd2 ({
+Schwächer ist} 14. Nxd2 Nb4 15. Be4 Re8 $11 (15... Bxb2 $4 {
+das Schlagen des Bauern ist schlecht} 16. Rb1 $18 (16. Bxa8 $6 {
+ist minderwertig} Bxa1 17. Ne2 Nd3+ 18. Kf1 Bd7 $16))) 14... Bxb2 15. Rb1 (15.
+Rd1 Ba3 $16) 15... Bg7 (15... Ba3 16. Rb3 Bc5 17. Nxc5 dxc5 18. Be4 $16) 16.
+Ne2 Nd7 17. Nxd6 Nc5 (17... Rd8 18. Be4 N7b6 19. Nxc8 Raxc8 20. Rd1 $16) 18.
+Bc2 (18. Be4 $5 Be6 19. Rc1 Nxe4 20. fxe4 $16 (20. Nxe4 $6 a6 $11)) 18... Be6
+$16 19. Ne4 Rac8 20. O-O Nxe4 21. Bxe4 f5 22. Bd3 Nb6 23. Nc1 (23. Be3 $5 $11)
+23... Rfd8 $15 24. Bg5 Rd7 25. Re1 Kf7 26. Be2 h6 27. Bh4 Nd5 28. Bd1 (28. Bf2
+$142 $5 $15 {ist noch spielbar}) 28... Bd4+ $19 29. Bf2 Bxf2+ 30. Kxf2 Nc3 31.
+Bb3 Bxb3 32. Rxb3 Nd1+ 33. Rxd1 Rxd1 34. Nd3 (34. Ne2 $19) 34... Rd2+ 35. Ke3
+Rxg2 36. Ra3 Re8+ (36... Rxh2 $6 37. Rxa7+ Kf6 38. Ra6+ Ke7 39. a4 $17) 37. Kd4
+Re7 38. Ne5+ Kf6 (38... Kg7 39. Ra6 $19) 39. Nc6 (39. Ra6+ $142 $5 Kg7 40. a4
+$17) 39... Rd7+ $19 40. Kc4 Rc2+ 41. Kb4 Rxh2 42. Ra6 (42. Nxa7 Rb2+ 43. Kc5
+Rc2+ 44. Kb6 g5 $19) 42... Kg5 43. a4 h5 44. Rxa7 (44. Nxa7 Rb2+ 45. Kc3 Rf2
+$19) 44... Rxa7 45. Nxa7 0-1
+
+[Event "Reykjavik WCup"]
+[Site "Reykjavik WCup"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Korchnoi Viktor"]
+[Black "Nunn John D.M."]
+[Result "0-1"]
+[ECO "E70"]
+[PlyCount "95"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5 Nbd7 6. f4 O-O 7. Nf3 c5 8. d5 b5
+9. cxb5 a6 10. Nd2 Nh5 11. Qf3 f6 12. Bh4 Nxf4 13. Qxf4 g5 14. Qf2 gxh4 15.
+Qxh4 Ne5 16. Be2 axb5 17. Bxb5 Qa5 18. Qg3 Qb4 19. Rb1 Rxa2 20. Nxa2 Qxb5 21.
+Nc3 Qa6 22. Kd1 f5 23. Rf1 Rf6 24. exf5 Bxf5 25. Rxf5 Rxf5 26. Kc2 Kh8 27. Nb3
+Bh6 28. Ra1 Rf2+ 29. Kb1 Rf1+ 30. Kc2 Rxa1 31. Nxa1 Qxa1 32. Qh3 Qc1+ 33. Kb3
+c4+ 34. Ka2 Nd3 35. Qc8+ Kg7 36. Qb7 Bg5 37. Ne4 Bf6 38. Nxd6 Kg6 39. Nc8 c3
+40. d6 Qxb2+ 41. Qxb2 cxb2 42. d7 Nb4+ 43. Kb1 Nc6 44. g4 Kg5 45. h3 Kh4 46.
+Nb6 h6 47. Nd5 Kxh3 48. Kc2 0-1
+
+
+18. Qg3 Qb4 19. Rb1 Rxa2 20. Nxa2 Qxb5 {Schwarz verhindert die kurze Rochade}
+21. Nc3 Qa6 22. Kd1 f5 23. Rf1 Rf6 24. exf5 (24. h3 $5 $11 {
+kam sehr in Betracht}) 24... Bxf5 $17 25. Rxf5 Rxf5 26. Kc2 Kh8 27. Nb3 (27. b4
+cxb4 28. Rxb4 Rf8 $17) 27... Bh6 28. Ra1 $4 {
+der Druck provoziert den entscheidenden Fehler} (28. Nd2 $142 $17) 28... Rf2+
+$3 $19 {das krönende Opfer} 29. Kb1 (29. Qxf2 {Ablenkung von d3} Qd3# {
+Die schönsten Kombinationen sind die, welche zum Matt führen}) 29... Rf1+ 30.
+Kc2 Rxa1 31. Nxa1 Qxa1 32. Qh3 (32. Qh4 {nützt auch nichts mehr} Qc1+ 33. Kb3
+c4+ 34. Ka2 Nd3 35. Qd4+ Bg7 $19) 32... Qc1+ 33. Kb3 c4+ 34. Ka2 Nd3 35. Qc8+
+Kg7 36. Qb7 (36. Qg4+ {ändert den Lauf der Dinge nicht} Bg5 37. Nd1 Qd2 $19)
+36... Bg5 (36... Kf7 37. g4 Bd2 38. g5 Bxc3 39. bxc3 Qc2+ 40. Ka1 Qxc3+ 41. Kb1
+Qc1+ 42. Ka2 Qc2+ 43. Ka3 Qd1 44. g6+ Kxg6 45. Qb2 Nxb2 46. Kb4 Qb3+ 47. Ka5 c3
+48. Ka6 Nc4 49. Ka7 Qb6+ 50. Ka8 Qc7 51. h3 Nb6#) 37. Ne4 (37. g3 {
+ändert nichts mehr} Bf6 38. h4 Qe1 $19) 37... Bf6 (37... Qe1 38. Nc3 Bc1 39.
+Ne4 Qxe4 40. h4 $19) 38. Nxd6 (38. Nxf6 {macht keinen großen Unterschied} Qe1
+39. Qb6 Nb4+ 40. Ka3 Qa1+ (40... exf6 $6 {ist sichtlich schwächer} 41. Qc7+ Kg6
+42. Qxc4 $17) 41. Kxb4 Qxb2+ 42. Kxc4 Qxb6 (42... Qxf6 $6 {scheitert an} 43.
+Qe3 $11) 43. Nh5+ Kf7 $19) 38... Kg6 (38... Bxb2 $6 {verbietet sich, da} 39.
+Qxe7+ Kg6 40. Qf7+ Kh6 41. Qe6+ Kh5 42. Qf5+ Kh6 43. Qe6+ Kg5 44. Qf5+ Kh6 45.
+Qe6+ $11) (38... Qxb2+ {ist sichtlich schlechter} 39. Qxb2 Nxb2 40. Nf5+ Kf7
+41. Kb1 $19) 39. Nc8 (39. Qb8 exd6 40. Qg8+ Kh6 41. Qf8+ Kg5 42. Qg8+ Kf4 43.
+Qg3+ Ke4 44. Qf3+ Kd4 45. Qg4+ Kxd5 46. Qg8+ Ke5 47. Qg3+ Ke6 48. Qg4+ Ke7 49.
+Qe4+ Be5 50. Qxh7+ Kd8 $19) 39... c3 (39... Bxb2 40. Nxe7+ Kg5 41. h4+ Kf4 42.
+Ng6+ Kg3 43. Qc7+ Kxg2 44. Nf4+ Kf3 45. Qxc4 Qxc4+ 46. Kb1 Qc1+ 47. Ka2 Nc5 48.
+Ne6 Qa1#) 40. d6 Qxb2+ (40... cxb2 41. Nxe7+ Bxe7 42. Qe4+ Kh6 43. Qe6+ Kg5 44.
+Qd5+ Kf6 45. Qd4+ Ke6 46. Qe4+ Ne5 47. dxe7 Qa1+ 48. Kb3 b1=Q+ 49. Qxb1 Qxb1+
+50. Kc3 Qd3+ 51. Kb4 Nc6+ 52. Kc5 Qc3+ 53. Kb6 Kd5 54. Kc7 Qa5+ 55. Kc8 Qa8+
+56. Kc7 Qb8+ 57. Kd7 Ne5#) 41. Qxb2 cxb2 42. d7 Nb4+ (42... e6 {
+gibt noch größeren Vorteil} 43. Nd6 $19) 43. Kb1 Nc6 44. g4 (44. Nb6 {
+hilft allerdings auch nicht} Kf7 $19) 44... Kg5 45. h3 (45. Nb6 {
+wäre gleichermaßen fruchtlos} Kxg4 46. Nd5 Kh3 $19) 45... Kh4 46. Nb6 h6 47.
+Nd5 Kxh3 48. Kc2 (48. Nxf6 exf6 49. Kxb2 Nd8 $19) 0-1
+
+[Event "Riga"]
+[Site "Riga"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Tukmakov Vladimir"]
+[Black "Yurtaev Leonid"]
+[Result "0-1"]
+[ECO "E68"]
+[PlyCount "52"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Re8 10. h3 Nc5 11. Re1 Bd7 12. Rb1 h6 13. Kh2 a5 14. f4 a4 15. b4
+axb3 16. axb3 h5 17. Bb2 c6 18. b4 Na6 19. b5 Nc5 20. e5 dxe5 21. fxe5 h4 22.
+exf6 hxg3+ 23. Kh1 Qxf6 24. Rxe8+ Rxe8 25. Nf3 Qf5 26. Bf1 Re3 0-1
+
+ Gegner darf nicht nach b5} (17... Re7
+18. b4 Na4 19. Nxa4 Bxa4 20. Qd3 Qe8 21. Re2 Rd8 22. Rbe1 c5 23. Nb5 Bxb5 24.
+cxb5 cxb4 25. Qc4 Rc8 26. Qxb4 h4 27. Bxf6 hxg3+ 28. Kxg3 Bxf6 29. Qxd6 Bc3 30.
+Rd1 Qxb5 31. Re3 Bb4 32. Qd5 {
+Schwartzman,G-Tkachiev,V/Wijk aan Zee 1995/CBM 46/1/2-1/2 (39)}) (17... h4 $5 {
+ist zu erwägen} 18. g4 Qc8 $11) 18. b4 Na6 19. b5 {
+Weiß will den Gegner einengen} Nc5 (19... Nb4 $5 $16) 20. e5 dxe5 21. fxe5 h4
+22. exf6 hxg3+ 23. Kh1 Qxf6 24. Rxe8+ Rxe8 25. Nf3 (25. Ba3 Qf2 26. Nf3 (26.
+bxc6 $2 {übersieht} Bxh3 27. Qf1 Bxg2+ (27... Bxd4 28. Qxf2 gxf2 29. Bxh3 (29.
+cxb7 $4 {der Bauer ist nicht zu nehmen} Bxg2+ 30. Kxg2 Nxb7 $19) 29... Bxc3 30.
+Bxc5 Re1+ 31. Bf1 $14) 28. Qxg2 Bxd4 29. Qxf2 gxf2 $19 (29... Bxf2 $2 30. cxb7
+Nxb7 31. Rxb7 $18)) 26... Bxh3 27. Qf1 Bxg2+ 28. Qxg2 $19) 25... Qf5 $11 {
+Greift den Isolani h3 an} 26. Bf1 $4 {gibt den Vorteil aus der Hand} (26. Ba1
+$142 $11 {hätte die Niederlage vermieden}) 26... Re3 $19 (26... Re3 27. bxc6
+Bxc6 $19) 0-1
+
+[Event "Sibenik"]
+[Site "Sibenik"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Suetin"]
+[Black "Sale Srdjan"]
+[Result "0-1"]
+[ECO "E80"]
+[PlyCount "82"]
+[EventDate "1988.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. c4 d6 4. Nc3 Nf6 5. f3 Nc6 6. Be3 a6 7. Qd2 Rb8 8. d5 Ne5
+9. h3 Nh5 10. Qf2 f5 11. f4 O-O 12. fxe5 fxe4 13. Qh4 Bxe5 14. Nge2 b5 15. g4
+Ng3 16. Nxg3 Rf3 17. Nge2 Rxe3 18. Bg2 Qf8 19. Nxe4 bxc4 20. Qf2 Rxe2+ 21. Qxe2
+Rxb2 22. Qf3 Rxg2 23. Qxf8+ Kxf8 24. Rc1 Bb7 25. Rf1+ Ke8 26. Nd2 Bxd5 27. Nxc4
+Bg3+ 28. Kd1 Rxa2 29. Rc3 Bg2 30. Rg1 Ra1+ 31. Rc1 Rxc1+ 32. Kxc1 Bf4+ 33. Kd1
+Bd5 34. Nd2 Kd7 35. Kc2 Be5 36. Kd3 c5 37. Nc4 Bxc4+ 38. Kxc4 Kc6 39. Rd1 g5
+40. Rd3 a5 41. Rd2 a4 0-1
+
+c6 Bxc6 17. d5 Bxb2+ 18. Kb1 Bd4+ 19. Kc2 Bxe3 20. Qc3 Ba4+ 21.
+Kd3 Bxd1 22. Qxh8+ Kd7 {Stull,N-McKay,R/Lugano 1968/MCD/0-1}) (8. Nge2 Bd7 9.
+Nc1 e5 10. Nb3 exd4 11. Nxd4 Nxd4 12. Bxd4 O-O 13. Be2 b5 14. O-O c5 15. Bf2 b4
+16. Nd1 Be6 17. g4 Nd7 18. Ne3 Qf6 19. Rab1 Ne5 20. Bg3 Rbd8 21. Nd5 Bxd5 22.
+cxd5 g5 {Danielsen,V-Kristiansen,J/Roskilde 1978/MCD/0-1 (72)}) (8. O-O-O Bd7
+9. h4 O-O 10. Nge2 h5 11. Bh6 b5 12. Bxg7 Kxg7 13. Qe3 e5 14. c5 b4 15. Nb1
+exd4 16. Nxd4 Nxd4 17. Qxd4 Be6 18. Nd2 Qe8 19. Bc4 dxc5 20. Qxc5 Bxc4 21. Nxc4
+b3 22. a3 Rb5 {Ree,H-Hofland,L/Leeuwarden 1979/MCD/1-0 (40)}) 8... Ne5 9. h3 {
+Verwehrt dem Gegner g4} Nh5 (9... O-O 10. f4 Ned7 11. Nf3 $11) 10. Qf2 f5 11.
+f4 O-O $2 (11... Nf7 $142 $5 $14 {und Schwarz spielt mit}) 12. fxe5 fxe4 13.
+Qh4 Bxe5 14. Nge2 (14. Qxe4 $4 {Weiß schlägt einen vergifteten Bauern} Bxc3+
+15. bxc3 Rxf1+ 16. Kxf1 Ng3+ 17. Ke1 Nxe4 $19 (17... Nxh1 {wäre ein Fehlgriff}
+18. g4 $16)) (14. Nxe4 $6 Bf5 15. Ne2 Bxb2 $18) 14... b5 (14... Bf6 15. Bg5 $18
+) 15. g4 (15. cxb5 $5 {und Weiß hätte es noch leichter} axb5 16. g4 Bf6 $18)
+15... Ng3 16. Nxg3 Rf3 17. Nge2 Rxe3 18. Bg2 (18. Qh6 Rd3 19. Nxe4 e6 $18)
+18... Qf8 $2 {Hält den König im Zentrum fest} (18... Bg3+ 19. Qxg3 Rxg3 20.
+Nxg3 bxc4 21. O-O-O $14) 19. Nxe4 (19. Rf1 $142 $5 Qg7 20. Qg5 Bxc3+ 21. bxc3
+Qxc3+ 22. Kf2 Rxe2+ 23. Kxe2 Qxc4+ 24. Ke1 $16) 19... bxc4 20. Qf2 (20. Rb1
+$142 $14 {und Weiß kann noch kämpfen}) 20... Rxe2+ $17 {
+Kombination mit Doppelangriff} 21. Qxe2 {Hinlenkung nach e2} (21. Kxe2 {
+Motiv: Hinlenkung-> e2} Rxb2+ {Motiv: Doppelangriff}) 21... Rxb2 22. Qf3 Rxg2 {
+Die Räumung erlaubt e5-a1} 23. Qxf8+ (23. Qxg2 Bxa1) 23... Kxf8 $19 24. Rc1 (
+24. Rf1+ Ke8 25. Rb1 Rxa2 26. Rb8 Ra1+ 27. Kf2 Rxf1+ 28. Kxf1 $19) 24... Bb7
+25. Rf1+ Ke8 26. Nd2 (26. Nc3 Rh2 $19) 26... Bxd5 27. Nxc4 Bg3+ 28. Kd1 Rxa2
+29. Rc3 Bg2 30. Rg1 Ra1+ 31. Rc1 Rxc1+ 32. Kxc1 Bf4+ 33. Kd1 Bd5 34. Nd2 Kd7
+35. Kc2 Be5 (35... e5 {ist genauer} 36. Ra1 Bb7 37. Nb3 $19) 36. Kd3 c5 37. Nc4
+Bxc4+ 38. Kxc4 Kc6 39. Rd1 g5 40. Rd3 (40. Re1 {holt die Kuh nicht vom Eis} d5+
+41. Kd3 c4+ 42. Kc2 Bd6 $19) 40... a5 41. Rd2 a4 (41... a4 42. Kd3 a3 $19) 0-1
+
+[Event "Tbilisi"]
+[Site "Tbilisi"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Lukov Valentin"]
+[Black "Sznapik Aleksander"]
+[Result "0-1"]
+[ECO "E97"]
+[PlyCount "60"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 a5 10. a3 Nd7 11. Rb1 f5 12. b4 Kh8 13. f3 Bh6 14. Nb3 Bxc1 15. Rxc1
+axb4 16. axb4 Nf6 17. c5 g5 18. Nd2 f4 19. Nb5 g4 20. fxg4 Rg8 21. Bf3 Bxg4 22.
+Kh1 Bxf3 23. gxf3 Nh5 24. Rg1 Ng3+ 25. hxg3 fxg3 26. Rg2 Ng6 27. Nf1 Qh4+ 28.
+Rh2 gxh2 29. Rc2 Nf4 30. Nxh2 Nh3 0-1
+
+e1 g4 24. fxg4 Bxg4 25. Rf3 h4 26. hxg3 hxg3 27. Bxg3 Bxf3 28.
+Qxf3 fxg3 29. Qh5+ {Sherbakov,R-Syrtlanov,V/Koszalin 1997/CBM 59 ext/1-0 (39)})
+15. Nb3 axb4 16. axb4 cxd5 17. cxd5 f4 18. Na5 g5 19. Nc4 Ng6 20. Nb5 Ra6 21.
+Bd2 g4 22. Rc1 g3 23. Ncxd6 Rxd6 24. Rxc8 Qxc8 25. Nxd6 Qd8 26. Nxb7 Qe7 27.
+Nc5 gxh2 28. Be1 Nh5 {Chuchelov,V-Roeder,M/Bethune 1999/CBM 75/1-0 (32)}) 14...
+Nxc6 15. Nb3 axb4 16. axb4 Nxb4 17. Qxd6 Na2 18. Bb2 Nxc3 19. Bxc3 Ra2 20. Rb2
+Rxb2 21. Bxb2 fxe4 22. fxe4 Qb6+ 23. Qxb6 Rxf1+ 24. Kxf1 Nxb6 25. Ba3 Na4 26.
+Bd6 Bd7 27. Nd2 Bc6 28. Bd3 {
+Ioseliani,N-Xie Jun/Monte Carlo 1993/CBM 38/1/2-1/2 (31)}) (13... Nf6 14. c5
+axb4 15. axb4 f4 16. Nc4 Nd7 17. Ba3 Rf6 18. Ra1 g5 19. b5 Nxc5 20. Bxc5 Rxa1
+21. Qxa1 dxc5 22. Nxe5 Rf8 23. Nc4 Ng6 24. Qc1 Ne5 25. Nb1 Nxc4 26. Qxc4 Bd4+
+27. Kh1 b6 28. Nd2 {Karr,J-David,V/Cannes 1996/CBM 51 ext/1/2-1/2 (39)}) 14.
+Nb3 {Ermöglicht auch c5} Bxc1 15. Rxc1 axb4 16. axb4 Nf6 17. c5 {
+Spiel gegen die Bauernkette} g5 18. Nd2 f4 {Schwarz erobert Raum} (18... Ng6
+19. Qe1 $14) 19. Nb5 (19. Nc4 Kg8 $16) 19... g4 (19... Bd7 $5 $11) 20. fxg4 Rg8
+21. Bf3 (21. h3 Bd7 $16) 21... Bxg4 22. Kh1 Bxf3 23. gxf3 (23. Rxf3 Ng4 24. Nc4
+Nc8 $14) 23... Nh5 24. Rg1 Ng3+ 25. hxg3 fxg3 26. Rg2 (26. Qe1 Qd7 27. Rxg3
+Qxb5 $14) 26... Ng6 $11 27. Nf1 $4 {wirft den Vorteil weg} (27. Nc4 Nf4 28.
+Rcc2 $17) 27... Qh4+ (27... Nf4 28. Nxg3 Nxg2 $19) 28. Rh2 $4 {
+ein Fehler in schlechter Stellung} (28. Nh2 Nf4 29. Qd2 Nxg2 30. Qxg2 $19)
+28... gxh2 29. Rc2 (29. Qe1 {ist noch eine Idee} Qg5 30. Ng3 $19) 29... Nf4 30.
+Nxh2 Nh3 (30... Nh3 31. Qf1 Rg6 32. Nxc7 Rag8 33. Rg2 Rxg2 34. Qxg2 Qe1+ 35.
+Nf1 Rxg2 36. Kxg2 Nf4+ 37. Kg1 Qe2 38. Ne3 Qxe3+ 39. Kh2 Qf2+ 40. Kh1 Qg2#) 0-1
+
+[Event "Salonika ol"]
+[Site "Salonika ol"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Gheorghiu Florin"]
+[Black "Kasparov Garry"]
+[Result "0-1"]
+[ECO "E89"]
+[PlyCount "72"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Qd2 cxd5
+9. cxd5 Nbd7 10. Nge2 a6 11. Nc1 Nh5 12. Bd3 f5 13. N1e2 Ndf6 14. exf5 gxf5 15.
+Ng3 e4 16. Nxh5 Nxh5 17. fxe4 f4 18. Bf2 Bg4 19. h3 Bd7 20. O-O-O Be5 21. Kb1
+Qf6 22. Be2 Ng3 23. Bxg3 fxg3 24. Bf3 Rac8 25. Ne2 Qg6 26. Rc1 Rxc1+ 27. Qxc1
+Rc8 28. Qe3 Qf6 29. Qd2 Rc5 30. Nc1 Bf4 31. Qb4 Bb5 32. Nb3 Bd3+ 33. Ka1 Rc2
+34. Rb1 Be5 35. Nc1 Bxb2+ 36. Qxb2 Qxb2+ 0-1
+
+Bd3 $146 (12.
+Nb3 f5 13. O-O-O b5 14. exf5 gxf5 15. Kb1 Ndf6 16. Rc1 Bd7 17. a3 Kh8 18. Be2
+Ng8 19. g3 Nhf6 20. Rhe1 Ne7 21. f4 Ng6 22. h4 a5 23. Nxb5 Ne4 24. Qd1 a4 25.
+h5 Ne7 26. h6 Bf6 {Christiansen,L-Nadyrhanov,S/Luzern 1993/CBM 38/1-0 (42)}) (
+12. Nd3 f5 13. O-O-O (13. Be2 Ndf6 14. O-O-O fxe4 15. fxe4 b5 16. Bf3 Bd7 17.
+Nb4 Rc8 18. Kb1 Kh8 19. a3 a5 20. Nc6 Bxc6 21. dxc6 b4 22. axb4 axb4 23. Nd5
+Rxc6 24. Qxb4 Nxd5 25. Rxd5 Nf6 26. Rd3 Qc7 27. Rc1 Rxc1+ {
+Balogh,T-Karner,C/Zagan 1997/CBM 59 ext/1-0 (49)}) 13... Nb6 14. Nb4 Bd7 15.
+Kb1 Rc8 16. Nc2 (16. Qf2 Na4 17. Nxa4 Bxa4 18. b3 Bd7 19. Bb6 Qe8 20. Qd2 fxe4
+21. fxe4 Bb5 22. Nd3 Nf6 23. Qb4 Qe7 24. Nb2 Bh6 25. Bxb5 axb5 26. Rhe1 Qd7 27.
+h3 Ne8 28. Nd3 Nc7 29. Be3 Bxe3 30. Rxe3 Na6 {
+Szabo,L-Petrosian,T/Amsterdam 1956/Candidates/1/2-1/2 (31)}) 16... Nf6 17. h3
+fxe4 18. fxe4 Nc4 19. Bxc4 Rxc4 20. Bg5 b5 21. Qe2 Qc7 22. Bxf6 Bxf6 23. Ne3
+Rc5 24. Ng4 b4 25. Nxf6+ Rxf6 {0-1 Mateo,R-Dolmatov,S/Linares 2000/CBM 75})
+12... f5 13. N1e2 Ndf6 14. exf5 gxf5 15. Ng3 e4 (15... f4 $5 {ist zu prüfen}
+16. Nxh5 fxe3 17. Nxf6+ Bxf6 18. Qxe3 Bh4+ 19. Kd1 Bg5 $11) 16. Nxh5 Nxh5 17.
+fxe4 f4 18. Bf2 Bg4 19. h3 Bd7 20. O-O-O (20. Ne2 Qf6 $14) 20... Be5 {
+Der Läufer steht auf e5 komfortabel} (20... Ng3 21. Bxg3 fxg3 22. Rhf1 $11) 21.
+Kb1 Qf6 22. Be2 Ng3 23. Bxg3 fxg3 24. Bf3 Rac8 25. Ne2 Qg6 26. Rc1 Rxc1+ 27.
+Qxc1 Rc8 28. Qe3 Qf6 29. Qd2 Rc5 30. Nc1 (30. Rc1 $142 $5 $11 {ist zu überlegen
+}) 30... Bf4 $15 31. Qb4 Bb5 32. Nb3 $2 (32. Qa3 $142 $11 {
+sieht noch spielbar aus}) 32... Bd3+ $19 33. Ka1 Rc2 34. Rb1 $4 {
+das letzte Eigentor} (34. Nd4 $142 Rc4 35. Qxb7 Rxd4 36. Rd1 $19) 34... Be5 35.
+Nc1 (35. Nd2 {lenkt vielleicht noch ab} a5 $1 {Aus die Maus!} 36. Qxb7 Rxd2 37.
+Qc8+ Qf8 38. Qb7 Bxb1 39. Kxb1 Rxb2+ 40. Qxb2 Bxb2 41. Kxb2 Qxf3 42. gxf3 $19)
+35... Bxb2+ $1 {Beseitigt den Bauernschutz} 36. Qxb2 (36. Rxb2 {
+Motiv: Ablenkung von c1} Rxc1# {Ein klassisches Mattmotiv}) 36... Qxb2+ {
+Kombination mit Doppelangriff} (36... Qxb2+ 37. Rxb2 Rxc1+ 38. Rb1 Rxb1#) 0-1
+
+[Event "Yerevan"]
+[Site "Yerevan"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Lputian Smbat"]
+[Black "Pavlovic Milos"]
+[Result "1-0"]
+[ECO "E94"]
+[PlyCount "75"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5 7. O-O Nbd7 8. Qc2
+c6 9. Rd1 Qe7 10. d5 c5 11. Bg5 h6 12. Bh4 g5 13. Bg3 Nh5 14. Nd2 Nf4 15. Bg4
+h5 16. Bxf4 exf4 17. Bxh5 Bd4 18. Nb5 Ne5 19. Be2 g4 20. Nxd4 cxd4 21. f3 f5
+22. Nb3 Rf7 23. Nxd4 Rh7 24. Qd2 Qg5 25. fxg4 fxg4 26. Rf1 Ng6 27. Nf5 Rxh2 28.
+Bxg4 Rh7 29. Bf3 Ne5 30. Nxd6 Qh6 31. Nxc8 Rxc8 32. d6 Rxc4 33. Rad1 Qh2+ 34.
+Kf2 Nxf3 35. d7 Rg7 36. d8=Q+ Kh7 37. Rh1 Rxg2+ 38. Kxf3 1-0
+
+0. Nxd4 cxd4
+21. f3 f5 22. Nb3 (22. Bd3 $5 $14 {ist eine Alternative}) 22... Rf7 $11 23.
+Nxd4 Rh7 24. Qd2 Qg5 25. fxg4 (25. exf5 $2 {ist falsch} Rxh2 {
+Zerstörung der Bauerndeckung} 26. g3 Nxf3+ 27. Nxf3 gxf3 28. Qxf4 Rg2+ 29. Kh1
+Qxf4 30. gxf4 Rxe2 $19 (30... fxe2 $6 31. Kxg2 exd1=R 32. Rxd1 $17)) (25. Nxf5
+gxf3 26. Bd3 Bxf5 $19) 25... fxg4 26. Rf1 Ng6 27. Nf5 {
+Der Springer ist hier stark postiert} Rxh2 28. Bxg4 Rh7 29. Bf3 {Stoppt den f4}
+Ne5 30. Nxd6 Qh6 (30... Qh4 $5 {lohnt die Prüfung} 31. Nxc8 Rxc8 $11) 31. Nxc8
+$16 Rxc8 32. d6 {Auf den muß Schwarz aufpassen} Rxc4 33. Rad1 (33. Kf2 $5 {
+kommt in Betracht} Qg5 34. Ke2 $14) 33... Qh2+ $11 (33... Nxf3+ $2 {läuft nicht
+} 34. Rxf3 Qh1+ 35. Kf2 Qh4+ 36. Ke2 Rxe4+ 37. Kd3 $18) 34. Kf2 Nxf3 $2 (34...
+Rf7 35. Rh1 Qg3+ 36. Ke2 b6 $18) 35. d7 $4 {
+ein schwacher Zug, der den Gewinn vergibt} (35. Qd5+ Rf7 36. Qxc4 (36. Kxf3 $4
+{führt zum Matt in 2} Qg3+ 37. Ke2 Qe3#) 36... Qg3+ 37. Ke2 Qxg2+ 38. Rf2 Ng1+
+39. Ke1 Nf3+ 40. Rxf3 Qxf3 41. Rd3 Qh1+ 42. Kd2 $18) 35... Rg7 (35... Qg3+ 36.
+Ke2 Rxe4+ 37. Kd3 Rxd7+ 38. Kc2 Nxd2 39. Rxd2 Rxd2+ 40. Kxd2 Qe3+ 41. Kc2 Rc4+
+42. Kb1 Qd3+ 43. Ka1 Qxf1#) 36. d8=Q+ Kh7 37. Rh1 Rxg2+ 38. Kxf3 (38. Kxf3 Rg3+
+39. Kxf4 Rc2 40. Rxh2+ Kg6 41. Qg8+ Kf6 42. Qd6#) 1-0
+
+[Event "London"]
+[Site "London"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Birnboim Nathan"]
+[Black "Littlewood John E."]
+[Result "0-1"]
+[ECO "E67"]
+[PlyCount "62"]
+[EventDate "1987.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nbd7 7. Nc3 e5 8. Qc2
+Re8 9. Rd1 e4 10. Nd2 e3 11. fxe3 Ng4 12. Nf1 h5 13. h3 Nh6 14. Nd5 c6 15. Nf4
+Nf6 16. e4 Qe7 17. Nd2 h4 18. g4 Nfxg4 19. hxg4 Bxd4+ 20. Kf1 Nxg4 21. Nf3 Be3
+22. Qd3 Qxe4 23. Qxd6 Bxf4 24. Bxf4 h3 25. Bxh3 Qxe2+ 26. Kg1 Qf2+ 27. Kh1
+Qxf3+ 28. Bg2 Nf2+ 29. Kg1 Nh3+ 30. Bxh3 Bxh3 31. Rd2 Rad8 0-1
+
+fxe2 {
+Browne,W-Balashov,Y/Buenos Aires 1980/MCL/0-1 (39)}) (10. Ng5 e3 11. f4 Nb6 12.
+c5 h6 13. Nxf7 Kxf7 14. cxb6 axb6 15. Nd5 c6 16. Nxe3 d5 17. a4 Ne4 18. Ra3 h5
+19. Rad3 h4 20. g4 h3 21. Bf3 Qh4 22. Rf1 Bh6 23. f5 Kg8 24. Qb3 Bxe3+ {
+Popov,R-Polovnikov,G/Novosibirsk 2001/CBM 83 ext/1-0 (35)}) 10... e3 11. fxe3
+Ng4 $146 (11... Nb6 12. e4 Ng4 13. Nf1 Nxc4 14. h3 Nf6 15. Bg5 Bd7 16. Rac1 c6
+17. b3 Nb6 18. Qd2 Qe7 19. g4 Qf8 20. Qf4 Nxg4 21. hxg4 f6 22. Bh4 g5 23. Bxg5
+fxg5 24. Qxg5 Kh8 25. Qh4 Qf4 26. e3 {
+Smejkal,J-Vogt,L/Leningrad 1977/MCL/0-1 (42)}) (11... Rxe3 $2 {
+ist nicht spielbar} 12. Nde4 Rxe4 13. Nxe4 Nxe4 14. Qxe4 $18) 12. Nf1 h5 13. h3
+Nh6 (13... Ngf6 14. e4 $16) 14. Nd5 (14. e4 $5 $16) 14... c6 15. Nf4 Nf6 16. e4
+Qe7 17. Nd2 h4 18. g4 Nfxg4 {Motiv: Räumung für den Zug g7-d4} 19. hxg4 Bxd4+
+20. Kf1 Nxg4 21. Nf3 Be3 22. Qd3 (22. Nh3 $5 $11 {muß beachtet werden}) 22...
+Qxe4 $15 23. Qxd6 $4 (23. Nh3 $142 {ist gerade noch spielbar} Bxc1 24. Qxe4
+Rxe4 25. Rdxc1 Ne3+ 26. Kf2 $17) 23... Bxf4 $19 24. Bxf4 h3 $1 {ein Tiefschlag}
+25. Bxh3 $2 (25. Rd2 $142 hxg2+ 26. Kxg2 Qxc4 27. e4 $19) 25... Qxe2+ {
+Beseitigt den Bauernschutz} 26. Kg1 Qf2+ (26... Qxf3 $6 27. Bxg4 Qxg4+ 28. Bg3
+Qxc4 29. Rd4 $19) 27. Kh1 Qxf3+ 28. Bg2 Nf2+ 29. Kg1 (29. Kh2 {
+ändert nichts mehr} Qh5+ 30. Kg1 Nxd1 31. Qxd1 Qc5+ 32. Kh2 Qxc4 $19) 29...
+Nh3+ 30. Bxh3 (30. Kh1 {ist noch eine dünne Chance} Qxf4 31. Bxh3 $19) 30...
+Bxh3 (30... Qxh3 $6 31. Rd2 $19) 31. Rd2 Rad8 $1 {schön gesehen} (31... Rad8
+32. Qxd8 Rxd8 33. Rxd8+ Kg7 34. Be5+ f6 35. Bxf6+ Qxf6 $19) 0-1
+
+[Event "Rubinstein mem"]
+[Site "Rubinstein mem"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Dolmatov Sergey"]
+[Black "Thorsteins Karl"]
+[Result "1-0"]
+[ECO "E83"]
+[PlyCount "67"]
+[EventDate "1987.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nc6 7. Qd2 a6 8. O-O-O
+b5 9. h4 h5 10. Bh6 e5 11. Nge2 bxc4 12. g4 Bxh6 13. Qxh6 Bxg4 14. Rg1 Bxf3 15.
+Nf4 Ng4 16. Rxg4 Bxg4 17. Nxg6 Qf6 18. Nd5 Qxg6 19. Nf6+ Qxf6 20. Qxf6 Bxd1 21.
+Kxd1 Nxd4 22. Qg5+ Kh7 23. Qxh5+ Kg7 24. Qg5+ Kh7 25. Bxc4 Ne6 26. Qf6 c6 27.
+Ke1 a5 28. h5 Rad8 29. h6 Rg8 30. Qxf7+ Kxh6 31. Bxe6 Rgf8 32. Qe7 Kh5 33. Bf7+
+Kg4 34. Kf2 1-0
+
+tersburg 2000/CBM 75 ext/1-0 (35)}) (12. Bxg7 $142
+$5 {sieht gut aus} Kxg7 13. dxe5 Nxe5 14. Ng3 $11) 12... Bxh6 13. Qxh6 Bxg4 ({
+Nachteilig ist} 13... hxg4 14. h5 {Motiv: Räumung für den Zug h1-h5} g5 15.
+Qxg5+ Kh7 16. f4 $14) 14. Rg1 $2 (14. Nf4 $142 {geht wohl noch} exf4 15. fxg4
+Nxg4 16. Qxf4 $15) 14... Bxf3 $19 15. Nf4 Ng4 $4 {und der Gewinn ist perdu} (
+15... exf4 $142 {und Weiß kann direkt aufgeben} 16. Bxc4 Ne7 $19 (16... Bxe4 {
+führt in eine lange Mattsequenz} 17. Nxe4 d5 18. Bxd5 Ne5 19. dxe5 Nxd5 20.
+Rxg6+ fxg6 21. Qxg6+ Kh8 22. Qxh5+ Kg7 23. Rg1+ Qg5 24. Rxg5#)) 16. Rxg4 $11
+Bxg4 {Der Läufer hat sein Ziel erreicht} (16... exf4 $4 {
+wäre ein schrecklicher Fehler} 17. Rxg6+ {Zerstörung der Bauerndeckung} fxg6
+18. Qxg6+ Kh8 19. Qh6+ Kg8 20. Bxc4+ Rf7 21. Rg1+ Bg4 22. Qxh5 $18) (16... Nxd4
+17. Nxh5 Nb3+ 18. axb3 Qg5+ 19. hxg5 gxh5 20. g6 fxg6 21. Qxg6+ Kh8 22. Qxh5#)
+(16... exd4 $4 {wird zu guter Letzt Matt} 17. Nxh5 Qg5+ 18. hxg5 gxh5 19. g6
+fxg6 20. Qxg6+ Kh8 21. Qxh5#) (16... Bxd1 $4 {
+geht nach einigem Hin und Her immerhin Matt} 17. Nxh5 Qg5+ 18. hxg5 gxh5 19. g6
+fxg6 20. Qxg6+ Kh8 21. Qxh5#) 17. Nxg6 {Motiv: Doppelangriff.} Qf6 (17... fxg6
+18. Bxc4+) 18. Nd5 Qxg6 19. Nf6+ Qxf6 20. Qxf6 Bxd1 21. Kxd1 Nxd4 (21... exd4
+22. Qg5+ Kh7 23. Qxh5+ Kg7 24. Qg5+ Kh7 25. Bh3 $18) 22. Qg5+ Kh7 23. Qxh5+ Kg7
+24. Qg5+ Kh7 25. Bxc4 Ne6 26. Qf6 c6 {Befestigt b5+d5} (26... Rab8 27. b3 $14)
+27. Ke1 a5 (27... Rad8 28. Bxa6 Kg8 29. h5 $16) 28. h5 (28. Bxe6 $142 fxe6 29.
+Qe7+ Kg6 30. Qxd6 $16) 28... Rad8 $4 (28... Nf4 $142 $14 {
+war der einzige Versuch}) 29. h6 $18 (29. Bxe6 $6 {bringt nichts} fxe6 30. Qg6+
+Kh8 31. Qxe6 Kh7 $14) 29... Rg8 (29... d5 {nützt auch nichts mehr} 30. Bd3 d4
+31. Bc4 $18 (31. Qxe5 $6 {ist schnell zu verwerfen} Rg8 $16)) 30. Qxf7+ Kxh6
+31. Bxe6 ({Schlechter scheint} 31. Qxe6+ Rg6 32. Qe7 Rc8 $18) 31... Rgf8 (31...
+Rdf8 32. Qa7 Rg7 33. Qe3+ Kh5 $18) 32. Qe7 Kh5 (32... Rb8 $18 {
+hätte noch versucht werden können}) 33. Bf7+ Kg4 34. Kf2 (34. Kf2 Rxf7+ 35.
+Qxf7 $18) 1-0
+
+[Event "Minsk ch URS"]
+[Site "Minsk ch URS"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Gurevich Mikhail"]
+[Black "Kupreichik Viktor"]
+[Result "0-1"]
+[ECO "E98"]
+[PlyCount "66"]
+[EventDate "1987.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 fxe4 12. Nxe4 Nf5 13. Bc3 Nf6 14. Bf3 Nh4 15.
+Nxf6+ Qxf6 16. Be4 Bf5 17. Qe2 g5 18. f4 gxf4 19. Nxf4 Bxe4 20. Qxe4 Qf5 21.
+Qxf5 Nxf5 22. Ne6 Rf7 23. Rf3 Nd4 24. Rxf7 Kxf7 25. Rf1+ Kg6 26. Bxd4 exd4 27.
+Rf3 Be5 28. Kf2 c6 29. Rd3 cxd5 30. cxd5 Rc8 31. Nxd4 Rc4 32. Ke3 Bxh2 33. Rb3
+Bg1+ 0-1
+
+29. Bc3 a5 30. Qd3
+Nd4 31. Bxd4 exd4 32. Kg2 {Petran,P-Portisch,F/Budapest 1976/MCD/1/2-1/2 (57)})
+18. f4 gxf4 19. Nxf4 Bxe4 (19... exf4 {Nutzt die Fesselung aus} 20. Bxf6) 20.
+Qxe4 Qf5 21. Qxf5 Nxf5 22. Ne6 {e6 ist ein Paradefeld für den Springer} Rf7 (
+22... Ne3 $5 23. Rfc1 Rf7 $14) 23. Rf3 $18 Nd4 24. Rxf7 Kxf7 25. Rf1+ Kg6 26.
+Bxd4 exd4 27. Rf3 ({Schlechter ist} 27. Nxc7 Rc8 28. Ne6 Rxc4 $11) 27... Be5
+28. Kf2 (28. Nxc7 $6 Rc8 29. Ne6 Rxc4 30. Nf8+ Kh5 $11) 28... c6 29. Rd3 cxd5
+30. cxd5 Rc8 31. Nxd4 (31. Kf3 Rc2 32. Rb3 b6 $14) 31... Rc4 (31... Bxd4+ 32.
+Rxd4 Rc2+ 33. Kf3 Rxb2 34. Re4 $11) 32. Ke3 Bxh2 33. Rb3 $4 {
+danach wendet sich das Blatt} (33. Ne6 $142 $11 {war notwendig}) 33... Bg1+ $19
+(33... Bg1+ 34. Ke2 Rxd4 35. Rg3+ Kf6 $19) 0-1
+
+[Event "Minsk ch URS"]
+[Site "Minsk ch URS"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Lputian Smbat"]
+[Black "Khalifman Alexander"]
+[Result "1-0"]
+[ECO "E97"]
+[PlyCount "65"]
+[EventDate "1987.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 c5 10. Rb1 Nd7 11. Nb5 Qb6 12. b4 cxb4 13. a3 bxa3 14. c5 Nxc5 15.
+Bxa3 Qd8 16. Nxd6 b6 17. N2c4 Ba6 18. Bxc5 bxc5 19. Nb7 Bxb7 20. Rxb7 Nc8 21.
+d6 Nb6 22. Na5 Nc8 23. Nc4 Nb6 24. Qd2 Qf6 25. Rd1 Qe6 26. Qc2 Qf6 27. Na5 Rfd8
+28. Bc4 Nxc4 29. Qxc4 Bf8 30. d7 Rab8 31. Qd5 Be7 32. Rxb8 Rxb8 33. Nc6 1-0
+
+5/MCL}) 11... Qb6 (11... Nb8 12.
+a3 f5 13. b4 Na6 14. Nb3 b6 15. bxc5 Nxc5 16. Nxc5 bxc5 17. f3 Kh8 18. Bd2 Ng8
+19. Qa4 a5 20. Qc2 Nf6 21. Nc3 f4 22. Na4 Nd7 23. Rb5 g5 24. Rfb1 Rg8 25. R1b3
+Bf8 26. Be1 {Li Wenliang-Gufeld,E/Beijing 1996/CBM 55/1-0 (68)}) 12. b4 $146 (
+12. a3 a6 13. Nc3 f5 14. b4 Qc7 15. f3 Bh6 16. Nb3 Bxc1 17. Qxc1 b6 18. Qd2 Nf6
+19. Bd3 f4 20. Ne2 Bd7 21. bxc5 bxc5 22. Qa5 Qxa5 23. Nxa5 Rfb8 24. Nc3 Kf8 25.
+Bc2 Ke8 26. Nb7 Nc8 {Skudnov,S-Carlson,M/URS 1991/CBM 26/1-0 (35)}) 12... cxb4
+13. a3 bxa3 (13... a6 $5 14. Nc3 a5 $11) 14. c5 Nxc5 (14... Qxc5 {
+Motiv: Hinlenkung-> c5} 15. Bxa3) 15. Bxa3 Qd8 16. Nxd6 b6 {
+Nimmt Einfluß auf c5} (16... Qxd6 {Hinlenkung nach d6} 17. Nc4) 17. N2c4 Ba6
+18. Bxc5 bxc5 19. Nb7 Bxb7 20. Rxb7 Nc8 21. d6 {
+Weiß hat einen starken Freibauern} Nb6 22. Na5 Nc8 23. Nc4 {
+Nicht von der Hand zu weisen} Nb6 24. Qd2 Qf6 25. Rd1 Qe6 (25... Rfb8 $5 26.
+Rc7 Bf8 $14) 26. Qc2 Qf6 27. Na5 Rfd8 28. Bc4 (28. Qa2 Rdb8 $16) 28... Nxc4 (
+28... Rd7 $142 $5 {kommt in Betracht} 29. Rxd7 Nxd7 $16) 29. Qxc4 $18 Bf8 30.
+d7 Rab8 31. Qd5 Be7 (31... Ra8 $142 $18) 32. Rxb8 Rxb8 33. Nc6 (33. Nc6 Rd8 34.
+Nxd8 Bxd8 35. Rc1 $18) 1-0
+
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Balogh Bela"]
+[Black "Lechtynsky Jiri"]
+[Result "0-1"]
+[ECO "E76"]
+[PlyCount "68"]
+[EventDate "1986.??.??"]
+
+1. d4 d6 2. c4 Nf6 3. Nc3 g6 4. e4 Bg7 5. f4 O-O 6. Nf3 c5 7. d5 b5 8. cxb5 a6
+9. a4 Qa5 10. Bd2 Qb4 11. Bd3 c4 12. Bc2 Qc5 13. Qe2 axb5 14. Nxb5 Nxe4 15.
+Bxe4 Qxb5 16. axb5 Rxa1+ 17. Kf2 Rxh1 18. Bc3 Bxc3 19. bxc3 Nd7 20. Nd4 Nc5 21.
+Kg3 Bg4 22. Bf3 Bxf3 23. Kxf3 Re8 24. Qxc4 Rc1 25. Qb4 Ra8 26. b6 Ra2 27. b7
+Nxb7 28. Nc6 Nc5 29. f5 Rf1+ 30. Kg3 Re2 31. Qd4 Rxf5 32. h3 Ne4+ 33. Kh2 Rff2
+34. Nxe7+ Kf8 0-1
+
+c2
+c4 12. e5 dxe5 13. fxe5 Ng4 14. Ne4 Qb3 15. Qxc4 Qxc4 16. Bxc4 Nxe5 17. Nxe5
+Bxe5 18. Bc3 Nd7 19. Ke2 Rd8 20. bxa6 Bxc3 21. Nxc3 Nb6 22. b3 Nxc4 23. bxc4 e6
+24. a7 Ba6 25. Nb5 exd5 {
+Cifuentes Parada,R-Van der Weide,K/Enschede 1998/CBM 62 ext/1-0 (32)}) (11. Qc2
+$5 $16) 11... c4 $14 12. Bc2 Qc5 13. Qe2 axb5 14. Nxb5 Nxe4 15. Bxe4 (15. Qxe4
+{Motiv: Hinlenkung-> e4} Bf5) 15... Qxb5 16. axb5 {Nutzt die Fesselung aus.}
+Rxa1+ {Motiv: Doppelangriff} 17. Kf2 Rxh1 18. Bc3 Bxc3 19. bxc3 Nd7 20. Nd4 Nc5
+21. Kg3 Bg4 22. Bf3 (22. Qxg4 $2 {ist naheliegend und schlecht} Nxe4+ 23. Kf3
+Nxc3 $19) (22. Qxc4 $6 {wäre weniger gut} Nxe4+ 23. Kxg4 Rxh2 $16) 22... Bxf3
+23. Kxf3 ({Weniger gut ist} 23. gxf3 Nd3 24. Qg2 Rc1 $17) (23. Qxf3 $6 Rc1 24.
+Kh4 Nd3 $11) 23... Re8 24. Qxc4 Rc1 25. Qb4 (25. Kg4 Ne4 26. Qc6 h5+ 27. Kh4
+Kf8 $18) 25... Ra8 (25... Rf1+ $5 26. Ke3 Re1+ 27. Kd2 Ra8 $11) 26. b6 {
+Der Freibauer ist nicht zu unterschätzen} Ra2 $2 (26... Rf1+ 27. Kg3 Rxf4 28.
+Qb5 $16) 27. b7 (27. Nb3 $142 $5 Ra4 28. Nxc1 Rxb4 29. cxb4 $18) 27... Nxb7 $14
+28. Nc6 (28. Qxb7 $142 $5 {und Weiß spielt mit} Rxc3+ 29. Ke4 $11) 28... Nc5
+$15 29. f5 $2 (29. Nxe7+ $5 {ist zu beachten} Kf8 30. Nc6 Rf2+ 31. Ke3 Re1+ 32.
+Kxf2 Nd3+ 33. Kf3 Nxb4 34. cxb4 $17) 29... Rf1+ (29... gxf5 30. Ke3 Re1+ 31.
+Kf3 Rf1+ 32. Kg3 Ne4+ 33. Kh3 Rf4 34. Nxe7+ Kf8 35. Nxf5 Nf2+ 36. Kg3 Rxb4 (
+36... Rxf5 37. Qb1 Rg5+ 38. Kf4 Rxg2 39. Qb8+ Kg7 40. Qxd6 $19) 37. cxb4 Ne4+
+38. Kf3 Nf6 $19) 30. Kg3 $17 Re2 31. Qd4 $4 {führt zu weiterem Ungemach} (31.
+Nd4 $142 Re3+ 32. Nf3 $17) 31... Rxf5 (31... g5 32. h4 Ne4+ 33. Kh2 Ree1 34.
+Nxe7+ Kf8 $19) 32. h3 (32. Kh3 $19) 32... Ne4+ 33. Kh2 Rff2 34. Nxe7+ Kf8 (
+34... Kf8 35. Qxf2 Rxf2 $19) 0-1
+
+[Event "Wijk aan Zee"]
+[Site "Wijk aan Zee"]
+[Date "1985.??.??"]
+[Round "?"]
+[White "Beliavsky Aleksandr"]
+[Black "Nunn John D.M."]
+[Result "0-1"]
+[ECO "E81"]
+[PlyCount "54"]
+[EventDate "1985.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 c5 8. d5
+Ne5 9. h3 Nh5 10. Bf2 f5 11. exf5 Rxf5 12. g4 Rxf3 13. gxh5 Qf8 14. Ne4 Bh6 15.
+Qc2 Qf4 16. Ne2 Rxf2 17. Nxf2 Nf3+ 18. Kd1 Qh4 19. Nd3 Bf5 20. Nec1 Nd2 21.
+hxg6 hxg6 22. Bg2 Nxc4 23. Qf2 Ne3+ 24. Ke2 Qc4 25. Bf3 Rf8 26. Rg1 Nc2 27. Kd1
+Bxd3 0-1
+
+4 22. Qc1 Qb4
+23. Rd3 Bb5 24. h4 Na3 {0-1 Kortschnoj,V-Roeder,M/Calcutta 2000/CBM 74 ext})
+13... Qf8 14. Ne4 (14. Rh2 Bf5 15. Nd1 Bh6 $11) 14... Bh6 $2 (14... Qf5 15. Qe2
+Nd3+ 16. Qxd3 Rxd3 17. Bxd3 Qxh5 18. Rb1 $15) 15. Qc2 (15. Qe2 Nd3+ 16. Qxd3
+Rxd3 17. Bxd3 $14) 15... Qf4 $14 16. Ne2 Rxf2 17. Nxf2 Nf3+ 18. Kd1 Qh4 19. Nd3
+Bf5 20. Nec1 Nd2 21. hxg6 (21. Qc3 Be4 22. Rg1 Nxc4 $17) 21... hxg6 22. Bg2 $4
+{vergibt den Vorteil} (22. Qc3 Be4 23. Rg1 Nxc4 24. Nf4 $17) 22... Nxc4 $19 23.
+Qf2 Ne3+ 24. Ke2 (24. Ke1 {wäre noch eine kleine Chance} Nxg2+ 25. Kf1 Ne3+ 26.
+Kg1 $19) 24... Qc4 25. Bf3 Rf8 26. Rg1 (26. Qe1 {hilft allerdings auch nicht}
+Be4 27. Bxe4 Qxe4 $19) 26... Nc2 (26... Be4 27. Bh5 Rxf2+ 28. Kxf2 Bxd3 29.
+Nxd3 Qh4+ 30. Ke2 Qxh5+ 31. Kf2 Qf5+ 32. Ke2 Nxd5 33. a4 Qe4+ 34. Kf2 Be3+ 35.
+Kg3 Bxg1 36. Rxg1 Qxd3+ 37. Kh2 Nf4 38. Rg5 Qxh3+ 39. Kg1 Qe3+ 40. Kf1 Qe2+ 41.
+Kg1 Qe1+ 42. Kh2 Qh4+ 43. Kg1 Qxg5+ 44. Kf2 Qg2+ 45. Ke3 e5 46. a5 Qe2#) 27.
+Kd1 (27. Kf1 {ist vielleicht ein Schwindelversuch} Nxa1 28. b3 Bxh3+ 29. Ke1
+Qc3+ 30. Kd1 $19) 27... Bxd3 (27... Bxd3 28. Nb3 Nxa1 $19) 0-1
+
+[Event "Corr Wch"]
+[Site "Corr Wch"]
+[Date "1984.??.??"]
+[Round "?"]
+[White "Nesis G.J."]
+[Black "Zagorovsky Vladimir"]
+[Result "1-0"]
+[ECO "E95"]
+[PlyCount "103"]
+[EventDate "1984.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nbd7 8. Re1
+h6 9. Qc2 Nh7 10. Be3 c6 11. Rad1 Qe7 12. b4 exd4 13. Nxd4 Ndf6 14. Bf4 Rd8 15.
+b5 Bd7 16. bxc6 bxc6 17. Nb3 Ne8 18. c5 dxc5 19. Na4 Nef6 20. Bd6 Qe8 21. Naxc5
+Bc8 22. Bc7 Rxd1 23. Rxd1 Nd7 24. Na6 Ng5 25. Qxc6 Qxe4 26. Qxe4 Nxe4 27. Bf3
+f5 28. Nac5 Ndf6 29. Nd2 Kf7 30. Ndxe4 fxe4 31. Nxe4 Bg4 32. Nd6+ Kf8 33. Bxa8
+Bxd1 34. Nb5 a6 35. Nd4 Kf7 36. Bb7 Nd7 37. Bd5+ Ke7 38. Nc6+ Ke8 39. Be4 Kf7
+40. Bd3 Nc5 41. Bc4+ Ke8 42. Nb8 Bd4 43. Bb6 Ne6 44. Bxd4 Nxd4 45. Nxa6 Ke7 46.
+Nc7 Ba4 47. Nd5+ Kd6 48. Nf4 g5 49. Ne2 Kc5 50. Nxd4 Kxc4 51. Nf5 h5 52. f3 1-0
+
+liavsky,A-Kozul,Z/Portoroz 1999/CBM 72/1-0 (59)}) 12. Rad1 (12. Red1 Nhf8 13.
+c5 c6 14. b4 Ne6 15. Bc4 Qc7 16. Bxe6 Rxe6 17. Nd2 Nf6 18. h3 Re7 19. Nc4 Be6
+20. Nd6 Nh5 21. Ne2 Rf8 22. g4 Nf6 23. f4 Bc8 24. f5 Kh7 25. Ng3 Ng8 26. Rd2
+Bf6 {Roeder,M-Carstens,A/Germany 1987/GER-chT/1-0 (35)}) 12... c6 (12... Nhf8
+13. c5 Ne6 14. c6 bxc6 15. Na4 g5 16. Qxc6 Rb8 17. h3 h5 18. Qc1 g4 19. hxg4
+hxg4 20. Nh2 g3 21. fxg3 Nd4 22. Bc4 Nb6 23. Nxb6 Rxb6 24. Nf3 Be6 25. Bxd4
+exd4 26. e5 c5 27. Bxe6 {Andersson,U-Kasparov,G/Moscow 1982/IZT/1/2-1/2}) 13.
+c5 Qe7 14. Rd6 Ndf8 15. h3 Ne6 16. Bc4 Kh8 17. Red1 Rf8 18. b4 {
+1/2-1/2 Serrer,C-Poldauf,D/Bad Neuenahr 1991/CBM 24}) (10. dxe5 Nxe5 11. Nxe5
+Bxe5 $14) 10... c6 {Verhindert das Eindringen auf b5+d5} (10... Ng5 11. d5
+Nxf3+ 12. Bxf3 $11) 11. Rad1 Qe7 12. b4 exd4 13. Nxd4 Ndf6 14. Bf4 {
+Weiß bereitet b5 vor} Rd8 15. b5 Bd7 16. bxc6 bxc6 17. Nb3 Ne8 18. c5 dxc5 (
+18... Qf6 19. Bd2 $14) 19. Na4 Nef6 (19... c4 20. Bxc4 Be6 $16) 20. Bd6 (20.
+Naxc5 Be8 $18) 20... Qe8 (20... Qxe4 $142 {und Schwarz kann noch kämpfen} 21.
+Qxe4 Nxe4 $11) 21. Naxc5 $18 Bc8 22. Bc7 (22. e5 $5 Nd5 23. Nd4 $18) 22... Rxd1
+$16 23. Rxd1 Nd7 24. Na6 Ng5 25. Qxc6 Qxe4 26. Qxe4 Nxe4 27. Bf3 f5 28. Nac5 $1
+{hält den Vorteil fest} Ndf6 (28... Nexc5 29. Bd5+ {Motiv: Doppelangriff}) 29.
+Nd2 Kf7 30. Ndxe4 fxe4 31. Nxe4 Bg4 32. Nd6+ Kf8 33. Bxa8 Bxd1 34. Nb5 a6 35.
+Nd4 Kf7 36. Bb7 Nd7 37. Bd5+ Ke7 38. Nc6+ Ke8 39. Be4 Kf7 40. Bd3 Nc5 41. Bc4+
+Ke8 42. Nb8 Bd4 43. Bb6 Ne6 44. Bxd4 Nxd4 45. Nxa6 Ke7 46. Nc7 Ba4 47. Nd5+ Kd6
+48. Nf4 g5 49. Ne2 Kc5 50. Nxd4 Kxc4 (50... Kxd4 51. Bb3 Bc6 52. f3 $18) 51.
+Nf5 h5 52. f3 (52. f3 Kb4 53. Ng3 $18) 1-0
+
+[Event "Bugojno"]
+[Site "Bugojno"]
+[Date "1982.??.??"]
+[Round "?"]
+[White "Kavalek Lubomir"]
+[Black "Kasparov Garry"]
+[Result "0-1"]
+[ECO "E90"]
+[PlyCount "54"]
+[EventDate "1982.??.??"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 Na6 8. Be3 Nh5
+9. Nh2 Qe8 10. Be2 Nf4 11. Bf3 f5 12. h4 Qe7 13. g3 Nb4 14. Qb3 Nfd3+ 15. Ke2
+f4 16. Bd2 fxg3 17. fxg3 Rxf3 18. Nxf3 Bg4 19. Raf1 Rf8 20. Nd1 Qf7 21. Be3
+Bxf3+ 22. Kd2 Qd7 23. Rhg1 Qh3 24. a3 Bxe4 25. Rxf8+ Bxf8 26. axb4 Qh2+ 27. Kc3
+Ne1 0-1
+
+ Rhg1 Qh3 24. a3
+Bxe4 25. Rxf8+ Bxf8 26. axb4 Qh2+ 27. Kc3 Ne1 $146 (27... Nc1) (27... Ne1 28.
+Rxe1 Qxg3 $18) 0-1
+
+[Event "Manila"]
+[Site "Manila"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Keene Raymond D."]
+[Black "Torre Eugene"]
+[Result "0-1"]
+[ECO "E94"]
+[PlyCount "80"]
+[EventDate "1979.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nbd7 8. d5
+Nc5 9. Qc2 a5 10. Bg5 h6 11. Be3 b6 12. Nd2 Bg4 13. f3 Bd7 14. b3 Nh5 15. a3
+Nf4 16. Rfe1 Qg5 17. Bf1 Ncd3 18. g3 Nxe1 19. Rxe1 Qf6 20. Nb5 Nh3+ 21. Bxh3
+Bxh3 22. Nxc7 Rab8 23. b4 Qe7 24. Nb5 axb4 25. axb4 Rb7 26. Qa4 Rfb8 27. Ra1
+Kh7 28. Qb3 Bd7 29. Ra6 Bxb5 30. cxb5 Qd7 31. Qd3 h5 32. Bf2 Bf6 33. Kg2 Bd8
+34. Nc4 Kg8 35. h3 Kg7 36. Kh2 Kh8 37. Kg2 Kh7 38. Kh2 Qxb5 39. Nxe5 Qxd3 40.
+Nxd3 Rc8 0-1
+
+kin,I-Glek,I/Valle d'Aosta 2002/CBM 86 ext/0-1 (41)}) 19... g5 20. Rb1 g4
+21. b4 Nb7 22. fxg4 Bxg4 23. Nf3 Qe7 24. Qd3 Kh8 25. Rc2 Rf7 26. Nb5 axb4 27.
+axb4 Bf8 28. Rbb2 Rg7 29. Ra2 Qe8 30. Nc3 Rb8 {
+Naumkin,I-Kuzmin,A/Moscow 1984/MCL/1-0 (53)}) (16. Kh1 $5 $11) 16... Qg5 $15
+17. Bf1 Ncd3 $1 {zementiert den Vorteil} 18. g3 (18. Bxd3 {Eine Ablenkung}
+Qxg2# {Ein klassisches Mattmotiv}) 18... Nxe1 19. Rxe1 Qf6 20. Nb5 Nh3+ 21.
+Bxh3 Bxh3 22. Nxc7 Rab8 23. b4 Qe7 24. Nb5 axb4 25. axb4 Rb7 26. Qa4 Rfb8 27.
+Ra1 Kh7 28. Qb3 Bd7 29. Ra6 Bxb5 30. cxb5 Qd7 31. Qd3 h5 32. Bf2 Bf6 (32... Rc8
+33. Bxb6 Rxb6 34. Rxb6 $17) 33. Kg2 (33. Nc4 Bd8 $11) 33... Bd8 34. Nc4 {
+Der isolierte Bauer b6 wird weiter angegriffen} Kg8 35. h3 Kg7 ({Jedoch nicht} 
+35... Qxb5 36. Nxe5 {Motiv: Abzugsangriff} Qxd3 37. Nxd3 $14) 36. Kh2 (36. Ra2
+Bg5 $11) 36... Kh8 37. Kg2 Kh7 ({Schwächer ist} 37... Qxb5 38. Nxe5 {
+Motiv: Abzugsangriff} Qxd3 39. Nxd3 $14) 38. Kh2 Qxb5 39. Nxe5 {
+Motiv: Abzugsangriff} Qxd3 (39... dxe5 40. Qxb5) 40. Nxd3 Rc8 (40... Rc8 41.
+Bd4 Rc4 $15) 0-1
+
+[Event "Corr Ostsee"]
+[Site "Corr Ostsee"]
+[Date "1977.??.??"]
+[Round "?"]
+[White "Nesis G."]
+[Black "Skuja"]
+[Result "1/2-1/2"]
+[ECO "E95"]
+[PlyCount "75"]
+[EventDate "1977.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nbd7 8. Re1
+c6 9. Bf1 Re8 10. d5 Qc7 11. Rb1 a5 12. a3 a4 13. Nxa4 Nxe4 14. Rxe4 Rxa4 15.
+Re1 Ra8 16. b4 c5 17. Bb2 Nf6 18. bxc5 Qxc5 19. Bc3 Bf5 20. Rxb7 Ne4 21. Rxe4
+Bxe4 22. Bb4 Qc8 23. Rxf7 Bxf3 24. Rxf3 Bf8 25. Rxf8+ Rxf8 26. Bxd6 Rf7 27. Bb4
+Qf5 28. Qd2 Qb1 29. d6 Raf8 30. Qd5 e4 31. Bc5 h6 32. Be3 Kh7 33. Qd4 Rb7 34.
+c5 Qe1 35. c6 Rb1 36. Qa7+ Kg8 37. Qa6 Rb2 38. Qc4+ 1/2-1/2
+
+4 $146 (13. Nd2 Nc5 14. b4 {
+1/2-1/2 Sosonko,G-Garcia,G/Wijk aan Zee 1979/MCD}) (13. Be3 Bf8 14. Bd3 Qa5 15.
+Bc2 cxd5 16. cxd5 b5 17. b4 axb3 18. Rxb3 Nc5 19. Bxc5 dxc5 20. Nxb5 c4 21. Rb1
+Bxa3 22. Nxa3 Qxa3 23. Ra1 Qxa1 24. Qxa1 Rxa1 25. Rxa1 Bg4 26. Nd2 Be2 27. Re1
+Bd3 {Adamski,J-Bielczyk,J/Polanica Zdroj 1979/MCD/1/2-1/2 (42)}) 13... Nxe4 14.
+Rxe4 Rxa4 {Eliminiert eine wichtige Deckungsfigur: a4} 15. Re1 (15. Qxa4 {
+Motiv: Hinlenkung-> a4} Nc5 {Kombination mit Doppelangriff}) 15... Ra8 16. b4 (
+16. Be3 Nf6 $11) 16... c5 (16... cxd5 $5 17. cxd5 Nf6 $15) 17. Bb2 Nf6 18. bxc5
+Qxc5 19. Bc3 Bf5 ({Schlechter scheint} 19... Rxa3 20. Bb4 Qa7 21. Bxd6 $16) 20.
+Rxb7 Ne4 ({Nicht} 20... Rxa3 21. Bb4 Qc8 22. Rb6 $16 (22. Bxa3 $143 Qxb7 23.
+Bxd6 Ne4 $11)) 21. Rxe4 Bxe4 22. Bb4 Qc8 23. Rxf7 Bxf3 (23... Qd8 $142 $5 {
+ist vielleicht stärker} 24. Rb7 Bf5 $15) 24. Rxf3 Bf8 (24... Qd7 $142 $5 $14 {
+lohnt die Prüfung}) 25. Rxf8+ $16 Rxf8 26. Bxd6 Rf7 27. Bb4 Qf5 28. Qd2 Qb1 (
+28... Rd8 29. f3 $14) 29. d6 Raf8 30. Qd5 e4 31. Bc5 h6 $2 (31... Qb7 32. Qxb7
+Rxb7 33. Bb4 $16) 32. Be3 (32. Qe6 Kh7 33. d7 $14) 32... Kh7 $16 33. Qd4 Rb7
+34. c5 Qe1 (34... Qc2 $142 35. Qc4 Qxc4 36. Bxc4 Rb1+ 37. Bf1 Rd8 $16) 35. c6
+$4 {gibt den Vorteil aus der Hand} (35. d7 $142 {
+und aller Vorteil läge nun bei Weiß} Rb1 36. Qc4 $18) 35... Rb1 $11 36. Qa7+
+Kg8 37. Qa6 Rb2 {Im Brennpunkt: f2} 38. Qc4+ 1/2-1/2
+
+[Event "Rovinj-Zagreb it"]
+[Site "Rovinj-Zagreb it"]
+[Date "1970.??.??"]
+[Round "?"]
+[White "Petrosian"]
+[Black "Gligoric"]
+[Result "0-1"]
+[ECO "E97"]
+[PlyCount "66"]
+[EventDate "1970.??.??"]
+
+1. c4 g6 2. Nf3 Bg7 3. d4 Nf6 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Nd2 Nf4 11. a4 f5 12. Bf3 g5 13. exf5 Nxf5 14. g3 Nd4 15.
+gxf4 Nxf3+ 16. Qxf3 g4 17. Qh1 exf4 18. Bb2 Bf5 19. Rfe1 f3 20. Nde4 Qh4 21. h3
+Be5 22. Re3 gxh3 23. Qxf3 Bg4 24. Qh1 h2+ 25. Kg2 Qh5 26. Nd2 Bd4 27. Qe1 Rae8
+28. Nce4 Bxb2 29. Rg3 Be5 30. Raa3 Kh8 31. Kh1 Rg8 32. Qf1 Bxg3 33. Rxg3 Rxe4
+0-1
+
+2 25. Kxh2 Rf5 26. Bh4
+Raf8 27. Nd1 Bh6 28. Ne3 Bxe3 29. Qxe3 Bf3 30. Ra2 {
+Parker,J-Gallagher,J/Hastings 1991/CBM 26 ext/1-0 (42)}) 16. Be4 Nd4 17. f3 Rf6
+18. Nb3 Rh6 19. Ra2 Nxb3 20. Qxb3 Qf7 21. c5 Rf6 22. Qc4 h5 23. a5 h4 24. g4
+Nf4+ 25. Bxf4 exf4 26. Nb5 a6 27. Nd4 Bd7 28. Re1 h3+ 29. Kxh3 {
+Grabliauskas,V-Zukauskas,K/Vilnius 1995/CBM 49 ext/1-0 (35)}) (14... Nh3+ $142
+{und Schwarz spielt mit} 15. Kg2 Qd7 $11) 15. gxf4 $18 Nxf3+ 16. Qxf3 g4 17.
+Qh1 exf4 18. Bb2 Bf5 19. Rfe1 f3 20. Nde4 (20. a5 Qh4 21. Nf1 Bd3 $18) 20...
+Qh4 21. h3 (21. Nd1 $142 Bxb2 22. Nxb2 $16) 21... Be5 $11 22. Re3 $4 (22. Rab1
+$142 $11 {war der letzte Versuch}) 22... gxh3 $19 23. Qxf3 Bg4 24. Qh1 h2+ 25.
+Kg2 Qh5 26. Nd2 (26. f4 Rxf4 27. Rg3 Rf3 28. Qxh2 Rxg3+ 29. Qxg3 Rf8 $19) 26...
+Bd4 27. Qe1 (27. Nce4 Bxe3 (27... Bxb2 $6 28. Rg3 $17) 28. Qxh2 Bf3+ 29. Nxf3
+Qxf3+ 30. Kg1 Rae8 31. Qg2+ Qxg2+ 32. Kxg2 Rxe4 33. fxe3 Rxc4 $19) 27... Rae8 (
+27... Bxe3 28. Qxe3 Rf3 29. Qxf3 Bxf3+ 30. Nxf3 Qg4+ 31. Kxh2 Qxf3 32. Rg1+ Kf7
+$19) 28. Nce4 $17 Bxb2 29. Rg3 (29. Rb1 Bd4 30. Rg3 Kh8 $19) 29... Be5 ({
+Weniger gut ist} 29... Bxa1 30. Qxa1 Rxe4 31. Nxe4 $19) 30. Raa3 (30. f3 Bxg3
+31. Qxg3 Rxf3 32. Nxf3 Rxe4 33. Nxh2 Rxc4 $19) 30... Kh8 (30... Bxg3 $5 {
+gibt noch größeren Vorteil} 31. Rxg3 Rxf2+ 32. Kh1 $19) 31. Kh1 Rg8 (31... Bxg3
+32. Rxg3 Be2 33. Re3 Rxe4 34. Nxe4 Bf3+ 35. Rxf3 Qxf3+ 36. Kxh2 $19) 32. Qf1 (
+32. Rg2 $142 $5 $19) 32... Bxg3 33. Rxg3 $4 {der letzte Fehler} (33. Nxg3 Qg5
+34. Nf3 $19) 33... Rxe4 (33... Rxe4 34. Qa1+ Re5 $19) 0-1
+
+[Event "Eersel m"]
+[Site "Eersel m"]
+[Date "1968.??.??"]
+[Round "?"]
+[White "Donner"]
+[Black "Gligoric"]
+[Result "0-1"]
+[ECO "E93"]
+[PlyCount "56"]
+[EventDate "1968.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 Nbd7 8. Be3
+Ng4 9. Bg5 f6 10. Bh4 Nh6 11. Nd2 g5 12. Bg3 f5 13. exf5 Nf6 14. Nde4 Nxe4 15.
+Nxe4 Bxf5 16. f3 g4 17. Bf2 gxf3 18. gxf3 Ng4 19. Bd3 Nxf2 20. Nxf2 Qh4 21. O-O
+e4 22. Nxe4 Bh3 23. Re1 Be5 24. Qe2 Kh8 25. Kh1 Rxf3 26. Qxf3 Bg4 27. Qf2 Bf3+
+28. Kg1 Bxh2+ 0-1
+
+g,H-Gligoric,S/Palma de Mallorca 1970/IZT}) 17... Bxe4 18. Bxe4
+Qg5 19. Qc1 (19. Qd3 Nf5 20. Rac1 Rf7 21. Bxf5 Rxf5 22. c5 Raf8 23. cxd6 cxd6
+24. Rc4 h5 25. Qe2 Kh8 26. a4 Qf6 27. h3 gxh3 28. gxh3 Bh6 29. Kh2 Rf3 30. Rg1
+Qf7 31. Qe4 Bg5 32. Rg2 Bd8 33. Rc8 Rf5 {
+Arsovic,Z-Mozetic,D/Podgorica 1996/CBM 53/1-0 (41)}) 19... Qh5 20. c5 Rf7 21.
+cxd6 cxd6 22. Qc2 Bf6 23. Rad1 Raf8 24. Qa4 Nf5 25. Qxa7 Nd4 26. Qb6 Bd8 {
+0-1 Vanheste,J-Piket,J/Amsterdam 1988/CBM 09}) 16... g4 17. Bf2 (17. O-O $142
+$5 $16) 17... gxf3 $15 18. gxf3 (18. Bxf3 $2 Bxe4 19. Bxe4 Rxf2 20. Kxf2 Qh4+
+21. Ke3 Ng4+ 22. Kd2 Nf2 $19) 18... Ng4 19. Bd3 (19. Bg3 $5 $15) 19... Nxf2 20.
+Nxf2 Qh4 21. O-O e4 22. Nxe4 Bh3 23. Re1 Be5 24. Qe2 $4 {
+verschlechtert die Stellung weiter} (24. Qd2 Rxf3 25. Kh1 $19) 24... Kh8 $19
+25. Kh1 (25. f4 Rxf4 26. Ng3 Bd4+ 27. Kh1 Bg4 $19) 25... Rxf3 {
+Beseitigt den Bauernschutz.} 26. Qxf3 {Hinlenkung nach f3} (26. Rg1 {
+lenkt vielleicht noch ab} Raf8 27. c5 $19) 26... Bg4 {
+Kombination mit Doppelangriff} 27. Qf2 (27. Qf6+ {
+ist vielleicht ein Schwindelversuch} Bxf6 28. Re3 $19) 27... Bf3+ {
+Motiv: Räumung für den Zug h4-g4} 28. Kg1 (28. Qxf3 {Motiv: Ablenkung von h2}
+Qxh2# {Eine sehenswerte Mattkombination}) 28... Bxh2+ $1 {
+Zerstörung der Bauerndeckung. . . . .} (28... Bxh2+ 29. Qxh2 Rg8+ 30. Ng5 Rxg5+
+31. Kf1 Qxh2 32. Re8+ Kg7 33. Re7+ Kf8 34. Re8+ Kxe8 35. Re1+ Kd8 36. Re8+ Kxe8
+37. Bg6+ Rxg6 38. c5 Rg1#) 0-1
+
+[Event "Varna BLG"]
+[Site "Varna BLG"]
+[Date "1962.??.??"]
+[Round "?"]
+[White "Spassky Boris"]
+[Black "Evans L."]
+[Result "1-0"]
+[ECO "E80"]
+[PlyCount "53"]
+[EventDate "1962.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 c6 6. Be3 a6 7. Qd2 b5 8. O-O-O
+bxc4 9. Bxc4 O-O 10. h4 d5 11. Bb3 dxe4 12. h5 exf3 13. hxg6 hxg6 14. Bh6 fxg2
+15. Rh4 Ng4 16. Bxg7 Kxg7 17. Qxg2 Nh6 18. Nf3 Nf5 19. Rh2 Qd6 20. Ne5 Nd7 21.
+Ne4 Qc7 22. Rdh1 Rg8 23. Rh7+ Kf8 24. Rxf7+ Ke8 25. Qxg6 Nxe5 26. Rf8+ Kd7 27.
+Qe6# 1-0
+
+1. Ne4 Qc7 22.
+Rdh1 Rg8 23. Rh7+ Kf8 24. Rxf7+ Ke8 25. Qxg6 Nxe5 26. Rf8+ Kd7 $146 (26... Kxf8
+{wäre gleichermaßen fruchtlos} 27. Qxg8#) 27. Qe6# (27. Nc5#) 1-0
+
+[Event "URS ch"]
+[Site "URS ch"]
+[Date "1961.??.??"]
+[Round "?"]
+[White "Taimanov Mark"]
+[Black "Gufeld Eduard"]
+[Result "0-1"]
+[ECO "E97"]
+[PlyCount "88"]
+[EventDate "1961.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. g3 f5 11. Ng5 Nf6 12. f3 f4 13. b5 fxg3 14. hxg3 Nh5 15. Kg2
+Nf4+ 16. gxf4 exf4 17. e5 Bxe5 18. Nge4 Nf5 19. Rg1 Ng3 20. Bd2 Bxc3 21. Bxc3
+Nxe4 22. fxe4 Qg5+ 23. Kf1 Bh3+ 24. Kf2 Qh4+ 25. Kf3 Qh5+ 26. Kf2 Qh4+ 27. Kf3
+g5 28. Bf1 g4+ 29. Ke2 f3+ 30. Kd3 g3 31. Bxh3 Qxh3 32. Qd2 Qg4 33. Qf2 g2 34.
+Rae1 Rae8 35. Kc2 Qf4 36. Kb3 Rxe4 37. Rxe4 Qxe4 38. Qxa7 Qg6 39. Qf2 Qg4 40.
+Qa7 Re8 41. Be1 Qe4 42. Bf2 Qd3+ 43. Kb4 Qd2+ 44. Kb3 b6 0-1
+
+xe6 19. g4 Nf4 20. Nxc7 Qc8 21. Nxa8 Qc5+
+22. Kh2 Rxa8 23. Qf2 Ne6 24. Qxc5 dxc5 25. Be3 g5 26. Rad1 Nd4 27. Bxd4 exd4
+28. e5 Ng6 29. Bd3 Nxe5 {
+Prakash,G-Sasikiran,K/New Delhi 2001/CBM 82 ext/0-1 (55)}) 15... Nf4+ 16. gxf4
+exf4 17. e5 Bxe5 18. Nge4 Nf5 19. Rg1 $4 {danach kann Weiß alle Träume begraben
+} (19. Qd3 $142 $14 {damit wäre Weiß im Spiel geblieben}) 19... Ng3 20. Bd2
+Bxc3 21. Bxc3 Nxe4 22. fxe4 Qg5+ 23. Kf1 Bh3+ 24. Kf2 Qh4+ 25. Kf3 Qh5+ (25...
+g5 $142 $5 26. Bf1 h5 $15) 26. Kf2 $11 Qh4+ 27. Kf3 g5 28. Bf1 g4+ (28... h5
+29. Bxh3 Qxh3+ 30. Kf2 Qe3+ 31. Kf1 Qxc3 32. Rxg5+ Kf7 $19) 29. Ke2 $14 f3+ {
+Der Freibauer marschiert} 30. Kd3 g3 {Auf den muß Weiß aufpassen} 31. Bxh3 Qxh3
+32. Qd2 Qg4 33. Qf2 g2 (33... gxf2 $4 {zu gefräßig} 34. Rxg4+ Kf7 35. Rg7+ Ke8
+36. Rxc7 $18) 34. Rae1 Rae8 {Mit Angriff auf den rückständigen Bauern} 35. Kc2
+(35. e5 $142 dxe5 36. Kc2 $15 (36. Bxe5 Qg6+ 37. Kd4 Rxe5 38. Rxe5 Rf4+ 39. Kc3
+Qg7 $19)) 35... Qf4 $4 {vergibt den sicheren Gewinn} (35... Rf4 $142 $5 36. Kb3
+h5 $17 (36... Rexe4 $6 37. Ba5 $19) (36... Rfxe4 $6 37. Ref1 Rf4 38. a3 $19))
+36. Kb3 (36. Rxg2+ fxg2 37. Qxg2+ Qg3 38. Qxg3+ Kf7 39. Qg7#) 36... Rxe4 $4 (
+36... h5 37. Re3 Rf7 38. e5 dxe5 39. Kb2 $15) 37. Rxe4 (37. Rxg2+ $142 {
+und Schwarz kann direkt aufgeben} fxg2 38. Qxg2+ Qg4 39. Qxe4 Qxe4 40. Rxe4 $18
+) 37... Qxe4 $11 38. Qxa7 $4 {danach wendet sich das Blatt} (38. Re1 $5 {
+kommt in Betracht} Qg4 39. c5 $11) 38... Qg6 (38... f2 $142 {
+Schwarz hätte nun das bessere Spiel} 39. Qd4 Qxd4 40. Rxg2+ Kf7 41. Bxd4 f1=Q
+42. Rf2+ Kg6 43. Rxf1 Rxf1 $19) 39. Qf2 $15 Qg4 40. Qa7 $4 (40. b6 $142 {
+war relativ besser} cxb6 41. Re1 $17) 40... Re8 (40... f2 $142 {
+machte sofort alles klar} 41. Qd4 Rf4 42. Qh8+ Kf7 43. Rxg2 Qxg2 44. Qxh7+ Ke8
+45. Qxc7 $19) 41. Be1 (41. Bd4 Qf4 42. Kc3 $19) 41... Qe4 42. Bf2 (42. Bc3 {
+hätte noch versucht werden können} Qe3 43. Qd4 Qxd4 44. Bxd4 $19) 42... Qd3+
+43. Kb4 Qd2+ 44. Kb3 b6 (44... b6 45. Qa3 Qxf2 $19) 0-1
+
+[Event "Ukraine"]
+[Site "Ukraine"]
+[Date "1960.??.??"]
+[Round "?"]
+[White "Krogius"]
+[Black "Stein"]
+[Result "0-1"]
+[ECO "E92"]
+[PlyCount "86"]
+[EventDate "1960.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 h6 8. O-O Nh7
+9. Ne1 Nd7 10. Nd3 f5 11. f3 f4 12. b4 Rf7 13. c5 Ndf6 14. c6 bxc6 15. dxc6 Be6
+16. b5 Bf8 17. Nb4 d5 18. Nbxd5 Bc5+ 19. Kh1 Nh5 20. Qe1 Ng3+ 21. hxg3 Qg5 22.
+g4 h5 23. g3 hxg4 24. Kg2 Raf8 25. Bd2 Qh6 26. Rh1 Qg7 27. gxf4 exf4 28. Rd1 g5
+29. e5 Qxe5 30. fxg4 Qxe2+ 31. Qxe2 f3+ 32. Qxf3 Rxf3 33. Rhf1 Bxg4 34. Ne4
+Bh3+ 35. Kh2 Rxf1 36. Rxf1 Bxf1 37. Nxc5 Rf2+ 38. Kg1 Rxd2 39. Nxc7 Bh3 40. a4
+Rg2+ 41. Kh1 Nf6 42. a5 Ng4 43. Ne4 Re2 0-1
+
+8. Ndb5 Bxb5 19. Nxb5 Ne4 20. Qc2 Rf7 21. Nd4 Ng4 22. h3
+Ngf2 23. Rxf2 Nxf2 24. Kxf2 {
+Camarena Gimenez,R-Pallardo Lozoya,J/Valencia 2001/CBM 85 ext/1-0 (37)}) 10.
+Nd3 f5 11. f3 $146 (11. Bd2 Ndf6 12. f3 f4 13. c5 Rf7 14. Rc1 Bf8 15. Nb5 g5
+16. cxd6 cxd6 17. Nf2 h5 18. Qc2 g4 19. Nc7 Rb8 20. Ne6 Qb6 21. Qb3 Qxb3 22.
+axb3 Bxe6 23. dxe6 Rg7 24. Kh1 Ng5 25. Rfd1 Kh8 {
+Malich,B-Pietrusiak,B/Rostock 1981/MCL/1-0 (47)}) (11. f4 fxe4 12. Nxe4 exf4
+13. Nxf4 Ne5 $14) 11... f4 $11 {Schwarz hat mehr Raum} 12. b4 {Weiß plant c5}
+Rf7 (12... a5 13. b5 $11) 13. c5 {
+Nimzowitsch: Bauernketten von der Basis aufrollen} Ndf6 14. c6 (14. Bb2 $5 $14
+{kam sehr in Betracht}) 14... bxc6 $15 15. dxc6 Be6 16. b5 Bf8 (16... Qb8 17.
+Nb4 $11) 17. Nb4 $14 d5 18. Nbxd5 {Die Sturmspitze auf d5.} Bc5+ 19. Kh1 Nh5
+20. Qe1 Ng3+ $2 (20... N5f6 $142 $16) 21. hxg3 $18 Qg5 22. g4 h5 23. g3 hxg4
+24. Kg2 Raf8 25. Bd2 (25. Rh1 {ginge schneller} Bd4 26. Rb1 Nf6 $18) 25... Qh6
+(25... Nf6 26. Nxf6+ (26. gxf4 $4 {scheitert an Matt in 2} gxf3+ 27. Kxf3 Qg4#)
+26... Rxf6 27. Rc1 $18) 26. Rh1 (26. fxg4 $5 {
+damit würde Weiß es sich noch erleichtern} Ng5 27. Rh1 Qg7 $18) 26... Qg7 27.
+gxf4 exf4 28. Rd1 (28. Rc1 $142 $5 {läßt dem Gegner kaum Chancen} Ng5 29. Qf1
+Qe5 $18) 28... g5 29. e5 Qxe5 30. fxg4 (30. Rh6 $142 {
+und die Waage neigt sich zugunsten von Weiß} Re8 31. Bd3 gxf3+ 32. Kh1 $18)
+30... Qxe2+ {Beseitigung einer Deckungsfigur: e2} 31. Qxe2 {Hinlenkung nach e2}
+(31. Nxe2 {Ablenkung von d5} Bxd5+ {Motiv: Doppelangriff}) 31... f3+ {
+Motiv: Doppelangriff} 32. Qxf3 Rxf3 33. Rhf1 $4 {wirft den Vorteil weg} (33.
+Be1 $142 {hätte die Partie gerettet} Bxg4 34. Ne4 $11 (34. Nxc7 $143 Re3 $19))
+33... Bxg4 $19 34. Ne4 $2 (34. Rxf3 $142 Bxf3+ 35. Kh2 Bxd1 36. Nxd1 $19) 34...
+Bh3+ 35. Kh2 (35. Kh1 Rxf1+ 36. Rxf1 Bxf1 37. Nxc5 Bxb5 38. Nxc7 Bxc6+ 39. Kg1
+Rf3 $19) 35... Rxf1 36. Rxf1 Bxf1 (36... Rxf1 $6 37. Nxc5 Bc8 38. Kg3 $14) 37.
+Nxc5 Rf2+ 38. Kg1 (38. Kg3 {die letzte Gegenchance} Rxd2 39. Nxc7 Rxa2 40. Ne4
+$19) 38... Rxd2 39. Nxc7 Bh3 40. a4 (40. N7e6 $19 {
+würde die Partie unwesentlich verlängern}) 40... Rg2+ (40... Nf6 $5 {
+ist genauer} 41. Ne8 Ng4 42. Nf6+ Nxf6 43. c7 $19) 41. Kh1 (41. Kf1 {
+hilft auch nicht mehr} Rc2+ 42. Ke1 Rxc5 $19) 41... Nf6 42. a5 (42. Ne8 {
+ist ein letzter Versuch} Nxe8 43. Ne4 $19) 42... Ng4 43. Ne4 Re2 (43... Re2 44.
+Nf6+ Nxf6 $19) (43... Kh8 44. b6 Rc2 45. Nc3 Rc1+ 46. Nd1 Rxd1#) 0-1
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Pachmann"]
+[Black "Bronstein"]
+[Result "0-1"]
+[ECO "E67"]
+[PlyCount "62"]
+[EventDate "1946.??.??"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. g3 g6 6. Bg2 Bg7 7. O-O O-O 8. b3
+Re8 9. e4 exd4 10. Nxd4 Nc5 11. Re1 a5 12. Bb2 a4 13. Rc1 c6 14. Ba1 axb3 15.
+axb3 Qb6 16. h3 Nfd7 17. Rb1 Nf8 18. Kh2 h5 19. Re2 h4 20. Rd2 Rxa1 21. Rxa1
+Bxd4 22. Rxd4 Nxb3 23. Rxd6 Qxf2 24. Ra2 Qxg3+ 25. Kh1 Qxc3 26. Ra3 Bxh3 27.
+Rxb3 Bxg2+ 28. Kxg2 Qxc4 29. Rd4 Qe6 30. Rxb7 Ra8 31. Qe2 h3+ 0-1
+
+5. Rxd8+ Rxd8 {
+Kurajica,B-Spasov,V/Debrecen 1992/EU-chT/0-1 (54)}) 11... a5 12. Bb2 a4 $146 (
+12... c6 13. Qc2 Qb6 14. Rad1 Bg4 15. f3 Bd7 16. Kh1 a4 17. bxa4 Qa7 18. Nb3
+Nxa4 19. Nxa4 Qxa4 20. Rxd6 Be6 21. e5 {
+1/2-1/2 Teske,H-Pupo,E/Cienfuegos 1997/CBM 58 ext}) (12... Ng4 13. f4 Nf6 14.
+Qc2 h5 15. h3 h4 16. g4 Nxg4 17. Nf3 Nf6 18. e5 Bf5 19. Qd2 dxe5 20. Qxd8 Raxd8
+21. fxe5 Nfd7 22. Nb5 Nd3 23. Bc3 N3xe5 24. Nxe5 Bxe5 25. Bxe5 Rxe5 26. Rxe5
+Nxe5 27. Nxc7 {Ramane-Zivaeva,T/URS 1979/MCD/1/2-1/2 (42)}) 13. Rc1 ({
+Nachteilig ist} 13. bxa4 Nfd7 $17) 13... c6 {Überdeckt b5} 14. Ba1 (14. b4 $5 {
+muß beachtet werden} a3 15. Ba1 $11) 14... axb3 $15 15. axb3 Qb6 (15... Ng4 $5
+16. Na4 Ne5 $17) 16. h3 {Befestigt g4} Nfd7 17. Rb1 Nf8 (17... Ne5 18. Re3 $11)
+18. Kh2 h5 19. Re2 (19. Qd2 h4 $11) 19... h4 $15 20. Rd2 Rxa1 $1 {
+die richtige Fortsetzung, um den Vorteil festzuhalten} 21. Rxa1 Bxd4 {
+Eliminiert eine wichtige Deckungsfigur: d4} 22. Rxd4 Nxb3 23. Rxd6 (23. Rd2
+$142 $5 Nxa1 24. Qxa1 hxg3+ 25. fxg3 $17) 23... Qxf2 $19 (23... Nxa1 24. Nd5
+Qxf2 25. Nf6+ Kh8 26. Nxe8 hxg3+ 27. Kh1 $16) 24. Ra2 Qxg3+ 25. Kh1 Qxc3 (25...
+Bxh3 {ist wenig wert} 26. Rd3 Bg4 27. Ne2 $16) 26. Ra3 Bxh3 27. Rxb3 Bxg2+ 28.
+Kxg2 Qxc4 29. Rd4 Qe6 30. Rxb7 Ra8 31. Qe2 $2 (31. Ra4 $142 Rxa4 32. Qxa4 $19)
+31... h3+ (31... h3+ 32. Kg1 g5 $19) (31... c5 32. Rd3 Ra2 33. Rb2 Rxb2 34.
+Qxb2 Qxe4+ 35. Rf3 $19) 0-1
+
+[Event "Prague-Moscow"]
+[Site "Prague-Moscow"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Zita"]
+[Black "Bronstein"]
+[Result "0-1"]
+[ECO "E68"]
+[PlyCount "60"]
+[EventDate "1946.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+c6 9. b3 Re8 10. Bb2 exd4 11. Nxd4 Qb6 12. Qd2 Nc5 13. Rfe1 a5 14. Rab1 a4 15.
+Ba1 axb3 16. axb3 Ng4 17. h3 Rxa1 18. Rxa1 Nxf2 19. Re3 Nxh3+ 20. Kh2 Nf2 21.
+Rf3 Ncxe4 22. Qf4 Ng4+ 23. Kh1 f5 24. Nxe4 Rxe4 25. Qxd6 Rxd4 26. Qb8 Rd8 27.
+Ra8 Be5 28. Qa7 Qb4 29. Qg1 Qf8 30. Bh3 Qh6 0-1
+
+r Bauer f7 ist rückständig} Ng4+ 23. Kh1 f5 24. Nxe4 Rxe4
+25. Qxd6 Rxd4 26. Qb8 Rd8 27. Ra8 Be5 28. Qa7 Qb4 29. Qg1 $146 (29. Qa2 Qf8 30.
+Bh3 Qh6 {0-1 Zita,F-Bronstein,D/Moscow 1946/MCL}) (29. Qa2 {ändert nichts mehr}
+Qf8 30. Bh3 Rd1+ 31. Kg2 Qc5 $19) 29... Qf8 (29... Qd2 30. Qf1 Qh6+ 31. Bh3 $19
+) 30. Bh3 (30. Qc1 {macht keinen großen Unterschied} f4 31. Rxc8 Qh6+ 32. Kg1
+Rxc8 $19) 30... Qh6 (30... Qh6 31. Qf1 Rd2 32. Rxc8+ Kg7 $19) 0-1
+
+[Event "Pula"]
+[Site "Pula"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Vukic Milan"]
+[Black "Kochyev Alexander"]
+[Result "0-1"]
+[ECO "E68"]
+[PlyCount "54"]
+[EventDate "1988.??.??"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d6 6. d4 Nbd7 7. Nc3 e5 8. e4
+a6 9. Re1 exd4 10. Nxd4 Ng4 11. Nc2 Nc5 12. h3 Ne5 13. Bf1 f5 14. f4 Nc6 15.
+exf5 Bxf5 16. Ne3 Qd7 17. Nxf5 Qxf5 18. Be3 Rae8 19. Nd5 Kh8 20. Qd2 Qf7 21. h4
+Ne4 22. Qg2 Nd4 23. Nc3 Nxg3 24. Qxg3 Nf5 25. Qf2 Nxe3 26. Rxe3 Bd4 27. Nd5
+Qxd5 0-1
+
+ Nf7 21. Be3 c5 22.
+exf5 Bxf5 23. Kh2 Bxc3 24. Rxc3 Qc6 25. Bc1 Rxe1 {
+Bator,R-Harestad,H/Gausdal 1996/CBM 54 ext/1-0 (70)}) (11. Qxg4 Bxd4 12. Qd1
+Bg7 13. f4 Rb8 14. Be3 b5 15. cxb5 axb5 16. Bd4 Bxd4+ 17. Qxd4 b4 18. Nd5 Bb7
+19. Rac1 c5 20. Qd2 Bxd5 21. Qxd5 Nf6 22. Qc4 Qc7 23. e5 dxe5 24. fxe5 Nd7 25.
+e6 fxe6 {Goldin,A-Rechlis,G/Tel Aviv 1996/CBM 52 ext/1/2-1/2}) (11. h3 Qf6 12.
+hxg4 (12. Nf3 Nge5 13. Nxe5 Nxe5 14. Qe2 Be6 15. Nd5 Qd8 16. Be3 b5 17. b3 bxc4
+18. bxc4 c6 19. Nb6 Rb8 20. Rab1 c5 21. Nd5 Qd7 22. f4 Nc6 23. Kh2 Kh8 24. e5
+dxe5 25. Bxc5 Rfe8 26. Rxb8 Rxb8 {Yrjola,J-Kochyev,A/Tallinn 1985/MCL/1/2-1/2})
+12... Qxd4 13. Nd5 c6 14. Ne3 Qxd1 15. Rxd1 Ne5 16. Rxd6 Nxg4 17. Rb1 Re8 {
+1/2-1/2 Grabarczyk,M-Wojtkiewicz,A/Krynica 1997/CBM 61 ext}) (11. Rf1 Qf6 12.
+Nf3 Nge5 13. Nxe5 dxe5 14. Nd5 Qd8 15. Be3 c6 16. Nb6 Nxb6 17. Qxd8 Rxd8 18.
+Bxb6 Rd2 19. Rfd1 Rxd1+ 20. Rxd1 Bg4 21. f3 Be6 22. Bf1 Kf8 23. Kf2 Ke8 24. b3
+Bf6 25. h4 Bd8 {Bagirov,V-Kochyev,A/Minsk 1983/MCD/1/2-1/2}) (11. Qxg4 Bxd4 12.
+Qd1 Bxc3 13. bxc3 Qe7 $11) 11... Nc5 (11... Nge5 12. Ne3 $15) 12. h3 Ne5 13.
+Bf1 f5 14. f4 Nc6 15. exf5 Bxf5 16. Ne3 Qd7 17. Nxf5 Qxf5 18. Be3 Rae8 19. Nd5
+Kh8 (19... Bxb2 20. Rb1 Bd4 21. Bxd4 Rxe1 22. Qxe1 Nxd4 23. Ne7+ Kh8 24. Nxf5
+Nf3+ 25. Kh1 Nxe1 26. Nxd6 cxd6 27. Rxe1 $11) 20. Qd2 Qf7 21. h4 (21. Rad1 $142
+$11 {ist noch spielbar}) 21... Ne4 $17 22. Qg2 Nd4 23. Nc3 Nxg3 24. Qxg3 Nf5
+25. Qf2 Nxe3 26. Rxe3 Bd4 27. Nd5 $4 {es war sowieso egal} (27. Rae1 $142 Qxf4
+28. Qxf4 Rxf4 29. Nd5 $17) 27... Qxd5 $3 {Beseitigung einer Deckungsfigur: d5}
+(27... Qxd5 28. cxd5 Bxe3 29. Qxe3 Rxe3 $19) (27... Bxe3 $6 {
+ist schnell zu verwerfen} 28. Nxe3 Qxf4 29. Qxf4 Rxf4 30. Nd5 Rg4+ 31. Kh2 $15)
+0-1
+
+[Event "URS Soviet Army ch"]
+[Site "URS Soviet Army ch"]
+[Date "1990.??.??"]
+[Round "?"]
+[White "Huzman Alexander"]
+[Black "Yurtaev Leonid"]
+[Result "1/2-1/2"]
+[ECO "E94"]
+[PlyCount "49"]
+[EventDate "1990.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5 7. O-O exd4 8. Nxd4
+Re8 9. f3 c6 10. Kh1 Nbd7 11. Nc2 Nb6 12. Bg5 h6 13. Bh4 Be6 14. b3 Nxe4 15.
+Bxd8 Nxc3 16. Qd2 Raxd8 17. Rae1 c5 18. Ne3 d5 19. cxd5 Nbxd5 20. Nxd5 Rxd5 21.
+Qc1 b5 22. f4 Rdd8 23. Qa3 Nxe2 24. Rxe2 c4 25. bxc4 1/2-1/2
+
+Qxd3 Nc5 21. Qf3 Qe7 22. Nc2 d4 23.
+Nbxd4 Rad8 24. b4 Ne4 25. Be3 Nc4 26. Rfe1 Qh4 {
+Ajupov,D-Kober,M/Togliatty 2001/CBM 83 ext/1-0 (69)}) 12... h6 13. Bh4 Be6 $146
+(13... g5 14. Bg3 d5 15. cxd5 cxd5 16. Nb5 Nh5 17. Bc7 Qd7 18. Ncd4 Nc4 19.
+Bxc4 dxc4 20. Rc1 Bxd4 21. Qxd4 Qxb5 22. Rxc4 Be6 23. Rcc1 Rac8 24. Rfd1 Nf4
+25. g3 Ng6 26. Qf6 Qe2 27. Re1 Qa6 28. h4 {
+Vuruna,M-Reyes,J/Vrnjacka Banja 1989/CBM 13/0-1 (41)}) 14. b3 {Befestigt a4.}
+Nxe4 (14... Qc7 $142 $5 $11 {und Schwarz kann noch kämpfen}) 15. Bxd8 $16 Nxc3
+16. Qd2 ({Weniger gut ist} 16. Qxd6 Raxd8 17. Qa3 Nxe2 $17) 16... Raxd8 17.
+Rae1 c5 18. Ne3 d5 19. cxd5 Nbxd5 20. Nxd5 Rxd5 21. Qc1 b5 ({Nicht} 21... Nxa2
+22. Qa3 Nb4 23. Bc4 $16) 22. f4 Rdd8 23. Qa3 Nxe2 (23... c4 $5 {ist interessant
+} 24. Bf3 Rd2 $14) 24. Rxe2 $16 c4 25. bxc4 (25. Qa5 $5 $16) 1/2-1/2
+
+[Event "YUG"]
+[Site "YUG"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Jukic Mirko"]
+[Black "Velimirovic Dragoljub"]
+[Result "0-1"]
+[ECO "E66"]
+[PlyCount "68"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nc6 7. d5 Na5 8. Nfd2
+c5 9. Nc3 e5 10. e4 Ng4 11. h3 Nh6 12. b3 a6 13. Bb2 Rb8 14. Ne2 b5 15. Bc3 f6
+16. Kh2 f5 17. exf5 Nxf5 18. Qc2 Nd4 19. Qd3 b4 20. Bb2 Rb7 21. Ne4 Bf5 22.
+Nxd4 cxd4 23. f4 Bxe4 24. Bxe4 Rbf7 25. a3 bxa3 26. Bxa3 exf4 27. gxf4 Rxf4 28.
+Rxf4 Rxf4 29. Bg2 Be5 30. Kh1 Rf2 31. Rf1 Rxf1+ 32. Bxf1 Qg5 33. Bb4 Qf4 34.
+Kg2 Nxb3 0-1
+
+ {
+Vukic,M-Miljanic,B/Herceg Novi 2001/CBM 82 ext/0-1 (33)}) 14... b5 {
+Spiel gegen die Bauernkette} 15. Bc3 f6 16. Kh2 f5 17. exf5 Nxf5 ({
+Schlechter scheint} 17... Rxf5 18. Ne4 $16) 18. Qc2 Nd4 19. Qd3 b4 {
+Schwarz hat mehr Raum} 20. Bb2 Rb7 21. Ne4 Bf5 22. Nxd4 cxd4 23. f4 Bxe4 (23...
+Rbf7 24. fxe5 dxe5 25. Qe2 $11) 24. Bxe4 (24. Qxe4 $5 {ist interessant} Rbf7
+25. fxe5 dxe5 26. Rxf7 Rxf7 27. Bc1 $11) 24... Rbf7 $11 25. a3 bxa3 26. Bxa3
+exf4 27. gxf4 Rxf4 28. Rxf4 Rxf4 29. Bg2 Be5 30. Kh1 (30. Kg1 Rf8 $15) 30...
+Rf2 31. Rf1 (31. Kg1 $142 $5 Qh4 32. Rf1 Rxf1+ 33. Kxf1 $17) 31... Rxf1+ $19
+32. Bxf1 Qg5 33. Bb4 $2 (33. Qf3 $142 Nxb3 $1 {ist die schöne Entscheidung} 34.
+Qg4 Qxg4 35. hxg4 $19) 33... Qf4 34. Kg2 Nxb3 (34... Nxb3 35. Be1 Nc1 $19) 0-1
+
+[Event "Naberezhnye Chelny"]
+[Site "Naberezhnye Chelny"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Kishnev Sergey"]
+[Black "Kochetkov German"]
+[Result "1-0"]
+[ECO "E97"]
+[PlyCount "49"]
+[EventDate "1988.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Nd7 10. b4 f5 11. f3 Bh6 12. Kh1 Kh8 13. c5 dxc5 14. bxc5 Nxc5 15.
+Ba3 Nd7 16. Nc4 fxe4 17. fxe4 Rxf1+ 18. Qxf1 Ng8 19. Qf7 Rb8 20. Rf1 b6 21. Nb5
+Bb7 22. Bb2 Bg7 23. d6 c6 24. Nc7 Nh6 25. Qxg7+ 1-0
+
+Bxf1 Bxa4 20. Qxa4 Nc8 21. Qc6 Nd6 22. Bd3 Rb8 23. Qxc5
+Nxc4 24. Bxc4 Qd6 25. Qxa7 {1/2-1/2 Jelen,I-Djuric,S/Ljubljana 1981/MCD}) (
+11... Kh8 12. c5 f4 13. Ba3 Nf6 14. b5 b6 15. cxd6 cxd6 16. Qc2 g5 17. Rfc1 Rg8
+18. Nd1 Ne8 19. Nf2 h5 20. Bb4 Bh6 21. h3 Ng6 22. a4 g4 23. hxg4 hxg4 24. fxg4
+f3 25. Bxf3 Qh4 26. Nf1 {Sitnik,I-Klima,L/Olomouc 1999/CBM 71 ext/1-0 (40)})
+12. Kh1 $146 (12. Nb3 Bxc1 13. Rxc1 f4 14. c5 Nf6 15. Nb5 (15. Qc2 Ne8 16. Na5
+g5 17. Rfd1 Ng6 18. Kh1 Rf7 19. cxd6 cxd6 20. Nb5 a6 21. Nc3 h5 22. Bf1 g4 23.
+Qf2 b5 24. a4 Qg5 25. axb5 axb5 26. Nxb5 Bd7 27. Nc7 Nxc7 28. Rxc7 Rg7 29. Nc4
+gxf3 {McMahon,D-Joyce,J/Dublin 1993/CBM 34 ext/0-1 (38)}) 15... Ne8 16. Qc2 Bd7
+17. Na5 a6 18. Nxb7 Qb8 19. c6 Bc8 20. Na3 Bxb7 21. cxb7 Qxb7 22. Qc3 g5 23.
+Nc4 Ng6 24. Na5 Qb6+ 25. Rf2 Nf6 26. a3 g4 {
+Portisch,L-Gligoric,S/Hastings 1969/MCL/1/2-1/2 (41)}) (12. Nb3 Bxc1 13. Rxc1
+Rf6 $14) 12... Kh8 (12... a5 13. bxa5 Rxa5 14. Nb3 Bxc1 15. Qxc1 $11) 13. c5
+dxc5 14. bxc5 Nxc5 15. Ba3 Nd7 16. Nc4 fxe4 17. fxe4 Rxf1+ 18. Qxf1 Ng8 19. Qf7
+Rb8 20. Rf1 b6 {Es geht um a5+c5} 21. Nb5 Bb7 $4 {und es geht weiter bergab} (
+21... Rb7 $142 $16) 22. Bb2 (22. Nxa7 $6 Bg7 $18) 22... Bg7 23. d6 $4 {
+gibt den Vorteil aus der Hand} (23. Bg4 $142 Ndf6 24. Nxe5 $18) 23... c6 $4 (
+23... cxd6 24. Nbxd6 Nh6 $18) 24. Nc7 $18 (24. Nxa7 b5 25. Ne3 Ra8 $17) 24...
+Nh6 (24... Bf6 {ändert den Lauf der Dinge nicht} 25. Ne6 Nh6 26. Nxd8 Nxf7 27.
+Nxf7+ Kg7 28. Nfxe5 $18) 25. Qxg7+ $1 {Kombination mit Doppelangriff} (25.
+Qxg7+ Kxg7 26. Nxe5 $18) 1-0
+
+[Event "URS"]
+[Site "URS"]
+[Date "1987.??.??"]
+[Round "?"]
+[White "Vyzhmanavin Alexey"]
+[Black "Kuzmin Alexey"]
+[Result "1/2-1/2"]
+[ECO "E63"]
+[PlyCount "65"]
+[EventDate "1987.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. Nc3 a6 8. h3
+Rb8 9. Be3 b5 10. Nd2 Bb7 11. d5 Ne5 12. b3 c5 13. Rc1 Qa5 14. a4 bxa4 15. Nxa4
+e6 16. Nf3 Nxf3+ 17. Bxf3 exd5 18. b4 Qd8 19. bxc5 dxc5 20. Nxc5 Bc8 21. cxd5
+Bxh3 22. Re1 Rb5 23. d6 Ng4 24. Bxg4 Bxg4 25. d7 Qe7 26. Qd5 Rd8 27. Bg5 Bf6
+28. Bxf6 Qxf6 29. Rc4 h5 30. Ne4 Qe5 31. Qc6 Kg7 32. Rc5 Qe6 33. Qxe6 1/2-1/2
+
+BM 82 ext/0-1 (46)}) 11...
+Ne5 12. b3 (12. cxb5 axb5 13. f4 Ned7 14. a3 e6 15. dxe6 fxe6 16. Bxb7 Rxb7 17.
+Nb3 b4 18. axb4 Rxb4 19. Nd4 Qe8 20. Ra7 Nb6 21. Bf2 Rf7 22. Qa1 Nfd5 23. Nc2
+Rc4 24. Ne3 Nxe3 25. Bxe3 Qc6 26. Rc1 Rf8 {
+Almasi,I-Sax,G/Gyula 1997/CBM 58 ext/1-0 (33)}) 12... c5 $146 (12... c6 13. Rc1
+cxd5 14. Nxd5 bxc4 15. Nxc4 Nxd5 16. Bxd5 Nxc4 17. Rxc4 Qd7 {
+1/2-1/2 Yrjola,J-Klundt,K/Kecskemet 1988/CBM 10}) 13. Rc1 Qa5 14. a4 bxa4 15.
+Nxa4 e6 16. Nf3 Nxf3+ ({Nicht} 16... exd5 17. Nxe5 dxe5 18. b4 $16) 17. Bxf3
+exd5 (17... Qc7 $142 $5 $15 {ist eine Alternative}) 18. b4 $14 {
+Die Räumung erlaubt d1-a4} Qd8 (18... Qxb4 {Hinlenkung nach b4} 19. Bd2) 19.
+bxc5 dxc5 (19... dxc4 $5 {ist zu prüfen} 20. Qxd6 Qxd6 21. cxd6 Bxf3 22. exf3
+Rfc8 $14) 20. Nxc5 $16 Bc8 21. cxd5 Bxh3 22. Re1 ({Weniger gut ist} 22. Nxa6
+Ra8 23. Nc7 Rc8 $15) 22... Rb5 23. d6 {Ist dieser Freibauer gefährlich?} Ng4
+24. Bxg4 ({Und nicht} 24. Nxa6 Nxe3 25. fxe3 Be5 $17) 24... Bxg4 25. d7 Qe7 26.
+Qd5 (26. Bf4 Rd8 27. Bd6 Qg5 $16) 26... Rd8 (26... h6 $5 $11 {
+muß beachtet werden}) 27. Bg5 $14 Bf6 28. Bxf6 Qxf6 29. Rc4 h5 (29... Qe7 30.
+Qd4 $11 (30. Rxg4 $143 Rxc5 (30... Qxc5 $143 31. Qxc5 Rxc5 32. Rd1 $11) 31. Qf3
+Qxd7 $17)) 30. Ne4 (30. Rec1 $142 $14) 30... Qe5 $4 {
+danach kann Schwarz alle Träume begraben} (30... Qb6 31. Qd3 Rb3 32. Qd4 Qxd4
+33. Rxd4 $11) 31. Qc6 $4 {wirft den Vorteil weg} (31. Qxe5 $142 {
+Weiß hätte nun das bessere Spiel} Rxe5 32. Rc8 Rxc8 33. Nf6+ Kg7 34. Nxg4 $18)
+31... Kg7 32. Rc5 (32. Nc5 Qe7 $11) 32... Qe6 33. Qxe6 1/2-1/2
+
+

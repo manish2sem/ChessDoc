@@ -1,0 +1,7822 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "1 Kings stand in opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k4/8/3K4/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "2 Distant opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4K3/8/8/8/4k3/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "3 Diagonal opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4K3/8/6k1/8/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "4 Distant diagonal opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/8/8/8/8/6K1/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5 Taking diagonal opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/8/1K6/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "6 Rectangular opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/8/8/8/5K2/8/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "7 Distant opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/8/8/8/3k4/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "8 Very distant opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/K5k1/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "9 White to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/K1k5/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "10 Diagonal opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2K5/8/4k3/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "11 White to play"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5K2/8/3k4/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[EventDate "2010.08.01"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "12 Zugzwang"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/4P3/3K4/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "13 White is squeezed"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/8/4k3/5p2/5K2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "14 A famous "zugzwang""]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/3q2pp/p2bp3/3p1r2/1p1Pp3/3bQ1PP/PP1B1rB1/1N2R1RK b - - 0 25"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "15 The opposition game"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/8/8/8/8/8/4K3 w - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "16 The cutoff"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/3R4/4K3/8/5k2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "17 Cutoff along the rank"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7K/7R/1k6/p7/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "18 Trapping along the edge"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7Q/8/8/8/3K4/8/8/4k3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "19 A choice of cutoffs"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/4K3/8/8/8/Q7/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "20 A support mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1q6/8/K1k5/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "21 A right triangle mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k1K/3q4/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "22 A cornered mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/5q2/8/5k2/7K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "23 An outer row mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2q5/8/7K/5k2/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "24 A method"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7q/3K3k/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "25 The one-two-three formula"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1q6/8/2k5/K7/8 w - - 0 9"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "26 The Queen is too close"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/4K3/6Q1/8/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "27 White mates in two moves"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1Q6/8/8/K7/8/8/k7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "28 Avoid a chase"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6Q1/5K2/8/7k/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "29 White to play & mate in 5"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/5KP1/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "30 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/4K3/8/8/8/4Q3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "31 White targets g8 & c8"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/5K2/8/8/8/8/5Q2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "32 Alternating Q & R checks"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5Q2/8/3R4/4k3/1K6/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "33 White mates in two moves"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5R2/7Q/4k3/8/4K3/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "34 Rolling action of the Rook"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7K/6R1/5R2/1k6/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "35 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/1R6/R7/8/8/8/6K1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "36 Rook mates in the middle"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/R7/1R6/4k3/8/4K3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "37 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/5R2/6k1/8/4K2R w K - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "38 A simple 2-Queen mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5Q2/1k6/3Q4/8/8/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "39 Another 2-Queen mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7Q/2k5/8/1Q6/8/8/1K6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "40 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/3P4/8/8/8/3Q4/8/3K4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "41 White has a perpetual"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/4K3/q7/kq2Q3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "42 White also has a perpetual"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/8/8/8/8/8/3q4/1K1kq3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "43 A right triangle mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/7K/8/8/8/8/5R2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "44 A cornered mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/6K1/8/8/8/8/5R2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "45 White mates in 3"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4RK1k/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "46 Crossing the inner box"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/8/6R1/8/2K5/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "47 White mates in 3"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/5K2/6R1/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "48 A right triangle mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5K1k/8/3R4/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "49 A right triangle mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/5K2/8/8/8/8/7R w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "50 The inner box's pivot"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/8/8/8/4K3/8/8/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "51 White plays a waiting move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/3K4/6R1/2k5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "52 Closing the door of cage"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k3/3R4/8/1K6/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "53 White anticipates Black"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/2RK4/8/8/3k4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "54 A team effort"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/7R/2k5/6K1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "55 A V-formation"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k4/8/3BB3/8/8/3K4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "56 White creates a V-cage"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k5/8/8/4B3/1K6/1B6/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "57 The Wall"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k4/8/2KBB3/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "58 A Bishop roll-up"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5K2/7k/2B5/8/5B2/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "59 White plays a waiting move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/1K2BB2/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "60 Driving toward the corner"]
+[Black "closet to friendly King"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/4B3/3KB3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "61 White wins the Rook"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5B2/7k/6r1/8/4B2K/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "62 Mate or win the Rook"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1K1k4/8/3B4/1B6/8/8/5r2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "63 The Bishop mates in the "]
+[Black "corner"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/6B1/6KN/8/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "64 Black mates on the move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/7b/8/3k2pn/8/7K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "65 A fun mate in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/4b3/6p1/3nk3/6K1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "66 The Knight mates next"]
+[Black "to the corner"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6N1/8/6K1/6B1/6k1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "67 The driveback"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/3kBK2/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "68 First net"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2b5/8/2n5/6K1/8/6k1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "69 Second net"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2b5/8/k3n2K/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "70 Third net"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5b2/5k1K/8/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "71 First net"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4N1B1/8/8/8/1K1k4/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "72 Second net"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4K3/8/8/8/4N1B1/8/8/4k3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "73 Third net"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/6KB/8/6k1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "74 Proceeding from the"]
+[Black "first net"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4N1B1/8/8/8/1K1k4/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "78 Starting from a wrong"]
+[Black "corner"]
+[Result "*"]
+[SetUp "1"]
+[FEN "B6k/8/5K2/4N3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "79 White needs to guard g8"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5N2/5K2/8/4B3/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "80 White needs to guard h7"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/5KN1/3B4/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "80 White needs to guard h7"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/5KN1/3B4/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "81 The passive defense"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/7B/5K2/4N3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "82 The active defense"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/7B/5K2/4N3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "83 Converting to second net"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k5/4K3/1B1N4/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "84 Mahler's W maneuver"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/4BKN1/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "85 Black to play & mate in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1k6/3Knb2/2n5 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "86 White mates in 7"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/K4b2/4N3/8/7B/8/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "87 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1K5/8/8/BN6/8/8/6p1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "88 Black wins the N or mates"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3b4/8/8/7K/4k1N1/3n4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "89 Black K walks the staircas"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7K/6NP/7n/8/8/8/8/bk6 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "90 B walks staircase to mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/PPqkppp1/8/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "91 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k1r4/8/K7/4N3/8/8/7B/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "92 Mating w/ 2 Knights"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/7N/6N1/3K1k2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "93 It's stalemate before mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1K6/4N3/1k1N4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "94 Stalemate is avoided"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1K6/4Np2/1k1N4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "95 Simplifying to a draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6k1/8/1n6/6N1/3N4/3KB3 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "96 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6N1/4N3/8/3n4/4k1K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "97 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/4n2K/3N4/2n5/5N2/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "98 The Knights are lost"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/1K6/8/BB6/8/8/nn6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "99 White wins Black pieces"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6bK/5k2/7B/8/6B1/8/8/6n1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "100 2 Bishops beat 2 Bishops"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b6/3B4/2K5/k5B1/8/1b6/p7/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Practice Position #1"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/Pb1N4/k7/1N6/K2b4/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "101 Bishop vs. Bishop"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6bk/8/5K2/4B3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "102 Bishop vs. Knight"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/5K1n/7B/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "103 Knight vs. Bishop"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/K7/3N4/kb6 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "104 Knight vs. Knight"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/8/5K1n/5N1k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "105 Black wins a Bishop"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5p2/5P2/2n4k/7B/7K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "106 White mates in 4"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4pkPp/7B/4K3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "107 White wins the Bishop"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6bK/5k2/7B/1p6/1P6/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "108 Black is lost"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/n2K4/B7/2B5/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "109 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/K1Nb4/8/8/2N5/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "110 Squeezing Black's Knight"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/3B2n1/8/3N4/8/3K4/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "111 Black's Bishop is lost"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/3N4/8/8/8/2K4B/8/3b4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "112 White draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/3kq3/2R5/3K4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "113 White draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/4q1k1/7R/5K2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "114 White has a perpetual"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/k2q4/1R6/2K5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "115 Another perpetual"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1k6/8/8/6q1/2R5/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "116 Two stalemates"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/kp5p/1q6/p6p/P6P/7K/4Qb2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "117 Black gets cornered"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/r7/3K4/1Q6/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "118 Black to move lose quickl"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/kr6/2K5/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "119 After 1...Rf7"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/k4r2/2K5/8/8/8/8/8 w - - 0 2"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "120 After 1...Rh7"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/k6r/2K5/8/8/8/8/8 w - - 0 2"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "121 After 1...Rb3"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/k7/2K5/8/8/1r6/8/8 w - - 0 2"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "122 After 1...Rb1"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/k7/2K5/8/8/8/8/1r6 w - - 0 2"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "123 White to play"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/5P1p/4K2P/8/8/8/8 w - - 0 2"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "124 White moves & wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/kr6/2K5/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "125 White wins quickly"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/3r4/4K3/2Q5/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "126 White wins quickly"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/4K3/8/8/2Q5/8/3r4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "127 White to play & draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/2k5/8/3R4/8/8/8/2q5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "128 Black mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/PR6/2q5/8/8/8/8/7k b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "129 White can't save the game"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5K1k/4R3/8/2r5/8/8/p7/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Practice Position #2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5K1k/5Q2/7p/8/8/8/8/6r1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "130 Black to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/8/8/8/8/8/1K1p1k2/7R b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "131 White gives back the "]
+[Black "Exchange to simplify to a win"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/8/8/8/8/1pK1P3/1Rb5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "132 White mates next move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R2bk1/8/6K1/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "133 White can't force mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "kbR5/8/1K6/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "134a Black wins the Bishop"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/7B/7K/4k3/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "134b Even good corner can los"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "kb6/4R3/1K6/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "135 White wins the B or mates"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/6K1/8/8/6b1/7R/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "136 Forcing a winning setup"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5R2/6K1/8/8/8/8/6b1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "137 Black wins the Bishop"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/8/3k4/5B2/8/3K4/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "138 Black traps the Bishop"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1B6/3k4/8/3r4/8/K7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "139 The N is trapped & won"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/2k1K2n/8/8/6R1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "140 Visually memorable line-u"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/2k1K1Rn/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "141 Winning the Knight"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6k1/3K4/5R2/8/3n4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "142 Another Knight trap"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/8/8/8/2K1R3/6n1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "143 White mates in 3"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/1n1R4/1K6/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "144 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/R7/n2K4/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "145 White to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5K2/2r3P1/5k2/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "146 Think like an 8 yr. old"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5K2/7r/4k3/8/6N1/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "147 Black can't save position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/6K1/R6p/6k1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "148 White mates in 4"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/3K4/8/1R6/2rB4/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "149 Working on the weak side"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k1r3/5R2/3K4/3B4/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "150 Playing for a block"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/5R2/3K4/3B4/8/4r3/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "151 Playing for disruption"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/5R2/3K4/3B4/8/4r3/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "152 Super Bishop"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/5R2/3K4/8/8/5B2/8/4r3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "153 Gaining the f-file"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/6R1/3K4/3B4/8/8/8/4r3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "154 Branching into various wi"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/4r3/3K4/3B4/8/8/8/5R2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "155 Obstructing separation"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/8/8/2b5/8/7r/R1K5 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "156 7th rank dominance"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/8/8/4b3/8/7r/2R1K3 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "157 Lining up to win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1b5/8/2r5/8/8/8/6R1/7K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "158 Black mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/8/8/1n6/1rk5/8/K7/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "159 White forces mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r3k3/5R2/5K1p/4N3/1p6/5p2/5P2/8 w q - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "160 White mates in 1"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4r2R/4k3/4N3/4K3/8/8 w - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "161 White w/ winning fork"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k1N1/2K5/8/5r2/8/R7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "162 White prevents a trade"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6N1/7R/5K2/7r/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "163 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r6k/n7/5N2/8/8/8/8/4R2K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "164 White to play and draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "rr3k2/nn6/5N2/8/8/8/8/3R2K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Practice Position #3"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/8/8/n2k4/8/1N6/K7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "165 White plays and wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/8/2k1K3/8/8/8/8/1q6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "166 Whoever moves wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r3/8/8/2K1k3/8/8/8/1R6 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "167 White plays and wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/7K/8/4Q3/6kq w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "168 Black retains discovery"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7q/8/8/8/3k1Q2/8/8/K7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "169 White played 1.Qd5!"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3q4/8/1P2K3/8/Q7/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "170 Whoever moves wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/r7/4k3/8/4K2R w K - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "171 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/7R/3K4/8/3kr3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "172 White has a winning attac"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/8/8/8/r7/8/2K5/k7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "173 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/8/3K1r2/8/8/8/R7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "174 Black to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/K7/2k5/8/8/8/8/7r b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "175 White has a winning attac"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/8/8/8/8/1r6/R3K3 w Q - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "176 Black sacs to get it back"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/8/3k4/8/4Q3/8/1r6/3K4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "177 B can't take the g-pawn"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/1R6/8/1p5q/6P1/8/1PP5/1K1R4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "178 White sacs to break pin"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/2q5/8/8/8/6R1/7K/R7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "179 Rooks beat Queen"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "Q7/8/8/8/5r2/4K3/7r/4k3 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "180 7th rank dominance"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6QK/r1r5/8/8/8/8/8/5k2 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "181 White has a forced mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R1K1k/8/5R2/8/8/q7/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "182 White forces mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7q/8/8/8/2R5/R4K1k/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "182 White forces mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7q/8/8/8/2R5/R4K1k/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "183 Retreating on staircase"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4q1k1/8/5K2/8/8/8/R7/5R2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "184 White wins a Rook"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5Q2/2rk4/4r3/3K4/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "185 White has a winning attac"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3Q4/8/rr6/k2K4/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "186 Black mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q3/8/3bP3/8/P3r3/1k6/8/3K4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "187 Black doubles the trouble"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r4/8/8/8/8/7k/4r3/3RR2K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "188 Save with a threat"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/8/8/1R6/2k5/7R/2K5/3r4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "189 B doubles behind the line"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5r2/6r1/PR2R3/k7/8/7K/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "190 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/8/8/K4n1k/8/8/6R1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "191 Zugzwang"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/4P3/3K4/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "192 Players prefer to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/3KP3/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "193 Nobody wants to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/3KP3/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "194 Jimenez-Ivkov, Havana 196"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/3k4/2p5/2K5/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "195 White takes the oppositio"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/3K4/4P3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "196 White takes the oppositio"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/5K2/4P3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "197 White takes the oppositio"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/3K4/4P3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "198 White takes the oppositio"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/5K2/4P3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "199 The basic position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/8/8/8/8/4P3/4K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "200 White must use rule of 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k3/8/4K3/8/4P3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "201 Black must give ground"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/8/4K3/8/4P3/8/8 b - - 0 6"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "202 Getting the pawn to 5th"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/3K4/8/4P3/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "203 Take the opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/8/5K2/4P3/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "204 Middle opposition is best"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k3/8/4K3/8/4P3/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "205 White needs extra move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3k4/8/3K4/8/4P3/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "206 White needs opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k2/8/5K2/8/4P3/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "207 Taking critical oppositio"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/8/8/4PK2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "208 Taking one opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5k2/8/8/4PK2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "209 Diagonal opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/3k4/8/4PK2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "210 Entering w/ opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/4P3/6K1/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "211 Diagonal opposition wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/4P3/6K1/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "212 Taking the opposition"]
+[Black "before entering the universe"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/4P3/6K1/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "213 Avoid stalemates"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/1KP5/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "214 1st take the opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/5Pp1/6K1/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "215 Black mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/5k2/5p1K/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "216 Whoever moves wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/8/1p4p1/1P4P1/8/8/4K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "217 Distant opposition draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4p1k1/8/8/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "218 Gligoric-Fischer, 1959"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/8/8/8/1PK5/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "219 Distant opposition draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4p1p1/8/5P2/6K1/3k4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "220 Retangular opposition win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/p7/p2p4/P2P1K2/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "221 Shouldering w/ opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3K4/8/8/2k5/P7/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "222 Shouldering across"]
+[Black "the field"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6K1/8/5k2/P7/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "223 Crossing the oppositional"]
+[Black "field"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1k6/8/K7/6P1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "224 Maroczy-Marshall, 1903"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/7k/8/6K1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "225 Don't take yet"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/8/2p1p3/4K3/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "226 Sacking to split the pawn"]
+[Black "with the opposition"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/2pPp3/2K5/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "227 Delaying capture for"]
+[Black "the opposition"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3K4/1p6/p1p5/P1P5/1P6/3k4/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "228 Forcing a ditching by"]
+[Black "taking the opposition"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p6/p1p5/P1P5/KP6/8/3k4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "229 Squeezing in the corner"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/7p/4K3/6P1/8/8/8/8 w - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "230 Forced mate coming up"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/p7/P7/1P2k3/3p4/3K4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "231 King not in opposition ye"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/8/8/8/8/4P3/4K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "232 Black has the opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/8/8/8/8/4P3/4K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "233 It depends on who moves"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/8/4K3/4P3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "233 It depends on who moves"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/8/4K3/4P3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "234 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k3/8/8/4K3/4P3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "235 White to play"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k3/8/4K3/8/4P3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "236 Neither player wants"]
+[Black "to move"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4k3/8/4K3/4P3/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "237 Neither player wants"]
+[Black "to move"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/8/4K3/4P3/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "238 A win no matter who moves"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/4K3/4P3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "239 The underpass"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/8/1p6/8/8/8/8/4K3 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "240 Heading for d6, the"]
+[Black "outside critical square"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/4P1k1/8/5K2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "241 Another underpass"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/8/8/8/6P1/8/8/4K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "242 The crossover: Black head"]
+[Black "for c4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/3p4/8/8/8/8/6K1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "243 Another crossover"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/8/8/4P3/8/1K6/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "244 Sacking to change "]
+[Black "critical squares"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5p2/6k1/4P3/8/8/7K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "245 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k2/8/p7/8/1PK5/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "246 Sacking to change "]
+[Black "critical squares"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5p2/7k/6p1/5P1P/8/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "247 The Rook pawn has a"]
+[Black "critical square too (b7)"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3k4/1K6/8/P7/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "248 Fighting for critical"]
+[Black "squares"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/4K2p/8/7k/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "249 Panno-Najdorf,"]
+[Black "Argentina 1968"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k5/8/8/6K1/8/7P/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "250 Berger-Mason,"]
+[Black "Breslau 1889"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/p7/8/k7/5K2/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "251 Shouldering down"]
+[Black "the board"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/pk6/3K4/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "252 Securing the pawn"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p3/4K3/8/8/8/4k2b b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "253 Sacking to occupy"]
+[Black "a critical square"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3p4/8/1k1K4/8/8/8/b7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "254 Knights defend best"]
+[Black "behind"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/Pk2N3/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "255 Eleven to nothing draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/p7/p1b5/p7/p7/pk6/8/1K6 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "256 The right Bishop wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2b5/8/pk6/8/1K6 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "257 Wrong Bishop can"]
+[Black "win too"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/pb6/8/1k6/8/2K5 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "258 Wrong Bishop cutoff"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/8/7p/8/4K2B/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "259 Shouldering for the wrong"]
+[Black "Bishop"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5k2/p1K5/8/8/4b3/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "260 Knight and Rook-pawn on"]
+[Black "7th rank draws"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5k2/6n1/5K1p/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "261 Knight on f3 is no better"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/4k3/5n2/5K1p/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "262 Knight and Rook-pawn on"]
+[Black "6th rank win"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/Pk2N3/8/8/1K6/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "263 Knights defends best"]
+[Black "from behind"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/PkN5/8/8/8/6K1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "264 More achieves less"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/7P/8/5KN1/8/5p2/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "265 Underpromotion to a"]
+[Black "Knight is compelling"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/4kbK1/7p/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "266 Mate in 5"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/3n4/pk6/8/K7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "267 Even the good Bishop"]
+[Black "can draw"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/4b3/5k1p/7P/4K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "268 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/7p/5K1P/4B3/8/4B3/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "269 Promoting to a Bishop win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3B4/pP5p/k6P/8/8/8/8/K7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "270 Sacking for tempo"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/7p/4K2P/N7/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Practice Position #4"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5B1b/8/8/5N2/8/8/p7/k1K5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "271 Sacking to get"]
+[Black "healthy pawns"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/4n2p/5k1p/7P/6K1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "272 It depends who moves"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K1k5/P7/8/8/8/4N3/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "273 An easy win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K1k5/P7/8/8/5B2/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "274 A color rule"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6n1/8/8/8/8/8/p7/k2K4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "275 Color rule still applies"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/n2B4/8/p7/1k1K4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "276 Still thinking color"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "bK6/P2k4/8/N7/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Practice Position #5"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/7n/6kp/4KR2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "277 A positional draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2k5/8/4K3/6p1/7b/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "278 It matters who moves"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/2p5/2K5/bP5k/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "279 An easy win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/5p1B/3K1P2/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "280 A positional draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/4K1p1/6P1/8/4B3/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "281 Another positional draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/4K1p1/6P1/4B3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "282 White sacs to get"]
+[Black "a passed pawn"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/4K1p1/6P1/8/4N3/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "283 First a word"]
+[Black "from our sponsor"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4K1p1/6P1/8/4N3/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "284 White sets up"]
+[Black "a fortress"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/B7/3k2n1/8/5p2/7p/5K2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "285 White sets up a"]
+[Black "fortress and holds"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/7k/2N5/5b2/6q1/6B1/2Q4K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "286 White has a draw"]
+[Black "in hand"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4p3/rr1p1p2/bkp1PPp1/1p1P2Pp/p1P4P/PP1K4/3B4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "287 Square of the pawn"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/8/8/1p6/8/8/5K2 w - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "288 The two-square"]
+[Black "advance wins"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/7p/8/8/8/8/8/1K6 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "289 Two-square"]
+[Black "advance wins"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/7k/P7/7K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "290 Zugzwang"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3kp3/4p3/4K3/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "291 Both players want"]
+[Black "to move"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5kp1/6p1/8/6K1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "292 Dancing around"]
+[Black "corresponding squares"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/8/6p1/6p1/8/6K1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "293 White mates in 3"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/8/7K/5kp1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "294 Sacking to avoid"]
+[Black "stalemate"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/5k2/6pK/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "295 Less is more"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/6P1/8/4K1P1/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "296 Creating a barrier"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1P1k4/8/8/1P6/5K2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "297 Converting to the"]
+[Black "doubled pawn draw"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5kpp/8/5KP1/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "298 Simple pawn mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/pk6/1p6/1K6 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "299 Ditch the culprit"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/Pk6/1P6/2K5/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "300 Relative values"]
+[Black "can change"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/Bk6/1P6/2K5/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "301 Splitting the pawn wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/8/2p5/p7/8/1K6/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "302 Whoever moves wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/8/P1P5/8/7p/5p2/8/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "303 Neither player wants"]
+[Black "to move"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/8/P1P5/8/8/5p1p/8/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "304 Whoever moves wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/5P2/7P/ppp5/8/8/2K5 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "305 Stopping 3 connected pawn"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/5P1P/8/ppp5/8/8/2K5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "306 Black to move draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5P2/7k/3K3P/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "307 It matters who moves"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/5k2/2P2P2/8/8/K7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "308 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4k3/1P2P3/8/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "309 It's a draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/8/p2p4/K7/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "310 The shifting quadrangle"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p3p2/1K6/8/8/k7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "311 Black to play wins"]
+[Black "White to play draws"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1p4p1/1K6/8/8/8/k7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "312 Zugzwang"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3Kp3/4Pk2/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "313 Black gets outflanked"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/5k2/4p3/4P3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "314 Camouflaged outflanking"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "b5k1/P4r2/K3p3/4P3/8/8/8/1R6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "315 Whoever moves wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2K5/4p3/4P3/6k1/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "316 Distant outflanking"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7k/8/6p1/6P1/8/8/K7/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "317 Draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2k5/4p3/4P3/2K5/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "318 White has outflanked"]
+[Black "but Black holds"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/8/4K3/4P3/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "319 Black has outflanked"]
+[Black "but White holds"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4p3/4k3/8/4K3/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "320 Black wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/4pk2/4r3/4R3/4K3/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "321 Preventing a favorable"]
+[Black "outflanking"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6p1/4k3/6P1/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "322 Outflanked but draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3p4/3Pk3/8/4K3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "323 Maneuvering in"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k1p1/6P1/4KP2/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "324 Ditches pawn to outflank"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/8/1pP5/1P1K4/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "325 Simplifying to an"]
+[Black "easier win"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/kp6/2bR4/2P1K3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "326 Converting to an"]
+[Black "outflanking win"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/2pk4/3r4/3PK3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "327 Sacking to outflank"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k1N/5p2/8/3K2P1/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "328 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/k1nK4/1p6/1P6/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "329 White has a protected"]
+[Black "passed pawn"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/8/1pP5/1P1K4/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "330 Just a draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/1pP5/1P6/3K4/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "331 Position is drawn"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/8/pP6/P1K5/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "332 A draw no matter"]
+[Black "who moves"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/1P6/p1K5/P7/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "333 White has two"]
+[Black "ways to win"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/2pP4/2P1K3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "334 White wins by getting"]
+[Black "the King to d5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k5/8/1pP5/1P1K4/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "335 White wins by getting"]
+[Black "the King to c5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/8/pP6/P1K5/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "336 Black to play draws"]
+[Black "White to play wins"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/1P6/p1K5/P7/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "337 Knight's move opposition"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2k5/8/pP6/P1K5/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "338 White's King eyes f5 when"]
+[Black "Black's King is on g7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K1k1/6Pp/7P/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "339 Fighting for squares"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/5k2/2pP4/2P5/4K3 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "340 Triangulation"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/8/5P1p/4K2P/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "341 Triangulation from"]
+[Black "the Ruy Lopez"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/2p1P3/2p2K2/1pP5/1P6/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "342 From the Ruy Lopez"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/1pp2ppp/p1p5/8/4P3/8/PPP2PPP/4K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "343 From the"]
+[Black "Caro-Kann Defense"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/pp3ppp/2p2p2/8/3P4/8/PPP2PPP/4K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "344 Trading down works"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/6p1/6P1/2n1PK2/3N4/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "345 White wins directly"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/p7/K7/1P6/8/8/P7/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "346 Having an option wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/p7/K7/1P6/8/8/P7/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "347 White wins with a"]
+[Black "two-square advance"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/p7/K7/P7/8/8/1P6/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "348 One-square advance wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/p7/K7/P7/8/8/1P6/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "349 Stalemating to force"]
+[Black "commitment"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7p/8/8/8/4k3/5p1P/5K2 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "350 First, a tempo"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1k6/pp1K4/8/P7/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "351 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k1pp/8/4KPPP/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "352 A basic three vs."]
+[Black "two advantage"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6pp/8/8/8/8/5PPP/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "353 White considers"]
+[Black "two options"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5kpp/8/4KPP1/8/8/7P/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "354 White does"]
+[Black "the opposition"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5P1p/5K2/8/8/8/7P/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "355 Forced jettison"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5P1p/5Kp1/6P1/8/8/7P/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "356 A similar method"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/8/8/8/4P3/5PPP/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "357 More madness to"]
+[Black "the method"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/5ppp/4p3/8/3P4/4P3/5PPP/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "358 Black wins with the"]
+[Black "outside passed pawn"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p1k2p1/3P4/2K2P2/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "359 The decoy"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/7p/4PK1P/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "360 Delaying the decoy"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/7p/8/8/8/8/2P4P/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "361 Maximize the"]
+[Black "position first"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/2p4p/8/8/8/8/1PP4P/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "362 Breakthrough combination"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/ppp5/8/PPP5/8/7k/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "363 Caro-Kann ending"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pp1/4p2p/4P2P/5PP1/k7/8/K7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "364 White breaks through"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5K1k/6pp/6P1/7P/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "365 Morphy's problem"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Kbk/6pp/6P1/8/8/8/8/7R w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "366 Black mates in 4"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2R5/8/8/8/6p1/4r3/5kPK/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "367 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/r1p5/kpK5/1R6/1P6/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "368 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/7p/6pr/R7/5K1k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "369 Black to play and win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/6P1/6R1/1r5k/P7/7K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "370 The zen game"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/5ppp/8/8/8/8/PPP5/2K5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "371 Nobody wants to move"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/PkP5/1P6/5ppp/8/8/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "372 The player to move wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/8/5PPP/8/p1p5/8/1K6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "373 The player to move wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/P1k5/2P3p1/5p1p/8/8/6K1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "374 The h-pawn will queen"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/8/8/8/5K1p/3b1P2/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "375 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2K4p/7P/8/8/8/6k1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "376 Reti's diagonal march"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/8/p4P1k/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "377 Reti's idea doesn't work"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/7P/2p5/K5k1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "378 Reti's idea against"]
+[Black "3 pawns"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6p1/k1P2pKp/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "379 White to play loses"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/k7/2P1K3/8/8/8/5p2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "380 White save the game"]
+[Black "by faking"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/k6p/2P5/K7/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "381 Faking promo to"]
+[Black "get back"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/p7/8/5P2/7K/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "382 The feint"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/8/5p2/8/Pk6/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "383 Moving away to"]
+[Black "get closer"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3K4/8/1p6/8/8/4k3/6P1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "384 The critical diagonal of"]
+[Black "retreat is blocked"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4p3/8/8/1k6/6P1/4K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "385 Sacking to block"]
+[Black "the diagonal"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2p5/3p4/8/4P3/2k5/7P/2K5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "386 Sacking to obstruct 3"]
+[Black "diagonals of retreat"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2pp2pp/8/2PP1P2/1p5k/8/PP4p1/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "387 Changing the critical"]
+[Black "diagonal of retreat"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/8/ppp5/6kP/1P6/1P6/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "388 The 50-50 problem"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K5/8/2k5/8/8/7p/7P/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "389 Queen vs. center pawn"]
+[Black "on 7th"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/K7/8/5Q2/8/3pk3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "390 Queen vs. Knight-pawn"]
+[Black "on 7th rank"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5K2/6P1/8/8/6k1/8/8/q7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "391 Queen vs. Rook-pawn"]
+[Black "on 7th rank"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6K1/7P/7q/8/8/8/8/k7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "392 More is less"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4KQ2/8/8/8/8/7p/pk6/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "393 White to play loses"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1K6/P4q2/8/k7/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "394 A Rook can be as good"]
+[Black "as a Queen"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6KQ/r7/8/7k/8/8/6P1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "395 Far away can be"]
+[Black "close enough"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q6/1K6/8/8/8/8/p7/k7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "396 Bishop-pawns: a nuisance"]
+[Black "or a boon"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/1K1Q4/8/8/8/5p2/6k1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "397 Take with check"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/K7/8/8/8/8/4Qp2/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "398 White mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/6Q1/2K2p2/5k2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "399 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4Q3/3K4/8/8/2p5/8/3k4/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "400 White to move wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3K4/8/8/4Q3/2p5/3k4/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "401 Rook-pawn on its"]
+[Black "6th rank loses"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1K6/8/8/8/pk6/3Q4/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "402 5th rank cutoff wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/P7/1K6/3r2k1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.15"]
+[Round "?"]
+[White "403 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1R6/2K5/5k2/6p1/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "404 Black mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/P7/2k5/8/8/8/8/1r6 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "405 Two ways to win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/8/8/8/8/1K6/p7/1k6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "406 How can Black"]
+[Black "stop the pawn?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/6pP/8/p5K1/r7/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "407 Take a meaningful"]
+[Black "opposition"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6K1/8/6k1/6p1/8/6R1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "408 Badly placed Rook"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6K1/8/8/8/R7/1pk5/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "409 Saavedra's idea"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7K/8/8/8/4R3/5pk1/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "410 Connected passed pawns"]
+[Black "on the 6th rank win"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k7/8/6K1/8/3p4/4p3/6R1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "411 Get behind the most"]
+[Black "advanced pawn"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4P3/3P4/8/8/2r5/k6K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "412 Spassky-Fischer,"]
+[Black "Reykjavik 1972"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5p1p/5P2/P1B2k2/1P6/1r3PK1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "413 Frontal attack"]
+[Black "might work"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1r6/4P3/3P4/8/8/2k3K1/8 b - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "414 The correct"]
+[Black "advance draws"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1pK5/k1p5/6R1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "415 Black has"]
+[Black "perpetual threats"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/PP6/5r2/8/8/5k2/7K/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "416 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6PP/8/7K/5k2/8/8/r7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "417 White fashions"]
+[Black "perpetual attack"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/5k2/2K5/6p1/3p2P1/8/2pp4/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "418 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/1PP5/8/5pp1/8/6K1/3k4/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "419 White to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/5K2/8/8/3k4/1p4p1/1R6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "420 White to play"]
+[Black "though Black draws"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1PK5/8/8/8/8/1b5k/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "421 Discovered mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/4B3/5K2/7p/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "422 Black mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K1k5/P7/8/8/8/8/8/4nb1B b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "423 Sacking for interference"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1p6/4k2p/B1K5/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "424 Black to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P4k2/6p1/6Kp/7P/8/7b/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "425 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4P3/5nK1/8/1k6/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "426 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1n3K2/5P2/8/8/8/8/k7/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "427 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3nKP2/8/8/8/8/1k6/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "428 Black to play loses"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2n3K1/6P1/8/8/8/8/1k6/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "429 Each Knight is 3 moves"]
+[Black "away from giving check"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1N3N2/8/3k4/8/1N3N2/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "430 Each Knight is 1 move"]
+[Black "away from giving check"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2N1N3/3k4/2N1N3/8/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "431 Each Knight is 1 move"]
+[Black "away from giving check"]
+[Result "*"]
+[SetUp "1"]
+[FEN "N5N1/8/8/3k4/8/8/N5N1/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "432 Each Knight is 2 moves"]
+[Black "away from giving check"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/3N4/2NkN3/3N4/8/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "433 Each Knight is 1 move"]
+[Black "away from giving check"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3N4/8/1N1k1N2/8/3N4/8/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "434 Each Knight is 2 moves"]
+[Black "away from giving check"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3N4/8/8/N2k2N1/8/8/3N4/7K w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "435 Thinking visually"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3B4/8/8/1PK4p/4nP2/5k2/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "436 Creating a Knight barrier"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P7/n7/4K3/8/8/7k/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "437 Another Knight barrier"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7P/3K4/4n3/8/8/k7/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "438 On the circuit"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/7k/PK6/1n6/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "439 Saved by a perpetual"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1K6/2P5/1k6/8/8/8/n7/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "440 Dangerous Rook-pawn"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k3/8/8/8/7p/8/6N1/4K3 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "441 Driving onto a bad square"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/8/8/p1N5/3n4/1P6/3K4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Practice Position #6"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/K1k5/8/8/7p/8/6P1/4Nb2 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "442 Black mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7K/3n1k2/7P/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "443 White mates in 3"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/3N4/p7/k1K5/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "444 Black mates in 3"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/K1k5/P2n4/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "445 White mates in 5"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/p3N3/k1K5/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "446 White mates in 6"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/1N6/p7/8/k1K5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "447 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2KB4/1P6/2k5/8/8/6b1/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "448 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K2B4/1P6/2k5/8/8/8/7b/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "449 Centurini's position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2KB4/1P6/2k5/8/8/8/7b/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "450 Black draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1KB5/P7/1kb5/8/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "451 Black draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3KB3/2P5/3k4/8/8/7b/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "452 Easy draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4KB2/3P4/4k3/8/7b/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "453 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1K2B3/2P5/3k4/8/8/7b/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "454 Another easy win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K2B2/3P4/4k3/8/7b/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "455 Drawn"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2K2B2/3P4/2k5/8/7b/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "456 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1K2B3/2P5/1k6/8/8/7b/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "457 Both players want"]
+[Black "to move"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3b4/8/2KB4/1P6/8/3k4/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "458 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3b4/8/K7/1P6/2k5/8/8/4B3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "459 Deflection"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4b3/8/8/K7/1P6/2k5/8/3B4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "460 Winning by deflection"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/K7/1P6/2k5/8/5B2/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "461 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1B6/1K6/P7/1k6/3b4/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "462 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1KB5/8/Pk6/3b4/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "463 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2b5/8/1K6/PB6/1k6/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "464 White to move draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4K3/8/3b4/1p6/2k5/8/3B4 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "465 Black wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/8/1NKpkn2/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "466 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1n1kPK2/8/5N2/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "467 Black mates or"]
+[Black "wins the Knight"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/4n3/7K/8/5k1N/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "468 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5K2/8/8/n7/8/8/BP6/5k2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "469 Black wins with"]
+[Black "a corral"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/8/3kpK2/b3N3 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "470 Black to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/6k1/8/6p1/6N1/4b2K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "471 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5n2/4K3/3P4/2k5/8/8/8/1B6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "472 White to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2b5/8/1kpK4/6N1/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "473 Black wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/3B4/1k1K4/p7/8/2n5 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "474 Black to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K3/4n3/7B/8/4p1k1/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "475 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/2PK4/4N3/8/7b/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "476 Black wins the Bishop"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k2/5p2/8/8/1n6/2K2P2/6B1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "477 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kb4/8/8/2B5/PP6/2K5/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "478 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/2k2B2/4P3/3PK1b1/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "479 White to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/k3b3/pp6/8/2K1B3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "480 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/8/1PP3B1/1K2b3/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "481 Black draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1b6/4k3/8/3PP3/3K2B1/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "482 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4k3/8/3PP3/1b1K2B1/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Fischer-Keres,"]
+[Black "Zurich 1959"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/8/4bPBP/6K1/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "484 White to move"]
+[Black "must lose a pawn"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4b3/2p1k1p1/2P3P1/4K3/4B3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "485 Averbakh's bad"]
+[Black "Bishop problem"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5b2/p2k4/1p1p1p1p/1P1K1P1P/2P1P3/4B3/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "486 The Rook trick"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P4k2/8/8/8/2K5/8/r7 w - - 0 0"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "487 White only draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P5k1/8/8/8/2K5/8/r7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "488 Having a b-pawn"]
+[Black "doesn't win either"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1R6/1P4k1/8/8/8/3K4/8/1r6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "489 Gaining time wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P5k1/8/8/8/8/r7/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "490 Only a draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P5k1/8/8/8/2K5/7P/r7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "491 Still only a draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P5k1/8/8/8/2K5/6P1/r7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "492 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P5k1/8/8/8/2K5/5P2/r7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "493 No Rook trick here"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P4k2/8/8/7K/8/8/r7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "494 Converting to"]
+[Black "a Rook trick"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/3k4/8/8/8/7p/3p3r/3K4 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "495 Black to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/7R/8/8/8/r6p/3K4/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "496 Hidden Rook trick"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/4k3/8/8/4p3/8/p3KP2/r7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "497 Black sets up"]
+[Black "a Rook trick"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/7R/8/3k4/8/3K4/7p/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "498 Checking to upset"]
+[Black "the defense"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/P6R/5K2/8/5k2/8/8/r7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "499 Rook trick or mate"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P3pK2/8/5k2/5p2/r4P2/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "500 Black wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/R4pp1/7p/5K1P/3k1PP1/p7/r7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "501 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P6r/8/5K1k/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "502 Where does the"]
+[Black "Rook go?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/K7/2k5/8/R6p/7r b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "503 Squeeze out"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/1k6/8/3K4/p6r/R7 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "504 Creating shelter"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/8/8/8/6k1/4K3/6rp/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "505 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P7/8/2K5/8/2k5/8/r7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "506 Black to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/1K6/8/1k6/8/8/7p/7r b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "507 White to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/8/8/8/K7/8/1k5p/7r w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "508 White to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/8/8/8/5K2/8/6kp/7r w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "509 Black wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7R/8/8/8/5k2/7p/1K6/7r b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "510 Black to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/3R3P/K7/8/k7/8/3p3r/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "511 Black to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2R2P2/8/8/8/K7/2p2r2/2k5 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "512 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/P3r3/8/4k3/2K5/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "513 White to play wins;"]
+[Black "Black to play draws"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K6R/P2k4/8/8/8/8/8/1r6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "514 White to play draws;"]
+[Black "Black to play wins"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6R1/4r3/8/8/2K5/7P/7k w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "515 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K6R/P7/3k4/8/8/8/8/1r6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Practice Position #7"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6p1/6P1/6R1/1r5k/P7/7K b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "516 Simple win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1K6/1P1k4/8/8/8/8/2R5/1r6 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "517 Lucena's position"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1K6/1P1k4/8/8/8/r7/2R5/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "518 White wins;"]
+[Black "Black draws"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4K3/r3P1k1/8/8/8/8/5R2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "519 Black's Rook doesn't"]
+[Black "have the checking distance"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4K3/1r2P1k1/8/8/8/8/5R2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "520 White loses the pawn"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/4P1k1/4r3/2K5/8/8/5R2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "521 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/4P3/4r3/2K5/8/8/5R2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "522 Black still wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r5/8/8/1k6/8/1p6/3K4/2R5 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "523 A positional draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k5r1/8/PK5R/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "524 Bishop-pawn wins against"]
+[Black "passive defense"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/8/8/8/1kp5/3r4/K5R1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "525 Passive defense draws"]
+[Black "against Knight-pawn"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k6/6R1/KP6/5r2/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "526 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k3r2/1P4R1/KP6/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "527 White wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1k4r1/7R/1KP5/8/8/8/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "528 An easy win"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4k2r/6R1/3KP3/8/8/8/8/8 w k - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "529 White to play and draw"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r7/8/8/8/8/5pk1/5R2/6K1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "530 White to play draws"]
+[Black "by perpetual threat"]
+[Result "*"]
+[SetUp "1"]
+[FEN "7r/1R6/8/8/2p5/2k5/2p5/2K5 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "531 Philidor's drawing idea"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/6R1/8/1KP5/8/8/8/5r2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "532 White to play wins"]
+[Black "Black to play draws"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/7R/1K6/2P5/8/8/8/6r1 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "533 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/R7/5K2/5P2/8/8/8/5r2 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "534 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5R2/7k/5K2/5P2/8/8/8/5r2 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "535 Black to play draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R7/7k/4K3/5P2/8/8/8/5r2 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "536 White forces"]
+[Black "a Rook trade"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3k4/8/8/P2r3p/7P/2K5/5R2/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "537 White simpifies"]
+[Black "to a win"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4kr1p/1p2p3/1P2K1PP/8/8/5R2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "538 White checks to"]
+[Black "force a swap"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/1p1r2p1/2p1K3/4P3/8/5R2/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "539 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2k5/4KP2/6Q1/8/8/4q3/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "540 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5q2/5P2/8/8/8/7Q/k7/5K2 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "541 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4q3/4P3/8/8/4Q3/8/8/k3K3 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "542 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2q1P1K1/6Q1/8/8/8/8/k7 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "543 Perpetual"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1K6/1P6/8/q7/4Q3/8/8/6k1 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "544 Black to play and draws"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4K2k/4P1q1/8/5Q2/8/8/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "545 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5k1q/7P/8/7K/7Q/8/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "546 Black mates in 2"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4K3/1k2P3/3Q4/8/8/1q6/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "547 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/1Pk5/8/8/8/8/1Q6/7q w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "548 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "K7/1P6/1k6/8/8/8/Q7/7q w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "549 White to play wins"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/2PK4/8/k7/8/8/1p6/8 w - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "550 Black to play loses"]
+[Black "?"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/4K2P/8/3k4/p7/8/8 b - - 0 1"]
+[PlyCount "0"]
+[SourceDate "2010.08.01"]
+
+ *
+
