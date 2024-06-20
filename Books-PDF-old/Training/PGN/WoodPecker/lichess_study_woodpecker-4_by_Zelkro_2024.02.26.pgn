@@ -1,0 +1,958 @@
+[Event "Woodpecker 4: Chapter 1"]
+[Site "https://lichess.org/study/bxAitjSQ/3JKxjkQQ"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[UTCDate "2024.02.26"]
+[UTCTime "03:58:23"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 2"]
+[Site "https://lichess.org/study/bxAitjSQ/pzOTy7FF"]
+[Result "*"]
+[FEN "8/pp4pk/4Qb1p/3p4/2qP4/K7/P2R2PP/3R4 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "03:59:14"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 3"]
+[Site "https://lichess.org/study/bxAitjSQ/LO7xqiwR"]
+[Result "*"]
+[FEN "2r1k2r/5p2/3pb3/pPnNp1q1/P3Pbn1/5PB1/2B3P1/1R1QRNK1 w k - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "03:59:33"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 4"]
+[Site "https://lichess.org/study/bxAitjSQ/4Q4OTVLq"]
+[Result "*"]
+[FEN "2r1k2r/1p3p2/1n1p1p1b/p1pPqN2/4P1Q1/1P1P2P1/P5B1/2R2RK1 w k - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "03:59:53"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 5"]
+[Site "https://lichess.org/study/bxAitjSQ/Ka02DtAH"]
+[Result "*"]
+[FEN "1r2r1k1/pb3ppp/7P/q1p1RN2/1nQ3P1/7B/1P6/1K3R2 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:00:14"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 6"]
+[Site "https://lichess.org/study/bxAitjSQ/ZVJ2GzwY"]
+[Result "*"]
+[FEN "r1bqk1nr/pp1p1pp1/2n4p/2b1p3/2B1P3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:00:42"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 7"]
+[Site "https://lichess.org/study/bxAitjSQ/fgFtFeY9"]
+[Result "*"]
+[FEN "6b1/1p4k1/p2p1p2/3P4/PP1K4/8/4B3/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:01:03"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 8"]
+[Site "https://lichess.org/study/bxAitjSQ/acgFaXnQ"]
+[Result "*"]
+[FEN "r3k2r/1ppq1pbp/p1N1bnp1/3pQ3/B2P1P2/8/PPP3PP/RNB1K2R w KQkq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:01:59"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 9"]
+[Site "https://lichess.org/study/bxAitjSQ/xkAVyxKH"]
+[Result "*"]
+[FEN "5k2/1p4pP/p7/1p1p2K1/2r5/8/6PP/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:02:18"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 10"]
+[Site "https://lichess.org/study/bxAitjSQ/onsg0kuw"]
+[Result "*"]
+[FEN "r1b1kb1r/pp2q2p/2p2p2/1B2p3/3PQ3/8/PPP3PP/R1B1K2R w KQkq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:02:38"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 11"]
+[Site "https://lichess.org/study/bxAitjSQ/Ef9P2nWs"]
+[Result "*"]
+[FEN "3k3r/1pp2p2/p1q1bN1p/4P3/2P4n/1P1r1pP1/PQ5P/R1B2RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:02:59"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 12"]
+[Site "https://lichess.org/study/bxAitjSQ/lkeFz2l2"]
+[Result "*"]
+[FEN "1k4rr/ppp2p2/5q2/4p3/1PPpPn2/P2P1Q2/R5NP/5R1K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:03:27"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 13"]
+[Site "https://lichess.org/study/bxAitjSQ/ynxaeeXc"]
+[Result "*"]
+[FEN "6k1/6p1/3p2rp/pp5r/4Pp2/1PP2PqP/1BP1R1P1/3Q3K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:03:48"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 14"]
+[Site "https://lichess.org/study/bxAitjSQ/AsNRTYaB"]
+[Result "*"]
+[FEN "rk5r/2p5/p2pP1qp/1p1QnNB1/4P2P/8/PPP3P1/R5K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:04:48"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 15"]
+[Site "https://lichess.org/study/bxAitjSQ/yzC8mIU9"]
+[Result "*"]
+[FEN "4r1k1/3b1pp1/p1rp2qp/1p6/7R/P4N2/1PPQ1PP1/1K1R4 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:05:08"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 16"]
+[Site "https://lichess.org/study/bxAitjSQ/eNEePgRg"]
+[Result "*"]
+[FEN "3r1qk1/5ppp/1p1P4/nPn2N2/R3Q3/7P/5PP1/4R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:05:27"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 17"]
+[Site "https://lichess.org/study/bxAitjSQ/SFJSuO1Q"]
+[Result "*"]
+[FEN "2k5/5ppp/1PpPb3/2P5/2BP4/p7/5KPP/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:05:48"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 18"]
+[Site "https://lichess.org/study/bxAitjSQ/MYRDPUmZ"]
+[Result "*"]
+[FEN "3r1k1r/2N1bppp/8/8/2B1Pp2/8/1Pn3PP/3R1RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:06:16"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 19"]
+[Site "https://lichess.org/study/bxAitjSQ/vEoyhTBR"]
+[Result "*"]
+[FEN "2nr2k1/p5pp/2Q5/5b2/8/8/Pq3PPP/R3R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:06:37"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 20"]
+[Site "https://lichess.org/study/bxAitjSQ/3TvLrJpc"]
+[Result "*"]
+[FEN "7k/p1p3pp/1bB2q2/8/2Q2nb1/1PP5/P5PP/R6K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:07:34"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 21"]
+[Site "https://lichess.org/study/bxAitjSQ/EtPvUetL"]
+[Result "*"]
+[FEN "1r2k3/2p2ppp/3pn3/3R4/P3PP2/4R3/Pr2NP1P/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:07:53"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 22"]
+[Site "https://lichess.org/study/bxAitjSQ/Pr917SDo"]
+[Result "*"]
+[FEN "r4nk1/1b2qrp1/2n4R/3pP3/2pP4/4B3/P5RP/1B2QN1K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:08:13"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 23"]
+[Site "https://lichess.org/study/bxAitjSQ/Lww85Pqw"]
+[Result "*"]
+[FEN "3rr1k1/p1pqbppp/2pp4/8/4P1n1/1P4N1/PBP2PPP/R2QR1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:08:34"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 24"]
+[Site "https://lichess.org/study/bxAitjSQ/HoObcH60"]
+[Result "*"]
+[FEN "2kr4/pp3ppp/2b5/6q1/3P4/4r3/PP3PPP/2RQ1RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:09:02"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 25"]
+[Site "https://lichess.org/study/bxAitjSQ/I3efKWCy"]
+[Result "*"]
+[FEN "r2qr1k1/pb1nbppp/4p3/2p5/2P5/2NBB3/PP2QPPP/3R1RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:09:23"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 26"]
+[Site "https://lichess.org/study/bxAitjSQ/JgdzTSZj"]
+[Result "*"]
+[FEN "r1bq1r2/ppp1npk1/1b4pp/3P4/2Q1N1P1/P3BN1P/1P3P2/R4RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:10:42"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 27"]
+[Site "https://lichess.org/study/bxAitjSQ/ghCMNJ9O"]
+[Result "*"]
+[FEN "1r4k1/p1b2bpn/2pq1p2/3p1P1p/3P2P1/3B1N1P/P4PN1/2Q1R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:11:01"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 28"]
+[Site "https://lichess.org/study/bxAitjSQ/1664qT4g"]
+[Result "*"]
+[FEN "r3k2r/1pqbbp2/p1npp1p1/5P1n/3NP2p/2N2B2/PPP1Q1PP/3R1RBK w kq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:11:21"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 29"]
+[Site "https://lichess.org/study/bxAitjSQ/nRI0wHWp"]
+[Result "*"]
+[FEN "8/1pK1Pk1p/6pP/P5P1/4b3/B7/8/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:11:42"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 30"]
+[Site "https://lichess.org/study/bxAitjSQ/inKs1vbY"]
+[Result "*"]
+[FEN "r3k1nr/pppq1ppp/8/1Nb1P3/2Bp1P2/3P4/PPP4P/R2Q1RK1 w kq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:12:10"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 31"]
+[Site "https://lichess.org/study/bxAitjSQ/NUmH17EV"]
+[Result "*"]
+[FEN "6k1/2pb1rb1/2pp1p1p/1q3Pp1/2N1P3/1PP3B1/r5PP/3QRR1K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:12:31"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 32"]
+[Site "https://lichess.org/study/bxAitjSQ/khZmwz7I"]
+[Result "*"]
+[FEN "1rb3kr/pppp1qp1/4pQ2/3nP2p/7P/2PB2R1/P4PP1/R1B1K3 w Q - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:13:30"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 33"]
+[Site "https://lichess.org/study/bxAitjSQ/6TfbQ7Kn"]
+[Result "*"]
+[FEN "8/6p1/4K3/5P2/4k3/8/7P/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:13:49"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 34"]
+[Site "https://lichess.org/study/bxAitjSQ/KlylOdsf"]
+[Result "*"]
+[FEN "kr2r3/pRp3pp/Q1P5/5R2/Pp1q4/3pp2P/6PK/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:14:09"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 35"]
+[Site "https://lichess.org/study/bxAitjSQ/BzOcfXZz"]
+[Result "*"]
+[FEN "4rq1k/pp1b1rp1/3p1bQp/2pP1P2/3p4/3B3R/P1PB2PP/4R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:14:30"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 36"]
+[Site "https://lichess.org/study/bxAitjSQ/dMk22arN"]
+[Result "*"]
+[FEN "r1b2r1k/ppp4p/3p1p1q/2b1n1p1/4P3/P2N2BP/1P2QPP1/R2B1R1K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:14:58"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 37"]
+[Site "https://lichess.org/study/bxAitjSQ/AwiiYikn"]
+[Result "*"]
+[FEN "2k3r1/ppp1qp2/4bQ2/8/3P2r1/N1P5/PP3RP1/R1B3K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:15:19"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 38"]
+[Site "https://lichess.org/study/bxAitjSQ/7wKkyrkn"]
+[Result "*"]
+[FEN "r2q1rk1/ppp2ppp/5n2/2b1P1B1/Q3P1b1/2P5/PP4PP/RN2KB1R w KQ - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:16:21"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 39"]
+[Site "https://lichess.org/study/bxAitjSQ/v0izXjp9"]
+[Result "*"]
+[FEN "r2qk2r/ppp1nppp/3p4/b2Nn3/2B1P1b1/5N2/PPP2PPP/R1BQ1RK1 w kq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:16:40"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 40"]
+[Site "https://lichess.org/study/bxAitjSQ/rwYUALLG"]
+[Result "*"]
+[FEN "r1b3r1/pp1k3q/2n2pN1/3p1N2/3P4/5Q2/5PPP/5RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:17:00"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 41"]
+[Site "https://lichess.org/study/bxAitjSQ/BmaTIdaI"]
+[Result "*"]
+[FEN "7k/5pp1/8/8/p6P/P1b1N1P1/3p1PK1/3Rr3 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:17:21"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 423"]
+[Site "https://lichess.org/study/bxAitjSQ/tHTLyO1X"]
+[Result "*"]
+[FEN "2k3nr/ppp2Npp/2p5/2b5/8/2Pr4/PP1P2PP/RNB4K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:17:49"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 43"]
+[Site "https://lichess.org/study/bxAitjSQ/ImBkY7q0"]
+[Result "*"]
+[FEN "4r1qk/2p4n/1b3pQB/p1p5/2P1P3/1P1R3P/P5P1/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:25:52"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 44"]
+[Site "https://lichess.org/study/bxAitjSQ/uXqns0l8"]
+[Result "*"]
+[FEN "4r3/pp3kpR/1qpp1rp1/8/2P1P3/2P4Q/P1P3PP/1R5K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:26:29"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 45"]
+[Site "https://lichess.org/study/bxAitjSQ/tdCl5nXX"]
+[Result "*"]
+[FEN "r1bqr1k1/pp1nbppp/2pp1n2/4p1B1/3PP3/2PQ1N2/PP2BPPP/R3KN1R w KQ - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:26:48"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 46"]
+[Site "https://lichess.org/study/bxAitjSQ/jq2TJDr4"]
+[Result "*"]
+[FEN "r3k3/pppq1pp1/4p1b1/bN2N2r/1n1P3P/8/P2BQPB1/R3K2R w KQq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:27:08"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 47"]
+[Site "https://lichess.org/study/bxAitjSQ/o2VTJ48c"]
+[Result "*"]
+[FEN "r2qk2r/pp3ppp/1npbp1b1/8/3P1Pn1/1B2B1N1/PPPQN1PP/R4RK1 w kq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:27:29"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 48"]
+[Site "https://lichess.org/study/bxAitjSQ/K8F77C7x"]
+[Result "*"]
+[FEN "rn2r1k1/pp3ppp/5n2/q2p4/1bpP4/2N1BP1P/PPPQBP2/2K3RR w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:27:57"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 49"]
+[Site "https://lichess.org/study/bxAitjSQ/4CzHwOA0"]
+[Result "*"]
+[FEN "5rk1/2pqb2p/4p1p1/3p3Q/1Pn5/2P5/2B2PPP/2B1R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:28:18"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 50"]
+[Site "https://lichess.org/study/bxAitjSQ/eCY3V9rM"]
+[Result "*"]
+[FEN "3r4/1p6/2p4p/4pk2/Pp5r/1P1P1K2/1P1R3P/6R1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:31:21"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 51"]
+[Site "https://lichess.org/study/bxAitjSQ/VH11u3rB"]
+[Result "*"]
+[FEN "r4rk1/2pq2pp/pbn1b3/1p1p2B1/4n3/1NPQ1N2/PPB2PPP/3R1RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:31:40"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 52"]
+[Site "https://lichess.org/study/bxAitjSQ/bMwskMQ6"]
+[Result "*"]
+[FEN "r1bq1n1r/pp3QpB/2pkpb2/3pN3/3P4/2N5/PPP3PP/R4RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:32:00"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 53"]
+[Site "https://lichess.org/study/bxAitjSQ/eQjMk4Wc"]
+[Result "*"]
+[FEN "5rk1/1q2bp1p/3pP1p1/1p1P4/nP1p4/3B1QNP/5PP1/R5K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:32:21"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 54"]
+[Site "https://lichess.org/study/bxAitjSQ/yyoupfF4"]
+[Result "*"]
+[FEN "5k2/5pp1/pP1p3p/3b4/r7/4BP2/6PP/2R3K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:32:49"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 55"]
+[Site "https://lichess.org/study/bxAitjSQ/jZ8i3UL2"]
+[Result "*"]
+[FEN "rq1n2k1/6b1/p5R1/1p1pP2r/2pP1P2/2P4P/P1QB3K/1R6 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:33:10"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 56"]
+[Site "https://lichess.org/study/bxAitjSQ/lTIaJWas"]
+[Result "*"]
+[FEN "8/2NPk3/p5pp/P7/1P3p2/3b3P/6P1/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:33:43"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 57"]
+[Site "https://lichess.org/study/bxAitjSQ/o2TWGx4C"]
+[Result "*"]
+[FEN "6k1/p1p1qp2/1rp1r1pp/2Rp2b1/3P4/1PN1P1QP/P4PP1/2R3K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:34:02"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 58"]
+[Site "https://lichess.org/study/bxAitjSQ/YQDa5Eji"]
+[Result "*"]
+[FEN "1k1r4/1p5p/5p2/4n1p1/3q4/8/3r1PPP/R1QB1RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:34:22"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 59"]
+[Site "https://lichess.org/study/bxAitjSQ/dwiQlPAQ"]
+[Result "*"]
+[FEN "Qnk5/p2q2pp/3p4/p1pB4/2P5/K1P1r3/4r2P/1R2B3 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:34:43"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 60"]
+[Site "https://lichess.org/study/bxAitjSQ/UzfiKLbi"]
+[Result "*"]
+[FEN "6r1/p1bR4/4pkrp/5q2/B1p5/5Q2/1P3PP1/4R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:35:11"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 61"]
+[Site "https://lichess.org/study/bxAitjSQ/QgAzITJg"]
+[Result "*"]
+[FEN "r1b1r1k1/p1q2pp1/2pb3p/n7/2PP2n1/2NQ1N2/PP2B1PP/R1B1K2R w KQ - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:35:32"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 62"]
+[Site "https://lichess.org/study/bxAitjSQ/M0nG8KUn"]
+[Result "*"]
+[FEN "1k1r3r/pp1q2p1/4pp2/1P6/2RP1P2/1Q2P2p/6PP/R5K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:56:36"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 63"]
+[Site "https://lichess.org/study/bxAitjSQ/58w04yhM"]
+[Result "*"]
+[FEN "r2qnrk1/2p2ppp/p1QN4/4p3/8/8/PPP2PPP/R1BR2K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:56:56"]
+
+ *
+
+
+[Event "Woodpecker 4: Chapter 64"]
+[Site "https://lichess.org/study/bxAitjSQ/PJybMcjj"]
+[Result "*"]
+[FEN "3q1kr1/3npp1p/1p1Pn1p1/1p6/rP1Q4/P4N2/3N1PPP/R3R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Zelkro"]
+[SetUp "1"]
+[UTCDate "2024.02.26"]
+[UTCTime "04:57:17"]
+
+ *
+
+

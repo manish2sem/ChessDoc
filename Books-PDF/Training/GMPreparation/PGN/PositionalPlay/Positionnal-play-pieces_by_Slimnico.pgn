@@ -1,0 +1,633 @@
+[Event "Positionnal Play Pieces: The worst placed pieces and ideal squares"]
+[Site "https://lichess.org/study/4hGwF919/S8zut99C"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r1b2rk1/pp2q1pp/2p1pn2/3p4/2PP4/1P2PRP1/PQN3BP/R5K1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.16"]
+[UTCTime "15:31:07"]
+
+ *
+
+
+[Event "Import"]
+[Site "https://lichess.org/kdzNqqb7"]
+[Date "2018.06.18"]
+[White "Vaulin, Alexander"]
+[Black "Prandstetter, Eduard"]
+[Result "1/2-1/2"]
+[WhiteElo "2485"]
+[BlackElo "2370"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "E08"]
+[Opening "Catalan Opening: Closed"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 d5 4. Nf3 Be7 5. d4 O-O 6. O-O Nbd7 7. Qc2 c6 8. Rd1 Ne4 9. b3 f5 10. Ba3 Bxa3 11. Nxa3 Qe7 12. Qb2 f4 13. e3 fxe3 14. fxe3 Ng5 15. Rf1 Nxf3+ 16. Rxf3 Nf6 17. Nc2 Bd7 18. Ne1 Be8 19. Nd3 Bg6 20. Ne5 Be4 21. Rf4 Bxg2 22. Kxg2 Nd7 23. Nxd7 Qxd7 24. Raf1 Rxf4 25. Rxf4 dxc4 26. bxc4 b5 27. Qb3 bxc4 28. Qxc4 Qd5+ 29. Qxd5 cxd5 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Positionnal Play Pieces: The worst placed pieces and ideal squares"]
+[Site "https://lichess.org/study/4hGwF919/I5Z5EGL6"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r4rk1/1p1bbppp/1qn1p3/pN1pP3/Pn1P1P2/BP3N2/4B1PP/R2Q1R1K b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.16"]
+[UTCTime "15:33:53"]
+
+1... Na7 (1... f6 2. Qd2 fxe5 3. Nxe5 Nxe5 4. fxe5) (1... Rac8) 2. Nd6 (2. Nxa7 Rxa7 3. Rc1 Raa8) (2. Nc3 Nac6 3. Qd2) 2... Bxd6 3. exd6 Qxd6 *
+
+
+[Event "Import"]
+[Site "https://lichess.org/TPeZF2hF"]
+[Date "2016.09.17"]
+[White "Kozakov, Mikhail"]
+[Black "Topalovic, Zlatko"]
+[Result "0-1"]
+[WhiteElo "2457"]
+[BlackElo "2514"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B00"]
+[Opening "Lion Defense: Lion's Jaw"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+
+1. e4 d6 (1... e6 2. d4 d5 3. e5 { [%csl Ge6] } (3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3)) 2. d4 Nf6 3. f3 d5 4. e5 Nfd7 5. f4 e6 6. Nf3 c5 { [%cal Gc1e3] } 7. c3 (7. Be3) 7... Nc6 8. Be2 Qb6 9. O-O Be7 10. Kh1 O-O 11. a3 a5 12. a4 cxd4 13. cxd4 Ndb8 14. Nc3 Na6 15. b3 Nab4 16. Nb5 Bd7 17. Ba3 f6 18. Qd2 { [%csl Ge4][%cal Gd7e8,Ge8g6,Gg6e4] } 18... Be8 19. Rac1 Bg6 20. Ne1 Be4 21. Bg4 f5 (21... fxe5 22. Bxe6+ (22. dxe5 Nxe5) 22... Kh8 23. dxe5 Nxe5) 22. Be2 Rf7 23. Rc3 Kh8 24. h3 Rg8 25. Bf3 g5 26. Bxe4 dxe4 27. Nc2 gxf4 28. Bxb4 Nxb4 29. Rc4 Nd5 30. Kh2 Rfg7 31. Rg1 f3 32. g3 f4 33. g4 h5 { 0-1 White resigns. } 0-1
+
+
+[Event "Positionnal Play Pieces: The worst placed pieces and ideal squares"]
+[Site "https://lichess.org/study/4hGwF919/fmaKLUNt"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r3k2r/1bpqppb1/pn4p1/1p1pPn1p/3P1P2/2NB1N2/PPP1QBPP/2KR3R w Kkq - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.16"]
+[UTCTime "15:38:24"]
+
+1. Nb1 (1. e6 Qxe6 2. Qxe6 fxe6 3. Ng5 Kd7) 1... e6 2. Nbd2 Bh6 3. g3 c5 (3... O-O-O 4. Nb3 Na4) 4. dxc5 Na4 5. Nb3 (5. Bxf5 gxf5 6. Bd4) 5... Bf8 *
+
+
+[Event "Positionnal Play Pieces: Creating square for the pieces  Gelfand- Markowski move 22"]
+[Site "https://lichess.org/study/4hGwF919/nerywDOB"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Glek Defense"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[UTCDate "2020.04.16"]
+[UTCTime "15:40:56"]
+
+1. d4 d6 2. Nf3 Nf6 3. c4 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 Na6 7. O-O e5 8. Re1 c6 9. Bf1 exd4 10. Nxd4 Ng4 11. h3 Qb6 (11... Ne5) 12. hxg4 Qxd4 13. Qf3 Qe5 14. g5 Qe7 15. Qg3 Nc5 16. Bf4 Be5 17. Rad1 f6 18. gxf6 Rxf6 19. Bxe5! Qxe5 (19... dxe5 20. b4 Nd7 21. c5) 20. b4 Qxg3 (20... Nd7 { [%csl Gg3] } 21. Qe3 a5 22. b5 Nc5) 21. fxg3 Nd7 { [%cal Ge4e5] } 22. e5! (22. Rd2 Ne5 23. Red1 Nf7 { [%cal Gc8g4,Ga8e8] }) 22... dxe5 (22... Nxe5 23. Ne4 Rf7 (23... Re6 24. Nxd6 { [%cal Gc4c5,Gf1c4] }) 24. Nxd6 { [%csl Gd6] }) 23. Ne4 Rf7 { [%csl Gd6][%cal Gc4c5,Rf1c4] } 24. c5 Kg7 (24... Nf6 25. Bc4 Nd5 26. Bxd5 cxd5 27. Rxd5) 25. Bc4 (25. Nd6 Re7) 25... Re7 26. a4 Re8?? (26... a5 27. b5 cxb5 28. Bxb5 { [%csl Gc5] } (28. axb5 a4) 28... Nf6) (26... b6 27. Rd6 bxc5 28. bxc5 Bb7 29. Red1) 27. Rf1 { [%cal Ge8f8] } (27. b5) (27. Nd6 Re7 28. Ne4) 27... Re7 (27... Rf8 { [%csl Gf8] } 28. Rxf8 Nxf8 (28... Kxf8 29. Rf1+) 29. Rd8 b6 30. Nd6) 28. Rd2 (28. g4!? b6 29. Rd6) (28. b5) 28... b5 (28... h5) 29. axb5 cxb5 { [%csl Gb5] } 30. Bd5 Rb8 31. Rdf2 { [%csl Gc5] } *
+
+
+[Event "Positionnal Play Pieces: Portisch-Kristiansen -Creating pieces for squares"]
+[Site "https://lichess.org/study/4hGwF919/KDyzkEeg"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r1b1nrk1/2q2ppp/pn1b4/1ppPp1B1/4P3/1PN2N2/P4PPP/R2QRBK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.16"]
+[UTCTime "22:52:00"]
+
+16. a4 b4 { [%csl Rc4,Gb4][%cal Rc3b1,Rb1d2,Rd2c4] } 17. Nb1 a5 18. Nbd2 Bb7 19. Rc1 Rc8 20. Nh4 f6 21. Be3 g6 22. Bh6 Ng7 23. Bd3 Qe7 24. Qg4 Rf7 25. Rc2 Rc7 26. g3 Bc8 27. Qe2 f5 28. f4 fxe4 29. Nxe4 exf4 30. Nxd6 Qxd6 31. Bxf4 Rxf4 32. gxf4 Qxf4 33. Qe4 Qg5+ 34. Rg2 Qd8 35. Nxg6 { Portisch, Lajos - Kristiansen, Erling, 1-0, Skopje ol (Men) qual-C, 1972, https://lichess.org/TAQal4Q4 } *
+
+
+[Event "Import"]
+[Site "https://lichess.org/TAQal4Q4"]
+[Date "2019.03.06"]
+[White "Portisch, Lajos"]
+[Black "Kristiansen, Erling"]
+[Result "1-0"]
+[WhiteElo "2640"]
+[BlackElo "2360"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "D48"]
+[Opening "Semi-Slav Defense: Meran Variation, Reynolds' Variation"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. d5 e5 11. b3 Bd6 12. O-O O-O 13. Re1 Nb6 14. Bf1 Qc7 15. Bg5 Ne8 16. a4 b4 17. Nb1 a5 18. Nbd2 Bb7 19. Rc1 Rc8 20. Nh4 f6 21. Be3 g6 22. Bh6 Ng7 23. Bd3 Qe7 24. Qg4 Rf7 25. Rc2 Rc7 26. g3 Bc8 27. Qe2 f5 28. f4 fxe4 29. Nxe4 exf4 30. Nxd6 Qxd6 31. Bxf4 Rxf4 32. gxf4 Qxf4 33. Qe4 Qg5+ 34. Rg2 Qd8 35. Nxg6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Positionnal Play Pieces: Exchanges Aggard vs Hossain move 13"]
+[Site "https://lichess.org/study/4hGwF919/xZYIlKyn"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[UTCDate "2020.04.16"]
+[UTCTime "15:45:57"]
+
+1. e4 c5 2. Nf3 (2. Nc3) 2... Nc6 3. d4 (3. Bb5) 3... cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 { [%csl Gg5][%cal Gc1g5] } 7. Nd5 (7. Bg5 a6 8. Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3) 7... Nxd5 8. exd5 { [%cal Gc6e7] } 8... Nb8 9. a4 Be7 10. Be2 O-O 11. O-O Nd7 12. Be3 a6 13. Na3 Bg5? (13... f5 14. f4 (14. b3) (14. Nc4 f4 15. Bd2 { [%csl Gd2] })) 14. Bxg5 Qxg5 15. Nc4 { [%csl Gd6] } 15... Qe7 16. a5 Rb8 17. b4 { [%csl Ge3][%cal Gf5f4] } 17... Nf6 18. Nb6 Nd7 19. c4 Nxb6 20. axb6 Bd7 21. Qd2 f5 22. Rac1 Rfc8 23. c5 Kh8 (23... dxc5 24. bxc5 Rxc5 25. d6) 24. Rfd1 Ba4 25. Re1 Qf8 26. Qa2 Bb5 27. Bxb5 axb5 28. Qa7 Re8 29. c6 bxc6 (29... Ra8 30. Qxb7 Reb8 31. Qc7 { Aagaard, Jacob - Hossain, Enamul, 1-0, Dresden ol (Men) 38th, 2008, https://lichess.org/B2kOQeGJ }) 30. dxc6 *
+
+
+[Event "Positionnal Play Pieces: Exchanges Khalifman-Polgar"]
+[Site "https://lichess.org/study/4hGwF919/loKBglca"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "2r1k2r/1p3p1p/4bp2/p1q1p3/2P5/1PQ5/4BPPP/1R1R2K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.16"]
+[UTCTime "15:47:37"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: Sacrifice to improve certains pieces ( positionnal sacrifices)"]
+[Site "https://lichess.org/study/4hGwF919/BUTvAit4"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r1bq1rk1/pppn2bp/3ppnp1/8/2P1P3/P1NB1N2/1P3PPP/R1BQ1RK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.16"]
+[UTCTime "15:49:47"]
+
+1. e5! Nxe5 (1... Ng4 2. Bg5 Qe8 3. Nb5) (1... dxe5) 2. Nxe5 dxe5 { [%cal Gc1g5] } 3. Qe2 (3. c5 Nd5) (3. Bg5 Qd4 4. Nb5) 3... Bd7 (3... Nd7 4. Ne4) 4. Bg5 Qe8 5. Rad1 (5. c5) (5. Ne4) (5. Be4) 5... Bc6 6. b4 a6 (6... b6 7. Bxf6 Rxf6 { [%cal Gc3e4,Gd3e4] } 8. Be4 Rf8 9. Rd2 Bxe4 10. Nxe4 Qa4 11. Qd3 Qc6 12. Rfd1 Bh6 13. Re2 Bg7 14. h4 Rf4 15. h5 (15. g3 Rf5 16. b5)) 7. Bxf6! Rxf6 (7... Bxf6 8. Be4 Bxe4 9. Nxe4 Be7) 8. Be4 (8. Ne4) 8... Rf8 9. Rd2 Bxe4 10. Nxe4 Qa4 11. Qd3 Qc6 12. Rfd1 Bh6 13. Re2 Bg7 { [%csl Gg7] } 14. h4 Rf4 15. g3 Rf5 16. b5 axb5 17. cxb5 Qb6? 18. Qb3 { [%csl Ge6] } 18... Rf7 19. a4 (19. Ng5 Re7) 19... h6 20. Qc4 Kh7 21. Rd3 { [%cal Ge2d2] } 21... Re7 22. Red2 c6 { [%csl Gd7][%cal Gd3d7] } 23. Qb4 Rf7 24. Rd7 Raf8 25. Qd6 Rxd7 26. Qxd7 cxb5 27. axb5 Kg8 (27... Kh8 28. Qe7 (28. Rd1 Qa7 29. Qe7)) *
+
+
+[Event "Positionnal Play Pieces: ( positionnal sacrifices)  Rajabov vs Kramnik"]
+[Site "https://lichess.org/study/4hGwF919/WUEJPdeV"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "q1r3k1/3npp1p/pp1p2p1/1P2r3/P1PNP2P/5PP1/2RQ2K1/1R6 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.16"]
+[UTCTime "15:51:42"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: Loose piece drop"]
+[Site "https://lichess.org/study/4hGwF919/oSOAjVnB"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "4k1r1/1b1nbp1p/3qp3/rB6/P2p1p1B/R4N2/1P2QPPP/2R3K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.28"]
+[UTCTime "21:43:02"]
+
+{ Undefended pieces are weakness ! }
+22. Rd3?? (1. Qe4!!) 22... Bxh4 23. Nxh4 Rxb5 24. axb5 Ne5 25. f3 Nxd3 26. Qxd3 Rg5 27. Qxh7 d3 28. Rd1 Qd4+ 29. Kh1 d2 30. h3 Qxb2 31. Qd3 Rd5 32. Qe2 Bc8 33. b6 Qc1 34. Kh2 Kf8 35. g3 fxg3+ 36. Kxg3 Ba6 37. Qxa6 Qxd1 38. b7 Qe1+ 39. Kg2 Rg5+ { Kazhgaleyev, Murtas - Zherebukh, Yaroslav, 0-1, Cappelle op 26th, 2010, https://lichess.org/rIdw2jv6 } *
+
+
+[Event "Positionnal Play Pieces: EX 1"]
+[Site "https://lichess.org/study/4hGwF919/r0yEnpV6"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "4rrk1/pp1b2bp/nq1p2p1/2pP1p2/2P2Pn1/P1NB1R2/1PQBN1PP/1R4K1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "17:54:36"]
+
+1... Nb4 2. axb4 (2. Qd1 Nxd3 3. Rxd3 Qa6 4. b3 b5 5. cxb5 Qb6 (5... Bxb5 6. Nxb5 Qxb5 7. Bc3 Qb6 8. Bxg7 Kxg7)) 2... cxb4+ 3. Kf1 (3. Kh1 bxc3 4. Bxc3 (4. bxc3 Nf2+ (4... Qc7) 5. Kg1) 4... Nf2+ 5. Kg1 Nxd3+) 3... Nxh2+ *
+
+
+[Event "Positionnal Play Pieces: EX 2"]
+[Site "https://lichess.org/study/4hGwF919/TbwqjqWz"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r1bq1rk1/1pp2pbn/n2p2p1/p2Pp3/2P1P1P1/2N1B3/PP1NBP2/R2QK2R b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.18"]
+[UTCTime "16:50:56"]
+
+1... Bf6 (1... Nc5 2. Nb3 (2. g5) 2... Nxb3 3. axb3 Bf6) (1... g5) (1... c6) (1... f6) 2. Nf1 (2. g5) 2... Bg5 3. Qd2 Qf6 { [%cal Ge1c1,Gg5f4] } *
+
+
+[Event "Positionnal Play Pieces: Kramnik-Shirov"]
+[Site "https://lichess.org/study/4hGwF919/ifF9QC1H"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r4rk1/3bppbp/1q4p1/np1pP3/3P4/1P2BN2/4BPPP/R2Q1RK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "17:55:17"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: Vallejo- Leko"]
+[Site "https://lichess.org/study/4hGwF919/d5JW1R3k"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "rn1q1rk1/pbppbppp/1p2pn2/8/2PP1B2/4PN2/PP1NBPPP/R2Q1RK1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "17:54:07"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 5"]
+[Site "https://lichess.org/study/4hGwF919/kiKXhNHW"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r1b2rk1/1p1nqpbp/p2p4/2pP2pn/P3P3/2NB1N1P/1P3PPB/R2Q1RK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "17:57:42"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 6"]
+[Site "https://lichess.org/study/4hGwF919/dGiDCE8f"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r2qkbnr/pppnpp1p/3p2p1/8/2PP2b1/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:02:44"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 7"]
+[Site "https://lichess.org/study/4hGwF919/jbal7iG8"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r2q1rk1/pppnppbp/2n3p1/P7/3PP3/1QN1BP2/1P3P1P/R3KB1R w K - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:04:12"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 8"]
+[Site "https://lichess.org/study/4hGwF919/275OnCT2"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "3r4/p2q1kp1/Bp1nbp2/3p3p/1Q1P1B1P/PP6/5PP1/2R3K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:05:45"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 9"]
+[Site "https://lichess.org/study/4hGwF919/DzdlNTJF"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r3qbk1/1b3ppp/p1p2n2/n2P4/P1Pp4/3B1N1P/3N1PP1/R1BQ2K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:06:59"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 10"]
+[Site "https://lichess.org/study/4hGwF919/blUYN9N1"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "1k1b2rr/3b1p2/p2ppp2/1pq2P2/4PN1p/3B1Q2/PPP3PP/1K1RR3 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:08:54"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 11"]
+[Site "https://lichess.org/study/4hGwF919/pUyGTdJ4"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r5kr/1bqn1p1p/p3p1pQ/2p1P3/N1Pp4/1P1B4/P4PPP/R3R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:10:43"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 12"]
+[Site "https://lichess.org/study/4hGwF919/ESuWlMtY"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "3rr1k1/1p1nqp1p/p2b2p1/2p1p3/1P2P3/PQBP1NP1/5P1P/3RR1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:11:53"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 13"]
+[Site "https://lichess.org/study/4hGwF919/ZnONdXsl"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "rn1r2k1/pp2bppp/2p1bn2/8/2PP4/2NB1N2/PP1B2PP/4RRK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:12:59"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 14"]
+[Site "https://lichess.org/study/4hGwF919/2eNzKemI"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r1bq1rk1/p3npp1/2p1pb1p/8/N2P4/5N2/PP1B1PPP/R2QR1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:14:24"]
+
+ *
+
+
+[Event "Import"]
+[Site "https://lichess.org/v91F2YSp"]
+[Date "2018.06.23"]
+[White "Adams, Michael"]
+[Black "Werle, Jan"]
+[Result "1-0"]
+[WhiteElo "2724"]
+[BlackElo "2552"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "B46"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5 8. O-O Nf6 9. Re1 Be7 10. e5 Nd7 11. Qg4 g6 12. Bh6 c5 13. b3 Bb7 14. Na4 Qc7 15. Qf4 Bf8 16. Bxf8 Kxf8 17. c4 d4 18. Qh6+ Kg8 19. Be4 Rb8 20. Nb2 Qd8 21. Nd3 Qf8 22. Qd2 Bxe4 23. Rxe4 Kg7 24. h4 h5 25. b4 cxb4 26. Rxd4 Qe7 27. Rd6 Rhc8 28. Qe3 Rb7 29. Qd4 Nb8 30. c5 a5 31. Rd1 Nc6 32. Qe4 Na7 33. Nf4 Rxc5 34. Rxe6 fxe6 35. Qxg6+ Kh8 36. Qh6+ Kg8 37. Ng6 { 1-0 Black resigns. } 1-0
+
+
+[Event "Positionnal Play Pieces: Anand-Wang Hao"]
+[Site "https://lichess.org/study/4hGwF919/2EoCjFOL"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "rn3rk1/ppq2ppp/4b3/nBP1p3/1Q2P3/P1P1BP2/4N1PP/R4RK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:15:20"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 16 Carlsen-Anand"]
+[Site "https://lichess.org/study/4hGwF919/LuMZVi8d"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r2qk1nr/pp1bppbp/3p2p1/n1p5/2B1PP2/2NP1N2/PPP3PP/R1BQ1RK1 b kq - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:17:18"]
+
+ *
+
+
+[Event "Import"]
+[Site "https://lichess.org/olvheO1f"]
+[Date "2016.03.24"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "0-1"]
+[WhiteElo "2815"]
+[BlackElo "2817"]
+[TimeControl "-"]
+[Termination "Unknown"]
+[Variant "Standard"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+
+1. e4 c5 2. Nc3 d6 3. f4 g6 4. Nf3 Bg7 5. Bb5+ Bd7 6. Bc4 Nc6 7. O-O Na5 8. d3?? Nxc4 9. dxc4 Bxc3 10. bxc3 Bc6 11. e5 Qc7 12. Qd3 f5 13. Ng5 h6 14. Qh3 dxe5 15. Be3 e4 16. Ne6 Qc8 17. Nxc5 Nf6 18. Bd4 Kf7 19. Rae1 a5 20. Re2 b5 21. Nb3 bxc4 22. Nd2 Bd5 23. Rfe1 Qd8 24. Qh4 e6 25. Rb1 Qe7 26. Nxc4 Nd7 27. Qxe7+ Kxe7 28. Ne3 Rhb8 29. Rxb8 Rxb8 30. c4 Bc6 31. Rd2 e5 32. Bxe5 Nxe5 33. fxe5 f4 34. Nd5+ Bxd5 35. Rxd5 Rb1+ 36. Kf2 Rb2 37. Rd4 Rxc2+ 38. Kf1 f3 39. gxf3 exf3 40. Rd6 g5 41. Rxh6 Rxa2 42. h3 a4 43. Rf6 Ra1+ 44. Kf2 a3 45. Ra6 a2 { 0-1 Black wins. } 0-1
+
+
+[Event "Positionnal Play Pieces: ex 17 Nepo- Mamedyarov"]
+[Site "https://lichess.org/study/4hGwF919/OB98jE3X"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r2q1r2/1pp3kp/p1np2p1/2n1ppb1/4P3/2PPBQ1P/PPB1NPP1/R3R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:28:57"]
+
+ *
+
+
+[Event "Import"]
+[Site "https://lichess.org/VMefkqRi"]
+[Date "2018.03.07"]
+[White "Nepomniachtchi, Ian"]
+[Black "Mamedyarov, Shakhriyar"]
+[Result "1/2-1/2"]
+[WhiteElo "2634"]
+[BlackElo "2752"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "C84"]
+[Opening "Ruy Lopez: Closed, Martinez Variation"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 Bg4 8. Nbd2 Nd7 9. h3 Bh5 10. Re1 Nc5 11. Bc2 Ne6 12. Nf1 Bg5 13. Ng3 Bxf3 14. Qxf3 O-O 15. Be3 g6 16. Bb3 Kg7 17. Ne2 Nc5 18. Bc2 f5 19. Bxc5 dxc5 20. exf5 Rxf5 21. Qg4 Bh4 22. Rf1 Kh8 23. Ba4 b5 24. Bb3 Na5 25. Be6 Rf8 26. a4 Qf6 27. g3 h5 28. Qxh4 Qxe6 29. Qe4 Qf5 30. Qxf5 gxf5 31. axb5 axb5 32. f4 e4 33. dxe4 fxe4 34. Rfd1 Nc4 35. Rxa8 Rxa8 36. Rd7 Ra1+ 37. Kf2 Nxb2 38. Ke3 Nc4+ 39. Kxe4 Re1 40. Kf3 { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Positionnal Play Pieces: ex 18"]
+[Site "https://lichess.org/study/4hGwF919/cCmI5Cj3"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "3rr1k1/pp1bbppp/1q2pn2/8/3N1B2/1BP2Q2/PP3PPP/R3R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:29:56"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 19"]
+[Site "https://lichess.org/study/4hGwF919/KGzRK3AG"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "3r1rk1/pp4pp/2n1pq2/2np3b/5P2/P1NB1NP1/1PPQ3P/4RRK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:30:55"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: ex 20"]
+[Site "https://lichess.org/study/4hGwF919/UgUQTHKB"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r4rk1/p3pp1p/1np1b1p1/4Q3/N1P3P1/qP3P2/P6P/1K1R1B1R w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "18:32:04"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: Chapitre : 30"]
+[Site "https://lichess.org/study/4hGwF919/jQ76DXXh"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r1b2rk1/1pp2p1n/n2p1qp1/p2Pp1b1/2P1P1P1/2N1B3/PP1QBP2/R3KN1R w KQq - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.04.23"]
+[UTCTime "23:14:06"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: Chapitre : 32"]
+[Site "https://lichess.org/study/4hGwF919/DjFRux8t"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "2r1k2r/1p3p1p/4bp2/p1q1p3/2P5/1PQ4P/4BPP1/1R1R2K1 b k - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.05.07"]
+[UTCTime "20:21:38"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: Chapitre : 33"]
+[Site "https://lichess.org/study/4hGwF919/5f2ASMHn"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "2r2rk1/1p3p1p/5p2/p1q1p3/2P3b1/1PQ4P/5PP1/1R1R2K1 w Qq - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.05.07"]
+[UTCTime "20:33:45"]
+
+ *
+
+
+[Event "Positionnal Play Pieces: Chapitre : 34"]
+[Site "https://lichess.org/study/4hGwF919/pJJhvEYj"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+[FEN "r1b2rk1/1pp2p1n/n2p1qp1/p2Pp1b1/2P1P1P1/2N1B3/PP1QBP2/R3KN1R w KQq - 0 1"]
+[SetUp "1"]
+[UTCDate "2020.05.07"]
+[UTCTime "20:34:05"]
+
+ *
+
+
+[Event "Import"]
+[Site "https://lichess.org/MZwXrfeH"]
+[Date "2018.06.22"]
+[White "Van de Griendt, Jan Willem"]
+[Black "Van der Heijden, Ton"]
+[Result "1-0"]
+[WhiteElo "2357"]
+[BlackElo "2245"]
+[TimeControl "-"]
+[Termination "Normal"]
+[Variant "Standard"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[Annotator "https://lichess.org/@/Slimnico1"]
+
+1. d4 Nf6 2. c4 c5 3. d5 a6 4. a4 e6 5. Nc3 exd5 6. cxd5 d6 7. e4 g6 8. h3 Bg7 9. Bd3 O-O 10. Nf3 Nbd7 11. O-O Qe7 12. Bf4 Nh5 13. Bh2 g5 14. e5 dxe5 15. d6 Qd8 16. Nd5 Kh8 17. Ne7 Nf4 18. Nxg5 h6 19. Bc4 { 1-0 Black resigns. } 1-0
+
+
